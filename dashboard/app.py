@@ -12,19 +12,6 @@ import json
 
 # Page configuration
 st.set_page_config(
-    page_title="Digital Twin Dashboard",
-    page_icon="🎓",
-    layout="wide",
-    initial_sidebar_state="expanded"
-)
-
-# API configuration
-API_BASE = "http://localhost:8000"
-
-# Custom CSS
-st.markdown("""
-<style>
-    .main-header {
         font-size: 2.5rem;
         font-weight: bold;
         color: #1f77b4;
