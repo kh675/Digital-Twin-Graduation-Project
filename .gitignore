@@ -59,7 +59,11 @@ Thumbs.db
 # embeddings/
 
 # PDF Reports (generated files)
-# pdf_reports/*.pdf
+pdf_reports/
+*.pdf
+
+# Temporary Charts
+charts_temp/
 
 # Model Files (if too large)
 # models/*.pkl
