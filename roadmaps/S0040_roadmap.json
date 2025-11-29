@@ -1,0 +1,213 @@
+{
+  "student_id": "S0040",
+  "career_path": "Cloud",
+  "career_source": "Prediction",
+  "generated_at": "2025-11-29",
+  "certification_path": [
+    "AWS Cloud Practitioner",
+    "AWS Solutions Architect Associate",
+    "Huawei HCIA Cloud"
+  ],
+  "stages": [
+    {
+      "stage": "Beginner",
+      "duration": "4-6 weeks",
+      "focus": "Fundamentals & Top Gaps",
+      "skills": [
+        "computer vision, java, firewalls, routing, nosql, kubernetes, 5g, node.js, aws, react",
+        "pandas, 5g, nosql, rest apis, terraform, computer vision, node.js, kubernetes",
+        "pandas, elasticsearch, react, node.js, numpy, microservices, aws",
+        "rest apis, git, tcp/ip, terraform, python, docker",
+        "rest apis, git, tcp/ip, terraform, python, node.js"
+      ],
+      "courses": [
+        {
+          "course_name": "AWS Academy Cloud Foundations - Cohort 9 (Part 2)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5605437159538269,
+          "similarity": 0.767572820186615,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Cloud Foundations - Cohort 9 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5536319017410278,
+          "similarity": 0.7560531497001648,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Cloud Foundations - Cohort 9 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5476462244987488,
+          "similarity": 0.7460770010948181,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "Static Website Hosting on AWS S3",
+          "skills": [
+            "aws",
+            "s3",
+            "dns"
+          ],
+          "type": "Infrastructure",
+          "difficulty": "Beginner"
+        },
+        {
+          "title": "Computer Vision, Java, Firewalls, Routing, Nosql, Kubernetes, 5G, Node.Js, Aws, React & Pandas, 5G, Nosql, Rest Apis, Terraform, Computer Vision, Node.Js, Kubernetes & Pandas, Elasticsearch, React, Node.Js, Numpy, Microservices, Aws Integration Lab",
+          "description": "Set up a practical lab environment to experiment with Computer Vision, Java, Firewalls, Routing, Nosql, Kubernetes, 5G, Node.Js, Aws, React & Pandas, 5G, Nosql, Rest Apis, Terraform, Computer Vision, Node.Js, Kubernetes & Pandas, Elasticsearch, React, Node.Js, Numpy, Microservices, Aws configurations and troubleshooting.",
+          "difficulty": "Beginner",
+          "skills_covered": [
+            "computer vision, java, firewalls, routing, nosql, kubernetes, 5g, node.js, aws, react",
+            "pandas, 5g, nosql, rest apis, terraform, computer vision, node.js, kubernetes",
+            "pandas, elasticsearch, react, node.js, numpy, microservices, aws"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "Intermediate",
+      "duration": "6-8 weeks",
+      "focus": "Application & Certification",
+      "skills": [],
+      "courses": [
+        {
+          "course_name": "AWS Academy Cloud Foundations - Cohort 3 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5471855998039246,
+          "similarity": 0.7453092932701111,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Cloud Foundations - Cohort 15 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5471424460411072,
+          "similarity": 0.745237410068512,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "HCIP-Datacom - Cohort 3 (Part 1)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.47415250539779663,
+          "similarity": 0.6235874891281128,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "Serverless API with Lambda & DynamoDB",
+          "skills": [
+            "aws lambda",
+            "api gateway",
+            "nosql"
+          ],
+          "type": "Backend",
+          "difficulty": "Intermediate"
+        },
+        {
+          "title": "Build a Lead Cloud Engineer Pipeline using Computer Vision, Java, Firewalls, Routing, Nosql, Kubernetes, 5G, Node.Js, Aws, React & Pandas, 5G, Nosql, Rest Apis, Terraform, Computer Vision, Node.Js, Kubernetes & Pandas, Elasticsearch, React, Node.Js, Numpy, Microservices, Aws",
+          "description": "Create a comprehensive project that demonstrates your mastery of Computer Vision, Java, Firewalls, Routing, Nosql, Kubernetes, 5G, Node.Js, Aws, React & Pandas, 5G, Nosql, Rest Apis, Terraform, Computer Vision, Node.Js, Kubernetes & Pandas, Elasticsearch, React, Node.Js, Numpy, Microservices, Aws. Focus on real-world application.",
+          "difficulty": "Intermediate",
+          "skills_covered": [
+            "computer vision, java, firewalls, routing, nosql, kubernetes, 5g, node.js, aws, react",
+            "pandas, 5g, nosql, rest apis, terraform, computer vision, node.js, kubernetes",
+            "pandas, elasticsearch, react, node.js, numpy, microservices, aws"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "Advanced",
+      "duration": "8-10 weeks",
+      "focus": "Mastery & Job Readiness",
+      "skills": [],
+      "courses": [
+        {
+          "course_name": "HCIP-Datacom - Cohort 12 (Part 3)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.470222145318985,
+          "similarity": 0.6170368790626526,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "HCIP-Datacom - Cohort 12 (Part 3)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.46150216460227966,
+          "similarity": 0.6025035977363586,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "HCIP-Datacom - Cohort 9 (Part 1)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.4614858627319336,
+          "similarity": 0.6024764180183411,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "Multi-Tier Microservices Architecture",
+          "skills": [
+            "kubernetes",
+            "docker",
+            "terraform"
+          ],
+          "type": "DevOps",
+          "difficulty": "Advanced"
+        },
+        {
+          "title": "Develop a Cloud-Native Application with Computer Vision, Java, Firewalls, Routing, Nosql, Kubernetes, 5G, Node.Js, Aws, React & Pandas, 5G, Nosql, Rest Apis, Terraform, Computer Vision, Node.Js, Kubernetes & Pandas, Elasticsearch, React, Node.Js, Numpy, Microservices, Aws",
+          "description": "Deploy a scalable application integrating Computer Vision, Java, Firewalls, Routing, Nosql, Kubernetes, 5G, Node.Js, Aws, React & Pandas, 5G, Nosql, Rest Apis, Terraform, Computer Vision, Node.Js, Kubernetes & Pandas, Elasticsearch, React, Node.Js, Numpy, Microservices, Aws to solve a specific business problem.",
+          "difficulty": "Advanced",
+          "skills_covered": [
+            "computer vision, java, firewalls, routing, nosql, kubernetes, 5g, node.js, aws, react",
+            "pandas, 5g, nosql, rest apis, terraform, computer vision, node.js, kubernetes",
+            "pandas, elasticsearch, react, node.js, numpy, microservices, aws"
+          ]
+        }
+      ],
+      "internships": [
+        {
+          "company": "Cloudworks Egypt Inc",
+          "role": "Junior Full Stack Developer",
+          "match": 0.6060630679130554,
+          "location": "Tanta",
+          "missing_skills": []
+        },
+        {
+          "company": "Pyramid Solutions Group",
+          "role": "Junior Quality Assurance Engineer",
+          "match": 0.5978029370307922,
+          "location": "Hurghada",
+          "missing_skills": []
+        },
+        {
+          "company": "Smartdata Labs Solutions",
+          "role": "Junior Machine Learning Engineer",
+          "match": 0.5921600461006165,
+          "location": "Suez",
+          "missing_skills": []
+        }
+      ]
+    }
+  ]
+}

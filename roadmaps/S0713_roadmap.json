@@ -1,0 +1,213 @@
+{
+  "student_id": "S0713",
+  "career_path": "Software",
+  "career_source": "Prediction",
+  "generated_at": "2025-11-29",
+  "certification_path": [
+    "Oracle Java Associate",
+    "Meta Front-End Developer",
+    "AWS Developer Associate"
+  ],
+  "stages": [
+    {
+      "stage": "Beginner",
+      "duration": "4-6 weeks",
+      "focus": "Fundamentals & Top Gaps",
+      "skills": [
+        "django, rest apis, spark, linux, c, computer vision, docker",
+        "django, rest apis, spark, linux, c, computer vision, tensorflow, node.js, sql",
+        "linux, numpy, node.js, computer vision, ci/cd, sql",
+        "sql, switching, iso27001, docker, aws, node.js",
+        "switching, azure, routing, pytorch, ansible, aws, spark, python, docker, sql"
+      ],
+      "courses": [
+        {
+          "course_name": "AWS Developer Path - Cohort 3 (Part 3)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.3979024887084961,
+          "similarity": 0.49650412797927856,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Machine Learning for Developers - Cohort 3 (Part 2)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.393637478351593,
+          "similarity": 0.48939579725265503,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Machine Learning for Developers - Cohort 6 (Part 3)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.39148831367492676,
+          "similarity": 0.48581382632255554,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "Personal Portfolio Website",
+          "skills": [
+            "html",
+            "css",
+            "javascript"
+          ],
+          "type": "Frontend",
+          "difficulty": "Beginner"
+        },
+        {
+          "title": "Django, Rest Apis, Spark, Linux, C, Computer Vision, Docker & Django, Rest Apis, Spark, Linux, C, Computer Vision, Tensorflow, Node.Js, Sql & Linux, Numpy, Node.Js, Computer Vision, Ci/Cd, Sql Integration Lab",
+          "description": "Set up a practical lab environment to experiment with Django, Rest Apis, Spark, Linux, C, Computer Vision, Docker & Django, Rest Apis, Spark, Linux, C, Computer Vision, Tensorflow, Node.Js, Sql & Linux, Numpy, Node.Js, Computer Vision, Ci/Cd, Sql configurations and troubleshooting.",
+          "difficulty": "Beginner",
+          "skills_covered": [
+            "django, rest apis, spark, linux, c, computer vision, docker",
+            "django, rest apis, spark, linux, c, computer vision, tensorflow, node.js, sql",
+            "linux, numpy, node.js, computer vision, ci/cd, sql"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "Intermediate",
+      "duration": "6-8 weeks",
+      "focus": "Application & Certification",
+      "skills": [],
+      "courses": [
+        {
+          "course_name": "AWS Developer Path - Cohort 15 (Part 3)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.3866322934627533,
+          "similarity": 0.4777204692363739,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Developer Path - Cohort 12 (Part 3)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.38632187247276306,
+          "similarity": 0.4772031009197235,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "Huawei Full-Stack Developer - Cohort 3 (Part 1)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.5213744044303894,
+          "similarity": 0.7022905945777893,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "REST API for Task Management",
+          "skills": [
+            "nodejs",
+            "express",
+            "mongodb"
+          ],
+          "type": "Backend",
+          "difficulty": "Intermediate"
+        },
+        {
+          "title": "Build a Junior Full Stack Developer Pipeline using Django, Rest Apis, Spark, Linux, C, Computer Vision, Docker & Django, Rest Apis, Spark, Linux, C, Computer Vision, Tensorflow, Node.Js, Sql & Linux, Numpy, Node.Js, Computer Vision, Ci/Cd, Sql",
+          "description": "Create a comprehensive project that demonstrates your mastery of Django, Rest Apis, Spark, Linux, C, Computer Vision, Docker & Django, Rest Apis, Spark, Linux, C, Computer Vision, Tensorflow, Node.Js, Sql & Linux, Numpy, Node.Js, Computer Vision, Ci/Cd, Sql. Focus on real-world application.",
+          "difficulty": "Intermediate",
+          "skills_covered": [
+            "django, rest apis, spark, linux, c, computer vision, docker",
+            "django, rest apis, spark, linux, c, computer vision, tensorflow, node.js, sql",
+            "linux, numpy, node.js, computer vision, ci/cd, sql"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "Advanced",
+      "duration": "8-10 weeks",
+      "focus": "Mastery & Job Readiness",
+      "skills": [],
+      "courses": [
+        {
+          "course_name": "Huawei Full-Stack Developer - Cohort 6 (Part 1)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.5182329416275024,
+          "similarity": 0.6970548629760742,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "Huawei Full-Stack Developer - Cohort 9 (Part 3)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.5170753598213196,
+          "similarity": 0.6951255798339844,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "Huawei Full-Stack Developer - Cohort 6 (Part 3)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.5157029628753662,
+          "similarity": 0.6928382515907288,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "Full Stack E-commerce Platform",
+          "skills": [
+            "react",
+            "redux",
+            "stripe integration"
+          ],
+          "type": "Full Stack",
+          "difficulty": "Advanced"
+        },
+        {
+          "title": "Develop a Cloud-Native Application with Django, Rest Apis, Spark, Linux, C, Computer Vision, Docker & Django, Rest Apis, Spark, Linux, C, Computer Vision, Tensorflow, Node.Js, Sql & Linux, Numpy, Node.Js, Computer Vision, Ci/Cd, Sql",
+          "description": "Deploy a scalable application integrating Django, Rest Apis, Spark, Linux, C, Computer Vision, Docker & Django, Rest Apis, Spark, Linux, C, Computer Vision, Tensorflow, Node.Js, Sql & Linux, Numpy, Node.Js, Computer Vision, Ci/Cd, Sql to solve a specific business problem.",
+          "difficulty": "Advanced",
+          "skills_covered": [
+            "django, rest apis, spark, linux, c, computer vision, docker",
+            "django, rest apis, spark, linux, c, computer vision, tensorflow, node.js, sql",
+            "linux, numpy, node.js, computer vision, ci/cd, sql"
+          ]
+        }
+      ],
+      "internships": [
+        {
+          "company": "Techsol Egypt Group",
+          "role": "Junior Full Stack Developer",
+          "match": 0.6200496554374695,
+          "location": "Mansoura",
+          "missing_skills": []
+        },
+        {
+          "company": "Masrsoft Solutions",
+          "role": "Junior Mobile Developer",
+          "match": 0.5679270625114441,
+          "location": "Tanta",
+          "missing_skills": []
+        },
+        {
+          "company": "Cairocloud Ltd",
+          "role": "Junior Backend Developer",
+          "match": 0.5614112019538879,
+          "location": "Aswan",
+          "missing_skills": []
+        }
+      ]
+    }
+  ]
+}

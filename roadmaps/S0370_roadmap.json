@@ -1,0 +1,213 @@
+{
+  "student_id": "S0370",
+  "career_path": "Machine Learning",
+  "career_source": "Prediction",
+  "generated_at": "2025-11-29",
+  "certification_path": [
+    "TensorFlow Developer Certificate",
+    "AWS Machine Learning Specialty",
+    "DeepLearning.AI"
+  ],
+  "stages": [
+    {
+      "stage": "Beginner",
+      "duration": "4-6 weeks",
+      "focus": "Fundamentals & Top Gaps",
+      "skills": [
+        "azure, rest apis, pandas, node.js, docker, tensorflow",
+        "git, rest apis, java, kubernetes, node.js, aws",
+        "git, rest apis, java, node.js, sql, python",
+        "git, rest apis, java, sql, aws, node.js",
+        "pandas, elasticsearch, react, node.js, numpy, microservices, aws"
+      ],
+      "courses": [
+        {
+          "course_name": "AWS Academy Machine Learning Foundations - Cohort 3 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5819044709205627,
+          "similarity": 0.8031740784645081,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Machine Learning Foundations - Cohort 12 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5813421607017517,
+          "similarity": 0.8022368550300598,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Machine Learning Foundations - Cohort 9 (Part 3)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5759709477424622,
+          "similarity": 0.7932848930358887,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "House Price Prediction",
+          "skills": [
+            "python",
+            "regression",
+            "scikit-learn"
+          ],
+          "type": "Regression",
+          "difficulty": "Beginner"
+        },
+        {
+          "title": "Azure, Rest Apis, Pandas, Node.Js, Docker, Tensorflow & Git, Rest Apis, Java, Kubernetes, Node.Js, Aws & Git, Rest Apis, Java, Node.Js, Sql, Python Integration Lab",
+          "description": "Set up a practical lab environment to experiment with Azure, Rest Apis, Pandas, Node.Js, Docker, Tensorflow & Git, Rest Apis, Java, Kubernetes, Node.Js, Aws & Git, Rest Apis, Java, Node.Js, Sql, Python configurations and troubleshooting.",
+          "difficulty": "Beginner",
+          "skills_covered": [
+            "azure, rest apis, pandas, node.js, docker, tensorflow",
+            "git, rest apis, java, kubernetes, node.js, aws",
+            "git, rest apis, java, node.js, sql, python"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "Intermediate",
+      "duration": "6-8 weeks",
+      "focus": "Application & Certification",
+      "skills": [],
+      "courses": [
+        {
+          "course_name": "AWS Academy Machine Learning Foundations - Cohort 9 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5757949948310852,
+          "similarity": 0.792991578578949,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Machine Learning Foundations - Cohort 3 (Part 3)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5743346214294434,
+          "similarity": 0.7905576825141907,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AI Talent Program - Cohort 3 (Part 2)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.4860357642173767,
+          "similarity": 0.6433929204940796,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "Image Classification with CNNs",
+          "skills": [
+            "tensorflow",
+            "deep learning",
+            "cnn"
+          ],
+          "type": "Computer Vision",
+          "difficulty": "Intermediate"
+        },
+        {
+          "title": "Build a Lead Machine Learning Engineer Pipeline using Azure, Rest Apis, Pandas, Node.Js, Docker, Tensorflow & Git, Rest Apis, Java, Kubernetes, Node.Js, Aws & Git, Rest Apis, Java, Node.Js, Sql, Python",
+          "description": "Create a comprehensive project that demonstrates your mastery of Azure, Rest Apis, Pandas, Node.Js, Docker, Tensorflow & Git, Rest Apis, Java, Kubernetes, Node.Js, Aws & Git, Rest Apis, Java, Node.Js, Sql, Python. Focus on real-world application.",
+          "difficulty": "Intermediate",
+          "skills_covered": [
+            "azure, rest apis, pandas, node.js, docker, tensorflow",
+            "git, rest apis, java, kubernetes, node.js, aws",
+            "git, rest apis, java, node.js, sql, python"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "Advanced",
+      "duration": "8-10 weeks",
+      "focus": "Mastery & Job Readiness",
+      "skills": [],
+      "courses": [
+        {
+          "course_name": "AI Talent Program - Cohort 6 (Part 3)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.48011717200279236,
+          "similarity": 0.6335285902023315,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AI Talent Program - Cohort 15 (Part 3)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.478669136762619,
+          "similarity": 0.631115198135376,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "HCIA-AI - Cohort 9 (Part 1)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.4654606282711029,
+          "similarity": 0.6091010570526123,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "End-to-End NLP Chatbot",
+          "skills": [
+            "nlp",
+            "transformers",
+            "deployment"
+          ],
+          "type": "NLP",
+          "difficulty": "Advanced"
+        },
+        {
+          "title": "Develop a Cloud-Native Application with Azure, Rest Apis, Pandas, Node.Js, Docker, Tensorflow & Git, Rest Apis, Java, Kubernetes, Node.Js, Aws & Git, Rest Apis, Java, Node.Js, Sql, Python",
+          "description": "Deploy a scalable application integrating Azure, Rest Apis, Pandas, Node.Js, Docker, Tensorflow & Git, Rest Apis, Java, Kubernetes, Node.Js, Aws & Git, Rest Apis, Java, Node.Js, Sql, Python to solve a specific business problem.",
+          "difficulty": "Advanced",
+          "skills_covered": [
+            "azure, rest apis, pandas, node.js, docker, tensorflow",
+            "git, rest apis, java, kubernetes, node.js, aws",
+            "git, rest apis, java, node.js, sql, python"
+          ]
+        }
+      ],
+      "internships": [
+        {
+          "company": "Pyramid Solutions Group",
+          "role": "Junior Quality Assurance Engineer",
+          "match": 0.6377629637718201,
+          "location": "Hurghada",
+          "missing_skills": []
+        },
+        {
+          "company": "Pyramid Solutions Group",
+          "role": "Junior Machine Learning Engineer",
+          "match": 0.6307697892189026,
+          "location": "Aswan",
+          "missing_skills": []
+        },
+        {
+          "company": "Pyramid Solutions Egypt",
+          "role": "Junior Machine Learning Engineer",
+          "match": 0.6236099600791931,
+          "location": "Aswan",
+          "missing_skills": []
+        }
+      ]
+    }
+  ]
+}

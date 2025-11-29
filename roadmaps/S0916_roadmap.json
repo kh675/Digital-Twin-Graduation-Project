@@ -1,0 +1,213 @@
+{
+  "student_id": "S0916",
+  "career_path": "Software",
+  "career_source": "Prediction",
+  "generated_at": "2025-11-29",
+  "certification_path": [
+    "Oracle Java Associate",
+    "Meta Front-End Developer",
+    "AWS Developer Associate"
+  ],
+  "stages": [
+    {
+      "stage": "Beginner",
+      "duration": "4-6 weeks",
+      "focus": "Fundamentals & Top Gaps",
+      "skills": [
+        "microservices, aws, c, ansible, routing, ci/cd",
+        "microservices, aws, c, ansible, routing, ci/cd, sql, docker",
+        "routing, docker, pytorch, ansible, azure, kubernetes, aws, python",
+        "routing, docker, pytorch, ansible, azure, python, node.js",
+        "routing, docker, pytorch, ansible, azure, sql, aws, kubernetes"
+      ],
+      "courses": [
+        {
+          "course_name": "AWS Academy Cloud Foundations - Cohort 9 (Part 2)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5381380319595337,
+          "similarity": 0.7302299737930298,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Cloud Foundations - Cohort 9 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5329793095588684,
+          "similarity": 0.7216321229934692,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Cloud Foundations - Cohort 3 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5303594470024109,
+          "similarity": 0.7172656655311584,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "Personal Portfolio Website",
+          "skills": [
+            "html",
+            "css",
+            "javascript"
+          ],
+          "type": "Frontend",
+          "difficulty": "Beginner"
+        },
+        {
+          "title": "Microservices, Aws, C, Ansible, Routing, Ci/Cd & Microservices, Aws, C, Ansible, Routing, Ci/Cd, Sql, Docker & Routing, Docker, Pytorch, Ansible, Azure, Kubernetes, Aws, Python Integration Lab",
+          "description": "Set up a practical lab environment to experiment with Microservices, Aws, C, Ansible, Routing, Ci/Cd & Microservices, Aws, C, Ansible, Routing, Ci/Cd, Sql, Docker & Routing, Docker, Pytorch, Ansible, Azure, Kubernetes, Aws, Python configurations and troubleshooting.",
+          "difficulty": "Beginner",
+          "skills_covered": [
+            "microservices, aws, c, ansible, routing, ci/cd",
+            "microservices, aws, c, ansible, routing, ci/cd, sql, docker",
+            "routing, docker, pytorch, ansible, azure, kubernetes, aws, python"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "Intermediate",
+      "duration": "6-8 weeks",
+      "focus": "Application & Certification",
+      "skills": [],
+      "courses": [
+        {
+          "course_name": "AWS Academy Cloud Foundations - Cohort 9 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5288435220718384,
+          "similarity": 0.714739203453064,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Cloud Foundations - Cohort 3 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5275634527206421,
+          "similarity": 0.7126057147979736,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "HCIP-Datacom - Cohort 3 (Part 1)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.47015926241874695,
+          "similarity": 0.6169320940971375,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "REST API for Task Management",
+          "skills": [
+            "nodejs",
+            "express",
+            "mongodb"
+          ],
+          "type": "Backend",
+          "difficulty": "Intermediate"
+        },
+        {
+          "title": "Build a Principal Frontend Developer Pipeline using Microservices, Aws, C, Ansible, Routing, Ci/Cd & Microservices, Aws, C, Ansible, Routing, Ci/Cd, Sql, Docker & Routing, Docker, Pytorch, Ansible, Azure, Kubernetes, Aws, Python",
+          "description": "Create a comprehensive project that demonstrates your mastery of Microservices, Aws, C, Ansible, Routing, Ci/Cd & Microservices, Aws, C, Ansible, Routing, Ci/Cd, Sql, Docker & Routing, Docker, Pytorch, Ansible, Azure, Kubernetes, Aws, Python. Focus on real-world application.",
+          "difficulty": "Intermediate",
+          "skills_covered": [
+            "microservices, aws, c, ansible, routing, ci/cd",
+            "microservices, aws, c, ansible, routing, ci/cd, sql, docker",
+            "routing, docker, pytorch, ansible, azure, kubernetes, aws, python"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "Advanced",
+      "duration": "8-10 weeks",
+      "focus": "Mastery & Job Readiness",
+      "skills": [],
+      "courses": [
+        {
+          "course_name": "HCIP-Datacom - Cohort 12 (Part 3)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.4663568437099457,
+          "similarity": 0.6105947494506836,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "HCIP-Datacom - Cohort 15 (Part 2)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.46259599924087524,
+          "similarity": 0.6043266654014587,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "HCIP-Cloud Computing - Cohort 6 (Part 1)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.45961156487464905,
+          "similarity": 0.5993525981903076,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "Full Stack E-commerce Platform",
+          "skills": [
+            "react",
+            "redux",
+            "stripe integration"
+          ],
+          "type": "Full Stack",
+          "difficulty": "Advanced"
+        },
+        {
+          "title": "Develop a Cloud-Native Application with Microservices, Aws, C, Ansible, Routing, Ci/Cd & Microservices, Aws, C, Ansible, Routing, Ci/Cd, Sql, Docker & Routing, Docker, Pytorch, Ansible, Azure, Kubernetes, Aws, Python",
+          "description": "Deploy a scalable application integrating Microservices, Aws, C, Ansible, Routing, Ci/Cd & Microservices, Aws, C, Ansible, Routing, Ci/Cd, Sql, Docker & Routing, Docker, Pytorch, Ansible, Azure, Kubernetes, Aws, Python to solve a specific business problem.",
+          "difficulty": "Advanced",
+          "skills_covered": [
+            "microservices, aws, c, ansible, routing, ci/cd",
+            "microservices, aws, c, ansible, routing, ci/cd, sql, docker",
+            "routing, docker, pytorch, ansible, azure, kubernetes, aws, python"
+          ]
+        }
+      ],
+      "internships": [
+        {
+          "company": "Smartdata Labs Group",
+          "role": "Junior Machine Learning Engineer",
+          "match": 0.5753116011619568,
+          "location": "Suez",
+          "missing_skills": []
+        },
+        {
+          "company": "Smartdata Labs Solutions",
+          "role": "Junior Machine Learning Engineer",
+          "match": 0.5743734240531921,
+          "location": "Suez",
+          "missing_skills": []
+        },
+        {
+          "company": "Pyramid Solutions Egypt",
+          "role": "Junior Network Engineer",
+          "match": 0.5591855645179749,
+          "location": "Suez",
+          "missing_skills": []
+        }
+      ]
+    }
+  ]
+}

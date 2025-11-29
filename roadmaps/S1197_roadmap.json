@@ -1,0 +1,212 @@
+{
+  "student_id": "S1197",
+  "career_path": "Software",
+  "career_source": "Prediction",
+  "generated_at": "2025-11-29",
+  "certification_path": [
+    "Oracle Java Associate",
+    "Meta Front-End Developer",
+    "AWS Developer Associate"
+  ],
+  "stages": [
+    {
+      "stage": "Beginner",
+      "duration": "4-6 weeks",
+      "focus": "Fundamentals & Top Gaps",
+      "skills": [
+        "microservices, aws, c, ansible, routing, ci/cd",
+        "microservices, aws, c, ansible, routing, ci/cd, sql, docker",
+        "pandas, elasticsearch, react, node.js, numpy, microservices, aws",
+        "rest apis, javascript, nlp, pandas, ansible, switching, spark, aws, docker, sql"
+      ],
+      "courses": [
+        {
+          "course_name": "AWS Developer Building Serverless Applications - Cohort 12 (Part 2)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5387476682662964,
+          "similarity": 0.7312461137771606,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Developer Building Serverless Applications - Cohort 12 (Part 3)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5375106334686279,
+          "similarity": 0.7291843295097351,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Developer Building Serverless Applications - Cohort 6 (Part 2)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5323394536972046,
+          "similarity": 0.720565676689148,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "Personal Portfolio Website",
+          "skills": [
+            "html",
+            "css",
+            "javascript"
+          ],
+          "type": "Frontend",
+          "difficulty": "Beginner"
+        },
+        {
+          "title": "Microservices, Aws, C, Ansible, Routing, Ci/Cd & Microservices, Aws, C, Ansible, Routing, Ci/Cd, Sql, Docker & Pandas, Elasticsearch, React, Node.Js, Numpy, Microservices, Aws Integration Lab",
+          "description": "Set up a practical lab environment to experiment with Microservices, Aws, C, Ansible, Routing, Ci/Cd & Microservices, Aws, C, Ansible, Routing, Ci/Cd, Sql, Docker & Pandas, Elasticsearch, React, Node.Js, Numpy, Microservices, Aws configurations and troubleshooting.",
+          "difficulty": "Beginner",
+          "skills_covered": [
+            "microservices, aws, c, ansible, routing, ci/cd",
+            "microservices, aws, c, ansible, routing, ci/cd, sql, docker",
+            "pandas, elasticsearch, react, node.js, numpy, microservices, aws"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "Intermediate",
+      "duration": "6-8 weeks",
+      "focus": "Application & Certification",
+      "skills": [],
+      "courses": [
+        {
+          "course_name": "AWS Developer Building Serverless Applications - Cohort 9 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5249235033988953,
+          "similarity": 0.7082058191299438,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Developer Building Serverless Applications - Cohort 15 (Part 2)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5242960453033447,
+          "similarity": 0.7071600556373596,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "Huawei Full-Stack Developer - Cohort 3 (Part 2)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.5088643431663513,
+          "similarity": 0.681440532207489,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "REST API for Task Management",
+          "skills": [
+            "nodejs",
+            "express",
+            "mongodb"
+          ],
+          "type": "Backend",
+          "difficulty": "Intermediate"
+        },
+        {
+          "title": "Build a Mid-Level Frontend Developer Pipeline using Microservices, Aws, C, Ansible, Routing, Ci/Cd & Microservices, Aws, C, Ansible, Routing, Ci/Cd, Sql, Docker & Pandas, Elasticsearch, React, Node.Js, Numpy, Microservices, Aws",
+          "description": "Create a comprehensive project that demonstrates your mastery of Microservices, Aws, C, Ansible, Routing, Ci/Cd & Microservices, Aws, C, Ansible, Routing, Ci/Cd, Sql, Docker & Pandas, Elasticsearch, React, Node.Js, Numpy, Microservices, Aws. Focus on real-world application.",
+          "difficulty": "Intermediate",
+          "skills_covered": [
+            "microservices, aws, c, ansible, routing, ci/cd",
+            "microservices, aws, c, ansible, routing, ci/cd, sql, docker",
+            "pandas, elasticsearch, react, node.js, numpy, microservices, aws"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "Advanced",
+      "duration": "8-10 weeks",
+      "focus": "Mastery & Job Readiness",
+      "skills": [],
+      "courses": [
+        {
+          "course_name": "Huawei Full-Stack Developer - Cohort 12 (Part 3)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.5038780570030212,
+          "similarity": 0.6731300354003906,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "Huawei Full-Stack Developer - Cohort 12 (Part 2)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.5033476948738098,
+          "similarity": 0.6722460985183716,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "Huawei Full-Stack Developer - Cohort 6 (Part 1)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.4997468590736389,
+          "similarity": 0.6662447452545166,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "Full Stack E-commerce Platform",
+          "skills": [
+            "react",
+            "redux",
+            "stripe integration"
+          ],
+          "type": "Full Stack",
+          "difficulty": "Advanced"
+        },
+        {
+          "title": "Develop a Cloud-Native Application with Microservices, Aws, C, Ansible, Routing, Ci/Cd & Microservices, Aws, C, Ansible, Routing, Ci/Cd, Sql, Docker & Pandas, Elasticsearch, React, Node.Js, Numpy, Microservices, Aws",
+          "description": "Deploy a scalable application integrating Microservices, Aws, C, Ansible, Routing, Ci/Cd & Microservices, Aws, C, Ansible, Routing, Ci/Cd, Sql, Docker & Pandas, Elasticsearch, React, Node.Js, Numpy, Microservices, Aws to solve a specific business problem.",
+          "difficulty": "Advanced",
+          "skills_covered": [
+            "microservices, aws, c, ansible, routing, ci/cd",
+            "microservices, aws, c, ansible, routing, ci/cd, sql, docker",
+            "pandas, elasticsearch, react, node.js, numpy, microservices, aws"
+          ]
+        }
+      ],
+      "internships": [
+        {
+          "company": "Pyramid Solutions Egypt",
+          "role": "Junior Backend Developer",
+          "match": 0.6018455028533936,
+          "location": "Alexandria",
+          "missing_skills": []
+        },
+        {
+          "company": "Cloudworks Egypt Inc",
+          "role": "Junior Full Stack Developer",
+          "match": 0.5783753395080566,
+          "location": "Tanta",
+          "missing_skills": []
+        },
+        {
+          "company": "Cloudworks Egypt Ltd",
+          "role": "Junior Frontend Developer",
+          "match": 0.5772862434387207,
+          "location": "Mansoura",
+          "missing_skills": []
+        }
+      ]
+    }
+  ]
+}

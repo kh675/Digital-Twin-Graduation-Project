@@ -1,0 +1,213 @@
+{
+  "student_id": "S0334",
+  "career_path": "Software",
+  "career_source": "Prediction",
+  "generated_at": "2025-11-29",
+  "certification_path": [
+    "Oracle Java Associate",
+    "Meta Front-End Developer",
+    "AWS Developer Associate"
+  ],
+  "stages": [
+    {
+      "stage": "Beginner",
+      "duration": "4-6 weeks",
+      "focus": "Fundamentals & Top Gaps",
+      "skills": [
+        "pandas, node.js, computer vision, aws, tensorflow, docker",
+        "routing, docker, pytorch, ansible, azure, kubernetes, aws, python",
+        "routing, docker, pytorch, ansible, azure, python, node.js",
+        "routing, docker, pytorch, ansible, azure, tensorflow, aws, python",
+        "tensorflow, pandas, pytorch, react, ansible, docker, sql"
+      ],
+      "courses": [
+        {
+          "course_name": "AWS Developer Path - Cohort 3 (Part 3)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5053296685218811,
+          "similarity": 0.6755494475364685,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Machine Learning for Developers - Cohort 15 (Part 2)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.49471554160118103,
+          "similarity": 0.657859206199646,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Developer Path - Cohort 15 (Part 3)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.4936029613018036,
+          "similarity": 0.6560049057006836,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "Personal Portfolio Website",
+          "skills": [
+            "html",
+            "css",
+            "javascript"
+          ],
+          "type": "Frontend",
+          "difficulty": "Beginner"
+        },
+        {
+          "title": "Pandas, Node.Js, Computer Vision, Aws, Tensorflow, Docker & Routing, Docker, Pytorch, Ansible, Azure, Kubernetes, Aws, Python & Routing, Docker, Pytorch, Ansible, Azure, Python, Node.Js Integration Lab",
+          "description": "Set up a practical lab environment to experiment with Pandas, Node.Js, Computer Vision, Aws, Tensorflow, Docker & Routing, Docker, Pytorch, Ansible, Azure, Kubernetes, Aws, Python & Routing, Docker, Pytorch, Ansible, Azure, Python, Node.Js configurations and troubleshooting.",
+          "difficulty": "Beginner",
+          "skills_covered": [
+            "pandas, node.js, computer vision, aws, tensorflow, docker",
+            "routing, docker, pytorch, ansible, azure, kubernetes, aws, python",
+            "routing, docker, pytorch, ansible, azure, python, node.js"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "Intermediate",
+      "duration": "6-8 weeks",
+      "focus": "Application & Certification",
+      "skills": [],
+      "courses": [
+        {
+          "course_name": "AWS Developer Path - Cohort 12 (Part 3)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.4918200969696045,
+          "similarity": 0.6530334949493408,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Machine Learning for Developers - Cohort 6 (Part 3)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.4905472993850708,
+          "similarity": 0.6509121656417847,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "HCIP-AI-Developer - Cohort 6 (Part 2)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.4654291272163391,
+          "similarity": 0.6090485453605652,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "REST API for Task Management",
+          "skills": [
+            "nodejs",
+            "express",
+            "mongodb"
+          ],
+          "type": "Backend",
+          "difficulty": "Intermediate"
+        },
+        {
+          "title": "Build a Mid-Level Frontend Developer Pipeline using Pandas, Node.Js, Computer Vision, Aws, Tensorflow, Docker & Routing, Docker, Pytorch, Ansible, Azure, Kubernetes, Aws, Python & Routing, Docker, Pytorch, Ansible, Azure, Python, Node.Js",
+          "description": "Create a comprehensive project that demonstrates your mastery of Pandas, Node.Js, Computer Vision, Aws, Tensorflow, Docker & Routing, Docker, Pytorch, Ansible, Azure, Kubernetes, Aws, Python & Routing, Docker, Pytorch, Ansible, Azure, Python, Node.Js. Focus on real-world application.",
+          "difficulty": "Intermediate",
+          "skills_covered": [
+            "pandas, node.js, computer vision, aws, tensorflow, docker",
+            "routing, docker, pytorch, ansible, azure, kubernetes, aws, python",
+            "routing, docker, pytorch, ansible, azure, python, node.js"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "Advanced",
+      "duration": "8-10 weeks",
+      "focus": "Mastery & Job Readiness",
+      "skills": [],
+      "courses": [
+        {
+          "course_name": "HCIP-AI-Developer - Cohort 12 (Part 3)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.46238088607788086,
+          "similarity": 0.6039681434631348,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "HCIP-AI-Developer - Cohort 12 (Part 2)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.45960572361946106,
+          "similarity": 0.5993428826332092,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "HCIP-AI-Developer - Cohort 12 (Part 3)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.45959925651550293,
+          "similarity": 0.5993320941925049,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "Full Stack E-commerce Platform",
+          "skills": [
+            "react",
+            "redux",
+            "stripe integration"
+          ],
+          "type": "Full Stack",
+          "difficulty": "Advanced"
+        },
+        {
+          "title": "Develop a Cloud-Native Application with Pandas, Node.Js, Computer Vision, Aws, Tensorflow, Docker & Routing, Docker, Pytorch, Ansible, Azure, Kubernetes, Aws, Python & Routing, Docker, Pytorch, Ansible, Azure, Python, Node.Js",
+          "description": "Deploy a scalable application integrating Pandas, Node.Js, Computer Vision, Aws, Tensorflow, Docker & Routing, Docker, Pytorch, Ansible, Azure, Kubernetes, Aws, Python & Routing, Docker, Pytorch, Ansible, Azure, Python, Node.Js to solve a specific business problem.",
+          "difficulty": "Advanced",
+          "skills_covered": [
+            "pandas, node.js, computer vision, aws, tensorflow, docker",
+            "routing, docker, pytorch, ansible, azure, kubernetes, aws, python",
+            "routing, docker, pytorch, ansible, azure, python, node.js"
+          ]
+        }
+      ],
+      "internships": [
+        {
+          "company": "Pharos Ai Inc",
+          "role": "Junior Product Manager",
+          "match": 0.6397931575775146,
+          "location": "Hurghada",
+          "missing_skills": []
+        },
+        {
+          "company": "Pharos Ai Egypt",
+          "role": "Junior Product Manager",
+          "match": 0.6397623419761658,
+          "location": "Hurghada",
+          "missing_skills": []
+        },
+        {
+          "company": "Smartdata Labs Group",
+          "role": "Junior Machine Learning Engineer",
+          "match": 0.6236213445663452,
+          "location": "Suez",
+          "missing_skills": []
+        }
+      ]
+    }
+  ]
+}

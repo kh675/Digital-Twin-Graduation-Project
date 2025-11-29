@@ -1,0 +1,212 @@
+{
+  "student_id": "S0030",
+  "career_path": "Machine Learning",
+  "career_source": "Prediction",
+  "generated_at": "2025-11-29",
+  "certification_path": [
+    "TensorFlow Developer Certificate",
+    "AWS Machine Learning Specialty",
+    "DeepLearning.AI"
+  ],
+  "stages": [
+    {
+      "stage": "Beginner",
+      "duration": "4-6 weeks",
+      "focus": "Fundamentals & Top Gaps",
+      "skills": [
+        "flask, hadoop, tensorflow, git, react",
+        "flask, hadoop, tensorflow, git, react, docker",
+        "linux, numpy, node.js, computer vision, ci/cd, python",
+        "pytorch, docker, 5g, aws, pandas, react, sql"
+      ],
+      "courses": [
+        {
+          "course_name": "AWS Academy Machine Learning for Developers - Cohort 15 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.4301130175590515,
+          "similarity": 0.5501883625984192,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Machine Learning for Developers - Cohort 3 (Part 3)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.42894884943962097,
+          "similarity": 0.5482480525970459,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Machine Learning for Developers - Cohort 15 (Part 2)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.42798087000846863,
+          "similarity": 0.5466347932815552,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "House Price Prediction",
+          "skills": [
+            "python",
+            "regression",
+            "scikit-learn"
+          ],
+          "type": "Regression",
+          "difficulty": "Beginner"
+        },
+        {
+          "title": "Flask, Hadoop, Tensorflow, Git, React & Flask, Hadoop, Tensorflow, Git, React, Docker & Linux, Numpy, Node.Js, Computer Vision, Ci/Cd, Python Integration Lab",
+          "description": "Set up a practical lab environment to experiment with Flask, Hadoop, Tensorflow, Git, React & Flask, Hadoop, Tensorflow, Git, React, Docker & Linux, Numpy, Node.Js, Computer Vision, Ci/Cd, Python configurations and troubleshooting.",
+          "difficulty": "Beginner",
+          "skills_covered": [
+            "flask, hadoop, tensorflow, git, react",
+            "flask, hadoop, tensorflow, git, react, docker",
+            "linux, numpy, node.js, computer vision, ci/cd, python"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "Intermediate",
+      "duration": "6-8 weeks",
+      "focus": "Application & Certification",
+      "skills": [],
+      "courses": [
+        {
+          "course_name": "AWS Academy Machine Learning Foundations - Cohort 12 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.42417213320732117,
+          "similarity": 0.5402868986129761,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Machine Learning for Developers - Cohort 15 (Part 2)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.42104867100715637,
+          "similarity": 0.5350810885429382,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "HCIP-AI-Developer - Cohort 15 (Part 2)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.5361290574073792,
+          "similarity": 0.726881742477417,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "Image Classification with CNNs",
+          "skills": [
+            "tensorflow",
+            "deep learning",
+            "cnn"
+          ],
+          "type": "Computer Vision",
+          "difficulty": "Intermediate"
+        },
+        {
+          "title": "Build a Mid-Level Ai Researcher Pipeline using Flask, Hadoop, Tensorflow, Git, React & Flask, Hadoop, Tensorflow, Git, React, Docker & Linux, Numpy, Node.Js, Computer Vision, Ci/Cd, Python",
+          "description": "Create a comprehensive project that demonstrates your mastery of Flask, Hadoop, Tensorflow, Git, React & Flask, Hadoop, Tensorflow, Git, React, Docker & Linux, Numpy, Node.Js, Computer Vision, Ci/Cd, Python. Focus on real-world application.",
+          "difficulty": "Intermediate",
+          "skills_covered": [
+            "flask, hadoop, tensorflow, git, react",
+            "flask, hadoop, tensorflow, git, react, docker",
+            "linux, numpy, node.js, computer vision, ci/cd, python"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "Advanced",
+      "duration": "8-10 weeks",
+      "focus": "Mastery & Job Readiness",
+      "skills": [],
+      "courses": [
+        {
+          "course_name": "HCIP-AI-Developer - Cohort 6 (Part 3)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.5329158902168274,
+          "similarity": 0.7215264439582825,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "HCIP-AI-Developer - Cohort 9 (Part 1)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.531847357749939,
+          "similarity": 0.7197455763816833,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "HCIP-AI-Developer - Cohort 6 (Part 2)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.5301997661590576,
+          "similarity": 0.7169995307922363,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "End-to-End NLP Chatbot",
+          "skills": [
+            "nlp",
+            "transformers",
+            "deployment"
+          ],
+          "type": "NLP",
+          "difficulty": "Advanced"
+        },
+        {
+          "title": "Develop a Cloud-Native Application with Flask, Hadoop, Tensorflow, Git, React & Flask, Hadoop, Tensorflow, Git, React, Docker & Linux, Numpy, Node.Js, Computer Vision, Ci/Cd, Python",
+          "description": "Deploy a scalable application integrating Flask, Hadoop, Tensorflow, Git, React & Flask, Hadoop, Tensorflow, Git, React, Docker & Linux, Numpy, Node.Js, Computer Vision, Ci/Cd, Python to solve a specific business problem.",
+          "difficulty": "Advanced",
+          "skills_covered": [
+            "flask, hadoop, tensorflow, git, react",
+            "flask, hadoop, tensorflow, git, react, docker",
+            "linux, numpy, node.js, computer vision, ci/cd, python"
+          ]
+        }
+      ],
+      "internships": [
+        {
+          "company": "Techsol Egypt Solutions",
+          "role": "Junior Machine Learning Engineer",
+          "match": 0.640062153339386,
+          "location": "Mansoura",
+          "missing_skills": []
+        },
+        {
+          "company": "Pyramid Solutions Group",
+          "role": "Junior Data Scientist",
+          "match": 0.6294864416122437,
+          "location": "Cairo",
+          "missing_skills": []
+        },
+        {
+          "company": "Techsol Egypt Egypt",
+          "role": "Junior Machine Learning Engineer",
+          "match": 0.6202118396759033,
+          "location": "Mansoura",
+          "missing_skills": []
+        }
+      ]
+    }
+  ]
+}

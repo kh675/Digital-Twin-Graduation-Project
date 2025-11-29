@@ -1,0 +1,212 @@
+{
+  "student_id": "S0691",
+  "career_path": "Software",
+  "career_source": "Prediction",
+  "generated_at": "2025-11-29",
+  "certification_path": [
+    "Oracle Java Associate",
+    "Meta Front-End Developer",
+    "AWS Developer Associate"
+  ],
+  "stages": [
+    {
+      "stage": "Beginner",
+      "duration": "4-6 weeks",
+      "focus": "Fundamentals & Top Gaps",
+      "skills": [
+        "microservices, aws, c, ansible, routing, ci/cd, node.js, kubernetes",
+        "rest apis, git, tcp/ip, terraform, python, aws, docker, sql",
+        "rest apis, javascript, nlp, pandas, ansible, switching, spark, aws, docker, sql",
+        "rest apis, javascript, nlp, pandas, ansible, switching, spark, node.js"
+      ],
+      "courses": [
+        {
+          "course_name": "AWS Academy Machine Learning Foundations - Cohort 12 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.4763011038303375,
+          "similarity": 0.6271684765815735,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Machine Learning Foundations - Cohort 3 (Part 2)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.4753427505493164,
+          "similarity": 0.6255712509155273,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Machine Learning Foundations - Cohort 9 (Part 3)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.47497957944869995,
+          "similarity": 0.6249659657478333,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "Personal Portfolio Website",
+          "skills": [
+            "html",
+            "css",
+            "javascript"
+          ],
+          "type": "Frontend",
+          "difficulty": "Beginner"
+        },
+        {
+          "title": "Microservices, Aws, C, Ansible, Routing, Ci/Cd, Node.Js, Kubernetes & Rest Apis, Git, Tcp/Ip, Terraform, Python, Aws, Docker, Sql & Rest Apis, Javascript, Nlp, Pandas, Ansible, Switching, Spark, Aws, Docker, Sql Integration Lab",
+          "description": "Set up a practical lab environment to experiment with Microservices, Aws, C, Ansible, Routing, Ci/Cd, Node.Js, Kubernetes & Rest Apis, Git, Tcp/Ip, Terraform, Python, Aws, Docker, Sql & Rest Apis, Javascript, Nlp, Pandas, Ansible, Switching, Spark, Aws, Docker, Sql configurations and troubleshooting.",
+          "difficulty": "Beginner",
+          "skills_covered": [
+            "microservices, aws, c, ansible, routing, ci/cd, node.js, kubernetes",
+            "rest apis, git, tcp/ip, terraform, python, aws, docker, sql",
+            "rest apis, javascript, nlp, pandas, ansible, switching, spark, aws, docker, sql"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "Intermediate",
+      "duration": "6-8 weeks",
+      "focus": "Application & Certification",
+      "skills": [],
+      "courses": [
+        {
+          "course_name": "AWS Academy Machine Learning Foundations - Cohort 9 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.47474464774131775,
+          "similarity": 0.6245744228363037,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Machine Learning Foundations - Cohort 3 (Part 3)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.4742739200592041,
+          "similarity": 0.6237898468971252,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "Huawei Data Warehouse and BI - Cohort 6 (Part 1)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.48645129799842834,
+          "similarity": 0.6440854668617249,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "REST API for Task Management",
+          "skills": [
+            "nodejs",
+            "express",
+            "mongodb"
+          ],
+          "type": "Backend",
+          "difficulty": "Intermediate"
+        },
+        {
+          "title": "Build a Lead Backend Developer Pipeline using Microservices, Aws, C, Ansible, Routing, Ci/Cd, Node.Js, Kubernetes & Rest Apis, Git, Tcp/Ip, Terraform, Python, Aws, Docker, Sql & Rest Apis, Javascript, Nlp, Pandas, Ansible, Switching, Spark, Aws, Docker, Sql",
+          "description": "Create a comprehensive project that demonstrates your mastery of Microservices, Aws, C, Ansible, Routing, Ci/Cd, Node.Js, Kubernetes & Rest Apis, Git, Tcp/Ip, Terraform, Python, Aws, Docker, Sql & Rest Apis, Javascript, Nlp, Pandas, Ansible, Switching, Spark, Aws, Docker, Sql. Focus on real-world application.",
+          "difficulty": "Intermediate",
+          "skills_covered": [
+            "microservices, aws, c, ansible, routing, ci/cd, node.js, kubernetes",
+            "rest apis, git, tcp/ip, terraform, python, aws, docker, sql",
+            "rest apis, javascript, nlp, pandas, ansible, switching, spark, aws, docker, sql"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "Advanced",
+      "duration": "8-10 weeks",
+      "focus": "Mastery & Job Readiness",
+      "skills": [],
+      "courses": [
+        {
+          "course_name": "Huawei Data Warehouse and BI - Cohort 12 (Part 3)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.4863773286342621,
+          "similarity": 0.6439622044563293,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "Huawei Data Warehouse and BI - Cohort 6 (Part 3)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.4821687936782837,
+          "similarity": 0.6369479894638062,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "Huawei Data Warehouse and BI - Cohort 3 (Part 1)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.47472259402275085,
+          "similarity": 0.6245376467704773,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "Full Stack E-commerce Platform",
+          "skills": [
+            "react",
+            "redux",
+            "stripe integration"
+          ],
+          "type": "Full Stack",
+          "difficulty": "Advanced"
+        },
+        {
+          "title": "Develop a Cloud-Native Application with Microservices, Aws, C, Ansible, Routing, Ci/Cd, Node.Js, Kubernetes & Rest Apis, Git, Tcp/Ip, Terraform, Python, Aws, Docker, Sql & Rest Apis, Javascript, Nlp, Pandas, Ansible, Switching, Spark, Aws, Docker, Sql",
+          "description": "Deploy a scalable application integrating Microservices, Aws, C, Ansible, Routing, Ci/Cd, Node.Js, Kubernetes & Rest Apis, Git, Tcp/Ip, Terraform, Python, Aws, Docker, Sql & Rest Apis, Javascript, Nlp, Pandas, Ansible, Switching, Spark, Aws, Docker, Sql to solve a specific business problem.",
+          "difficulty": "Advanced",
+          "skills_covered": [
+            "microservices, aws, c, ansible, routing, ci/cd, node.js, kubernetes",
+            "rest apis, git, tcp/ip, terraform, python, aws, docker, sql",
+            "rest apis, javascript, nlp, pandas, ansible, switching, spark, aws, docker, sql"
+          ]
+        }
+      ],
+      "internships": [
+        {
+          "company": "Pyramid Solutions Egypt",
+          "role": "Junior Backend Developer",
+          "match": 0.6304574608802795,
+          "location": "Alexandria",
+          "missing_skills": []
+        },
+        {
+          "company": "Pyramid Solutions Ltd",
+          "role": "Junior Backend Developer",
+          "match": 0.5990534424781799,
+          "location": "Alexandria",
+          "missing_skills": []
+        },
+        {
+          "company": "Pyramid Solutions Group",
+          "role": "Junior Machine Learning Engineer",
+          "match": 0.5722647905349731,
+          "location": "Aswan",
+          "missing_skills": []
+        }
+      ]
+    }
+  ]
+}

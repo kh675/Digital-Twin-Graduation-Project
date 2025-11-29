@@ -1,0 +1,213 @@
+{
+  "student_id": "S0154",
+  "career_path": "Machine Learning",
+  "career_source": "Prediction",
+  "generated_at": "2025-11-29",
+  "certification_path": [
+    "TensorFlow Developer Certificate",
+    "AWS Machine Learning Specialty",
+    "DeepLearning.AI"
+  ],
+  "stages": [
+    {
+      "stage": "Beginner",
+      "duration": "4-6 weeks",
+      "focus": "Fundamentals & Top Gaps",
+      "skills": [
+        "git, rest apis, java, node.js, sql, python",
+        "microservices, javascript, flask, ansible, pytorch, routing, kubernetes, python, aws",
+        "pandas, hadoop, nosql, rest apis, hipaa, sql, terraform, node.js, aws",
+        "switching, docker, azure, pandas, aws, spark, node.js",
+        "switching, docker, azure, pandas, aws, spark, python, tensorflow"
+      ],
+      "courses": [
+        {
+          "course_name": "AWS Academy Machine Learning Foundations - Cohort 12 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5735847353935242,
+          "similarity": 0.7893078923225403,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Machine Learning Foundations - Cohort 9 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5679032802581787,
+          "similarity": 0.7798387408256531,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Machine Learning Foundations - Cohort 3 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5677879452705383,
+          "similarity": 0.7796465754508972,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "House Price Prediction",
+          "skills": [
+            "python",
+            "regression",
+            "scikit-learn"
+          ],
+          "type": "Regression",
+          "difficulty": "Beginner"
+        },
+        {
+          "title": "Git, Rest Apis, Java, Node.Js, Sql, Python & Microservices, Javascript, Flask, Ansible, Pytorch, Routing, Kubernetes, Python, Aws & Pandas, Hadoop, Nosql, Rest Apis, Hipaa, Sql, Terraform, Node.Js, Aws Integration Lab",
+          "description": "Set up a practical lab environment to experiment with Git, Rest Apis, Java, Node.Js, Sql, Python & Microservices, Javascript, Flask, Ansible, Pytorch, Routing, Kubernetes, Python, Aws & Pandas, Hadoop, Nosql, Rest Apis, Hipaa, Sql, Terraform, Node.Js, Aws configurations and troubleshooting.",
+          "difficulty": "Beginner",
+          "skills_covered": [
+            "git, rest apis, java, node.js, sql, python",
+            "microservices, javascript, flask, ansible, pytorch, routing, kubernetes, python, aws",
+            "pandas, hadoop, nosql, rest apis, hipaa, sql, terraform, node.js, aws"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "Intermediate",
+      "duration": "6-8 weeks",
+      "focus": "Application & Certification",
+      "skills": [],
+      "courses": [
+        {
+          "course_name": "AWS Academy Machine Learning Foundations - Cohort 9 (Part 3)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5671316385269165,
+          "similarity": 0.7785527110099792,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Machine Learning Foundations - Cohort 3 (Part 2)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5658263564109802,
+          "similarity": 0.7763772010803223,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AI Talent Program - Cohort 3 (Part 2)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.532172441482544,
+          "similarity": 0.7202873826026917,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "Image Classification with CNNs",
+          "skills": [
+            "tensorflow",
+            "deep learning",
+            "cnn"
+          ],
+          "type": "Computer Vision",
+          "difficulty": "Intermediate"
+        },
+        {
+          "title": "Build a Mid-Level Machine Learning Engineer Pipeline using Git, Rest Apis, Java, Node.Js, Sql, Python & Microservices, Javascript, Flask, Ansible, Pytorch, Routing, Kubernetes, Python, Aws & Pandas, Hadoop, Nosql, Rest Apis, Hipaa, Sql, Terraform, Node.Js, Aws",
+          "description": "Create a comprehensive project that demonstrates your mastery of Git, Rest Apis, Java, Node.Js, Sql, Python & Microservices, Javascript, Flask, Ansible, Pytorch, Routing, Kubernetes, Python, Aws & Pandas, Hadoop, Nosql, Rest Apis, Hipaa, Sql, Terraform, Node.Js, Aws. Focus on real-world application.",
+          "difficulty": "Intermediate",
+          "skills_covered": [
+            "git, rest apis, java, node.js, sql, python",
+            "microservices, javascript, flask, ansible, pytorch, routing, kubernetes, python, aws",
+            "pandas, hadoop, nosql, rest apis, hipaa, sql, terraform, node.js, aws"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "Advanced",
+      "duration": "8-10 weeks",
+      "focus": "Mastery & Job Readiness",
+      "skills": [],
+      "courses": [
+        {
+          "course_name": "AI Talent Program - Cohort 6 (Part 3)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.5291208028793335,
+          "similarity": 0.7152012586593628,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AI Talent Program - Cohort 15 (Part 3)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.5276187062263489,
+          "similarity": 0.7126978039741516,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AI Talent Program - Cohort 11 (Part 1)",
+          "provider": "Huawei",
+          "level": "Intermediate",
+          "score": 0.5002937912940979,
+          "similarity": 0.7004895806312561,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "End-to-End NLP Chatbot",
+          "skills": [
+            "nlp",
+            "transformers",
+            "deployment"
+          ],
+          "type": "NLP",
+          "difficulty": "Advanced"
+        },
+        {
+          "title": "Develop a Cloud-Native Application with Git, Rest Apis, Java, Node.Js, Sql, Python & Microservices, Javascript, Flask, Ansible, Pytorch, Routing, Kubernetes, Python, Aws & Pandas, Hadoop, Nosql, Rest Apis, Hipaa, Sql, Terraform, Node.Js, Aws",
+          "description": "Deploy a scalable application integrating Git, Rest Apis, Java, Node.Js, Sql, Python & Microservices, Javascript, Flask, Ansible, Pytorch, Routing, Kubernetes, Python, Aws & Pandas, Hadoop, Nosql, Rest Apis, Hipaa, Sql, Terraform, Node.Js, Aws to solve a specific business problem.",
+          "difficulty": "Advanced",
+          "skills_covered": [
+            "git, rest apis, java, node.js, sql, python",
+            "microservices, javascript, flask, ansible, pytorch, routing, kubernetes, python, aws",
+            "pandas, hadoop, nosql, rest apis, hipaa, sql, terraform, node.js, aws"
+          ]
+        }
+      ],
+      "internships": [
+        {
+          "company": "Pyramid Solutions Group",
+          "role": "Junior Machine Learning Engineer",
+          "match": 0.5926554203033447,
+          "location": "Aswan",
+          "missing_skills": []
+        },
+        {
+          "company": "Pyramid Solutions Egypt",
+          "role": "Junior Machine Learning Engineer",
+          "match": 0.5909244418144226,
+          "location": "Aswan",
+          "missing_skills": []
+        },
+        {
+          "company": "Smartdata Labs Group",
+          "role": "Junior Machine Learning Engineer",
+          "match": 0.5895866751670837,
+          "location": "Suez",
+          "missing_skills": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,213 @@
+{
+  "student_id": "S0590",
+  "career_path": "Machine Learning",
+  "career_source": "Prediction",
+  "generated_at": "2025-11-29",
+  "certification_path": [
+    "TensorFlow Developer Certificate",
+    "AWS Machine Learning Specialty",
+    "DeepLearning.AI"
+  ],
+  "stages": [
+    {
+      "stage": "Beginner",
+      "duration": "4-6 weeks",
+      "focus": "Fundamentals & Top Gaps",
+      "skills": [
+        "c, tensorflow, microservices, 5g, django, elasticsearch, sql",
+        "switching, docker, azure, pandas, aws, spark, python",
+        "switching, docker, azure, pandas, aws, spark, python, tensorflow",
+        "tensorflow, pandas, pytorch, react, ansible, docker, sql",
+        "tensorflow, pandas, pytorch, react, ansible, python"
+      ],
+      "courses": [
+        {
+          "course_name": "AWS Academy Machine Learning Foundations - Cohort 3 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5585562586784363,
+          "similarity": 0.7642604112625122,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Machine Learning Foundations - Cohort 12 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5578241348266602,
+          "similarity": 0.7630401849746704,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Machine Learning for Developers - Cohort 3 (Part 3)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5517969131469727,
+          "similarity": 0.7529948353767395,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "House Price Prediction",
+          "skills": [
+            "python",
+            "regression",
+            "scikit-learn"
+          ],
+          "type": "Regression",
+          "difficulty": "Beginner"
+        },
+        {
+          "title": "C, Tensorflow, Microservices, 5G, Django, Elasticsearch, Sql & Switching, Docker, Azure, Pandas, Aws, Spark, Python & Switching, Docker, Azure, Pandas, Aws, Spark, Python, Tensorflow Integration Lab",
+          "description": "Set up a practical lab environment to experiment with C, Tensorflow, Microservices, 5G, Django, Elasticsearch, Sql & Switching, Docker, Azure, Pandas, Aws, Spark, Python & Switching, Docker, Azure, Pandas, Aws, Spark, Python, Tensorflow configurations and troubleshooting.",
+          "difficulty": "Beginner",
+          "skills_covered": [
+            "c, tensorflow, microservices, 5g, django, elasticsearch, sql",
+            "switching, docker, azure, pandas, aws, spark, python",
+            "switching, docker, azure, pandas, aws, spark, python, tensorflow"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "Intermediate",
+      "duration": "6-8 weeks",
+      "focus": "Application & Certification",
+      "skills": [],
+      "courses": [
+        {
+          "course_name": "AWS Academy Machine Learning Foundations - Cohort 9 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5486460328102112,
+          "similarity": 0.7477433681488037,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Machine Learning for Developers - Cohort 15 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5481547117233276,
+          "similarity": 0.7469245195388794,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AI Talent Program - Cohort 3 (Part 2)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.5401486158370972,
+          "similarity": 0.7335809469223022,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "Image Classification with CNNs",
+          "skills": [
+            "tensorflow",
+            "deep learning",
+            "cnn"
+          ],
+          "type": "Computer Vision",
+          "difficulty": "Intermediate"
+        },
+        {
+          "title": "Build a Mid-Level Machine Learning Engineer Pipeline using C, Tensorflow, Microservices, 5G, Django, Elasticsearch, Sql & Switching, Docker, Azure, Pandas, Aws, Spark, Python & Switching, Docker, Azure, Pandas, Aws, Spark, Python, Tensorflow",
+          "description": "Create a comprehensive project that demonstrates your mastery of C, Tensorflow, Microservices, 5G, Django, Elasticsearch, Sql & Switching, Docker, Azure, Pandas, Aws, Spark, Python & Switching, Docker, Azure, Pandas, Aws, Spark, Python, Tensorflow. Focus on real-world application.",
+          "difficulty": "Intermediate",
+          "skills_covered": [
+            "c, tensorflow, microservices, 5g, django, elasticsearch, sql",
+            "switching, docker, azure, pandas, aws, spark, python",
+            "switching, docker, azure, pandas, aws, spark, python, tensorflow"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "Advanced",
+      "duration": "8-10 weeks",
+      "focus": "Mastery & Job Readiness",
+      "skills": [],
+      "courses": [
+        {
+          "course_name": "AI Talent Program - Cohort 6 (Part 3)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.5233039855957031,
+          "similarity": 0.7055066227912903,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AI Talent Program - Cohort 15 (Part 3)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.5209892988204956,
+          "similarity": 0.7016488313674927,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AI Talent Program - Cohort 11 (Part 1)",
+          "provider": "Huawei",
+          "level": "Intermediate",
+          "score": 0.4914899468421936,
+          "similarity": 0.6858165264129639,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "End-to-End NLP Chatbot",
+          "skills": [
+            "nlp",
+            "transformers",
+            "deployment"
+          ],
+          "type": "NLP",
+          "difficulty": "Advanced"
+        },
+        {
+          "title": "Develop a Cloud-Native Application with C, Tensorflow, Microservices, 5G, Django, Elasticsearch, Sql & Switching, Docker, Azure, Pandas, Aws, Spark, Python & Switching, Docker, Azure, Pandas, Aws, Spark, Python, Tensorflow",
+          "description": "Deploy a scalable application integrating C, Tensorflow, Microservices, 5G, Django, Elasticsearch, Sql & Switching, Docker, Azure, Pandas, Aws, Spark, Python & Switching, Docker, Azure, Pandas, Aws, Spark, Python, Tensorflow to solve a specific business problem.",
+          "difficulty": "Advanced",
+          "skills_covered": [
+            "c, tensorflow, microservices, 5g, django, elasticsearch, sql",
+            "switching, docker, azure, pandas, aws, spark, python",
+            "switching, docker, azure, pandas, aws, spark, python, tensorflow"
+          ]
+        }
+      ],
+      "internships": [
+        {
+          "company": "Smartdata Labs Group",
+          "role": "Junior Machine Learning Engineer",
+          "match": 0.6080892086029053,
+          "location": "Suez",
+          "missing_skills": []
+        },
+        {
+          "company": "Pyramid Solutions Group",
+          "role": "Junior Machine Learning Engineer",
+          "match": 0.5900564193725586,
+          "location": "Aswan",
+          "missing_skills": []
+        },
+        {
+          "company": "Smartdata Labs Solutions",
+          "role": "Junior Machine Learning Engineer",
+          "match": 0.5865726470947266,
+          "location": "Suez",
+          "missing_skills": []
+        }
+      ]
+    }
+  ]
+}

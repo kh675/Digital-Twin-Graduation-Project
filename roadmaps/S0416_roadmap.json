@@ -1,0 +1,213 @@
+{
+  "student_id": "S0416",
+  "career_path": "Software",
+  "career_source": "Prediction",
+  "generated_at": "2025-11-29",
+  "certification_path": [
+    "Oracle Java Associate",
+    "Meta Front-End Developer",
+    "AWS Developer Associate"
+  ],
+  "stages": [
+    {
+      "stage": "Beginner",
+      "duration": "4-6 weeks",
+      "focus": "Fundamentals & Top Gaps",
+      "skills": [
+        "aws, numpy, hipaa, computer vision, react, kubernetes, sql",
+        "microservices, aws, c, ansible, routing, ci/cd",
+        "microservices, aws, c, ansible, routing, ci/cd, kubernetes, python, tensorflow",
+        "microservices, aws, c, ansible, routing, ci/cd, sql, docker",
+        "pandas, elasticsearch, react, node.js, numpy, microservices, aws"
+      ],
+      "courses": [
+        {
+          "course_name": "AWS Academy Cloud Foundations - Cohort 9 (Part 2)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5377982258796692,
+          "similarity": 0.7296636700630188,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Cloud Foundations - Cohort 9 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5329525470733643,
+          "similarity": 0.7215875387191772,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Cloud Foundations - Cohort 9 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5297892689704895,
+          "similarity": 0.7163153886795044,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "Personal Portfolio Website",
+          "skills": [
+            "html",
+            "css",
+            "javascript"
+          ],
+          "type": "Frontend",
+          "difficulty": "Beginner"
+        },
+        {
+          "title": "Aws, Numpy, Hipaa, Computer Vision, React, Kubernetes, Sql & Microservices, Aws, C, Ansible, Routing, Ci/Cd & Microservices, Aws, C, Ansible, Routing, Ci/Cd, Kubernetes, Python, Tensorflow Integration Lab",
+          "description": "Set up a practical lab environment to experiment with Aws, Numpy, Hipaa, Computer Vision, React, Kubernetes, Sql & Microservices, Aws, C, Ansible, Routing, Ci/Cd & Microservices, Aws, C, Ansible, Routing, Ci/Cd, Kubernetes, Python, Tensorflow configurations and troubleshooting.",
+          "difficulty": "Beginner",
+          "skills_covered": [
+            "aws, numpy, hipaa, computer vision, react, kubernetes, sql",
+            "microservices, aws, c, ansible, routing, ci/cd",
+            "microservices, aws, c, ansible, routing, ci/cd, kubernetes, python, tensorflow"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "Intermediate",
+      "duration": "6-8 weeks",
+      "focus": "Application & Certification",
+      "skills": [],
+      "courses": [
+        {
+          "course_name": "AWS Academy Cloud Foundations - Cohort 3 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5285638570785522,
+          "similarity": 0.7142730355262756,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Cloud Foundations - Cohort 15 (Part 3)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5270709991455078,
+          "similarity": 0.7117849588394165,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "HCIA-Cloud Computing - Cohort 12 (Part 3)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.4468890130519867,
+          "similarity": 0.578148365020752,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "REST API for Task Management",
+          "skills": [
+            "nodejs",
+            "express",
+            "mongodb"
+          ],
+          "type": "Backend",
+          "difficulty": "Intermediate"
+        },
+        {
+          "title": "Build a Principal Frontend Developer Pipeline using Aws, Numpy, Hipaa, Computer Vision, React, Kubernetes, Sql & Microservices, Aws, C, Ansible, Routing, Ci/Cd & Microservices, Aws, C, Ansible, Routing, Ci/Cd, Kubernetes, Python, Tensorflow",
+          "description": "Create a comprehensive project that demonstrates your mastery of Aws, Numpy, Hipaa, Computer Vision, React, Kubernetes, Sql & Microservices, Aws, C, Ansible, Routing, Ci/Cd & Microservices, Aws, C, Ansible, Routing, Ci/Cd, Kubernetes, Python, Tensorflow. Focus on real-world application.",
+          "difficulty": "Intermediate",
+          "skills_covered": [
+            "aws, numpy, hipaa, computer vision, react, kubernetes, sql",
+            "microservices, aws, c, ansible, routing, ci/cd",
+            "microservices, aws, c, ansible, routing, ci/cd, kubernetes, python, tensorflow"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "Advanced",
+      "duration": "8-10 weeks",
+      "focus": "Mastery & Job Readiness",
+      "skills": [],
+      "courses": [
+        {
+          "course_name": "HCIA-Cloud Computing - Cohort 12 (Part 1)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.4464336931705475,
+          "similarity": 0.5773894786834717,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "HCIP-Cloud Computing - Cohort 6 (Part 1)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.44527074694633484,
+          "similarity": 0.5754512548446655,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "HCIA-Cloud Computing - Cohort 15 (Part 1)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.44370290637016296,
+          "similarity": 0.5728381872177124,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "Full Stack E-commerce Platform",
+          "skills": [
+            "react",
+            "redux",
+            "stripe integration"
+          ],
+          "type": "Full Stack",
+          "difficulty": "Advanced"
+        },
+        {
+          "title": "Develop a Cloud-Native Application with Aws, Numpy, Hipaa, Computer Vision, React, Kubernetes, Sql & Microservices, Aws, C, Ansible, Routing, Ci/Cd & Microservices, Aws, C, Ansible, Routing, Ci/Cd, Kubernetes, Python, Tensorflow",
+          "description": "Deploy a scalable application integrating Aws, Numpy, Hipaa, Computer Vision, React, Kubernetes, Sql & Microservices, Aws, C, Ansible, Routing, Ci/Cd & Microservices, Aws, C, Ansible, Routing, Ci/Cd, Kubernetes, Python, Tensorflow to solve a specific business problem.",
+          "difficulty": "Advanced",
+          "skills_covered": [
+            "aws, numpy, hipaa, computer vision, react, kubernetes, sql",
+            "microservices, aws, c, ansible, routing, ci/cd",
+            "microservices, aws, c, ansible, routing, ci/cd, kubernetes, python, tensorflow"
+          ]
+        }
+      ],
+      "internships": [
+        {
+          "company": "Smartdata Labs Solutions",
+          "role": "Junior Machine Learning Engineer",
+          "match": 0.5503628253936768,
+          "location": "Suez",
+          "missing_skills": []
+        },
+        {
+          "company": "Smartdata Labs Group",
+          "role": "Junior Machine Learning Engineer",
+          "match": 0.5500863790512085,
+          "location": "Suez",
+          "missing_skills": []
+        },
+        {
+          "company": "Pyramid Solutions Group",
+          "role": "Junior Quality Assurance Engineer",
+          "match": 0.534142017364502,
+          "location": "Hurghada",
+          "missing_skills": []
+        }
+      ]
+    }
+  ]
+}

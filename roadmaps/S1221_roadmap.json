@@ -1,0 +1,213 @@
+{
+  "student_id": "S1221",
+  "career_path": "Software",
+  "career_source": "Prediction",
+  "generated_at": "2025-11-29",
+  "certification_path": [
+    "Oracle Java Associate",
+    "Meta Front-End Developer",
+    "AWS Developer Associate"
+  ],
+  "stages": [
+    {
+      "stage": "Beginner",
+      "duration": "4-6 weeks",
+      "focus": "Fundamentals & Top Gaps",
+      "skills": [
+        "microservices, aws, c, ansible, routing, ci/cd",
+        "microservices, aws, c, ansible, routing, ci/cd, kubernetes, python, tensorflow",
+        "microservices, aws, c, ansible, routing, ci/cd, node.js, kubernetes",
+        "microservices, aws, c, ansible, routing, ci/cd, node.js, sql",
+        "microservices, aws, c, ansible, routing, ci/cd, sql, docker"
+      ],
+      "courses": [
+        {
+          "course_name": "AWS Developer Path - Cohort 3 (Part 3)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5244050621986389,
+          "similarity": 0.707341730594635,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Developer Building Serverless Applications - Cohort 12 (Part 3)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5203697085380554,
+          "similarity": 0.7006161212921143,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Developer Path - Cohort 12 (Part 3)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.51888507604599,
+          "similarity": 0.6981417536735535,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "Personal Portfolio Website",
+          "skills": [
+            "html",
+            "css",
+            "javascript"
+          ],
+          "type": "Frontend",
+          "difficulty": "Beginner"
+        },
+        {
+          "title": "Microservices, Aws, C, Ansible, Routing, Ci/Cd & Microservices, Aws, C, Ansible, Routing, Ci/Cd, Kubernetes, Python, Tensorflow & Microservices, Aws, C, Ansible, Routing, Ci/Cd, Node.Js, Kubernetes Integration Lab",
+          "description": "Set up a practical lab environment to experiment with Microservices, Aws, C, Ansible, Routing, Ci/Cd & Microservices, Aws, C, Ansible, Routing, Ci/Cd, Kubernetes, Python, Tensorflow & Microservices, Aws, C, Ansible, Routing, Ci/Cd, Node.Js, Kubernetes configurations and troubleshooting.",
+          "difficulty": "Beginner",
+          "skills_covered": [
+            "microservices, aws, c, ansible, routing, ci/cd",
+            "microservices, aws, c, ansible, routing, ci/cd, kubernetes, python, tensorflow",
+            "microservices, aws, c, ansible, routing, ci/cd, node.js, kubernetes"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "Intermediate",
+      "duration": "6-8 weeks",
+      "focus": "Application & Certification",
+      "skills": [],
+      "courses": [
+        {
+          "course_name": "AWS Developer Path - Cohort 15 (Part 3)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5184925198554993,
+          "similarity": 0.697487473487854,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Developer Building Serverless Applications - Cohort 6 (Part 2)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5157766342163086,
+          "similarity": 0.6929610371589661,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "Big Data Developer - Cohort 9 (Part 1)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.44385290145874023,
+          "similarity": 0.5730881690979004,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "REST API for Task Management",
+          "skills": [
+            "nodejs",
+            "express",
+            "mongodb"
+          ],
+          "type": "Backend",
+          "difficulty": "Intermediate"
+        },
+        {
+          "title": "Build a Principal Frontend Developer Pipeline using Microservices, Aws, C, Ansible, Routing, Ci/Cd & Microservices, Aws, C, Ansible, Routing, Ci/Cd, Kubernetes, Python, Tensorflow & Microservices, Aws, C, Ansible, Routing, Ci/Cd, Node.Js, Kubernetes",
+          "description": "Create a comprehensive project that demonstrates your mastery of Microservices, Aws, C, Ansible, Routing, Ci/Cd & Microservices, Aws, C, Ansible, Routing, Ci/Cd, Kubernetes, Python, Tensorflow & Microservices, Aws, C, Ansible, Routing, Ci/Cd, Node.Js, Kubernetes. Focus on real-world application.",
+          "difficulty": "Intermediate",
+          "skills_covered": [
+            "microservices, aws, c, ansible, routing, ci/cd",
+            "microservices, aws, c, ansible, routing, ci/cd, kubernetes, python, tensorflow",
+            "microservices, aws, c, ansible, routing, ci/cd, node.js, kubernetes"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "Advanced",
+      "duration": "8-10 weeks",
+      "focus": "Mastery & Job Readiness",
+      "skills": [],
+      "courses": [
+        {
+          "course_name": "Huawei Big Data Developer - Cohort 6 (Part 3)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.43755507469177246,
+          "similarity": 0.5625917911529541,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "Huawei Big Data Developer - Cohort 15 (Part 1)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.43694260716438293,
+          "similarity": 0.5615710020065308,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "Big Data Developer - Cohort 6 (Part 1)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.43677592277526855,
+          "similarity": 0.5612931847572327,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "Full Stack E-commerce Platform",
+          "skills": [
+            "react",
+            "redux",
+            "stripe integration"
+          ],
+          "type": "Full Stack",
+          "difficulty": "Advanced"
+        },
+        {
+          "title": "Develop a Cloud-Native Application with Microservices, Aws, C, Ansible, Routing, Ci/Cd & Microservices, Aws, C, Ansible, Routing, Ci/Cd, Kubernetes, Python, Tensorflow & Microservices, Aws, C, Ansible, Routing, Ci/Cd, Node.Js, Kubernetes",
+          "description": "Deploy a scalable application integrating Microservices, Aws, C, Ansible, Routing, Ci/Cd & Microservices, Aws, C, Ansible, Routing, Ci/Cd, Kubernetes, Python, Tensorflow & Microservices, Aws, C, Ansible, Routing, Ci/Cd, Node.Js, Kubernetes to solve a specific business problem.",
+          "difficulty": "Advanced",
+          "skills_covered": [
+            "microservices, aws, c, ansible, routing, ci/cd",
+            "microservices, aws, c, ansible, routing, ci/cd, kubernetes, python, tensorflow",
+            "microservices, aws, c, ansible, routing, ci/cd, node.js, kubernetes"
+          ]
+        }
+      ],
+      "internships": [
+        {
+          "company": "Pyramid Solutions Ltd",
+          "role": "Junior Frontend Developer",
+          "match": 0.5688601136207581,
+          "location": "Giza",
+          "missing_skills": []
+        },
+        {
+          "company": "Pyramid Solutions Group",
+          "role": "Junior Frontend Developer",
+          "match": 0.5688601136207581,
+          "location": "Giza",
+          "missing_skills": []
+        },
+        {
+          "company": "Pyramid Solutions Egypt",
+          "role": "Junior Backend Developer",
+          "match": 0.5664961934089661,
+          "location": "Alexandria",
+          "missing_skills": []
+        }
+      ]
+    }
+  ]
+}

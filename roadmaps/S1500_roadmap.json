@@ -1,0 +1,213 @@
+{
+  "student_id": "S1500",
+  "career_path": "Software",
+  "career_source": "Prediction",
+  "generated_at": "2025-11-29",
+  "certification_path": [
+    "Oracle Java Associate",
+    "Meta Front-End Developer",
+    "AWS Developer Associate"
+  ],
+  "stages": [
+    {
+      "stage": "Beginner",
+      "duration": "4-6 weeks",
+      "focus": "Fundamentals & Top Gaps",
+      "skills": [
+        "microservices, aws, c, ansible, routing, ci/cd",
+        "microservices, aws, c, ansible, routing, ci/cd, node.js, kubernetes",
+        "microservices, aws, c, ansible, routing, ci/cd, node.js, sql",
+        "microservices, aws, c, ansible, routing, ci/cd, sql, docker",
+        "switching, ansible, docker, tensorflow, aws"
+      ],
+      "courses": [
+        {
+          "course_name": "AWS Academy Cloud Foundations - Cohort 3 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5411309599876404,
+          "similarity": 0.7352182269096375,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Cloud Foundations - Cohort 3 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5409223437309265,
+          "similarity": 0.7348704934120178,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Cloud Foundations - Cohort 15 (Part 3)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5407763123512268,
+          "similarity": 0.7346271872520447,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "Personal Portfolio Website",
+          "skills": [
+            "html",
+            "css",
+            "javascript"
+          ],
+          "type": "Frontend",
+          "difficulty": "Beginner"
+        },
+        {
+          "title": "Microservices, Aws, C, Ansible, Routing, Ci/Cd & Microservices, Aws, C, Ansible, Routing, Ci/Cd, Node.Js, Kubernetes & Microservices, Aws, C, Ansible, Routing, Ci/Cd, Node.Js, Sql Integration Lab",
+          "description": "Set up a practical lab environment to experiment with Microservices, Aws, C, Ansible, Routing, Ci/Cd & Microservices, Aws, C, Ansible, Routing, Ci/Cd, Node.Js, Kubernetes & Microservices, Aws, C, Ansible, Routing, Ci/Cd, Node.Js, Sql configurations and troubleshooting.",
+          "difficulty": "Beginner",
+          "skills_covered": [
+            "microservices, aws, c, ansible, routing, ci/cd",
+            "microservices, aws, c, ansible, routing, ci/cd, node.js, kubernetes",
+            "microservices, aws, c, ansible, routing, ci/cd, node.js, sql"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "Intermediate",
+      "duration": "6-8 weeks",
+      "focus": "Application & Certification",
+      "skills": [],
+      "courses": [
+        {
+          "course_name": "AWS Academy Cloud Foundations - Cohort 15 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5375416874885559,
+          "similarity": 0.7292360663414001,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Cloud Foundations - Cohort 9 (Part 2)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.536217212677002,
+          "similarity": 0.7270286679267883,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "HCIP-Datacom - Cohort 15 (Part 1)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.4439721405506134,
+          "similarity": 0.5732868909835815,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "REST API for Task Management",
+          "skills": [
+            "nodejs",
+            "express",
+            "mongodb"
+          ],
+          "type": "Backend",
+          "difficulty": "Intermediate"
+        },
+        {
+          "title": "Build a Principal Frontend Developer Pipeline using Microservices, Aws, C, Ansible, Routing, Ci/Cd & Microservices, Aws, C, Ansible, Routing, Ci/Cd, Node.Js, Kubernetes & Microservices, Aws, C, Ansible, Routing, Ci/Cd, Node.Js, Sql",
+          "description": "Create a comprehensive project that demonstrates your mastery of Microservices, Aws, C, Ansible, Routing, Ci/Cd & Microservices, Aws, C, Ansible, Routing, Ci/Cd, Node.Js, Kubernetes & Microservices, Aws, C, Ansible, Routing, Ci/Cd, Node.Js, Sql. Focus on real-world application.",
+          "difficulty": "Intermediate",
+          "skills_covered": [
+            "microservices, aws, c, ansible, routing, ci/cd",
+            "microservices, aws, c, ansible, routing, ci/cd, node.js, kubernetes",
+            "microservices, aws, c, ansible, routing, ci/cd, node.js, sql"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "Advanced",
+      "duration": "8-10 weeks",
+      "focus": "Mastery & Job Readiness",
+      "skills": [],
+      "courses": [
+        {
+          "course_name": "HCIP-Datacom - Cohort 12 (Part 1)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.44339460134506226,
+          "similarity": 0.5723243355751038,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "HCIP-Datacom - Cohort 3 (Part 1)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.43552538752555847,
+          "similarity": 0.5592089891433716,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "HCIP-Cloud Computing - Cohort 15 (Part 1)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.43323877453804016,
+          "similarity": 0.5553979277610779,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "Full Stack E-commerce Platform",
+          "skills": [
+            "react",
+            "redux",
+            "stripe integration"
+          ],
+          "type": "Full Stack",
+          "difficulty": "Advanced"
+        },
+        {
+          "title": "Develop a Cloud-Native Application with Microservices, Aws, C, Ansible, Routing, Ci/Cd & Microservices, Aws, C, Ansible, Routing, Ci/Cd, Node.Js, Kubernetes & Microservices, Aws, C, Ansible, Routing, Ci/Cd, Node.Js, Sql",
+          "description": "Deploy a scalable application integrating Microservices, Aws, C, Ansible, Routing, Ci/Cd & Microservices, Aws, C, Ansible, Routing, Ci/Cd, Node.Js, Kubernetes & Microservices, Aws, C, Ansible, Routing, Ci/Cd, Node.Js, Sql to solve a specific business problem.",
+          "difficulty": "Advanced",
+          "skills_covered": [
+            "microservices, aws, c, ansible, routing, ci/cd",
+            "microservices, aws, c, ansible, routing, ci/cd, node.js, kubernetes",
+            "microservices, aws, c, ansible, routing, ci/cd, node.js, sql"
+          ]
+        }
+      ],
+      "internships": [
+        {
+          "company": "Smartdata Labs Solutions",
+          "role": "Junior Machine Learning Engineer",
+          "match": 0.57757967710495,
+          "location": "Suez",
+          "missing_skills": []
+        },
+        {
+          "company": "Smartdata Labs Group",
+          "role": "Junior Machine Learning Engineer",
+          "match": 0.5667896270751953,
+          "location": "Suez",
+          "missing_skills": []
+        },
+        {
+          "company": "Smartdata Labs Solutions",
+          "role": "Junior Machine Learning Engineer",
+          "match": 0.565241277217865,
+          "location": "Suez",
+          "missing_skills": []
+        }
+      ]
+    }
+  ]
+}

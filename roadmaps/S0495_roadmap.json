@@ -1,0 +1,213 @@
+{
+  "student_id": "S0495",
+  "career_path": "Data",
+  "career_source": "Prediction",
+  "generated_at": "2025-11-29",
+  "certification_path": [
+    "Google Data Analytics",
+    "Azure Data Scientist Associate",
+    "IBM Data Science"
+  ],
+  "stages": [
+    {
+      "stage": "Beginner",
+      "duration": "4-6 weeks",
+      "focus": "Fundamentals & Top Gaps",
+      "skills": [
+        "azure, nosql, hipaa, react, node.js, aws, docker",
+        "docker, firewalls, hipaa, aws, node.js",
+        "docker, flask, git, azure",
+        "flask, computer vision, routing, sql",
+        "flask, computer vision, routing, sql, aws"
+      ],
+      "courses": [
+        {
+          "course_name": "AWS Data Analytics - Cohort 3 (Part 2)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.44808971881866455,
+          "similarity": 0.5801495313644409,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Data Analytics - Cohort 12 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.4443323314189911,
+          "similarity": 0.5738872289657593,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Data Analytics - Cohort 6 (Part 3)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.4421136677265167,
+          "similarity": 0.5701894164085388,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "Exploratory Data Analysis on Titanic Dataset",
+          "skills": [
+            "python",
+            "pandas",
+            "matplotlib"
+          ],
+          "type": "Analysis",
+          "difficulty": "Beginner"
+        },
+        {
+          "title": "Azure, Nosql, Hipaa, React, Node.Js, Aws, Docker & Docker, Firewalls, Hipaa, Aws, Node.Js & Docker, Flask, Git, Azure Integration Lab",
+          "description": "Set up a practical lab environment to experiment with Azure, Nosql, Hipaa, React, Node.Js, Aws, Docker & Docker, Firewalls, Hipaa, Aws, Node.Js & Docker, Flask, Git, Azure configurations and troubleshooting.",
+          "difficulty": "Beginner",
+          "skills_covered": [
+            "azure, nosql, hipaa, react, node.js, aws, docker",
+            "docker, firewalls, hipaa, aws, node.js",
+            "docker, flask, git, azure"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "Intermediate",
+      "duration": "6-8 weeks",
+      "focus": "Application & Certification",
+      "skills": [],
+      "courses": [
+        {
+          "course_name": "AWS Data Analytics - Cohort 9 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.4410789906978607,
+          "similarity": 0.568464994430542,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Data Analytics - Cohort 12 (Part 2)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.4407801330089569,
+          "similarity": 0.567966878414154,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "Huawei Data Warehouse and BI - Cohort 6 (Part 1)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.5781815648078918,
+          "similarity": 0.7969692349433899,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "E-commerce Sales Dashboard",
+          "skills": [
+            "sql",
+            "tableau",
+            "data cleaning"
+          ],
+          "type": "Visualization",
+          "difficulty": "Intermediate"
+        },
+        {
+          "title": "Build a Principal Data Scientist Pipeline using Azure, Nosql, Hipaa, React, Node.Js, Aws, Docker & Docker, Firewalls, Hipaa, Aws, Node.Js & Docker, Flask, Git, Azure",
+          "description": "Create a comprehensive project that demonstrates your mastery of Azure, Nosql, Hipaa, React, Node.Js, Aws, Docker & Docker, Firewalls, Hipaa, Aws, Node.Js & Docker, Flask, Git, Azure. Focus on real-world application.",
+          "difficulty": "Intermediate",
+          "skills_covered": [
+            "azure, nosql, hipaa, react, node.js, aws, docker",
+            "docker, firewalls, hipaa, aws, node.js",
+            "docker, flask, git, azure"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "Advanced",
+      "duration": "8-10 weeks",
+      "focus": "Mastery & Job Readiness",
+      "skills": [],
+      "courses": [
+        {
+          "course_name": "Huawei Data Warehouse and BI - Cohort 12 (Part 1)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.5739895701408386,
+          "similarity": 0.7899826169013977,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "Huawei Data Warehouse and BI - Cohort 12 (Part 3)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.5739112496376038,
+          "similarity": 0.7898520827293396,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "Huawei Data Warehouse and BI - Cohort 12 (Part 3)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.5722987055778503,
+          "similarity": 0.7871644496917725,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "Predictive Customer Churn Model",
+          "skills": [
+            "scikit-learn",
+            "feature engineering",
+            "modeling"
+          ],
+          "type": "ML",
+          "difficulty": "Advanced"
+        },
+        {
+          "title": "Develop a Cloud-Native Application with Azure, Nosql, Hipaa, React, Node.Js, Aws, Docker & Docker, Firewalls, Hipaa, Aws, Node.Js & Docker, Flask, Git, Azure",
+          "description": "Deploy a scalable application integrating Azure, Nosql, Hipaa, React, Node.Js, Aws, Docker & Docker, Firewalls, Hipaa, Aws, Node.Js & Docker, Flask, Git, Azure to solve a specific business problem.",
+          "difficulty": "Advanced",
+          "skills_covered": [
+            "azure, nosql, hipaa, react, node.js, aws, docker",
+            "docker, firewalls, hipaa, aws, node.js",
+            "docker, flask, git, azure"
+          ]
+        }
+      ],
+      "internships": [
+        {
+          "company": "Alex Tech Solutions",
+          "role": "Junior Backend Developer",
+          "match": 0.5205801129341125,
+          "location": "Hurghada",
+          "missing_skills": []
+        },
+        {
+          "company": "Pyramid Solutions Group",
+          "role": "Junior Data Scientist",
+          "match": 0.5175153613090515,
+          "location": "Cairo",
+          "missing_skills": []
+        },
+        {
+          "company": "Smartdata Labs Inc",
+          "role": "Junior Data Analyst",
+          "match": 0.5173354744911194,
+          "location": "Giza",
+          "missing_skills": []
+        }
+      ]
+    }
+  ]
+}

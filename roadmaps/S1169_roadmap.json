@@ -1,0 +1,213 @@
+{
+  "student_id": "S1169",
+  "career_path": "Software",
+  "career_source": "Prediction",
+  "generated_at": "2025-11-29",
+  "certification_path": [
+    "Oracle Java Associate",
+    "Meta Front-End Developer",
+    "AWS Developer Associate"
+  ],
+  "stages": [
+    {
+      "stage": "Beginner",
+      "duration": "4-6 weeks",
+      "focus": "Fundamentals & Top Gaps",
+      "skills": [
+        "microservices, aws, c, ansible, routing, ci/cd",
+        "microservices, aws, c, ansible, routing, ci/cd, kubernetes, python, tensorflow",
+        "microservices, aws, c, ansible, routing, ci/cd, node.js, kubernetes",
+        "microservices, aws, c, ansible, routing, ci/cd, node.js, sql",
+        "microservices, aws, c, ansible, routing, ci/cd, sql, docker"
+      ],
+      "courses": [
+        {
+          "course_name": "AWS Developer Path - Cohort 3 (Part 3)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5425729155540466,
+          "similarity": 0.7376214861869812,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Developer Path - Cohort 15 (Part 3)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5359055399894714,
+          "similarity": 0.726509153842926,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Developer Path - Cohort 12 (Part 3)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5340694785118103,
+          "similarity": 0.7234491109848022,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "Personal Portfolio Website",
+          "skills": [
+            "html",
+            "css",
+            "javascript"
+          ],
+          "type": "Frontend",
+          "difficulty": "Beginner"
+        },
+        {
+          "title": "Microservices, Aws, C, Ansible, Routing, Ci/Cd & Microservices, Aws, C, Ansible, Routing, Ci/Cd, Kubernetes, Python, Tensorflow & Microservices, Aws, C, Ansible, Routing, Ci/Cd, Node.Js, Kubernetes Integration Lab",
+          "description": "Set up a practical lab environment to experiment with Microservices, Aws, C, Ansible, Routing, Ci/Cd & Microservices, Aws, C, Ansible, Routing, Ci/Cd, Kubernetes, Python, Tensorflow & Microservices, Aws, C, Ansible, Routing, Ci/Cd, Node.Js, Kubernetes configurations and troubleshooting.",
+          "difficulty": "Beginner",
+          "skills_covered": [
+            "microservices, aws, c, ansible, routing, ci/cd",
+            "microservices, aws, c, ansible, routing, ci/cd, kubernetes, python, tensorflow",
+            "microservices, aws, c, ansible, routing, ci/cd, node.js, kubernetes"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "Intermediate",
+      "duration": "6-8 weeks",
+      "focus": "Application & Certification",
+      "skills": [],
+      "courses": [
+        {
+          "course_name": "AWS Developer Path - Cohort 15 (Part 3)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5275766849517822,
+          "similarity": 0.7126277685165405,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Developer Path - Cohort 12 (Part 3)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5258054137229919,
+          "similarity": 0.7096756100654602,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "Big Data Developer - Cohort 9 (Part 1)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.4488370716571808,
+          "similarity": 0.5813950896263123,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "REST API for Task Management",
+          "skills": [
+            "nodejs",
+            "express",
+            "mongodb"
+          ],
+          "type": "Backend",
+          "difficulty": "Intermediate"
+        },
+        {
+          "title": "Build a Principal Frontend Developer Pipeline using Microservices, Aws, C, Ansible, Routing, Ci/Cd & Microservices, Aws, C, Ansible, Routing, Ci/Cd, Kubernetes, Python, Tensorflow & Microservices, Aws, C, Ansible, Routing, Ci/Cd, Node.Js, Kubernetes",
+          "description": "Create a comprehensive project that demonstrates your mastery of Microservices, Aws, C, Ansible, Routing, Ci/Cd & Microservices, Aws, C, Ansible, Routing, Ci/Cd, Kubernetes, Python, Tensorflow & Microservices, Aws, C, Ansible, Routing, Ci/Cd, Node.Js, Kubernetes. Focus on real-world application.",
+          "difficulty": "Intermediate",
+          "skills_covered": [
+            "microservices, aws, c, ansible, routing, ci/cd",
+            "microservices, aws, c, ansible, routing, ci/cd, kubernetes, python, tensorflow",
+            "microservices, aws, c, ansible, routing, ci/cd, node.js, kubernetes"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "Advanced",
+      "duration": "8-10 weeks",
+      "focus": "Mastery & Job Readiness",
+      "skills": [],
+      "courses": [
+        {
+          "course_name": "Huawei Data Warehouse and BI - Cohort 6 (Part 1)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.44181424379348755,
+          "similarity": 0.5696904063224792,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "Huawei Big Data Developer - Cohort 15 (Part 1)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.4395945370197296,
+          "similarity": 0.5659908652305603,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "Huawei Data Warehouse and BI - Cohort 12 (Part 3)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.435295045375824,
+          "similarity": 0.5588250756263733,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "Full Stack E-commerce Platform",
+          "skills": [
+            "react",
+            "redux",
+            "stripe integration"
+          ],
+          "type": "Full Stack",
+          "difficulty": "Advanced"
+        },
+        {
+          "title": "Develop a Cloud-Native Application with Microservices, Aws, C, Ansible, Routing, Ci/Cd & Microservices, Aws, C, Ansible, Routing, Ci/Cd, Kubernetes, Python, Tensorflow & Microservices, Aws, C, Ansible, Routing, Ci/Cd, Node.Js, Kubernetes",
+          "description": "Deploy a scalable application integrating Microservices, Aws, C, Ansible, Routing, Ci/Cd & Microservices, Aws, C, Ansible, Routing, Ci/Cd, Kubernetes, Python, Tensorflow & Microservices, Aws, C, Ansible, Routing, Ci/Cd, Node.Js, Kubernetes to solve a specific business problem.",
+          "difficulty": "Advanced",
+          "skills_covered": [
+            "microservices, aws, c, ansible, routing, ci/cd",
+            "microservices, aws, c, ansible, routing, ci/cd, kubernetes, python, tensorflow",
+            "microservices, aws, c, ansible, routing, ci/cd, node.js, kubernetes"
+          ]
+        }
+      ],
+      "internships": [
+        {
+          "company": "Nilesoft Inc",
+          "role": "Junior Software Engineer",
+          "match": 0.6126444935798645,
+          "location": "Hurghada",
+          "missing_skills": []
+        },
+        {
+          "company": "Smartdata Labs Group",
+          "role": "Junior Machine Learning Engineer",
+          "match": 0.6094821691513062,
+          "location": "Suez",
+          "missing_skills": []
+        },
+        {
+          "company": "Smartdata Labs Solutions",
+          "role": "Junior Machine Learning Engineer",
+          "match": 0.6081621050834656,
+          "location": "Suez",
+          "missing_skills": []
+        }
+      ]
+    }
+  ]
+}

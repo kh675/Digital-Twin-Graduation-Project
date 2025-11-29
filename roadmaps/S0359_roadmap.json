@@ -1,0 +1,213 @@
+{
+  "student_id": "S0359",
+  "career_path": "Data",
+  "career_source": "Prediction",
+  "generated_at": "2025-11-29",
+  "certification_path": [
+    "Google Data Analytics",
+    "Azure Data Scientist Associate",
+    "IBM Data Science"
+  ],
+  "stages": [
+    {
+      "stage": "Beginner",
+      "duration": "4-6 weeks",
+      "focus": "Fundamentals & Top Gaps",
+      "skills": [
+        "flask, computer vision, routing, aws, node.js",
+        "flask, computer vision, routing, sql",
+        "flask, computer vision, routing, sql, aws",
+        "switching, pandas, numpy, flask, nlp, ansible, ci/cd",
+        "switching, pandas, numpy, flask, nlp, ansible, ci/cd, node.js, sql"
+      ],
+      "courses": [
+        {
+          "course_name": "AWS Academy Data Engineering - Cohort 9 (Part 3)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.4692462384700775,
+          "similarity": 0.6154103875160217,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Data Engineering - Cohort 9 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.4668615460395813,
+          "similarity": 0.6114358901977539,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Data Analytics - Cohort 6 (Part 3)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.4634481966495514,
+          "similarity": 0.6057469844818115,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "Exploratory Data Analysis on Titanic Dataset",
+          "skills": [
+            "python",
+            "pandas",
+            "matplotlib"
+          ],
+          "type": "Analysis",
+          "difficulty": "Beginner"
+        },
+        {
+          "title": "Flask, Computer Vision, Routing, Aws, Node.Js & Flask, Computer Vision, Routing, Sql & Flask, Computer Vision, Routing, Sql, Aws Integration Lab",
+          "description": "Set up a practical lab environment to experiment with Flask, Computer Vision, Routing, Aws, Node.Js & Flask, Computer Vision, Routing, Sql & Flask, Computer Vision, Routing, Sql, Aws configurations and troubleshooting.",
+          "difficulty": "Beginner",
+          "skills_covered": [
+            "flask, computer vision, routing, aws, node.js",
+            "flask, computer vision, routing, sql",
+            "flask, computer vision, routing, sql, aws"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "Intermediate",
+      "duration": "6-8 weeks",
+      "focus": "Application & Certification",
+      "skills": [],
+      "courses": [
+        {
+          "course_name": "AWS Academy Data Engineering - Cohort 6 (Part 2)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.46195188164711,
+          "similarity": 0.6032531261444092,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Data Analytics - Cohort 12 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.4612080156803131,
+          "similarity": 0.602013349533081,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "Big Data Developer - Cohort 3 (Part 2)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.5354238152503967,
+          "similarity": 0.7257063388824463,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "E-commerce Sales Dashboard",
+          "skills": [
+            "sql",
+            "tableau",
+            "data cleaning"
+          ],
+          "type": "Visualization",
+          "difficulty": "Intermediate"
+        },
+        {
+          "title": "Build a Principal Data Scientist Pipeline using Flask, Computer Vision, Routing, Aws, Node.Js & Flask, Computer Vision, Routing, Sql & Flask, Computer Vision, Routing, Sql, Aws",
+          "description": "Create a comprehensive project that demonstrates your mastery of Flask, Computer Vision, Routing, Aws, Node.Js & Flask, Computer Vision, Routing, Sql & Flask, Computer Vision, Routing, Sql, Aws. Focus on real-world application.",
+          "difficulty": "Intermediate",
+          "skills_covered": [
+            "flask, computer vision, routing, aws, node.js",
+            "flask, computer vision, routing, sql",
+            "flask, computer vision, routing, sql, aws"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "Advanced",
+      "duration": "8-10 weeks",
+      "focus": "Mastery & Job Readiness",
+      "skills": [],
+      "courses": [
+        {
+          "course_name": "Huawei Big Data Developer - Cohort 15 (Part 1)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.5344297289848328,
+          "similarity": 0.7240495085716248,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "Big Data Developer - Cohort 9 (Part 1)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.5334252119064331,
+          "similarity": 0.7223753333091736,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "Big Data Developer - Cohort 6 (Part 1)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.5316827297210693,
+          "similarity": 0.7194711565971375,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "Predictive Customer Churn Model",
+          "skills": [
+            "scikit-learn",
+            "feature engineering",
+            "modeling"
+          ],
+          "type": "ML",
+          "difficulty": "Advanced"
+        },
+        {
+          "title": "Develop a Cloud-Native Application with Flask, Computer Vision, Routing, Aws, Node.Js & Flask, Computer Vision, Routing, Sql & Flask, Computer Vision, Routing, Sql, Aws",
+          "description": "Deploy a scalable application integrating Flask, Computer Vision, Routing, Aws, Node.Js & Flask, Computer Vision, Routing, Sql & Flask, Computer Vision, Routing, Sql, Aws to solve a specific business problem.",
+          "difficulty": "Advanced",
+          "skills_covered": [
+            "flask, computer vision, routing, aws, node.js",
+            "flask, computer vision, routing, sql",
+            "flask, computer vision, routing, sql, aws"
+          ]
+        }
+      ],
+      "internships": [
+        {
+          "company": "Alex Tech Solutions",
+          "role": "Junior Backend Developer",
+          "match": 0.5447952747344971,
+          "location": "Hurghada",
+          "missing_skills": []
+        },
+        {
+          "company": "Smartdata Labs Inc",
+          "role": "Junior Data Analyst",
+          "match": 0.5431475639343262,
+          "location": "Giza",
+          "missing_skills": []
+        },
+        {
+          "company": "Pyramid Solutions Egypt",
+          "role": "Junior Backend Developer",
+          "match": 0.5385019183158875,
+          "location": "Alexandria",
+          "missing_skills": []
+        }
+      ]
+    }
+  ]
+}

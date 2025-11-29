@@ -1,0 +1,213 @@
+{
+  "student_id": "S0662",
+  "career_path": "Software",
+  "career_source": "Prediction",
+  "generated_at": "2025-11-29",
+  "certification_path": [
+    "Oracle Java Associate",
+    "Meta Front-End Developer",
+    "AWS Developer Associate"
+  ],
+  "stages": [
+    {
+      "stage": "Beginner",
+      "duration": "4-6 weeks",
+      "focus": "Fundamentals & Top Gaps",
+      "skills": [
+        "ci/cd, sql, nlp, iso27001, tensorflow, rest apis, react, python",
+        "flask, computer vision, routing, aws, node.js",
+        "flask, computer vision, routing, sql",
+        "flask, hadoop, tensorflow, git, react",
+        "switching, numpy, react, routing, hadoop, azure, javascript, kubernetes, tensorflow"
+      ],
+      "courses": [
+        {
+          "course_name": "AWS ML Specialty - Cohort 9 (Part 3)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.39243775606155396,
+          "similarity": 0.4873962700366974,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS ML Specialty - Cohort 15 (Part 3)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.3881147801876068,
+          "similarity": 0.48019129037857056,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Machine Learning Foundations - Cohort 12 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.3834569454193115,
+          "similarity": 0.47242823243141174,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "Personal Portfolio Website",
+          "skills": [
+            "html",
+            "css",
+            "javascript"
+          ],
+          "type": "Frontend",
+          "difficulty": "Beginner"
+        },
+        {
+          "title": "Ci/Cd, Sql, Nlp, Iso27001, Tensorflow, Rest Apis, React, Python & Flask, Computer Vision, Routing, Aws, Node.Js & Flask, Computer Vision, Routing, Sql Integration Lab",
+          "description": "Set up a practical lab environment to experiment with Ci/Cd, Sql, Nlp, Iso27001, Tensorflow, Rest Apis, React, Python & Flask, Computer Vision, Routing, Aws, Node.Js & Flask, Computer Vision, Routing, Sql configurations and troubleshooting.",
+          "difficulty": "Beginner",
+          "skills_covered": [
+            "ci/cd, sql, nlp, iso27001, tensorflow, rest apis, react, python",
+            "flask, computer vision, routing, aws, node.js",
+            "flask, computer vision, routing, sql"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "Intermediate",
+      "duration": "6-8 weeks",
+      "focus": "Application & Certification",
+      "skills": [],
+      "courses": [
+        {
+          "course_name": "AWS Academy Machine Learning Foundations - Cohort 9 (Part 3)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.3815177381038666,
+          "similarity": 0.4691962003707886,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS ML Specialty - Cohort 12 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.3812630772590637,
+          "similarity": 0.4687717854976654,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "HCIP-AI-Developer - Cohort 12 (Part 3)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.5241637825965881,
+          "similarity": 0.7069396376609802,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "REST API for Task Management",
+          "skills": [
+            "nodejs",
+            "express",
+            "mongodb"
+          ],
+          "type": "Backend",
+          "difficulty": "Intermediate"
+        },
+        {
+          "title": "Build a Lead Mobile Developer Pipeline using Ci/Cd, Sql, Nlp, Iso27001, Tensorflow, Rest Apis, React, Python & Flask, Computer Vision, Routing, Aws, Node.Js & Flask, Computer Vision, Routing, Sql",
+          "description": "Create a comprehensive project that demonstrates your mastery of Ci/Cd, Sql, Nlp, Iso27001, Tensorflow, Rest Apis, React, Python & Flask, Computer Vision, Routing, Aws, Node.Js & Flask, Computer Vision, Routing, Sql. Focus on real-world application.",
+          "difficulty": "Intermediate",
+          "skills_covered": [
+            "ci/cd, sql, nlp, iso27001, tensorflow, rest apis, react, python",
+            "flask, computer vision, routing, aws, node.js",
+            "flask, computer vision, routing, sql"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "Advanced",
+      "duration": "8-10 weeks",
+      "focus": "Mastery & Job Readiness",
+      "skills": [],
+      "courses": [
+        {
+          "course_name": "HCIP-AI-Developer - Cohort 6 (Part 2)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.5183950066566467,
+          "similarity": 0.6973249316215515,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "HCIP-AI-Developer - Cohort 9 (Part 1)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.5180712938308716,
+          "similarity": 0.6967854499816895,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "HCIP-AI-Developer - Cohort 15 (Part 3)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.5161064267158508,
+          "similarity": 0.6935107111930847,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "Full Stack E-commerce Platform",
+          "skills": [
+            "react",
+            "redux",
+            "stripe integration"
+          ],
+          "type": "Full Stack",
+          "difficulty": "Advanced"
+        },
+        {
+          "title": "Develop a Cloud-Native Application with Ci/Cd, Sql, Nlp, Iso27001, Tensorflow, Rest Apis, React, Python & Flask, Computer Vision, Routing, Aws, Node.Js & Flask, Computer Vision, Routing, Sql",
+          "description": "Deploy a scalable application integrating Ci/Cd, Sql, Nlp, Iso27001, Tensorflow, Rest Apis, React, Python & Flask, Computer Vision, Routing, Aws, Node.Js & Flask, Computer Vision, Routing, Sql to solve a specific business problem.",
+          "difficulty": "Advanced",
+          "skills_covered": [
+            "ci/cd, sql, nlp, iso27001, tensorflow, rest apis, react, python",
+            "flask, computer vision, routing, aws, node.js",
+            "flask, computer vision, routing, sql"
+          ]
+        }
+      ],
+      "internships": [
+        {
+          "company": "Pyramid Solutions Group",
+          "role": "Junior Data Scientist",
+          "match": 0.5958237051963806,
+          "location": "Cairo",
+          "missing_skills": []
+        },
+        {
+          "company": "Masrsoft Solutions",
+          "role": "Junior Mobile Developer",
+          "match": 0.5913611650466919,
+          "location": "Tanta",
+          "missing_skills": []
+        },
+        {
+          "company": "Masrsoft Group",
+          "role": "Junior Mobile Developer",
+          "match": 0.5878539085388184,
+          "location": "Tanta",
+          "missing_skills": []
+        }
+      ]
+    }
+  ]
+}

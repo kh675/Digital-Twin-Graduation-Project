@@ -1,0 +1,213 @@
+{
+  "student_id": "S0351",
+  "career_path": "Data",
+  "career_source": "Prediction",
+  "generated_at": "2025-11-29",
+  "certification_path": [
+    "Google Data Analytics",
+    "Azure Data Scientist Associate",
+    "IBM Data Science"
+  ],
+  "stages": [
+    {
+      "stage": "Beginner",
+      "duration": "4-6 weeks",
+      "focus": "Fundamentals & Top Gaps",
+      "skills": [
+        "flask, computer vision, routing, sql, aws",
+        "rest apis, git, tcp/ip, terraform, python, aws, docker, sql",
+        "rest apis, git, tcp/ip, terraform, python, docker",
+        "rest apis, git, tcp/ip, terraform, python, node.js",
+        "rest apis, git, tcp/ip, terraform, python, tensorflow, kubernetes"
+      ],
+      "courses": [
+        {
+          "course_name": "AWS Academy Data Engineering - Cohort 9 (Part 3)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5422754883766174,
+          "similarity": 0.7371257543563843,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Data Engineering - Cohort 9 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5418562889099121,
+          "similarity": 0.7364271283149719,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Data Engineering - Cohort 9 (Part 3)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5409736633300781,
+          "similarity": 0.7349560260772705,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "Exploratory Data Analysis on Titanic Dataset",
+          "skills": [
+            "python",
+            "pandas",
+            "matplotlib"
+          ],
+          "type": "Analysis",
+          "difficulty": "Beginner"
+        },
+        {
+          "title": "Flask, Computer Vision, Routing, Sql, Aws & Rest Apis, Git, Tcp/Ip, Terraform, Python, Aws, Docker, Sql & Rest Apis, Git, Tcp/Ip, Terraform, Python, Docker Integration Lab",
+          "description": "Set up a practical lab environment to experiment with Flask, Computer Vision, Routing, Sql, Aws & Rest Apis, Git, Tcp/Ip, Terraform, Python, Aws, Docker, Sql & Rest Apis, Git, Tcp/Ip, Terraform, Python, Docker configurations and troubleshooting.",
+          "difficulty": "Beginner",
+          "skills_covered": [
+            "flask, computer vision, routing, sql, aws",
+            "rest apis, git, tcp/ip, terraform, python, aws, docker, sql",
+            "rest apis, git, tcp/ip, terraform, python, docker"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "Intermediate",
+      "duration": "6-8 weeks",
+      "focus": "Application & Certification",
+      "skills": [],
+      "courses": [
+        {
+          "course_name": "AWS Academy Data Engineering - Cohort 12 (Part 3)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5388303995132446,
+          "similarity": 0.7313839197158813,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Data Engineering - Cohort 12 (Part 2)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5388121604919434,
+          "similarity": 0.7313535213470459,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "Huawei Data Warehouse and BI - Cohort 6 (Part 1)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.5500566959381104,
+          "similarity": 0.750094473361969,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "E-commerce Sales Dashboard",
+          "skills": [
+            "sql",
+            "tableau",
+            "data cleaning"
+          ],
+          "type": "Visualization",
+          "difficulty": "Intermediate"
+        },
+        {
+          "title": "Build a Mid-Level Data Analyst Pipeline using Flask, Computer Vision, Routing, Sql, Aws & Rest Apis, Git, Tcp/Ip, Terraform, Python, Aws, Docker, Sql & Rest Apis, Git, Tcp/Ip, Terraform, Python, Docker",
+          "description": "Create a comprehensive project that demonstrates your mastery of Flask, Computer Vision, Routing, Sql, Aws & Rest Apis, Git, Tcp/Ip, Terraform, Python, Aws, Docker, Sql & Rest Apis, Git, Tcp/Ip, Terraform, Python, Docker. Focus on real-world application.",
+          "difficulty": "Intermediate",
+          "skills_covered": [
+            "flask, computer vision, routing, sql, aws",
+            "rest apis, git, tcp/ip, terraform, python, aws, docker, sql",
+            "rest apis, git, tcp/ip, terraform, python, docker"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "Advanced",
+      "duration": "8-10 weeks",
+      "focus": "Mastery & Job Readiness",
+      "skills": [],
+      "courses": [
+        {
+          "course_name": "Huawei Data Warehouse and BI - Cohort 12 (Part 3)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.5463398098945618,
+          "similarity": 0.7438996434211731,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "Huawei Data Warehouse and BI - Cohort 6 (Part 3)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.542819082736969,
+          "similarity": 0.7380317449569702,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "Huawei Big Data Developer - Cohort 15 (Part 1)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.5411549806594849,
+          "similarity": 0.7352582812309265,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "Predictive Customer Churn Model",
+          "skills": [
+            "scikit-learn",
+            "feature engineering",
+            "modeling"
+          ],
+          "type": "ML",
+          "difficulty": "Advanced"
+        },
+        {
+          "title": "Develop a Cloud-Native Application with Flask, Computer Vision, Routing, Sql, Aws & Rest Apis, Git, Tcp/Ip, Terraform, Python, Aws, Docker, Sql & Rest Apis, Git, Tcp/Ip, Terraform, Python, Docker",
+          "description": "Deploy a scalable application integrating Flask, Computer Vision, Routing, Sql, Aws & Rest Apis, Git, Tcp/Ip, Terraform, Python, Aws, Docker, Sql & Rest Apis, Git, Tcp/Ip, Terraform, Python, Docker to solve a specific business problem.",
+          "difficulty": "Advanced",
+          "skills_covered": [
+            "flask, computer vision, routing, sql, aws",
+            "rest apis, git, tcp/ip, terraform, python, aws, docker, sql",
+            "rest apis, git, tcp/ip, terraform, python, docker"
+          ]
+        }
+      ],
+      "internships": [
+        {
+          "company": "Pyramid Solutions Egypt",
+          "role": "Junior Backend Developer",
+          "match": 0.5191394686698914,
+          "location": "Alexandria",
+          "missing_skills": []
+        },
+        {
+          "company": "Pyramid Solutions Ltd",
+          "role": "Junior Data Analyst",
+          "match": 0.5070757865905762,
+          "location": "Suez",
+          "missing_skills": []
+        },
+        {
+          "company": "Pyramid Solutions Group",
+          "role": "Junior Data Analyst",
+          "match": 0.5051980018615723,
+          "location": "Suez",
+          "missing_skills": []
+        }
+      ]
+    }
+  ]
+}

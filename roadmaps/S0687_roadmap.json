@@ -1,0 +1,213 @@
+{
+  "student_id": "S0687",
+  "career_path": "Data",
+  "career_source": "Prediction",
+  "generated_at": "2025-11-29",
+  "certification_path": [
+    "Google Data Analytics",
+    "Azure Data Scientist Associate",
+    "IBM Data Science"
+  ],
+  "stages": [
+    {
+      "stage": "Beginner",
+      "duration": "4-6 weeks",
+      "focus": "Fundamentals & Top Gaps",
+      "skills": [
+        "microservices, aws, c, ansible, routing, ci/cd, sql, docker",
+        "rest apis, git, tcp/ip, terraform, python, aws, docker, sql",
+        "rest apis, git, tcp/ip, terraform, python, docker",
+        "rest apis, git, tcp/ip, terraform, python, node.js",
+        "rest apis, git, tcp/ip, terraform, python, node.js, react"
+      ],
+      "courses": [
+        {
+          "course_name": "AWS Academy Data Engineering - Cohort 12 (Part 2)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5295526385307312,
+          "similarity": 0.7159210443496704,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Data Engineering - Cohort 9 (Part 3)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5265279412269592,
+          "similarity": 0.7108798623085022,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Data Engineering - Cohort 9 (Part 3)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5262871384620667,
+          "similarity": 0.7104785442352295,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "Exploratory Data Analysis on Titanic Dataset",
+          "skills": [
+            "python",
+            "pandas",
+            "matplotlib"
+          ],
+          "type": "Analysis",
+          "difficulty": "Beginner"
+        },
+        {
+          "title": "Microservices, Aws, C, Ansible, Routing, Ci/Cd, Sql, Docker & Rest Apis, Git, Tcp/Ip, Terraform, Python, Aws, Docker, Sql & Rest Apis, Git, Tcp/Ip, Terraform, Python, Docker Integration Lab",
+          "description": "Set up a practical lab environment to experiment with Microservices, Aws, C, Ansible, Routing, Ci/Cd, Sql, Docker & Rest Apis, Git, Tcp/Ip, Terraform, Python, Aws, Docker, Sql & Rest Apis, Git, Tcp/Ip, Terraform, Python, Docker configurations and troubleshooting.",
+          "difficulty": "Beginner",
+          "skills_covered": [
+            "microservices, aws, c, ansible, routing, ci/cd, sql, docker",
+            "rest apis, git, tcp/ip, terraform, python, aws, docker, sql",
+            "rest apis, git, tcp/ip, terraform, python, docker"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "Intermediate",
+      "duration": "6-8 weeks",
+      "focus": "Application & Certification",
+      "skills": [],
+      "courses": [
+        {
+          "course_name": "AWS Academy Data Engineering - Cohort 9 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5249543786048889,
+          "similarity": 0.708257257938385,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Data Engineering - Cohort 12 (Part 3)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5246821045875549,
+          "similarity": 0.7078034281730652,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "Huawei Data Warehouse and BI - Cohort 6 (Part 1)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.5070223808288574,
+          "similarity": 0.6783705949783325,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "E-commerce Sales Dashboard",
+          "skills": [
+            "sql",
+            "tableau",
+            "data cleaning"
+          ],
+          "type": "Visualization",
+          "difficulty": "Intermediate"
+        },
+        {
+          "title": "Build a Mid-Level Data Analyst Pipeline using Microservices, Aws, C, Ansible, Routing, Ci/Cd, Sql, Docker & Rest Apis, Git, Tcp/Ip, Terraform, Python, Aws, Docker, Sql & Rest Apis, Git, Tcp/Ip, Terraform, Python, Docker",
+          "description": "Create a comprehensive project that demonstrates your mastery of Microservices, Aws, C, Ansible, Routing, Ci/Cd, Sql, Docker & Rest Apis, Git, Tcp/Ip, Terraform, Python, Aws, Docker, Sql & Rest Apis, Git, Tcp/Ip, Terraform, Python, Docker. Focus on real-world application.",
+          "difficulty": "Intermediate",
+          "skills_covered": [
+            "microservices, aws, c, ansible, routing, ci/cd, sql, docker",
+            "rest apis, git, tcp/ip, terraform, python, aws, docker, sql",
+            "rest apis, git, tcp/ip, terraform, python, docker"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "Advanced",
+      "duration": "8-10 weeks",
+      "focus": "Mastery & Job Readiness",
+      "skills": [],
+      "courses": [
+        {
+          "course_name": "Huawei Big Data Developer - Cohort 6 (Part 3)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.505274772644043,
+          "similarity": 0.6754578948020935,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "Huawei Big Data Developer - Cohort 15 (Part 1)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.5047370195388794,
+          "similarity": 0.6745616793632507,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "Huawei Data Warehouse and BI - Cohort 12 (Part 3)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.5016329884529114,
+          "similarity": 0.6693882942199707,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "Predictive Customer Churn Model",
+          "skills": [
+            "scikit-learn",
+            "feature engineering",
+            "modeling"
+          ],
+          "type": "ML",
+          "difficulty": "Advanced"
+        },
+        {
+          "title": "Develop a Cloud-Native Application with Microservices, Aws, C, Ansible, Routing, Ci/Cd, Sql, Docker & Rest Apis, Git, Tcp/Ip, Terraform, Python, Aws, Docker, Sql & Rest Apis, Git, Tcp/Ip, Terraform, Python, Docker",
+          "description": "Deploy a scalable application integrating Microservices, Aws, C, Ansible, Routing, Ci/Cd, Sql, Docker & Rest Apis, Git, Tcp/Ip, Terraform, Python, Aws, Docker, Sql & Rest Apis, Git, Tcp/Ip, Terraform, Python, Docker to solve a specific business problem.",
+          "difficulty": "Advanced",
+          "skills_covered": [
+            "microservices, aws, c, ansible, routing, ci/cd, sql, docker",
+            "rest apis, git, tcp/ip, terraform, python, aws, docker, sql",
+            "rest apis, git, tcp/ip, terraform, python, docker"
+          ]
+        }
+      ],
+      "internships": [
+        {
+          "company": "Pyramid Solutions Egypt",
+          "role": "Junior Backend Developer",
+          "match": 0.599166989326477,
+          "location": "Alexandria",
+          "missing_skills": []
+        },
+        {
+          "company": "Pyramid Solutions Ltd",
+          "role": "Junior Data Analyst",
+          "match": 0.5912629961967468,
+          "location": "Suez",
+          "missing_skills": []
+        },
+        {
+          "company": "Pyramid Solutions Group",
+          "role": "Junior Machine Learning Engineer",
+          "match": 0.5907694697380066,
+          "location": "Aswan",
+          "missing_skills": []
+        }
+      ]
+    }
+  ]
+}

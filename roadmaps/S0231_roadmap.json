@@ -1,0 +1,212 @@
+{
+  "student_id": "S0231",
+  "career_path": "Software",
+  "career_source": "Prediction",
+  "generated_at": "2025-11-29",
+  "certification_path": [
+    "Oracle Java Associate",
+    "Meta Front-End Developer",
+    "AWS Developer Associate"
+  ],
+  "stages": [
+    {
+      "stage": "Beginner",
+      "duration": "4-6 weeks",
+      "focus": "Fundamentals & Top Gaps",
+      "skills": [
+        "flask, computer vision, routing, sql, aws",
+        "rest apis, javascript, nlp, pandas, ansible, switching, spark, aws, docker, sql",
+        "rest apis, javascript, nlp, pandas, ansible, switching, spark, node.js",
+        "rest apis, javascript, nlp, pandas, ansible, switching, spark, tensorflow, python"
+      ],
+      "courses": [
+        {
+          "course_name": "AWS Academy Machine Learning Foundations - Cohort 12 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.43955719470977783,
+          "similarity": 0.5659286379814148,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Machine Learning Foundations - Cohort 3 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.43268415331840515,
+          "similarity": 0.5544735789299011,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Machine Learning Foundations - Cohort 9 (Part 3)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.4318799674510956,
+          "similarity": 0.5531332492828369,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "Personal Portfolio Website",
+          "skills": [
+            "html",
+            "css",
+            "javascript"
+          ],
+          "type": "Frontend",
+          "difficulty": "Beginner"
+        },
+        {
+          "title": "Flask, Computer Vision, Routing, Sql, Aws & Rest Apis, Javascript, Nlp, Pandas, Ansible, Switching, Spark, Aws, Docker, Sql & Rest Apis, Javascript, Nlp, Pandas, Ansible, Switching, Spark, Node.Js Integration Lab",
+          "description": "Set up a practical lab environment to experiment with Flask, Computer Vision, Routing, Sql, Aws & Rest Apis, Javascript, Nlp, Pandas, Ansible, Switching, Spark, Aws, Docker, Sql & Rest Apis, Javascript, Nlp, Pandas, Ansible, Switching, Spark, Node.Js configurations and troubleshooting.",
+          "difficulty": "Beginner",
+          "skills_covered": [
+            "flask, computer vision, routing, sql, aws",
+            "rest apis, javascript, nlp, pandas, ansible, switching, spark, aws, docker, sql",
+            "rest apis, javascript, nlp, pandas, ansible, switching, spark, node.js"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "Intermediate",
+      "duration": "6-8 weeks",
+      "focus": "Application & Certification",
+      "skills": [],
+      "courses": [
+        {
+          "course_name": "AWS Academy Machine Learning Foundations - Cohort 6 (Part 3)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.4307446777820587,
+          "similarity": 0.5512410998344421,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS ML Specialty - Cohort 9 (Part 3)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.42897549271583557,
+          "similarity": 0.5482924580574036,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "Huawei Data Warehouse and BI - Cohort 6 (Part 1)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.536433756351471,
+          "similarity": 0.7273895740509033,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "REST API for Task Management",
+          "skills": [
+            "nodejs",
+            "express",
+            "mongodb"
+          ],
+          "type": "Backend",
+          "difficulty": "Intermediate"
+        },
+        {
+          "title": "Build a Lead Backend Developer Pipeline using Flask, Computer Vision, Routing, Sql, Aws & Rest Apis, Javascript, Nlp, Pandas, Ansible, Switching, Spark, Aws, Docker, Sql & Rest Apis, Javascript, Nlp, Pandas, Ansible, Switching, Spark, Node.Js",
+          "description": "Create a comprehensive project that demonstrates your mastery of Flask, Computer Vision, Routing, Sql, Aws & Rest Apis, Javascript, Nlp, Pandas, Ansible, Switching, Spark, Aws, Docker, Sql & Rest Apis, Javascript, Nlp, Pandas, Ansible, Switching, Spark, Node.Js. Focus on real-world application.",
+          "difficulty": "Intermediate",
+          "skills_covered": [
+            "flask, computer vision, routing, sql, aws",
+            "rest apis, javascript, nlp, pandas, ansible, switching, spark, aws, docker, sql",
+            "rest apis, javascript, nlp, pandas, ansible, switching, spark, node.js"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "Advanced",
+      "duration": "8-10 weeks",
+      "focus": "Mastery & Job Readiness",
+      "skills": [],
+      "courses": [
+        {
+          "course_name": "Huawei Data Warehouse and BI - Cohort 15 (Part 1)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.5309509634971619,
+          "similarity": 0.7182515263557434,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "Huawei Data Warehouse and BI - Cohort 12 (Part 1)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.5283186435699463,
+          "similarity": 0.7138643264770508,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "Huawei Data Warehouse and BI - Cohort 15 (Part 2)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.5280752182006836,
+          "similarity": 0.7134586572647095,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "Full Stack E-commerce Platform",
+          "skills": [
+            "react",
+            "redux",
+            "stripe integration"
+          ],
+          "type": "Full Stack",
+          "difficulty": "Advanced"
+        },
+        {
+          "title": "Develop a Cloud-Native Application with Flask, Computer Vision, Routing, Sql, Aws & Rest Apis, Javascript, Nlp, Pandas, Ansible, Switching, Spark, Aws, Docker, Sql & Rest Apis, Javascript, Nlp, Pandas, Ansible, Switching, Spark, Node.Js",
+          "description": "Deploy a scalable application integrating Flask, Computer Vision, Routing, Sql, Aws & Rest Apis, Javascript, Nlp, Pandas, Ansible, Switching, Spark, Aws, Docker, Sql & Rest Apis, Javascript, Nlp, Pandas, Ansible, Switching, Spark, Node.Js to solve a specific business problem.",
+          "difficulty": "Advanced",
+          "skills_covered": [
+            "flask, computer vision, routing, sql, aws",
+            "rest apis, javascript, nlp, pandas, ansible, switching, spark, aws, docker, sql",
+            "rest apis, javascript, nlp, pandas, ansible, switching, spark, node.js"
+          ]
+        }
+      ],
+      "internships": [
+        {
+          "company": "Pyramid Solutions Egypt",
+          "role": "Junior Backend Developer",
+          "match": 0.6489107012748718,
+          "location": "Alexandria",
+          "missing_skills": []
+        },
+        {
+          "company": "Pyramid Solutions Ltd",
+          "role": "Junior Backend Developer",
+          "match": 0.640157163143158,
+          "location": "Alexandria",
+          "missing_skills": []
+        },
+        {
+          "company": "Smartdata Labs Inc",
+          "role": "Junior Data Analyst",
+          "match": 0.6068665385246277,
+          "location": "Giza",
+          "missing_skills": []
+        }
+      ]
+    }
+  ]
+}

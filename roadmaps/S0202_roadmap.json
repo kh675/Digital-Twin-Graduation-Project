@@ -1,0 +1,213 @@
+{
+  "student_id": "S0202",
+  "career_path": "Software",
+  "career_source": "Prediction",
+  "generated_at": "2025-11-29",
+  "certification_path": [
+    "Oracle Java Associate",
+    "Meta Front-End Developer",
+    "AWS Developer Associate"
+  ],
+  "stages": [
+    {
+      "stage": "Beginner",
+      "duration": "4-6 weeks",
+      "focus": "Fundamentals & Top Gaps",
+      "skills": [
+        "linux, numpy, node.js, computer vision, ci/cd, docker, aws, tensorflow",
+        "linux, numpy, node.js, computer vision, ci/cd, docker, react",
+        "python, spark, tensorflow, aws",
+        "python, spark, tensorflow, react, aws",
+        "rest apis, javascript, nlp, pandas, ansible, switching, spark, tensorflow, python"
+      ],
+      "courses": [
+        {
+          "course_name": "AWS Academy Machine Learning Foundations - Cohort 12 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.4521080255508423,
+          "similarity": 0.5868467092514038,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Machine Learning Foundations - Cohort 9 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.4491064250469208,
+          "similarity": 0.5818440318107605,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Machine Learning Foundations - Cohort 9 (Part 3)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.4474320411682129,
+          "similarity": 0.5790534019470215,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "Personal Portfolio Website",
+          "skills": [
+            "html",
+            "css",
+            "javascript"
+          ],
+          "type": "Frontend",
+          "difficulty": "Beginner"
+        },
+        {
+          "title": "Linux, Numpy, Node.Js, Computer Vision, Ci/Cd, Docker, Aws, Tensorflow & Linux, Numpy, Node.Js, Computer Vision, Ci/Cd, Docker, React & Python, Spark, Tensorflow, Aws Integration Lab",
+          "description": "Set up a practical lab environment to experiment with Linux, Numpy, Node.Js, Computer Vision, Ci/Cd, Docker, Aws, Tensorflow & Linux, Numpy, Node.Js, Computer Vision, Ci/Cd, Docker, React & Python, Spark, Tensorflow, Aws configurations and troubleshooting.",
+          "difficulty": "Beginner",
+          "skills_covered": [
+            "linux, numpy, node.js, computer vision, ci/cd, docker, aws, tensorflow",
+            "linux, numpy, node.js, computer vision, ci/cd, docker, react",
+            "python, spark, tensorflow, aws"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "Intermediate",
+      "duration": "6-8 weeks",
+      "focus": "Application & Certification",
+      "skills": [],
+      "courses": [
+        {
+          "course_name": "AWS Academy Machine Learning Foundations - Cohort 9 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.4462520480155945,
+          "similarity": 0.5770867466926575,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Machine Learning Foundations - Cohort 9 (Part 3)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.44504514336586,
+          "similarity": 0.5750752091407776,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "HCIP-AI-Developer - Cohort 12 (Part 3)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.4681709110736847,
+          "similarity": 0.6136181950569153,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "REST API for Task Management",
+          "skills": [
+            "nodejs",
+            "express",
+            "mongodb"
+          ],
+          "type": "Backend",
+          "difficulty": "Intermediate"
+        },
+        {
+          "title": "Build a Principal Full Stack Developer Pipeline using Linux, Numpy, Node.Js, Computer Vision, Ci/Cd, Docker, Aws, Tensorflow & Linux, Numpy, Node.Js, Computer Vision, Ci/Cd, Docker, React & Python, Spark, Tensorflow, Aws",
+          "description": "Create a comprehensive project that demonstrates your mastery of Linux, Numpy, Node.Js, Computer Vision, Ci/Cd, Docker, Aws, Tensorflow & Linux, Numpy, Node.Js, Computer Vision, Ci/Cd, Docker, React & Python, Spark, Tensorflow, Aws. Focus on real-world application.",
+          "difficulty": "Intermediate",
+          "skills_covered": [
+            "linux, numpy, node.js, computer vision, ci/cd, docker, aws, tensorflow",
+            "linux, numpy, node.js, computer vision, ci/cd, docker, react",
+            "python, spark, tensorflow, aws"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "Advanced",
+      "duration": "8-10 weeks",
+      "focus": "Mastery & Job Readiness",
+      "skills": [],
+      "courses": [
+        {
+          "course_name": "HCIP-AI-Developer - Cohort 6 (Part 2)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.4592580795288086,
+          "similarity": 0.5987634658813477,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "HCIP-AI-Developer - Cohort 12 (Part 3)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.45535871386528015,
+          "similarity": 0.5922645330429077,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "HCIP-AI-Developer - Cohort 12 (Part 2)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.4550217390060425,
+          "similarity": 0.5917028784751892,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "Full Stack E-commerce Platform",
+          "skills": [
+            "react",
+            "redux",
+            "stripe integration"
+          ],
+          "type": "Full Stack",
+          "difficulty": "Advanced"
+        },
+        {
+          "title": "Develop a Cloud-Native Application with Linux, Numpy, Node.Js, Computer Vision, Ci/Cd, Docker, Aws, Tensorflow & Linux, Numpy, Node.Js, Computer Vision, Ci/Cd, Docker, React & Python, Spark, Tensorflow, Aws",
+          "description": "Deploy a scalable application integrating Linux, Numpy, Node.Js, Computer Vision, Ci/Cd, Docker, Aws, Tensorflow & Linux, Numpy, Node.Js, Computer Vision, Ci/Cd, Docker, React & Python, Spark, Tensorflow, Aws to solve a specific business problem.",
+          "difficulty": "Advanced",
+          "skills_covered": [
+            "linux, numpy, node.js, computer vision, ci/cd, docker, aws, tensorflow",
+            "linux, numpy, node.js, computer vision, ci/cd, docker, react",
+            "python, spark, tensorflow, aws"
+          ]
+        }
+      ],
+      "internships": [
+        {
+          "company": "Pyramid Solutions Ltd",
+          "role": "Junior Backend Developer",
+          "match": 0.5768390893936157,
+          "location": "Alexandria",
+          "missing_skills": []
+        },
+        {
+          "company": "Pyramid Solutions Egypt",
+          "role": "Junior Backend Developer",
+          "match": 0.5699656009674072,
+          "location": "Alexandria",
+          "missing_skills": []
+        },
+        {
+          "company": "Pyramid Solutions Egypt",
+          "role": "Junior Machine Learning Engineer",
+          "match": 0.5631265640258789,
+          "location": "Aswan",
+          "missing_skills": []
+        }
+      ]
+    }
+  ]
+}

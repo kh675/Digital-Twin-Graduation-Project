@@ -1,0 +1,213 @@
+{
+  "student_id": "S0309",
+  "career_path": "Cloud",
+  "career_source": "Prediction",
+  "generated_at": "2025-11-29",
+  "certification_path": [
+    "AWS Cloud Practitioner",
+    "AWS Solutions Architect Associate",
+    "Huawei HCIA Cloud"
+  ],
+  "stages": [
+    {
+      "stage": "Beginner",
+      "duration": "4-6 weeks",
+      "focus": "Fundamentals & Top Gaps",
+      "skills": [
+        "microservices, aws, c, ansible, routing, ci/cd",
+        "microservices, aws, c, ansible, routing, ci/cd, node.js, sql",
+        "microservices, aws, c, ansible, routing, ci/cd, sql, docker",
+        "pandas, elasticsearch, iso27001, routing, hadoop, terraform, javascript, docker, node.js",
+        "pandas, elasticsearch, react, node.js, numpy, microservices, aws"
+      ],
+      "courses": [
+        {
+          "course_name": "AWS Academy Data Engineering - Cohort 12 (Part 3)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5314938426017761,
+          "similarity": 0.7191563248634338,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Data Engineering - Cohort 9 (Part 3)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5289536714553833,
+          "similarity": 0.7149227261543274,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Data Engineering - Cohort 9 (Part 3)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5266258120536804,
+          "similarity": 0.7110429406166077,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "Static Website Hosting on AWS S3",
+          "skills": [
+            "aws",
+            "s3",
+            "dns"
+          ],
+          "type": "Infrastructure",
+          "difficulty": "Beginner"
+        },
+        {
+          "title": "Microservices, Aws, C, Ansible, Routing, Ci/Cd & Microservices, Aws, C, Ansible, Routing, Ci/Cd, Node.Js, Sql & Microservices, Aws, C, Ansible, Routing, Ci/Cd, Sql, Docker Integration Lab",
+          "description": "Set up a practical lab environment to experiment with Microservices, Aws, C, Ansible, Routing, Ci/Cd & Microservices, Aws, C, Ansible, Routing, Ci/Cd, Node.Js, Sql & Microservices, Aws, C, Ansible, Routing, Ci/Cd, Sql, Docker configurations and troubleshooting.",
+          "difficulty": "Beginner",
+          "skills_covered": [
+            "microservices, aws, c, ansible, routing, ci/cd",
+            "microservices, aws, c, ansible, routing, ci/cd, node.js, sql",
+            "microservices, aws, c, ansible, routing, ci/cd, sql, docker"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "Intermediate",
+      "duration": "6-8 weeks",
+      "focus": "Application & Certification",
+      "skills": [],
+      "courses": [
+        {
+          "course_name": "AWS Academy Data Engineering - Cohort 15 (Part 3)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5263351202011108,
+          "similarity": 0.7105585336685181,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Developer Path - Cohort 3 (Part 3)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.52530837059021,
+          "similarity": 0.7088472247123718,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "Huawei Data Warehouse and BI - Cohort 6 (Part 1)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.40721192955970764,
+          "similarity": 0.5120198726654053,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "Serverless API with Lambda & DynamoDB",
+          "skills": [
+            "aws lambda",
+            "api gateway",
+            "nosql"
+          ],
+          "type": "Backend",
+          "difficulty": "Intermediate"
+        },
+        {
+          "title": "Build a Lead Cloud Engineer Pipeline using Microservices, Aws, C, Ansible, Routing, Ci/Cd & Microservices, Aws, C, Ansible, Routing, Ci/Cd, Node.Js, Sql & Microservices, Aws, C, Ansible, Routing, Ci/Cd, Sql, Docker",
+          "description": "Create a comprehensive project that demonstrates your mastery of Microservices, Aws, C, Ansible, Routing, Ci/Cd & Microservices, Aws, C, Ansible, Routing, Ci/Cd, Node.Js, Sql & Microservices, Aws, C, Ansible, Routing, Ci/Cd, Sql, Docker. Focus on real-world application.",
+          "difficulty": "Intermediate",
+          "skills_covered": [
+            "microservices, aws, c, ansible, routing, ci/cd",
+            "microservices, aws, c, ansible, routing, ci/cd, node.js, sql",
+            "microservices, aws, c, ansible, routing, ci/cd, sql, docker"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "Advanced",
+      "duration": "8-10 weeks",
+      "focus": "Mastery & Job Readiness",
+      "skills": [],
+      "courses": [
+        {
+          "course_name": "HCIP-Datacom - Cohort 3 (Part 1)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.4024170935153961,
+          "similarity": 0.5040284991264343,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "Huawei Data Warehouse and BI - Cohort 12 (Part 3)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.40207257866859436,
+          "similarity": 0.5034542679786682,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "Huawei Data Warehouse and BI - Cohort 6 (Part 3)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.400812566280365,
+          "similarity": 0.5013542771339417,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "Multi-Tier Microservices Architecture",
+          "skills": [
+            "kubernetes",
+            "docker",
+            "terraform"
+          ],
+          "type": "DevOps",
+          "difficulty": "Advanced"
+        },
+        {
+          "title": "Develop a Cloud-Native Application with Microservices, Aws, C, Ansible, Routing, Ci/Cd & Microservices, Aws, C, Ansible, Routing, Ci/Cd, Node.Js, Sql & Microservices, Aws, C, Ansible, Routing, Ci/Cd, Sql, Docker",
+          "description": "Deploy a scalable application integrating Microservices, Aws, C, Ansible, Routing, Ci/Cd & Microservices, Aws, C, Ansible, Routing, Ci/Cd, Node.Js, Sql & Microservices, Aws, C, Ansible, Routing, Ci/Cd, Sql, Docker to solve a specific business problem.",
+          "difficulty": "Advanced",
+          "skills_covered": [
+            "microservices, aws, c, ansible, routing, ci/cd",
+            "microservices, aws, c, ansible, routing, ci/cd, node.js, sql",
+            "microservices, aws, c, ansible, routing, ci/cd, sql, docker"
+          ]
+        }
+      ],
+      "internships": [
+        {
+          "company": "Pyramid Solutions Ltd",
+          "role": "Junior Data Analyst",
+          "match": 0.599564790725708,
+          "location": "Suez",
+          "missing_skills": []
+        },
+        {
+          "company": "Pyramid Solutions Ltd",
+          "role": "Junior Frontend Developer",
+          "match": 0.5914938449859619,
+          "location": "Giza",
+          "missing_skills": []
+        },
+        {
+          "company": "Pyramid Solutions Group",
+          "role": "Junior Frontend Developer",
+          "match": 0.5914938449859619,
+          "location": "Giza",
+          "missing_skills": []
+        }
+      ]
+    }
+  ]
+}

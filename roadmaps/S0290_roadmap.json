@@ -1,0 +1,213 @@
+{
+  "student_id": "S0290",
+  "career_path": "Machine Learning",
+  "career_source": "Prediction",
+  "generated_at": "2025-11-29",
+  "certification_path": [
+    "TensorFlow Developer Certificate",
+    "AWS Machine Learning Specialty",
+    "DeepLearning.AI"
+  ],
+  "stages": [
+    {
+      "stage": "Beginner",
+      "duration": "4-6 weeks",
+      "focus": "Fundamentals & Top Gaps",
+      "skills": [
+        "pandas, hadoop, nosql, rest apis, hipaa, sql, terraform, node.js, aws",
+        "switching, docker, azure, pandas, aws, spark",
+        "switching, docker, azure, pandas, aws, spark, python",
+        "switching, docker, azure, pandas, aws, spark, python, tensorflow",
+        "tensorflow, pandas, pytorch, react, ansible, docker, sql"
+      ],
+      "courses": [
+        {
+          "course_name": "AWS Academy Machine Learning Foundations - Cohort 3 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5643627643585205,
+          "similarity": 0.7739378809928894,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Machine Learning for Developers - Cohort 3 (Part 3)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5625060796737671,
+          "similarity": 0.7708433866500854,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Machine Learning Foundations - Cohort 12 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5623453855514526,
+          "similarity": 0.7705756425857544,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "House Price Prediction",
+          "skills": [
+            "python",
+            "regression",
+            "scikit-learn"
+          ],
+          "type": "Regression",
+          "difficulty": "Beginner"
+        },
+        {
+          "title": "Pandas, Hadoop, Nosql, Rest Apis, Hipaa, Sql, Terraform, Node.Js, Aws & Switching, Docker, Azure, Pandas, Aws, Spark & Switching, Docker, Azure, Pandas, Aws, Spark, Python Integration Lab",
+          "description": "Set up a practical lab environment to experiment with Pandas, Hadoop, Nosql, Rest Apis, Hipaa, Sql, Terraform, Node.Js, Aws & Switching, Docker, Azure, Pandas, Aws, Spark & Switching, Docker, Azure, Pandas, Aws, Spark, Python configurations and troubleshooting.",
+          "difficulty": "Beginner",
+          "skills_covered": [
+            "pandas, hadoop, nosql, rest apis, hipaa, sql, terraform, node.js, aws",
+            "switching, docker, azure, pandas, aws, spark",
+            "switching, docker, azure, pandas, aws, spark, python"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "Intermediate",
+      "duration": "6-8 weeks",
+      "focus": "Application & Certification",
+      "skills": [],
+      "courses": [
+        {
+          "course_name": "AWS Academy Machine Learning for Developers - Cohort 15 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5570167303085327,
+          "similarity": 0.7616945505142212,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Machine Learning Foundations - Cohort 9 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5542693138122559,
+          "similarity": 0.7571154832839966,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AI Talent Program - Cohort 3 (Part 2)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.5276517271995544,
+          "similarity": 0.7127528190612793,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "Image Classification with CNNs",
+          "skills": [
+            "tensorflow",
+            "deep learning",
+            "cnn"
+          ],
+          "type": "Computer Vision",
+          "difficulty": "Intermediate"
+        },
+        {
+          "title": "Build a Mid-Level Machine Learning Engineer Pipeline using Pandas, Hadoop, Nosql, Rest Apis, Hipaa, Sql, Terraform, Node.Js, Aws & Switching, Docker, Azure, Pandas, Aws, Spark & Switching, Docker, Azure, Pandas, Aws, Spark, Python",
+          "description": "Create a comprehensive project that demonstrates your mastery of Pandas, Hadoop, Nosql, Rest Apis, Hipaa, Sql, Terraform, Node.Js, Aws & Switching, Docker, Azure, Pandas, Aws, Spark & Switching, Docker, Azure, Pandas, Aws, Spark, Python. Focus on real-world application.",
+          "difficulty": "Intermediate",
+          "skills_covered": [
+            "pandas, hadoop, nosql, rest apis, hipaa, sql, terraform, node.js, aws",
+            "switching, docker, azure, pandas, aws, spark",
+            "switching, docker, azure, pandas, aws, spark, python"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "Advanced",
+      "duration": "8-10 weeks",
+      "focus": "Mastery & Job Readiness",
+      "skills": [],
+      "courses": [
+        {
+          "course_name": "AI Talent Program - Cohort 6 (Part 3)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.5124087333679199,
+          "similarity": 0.6873478889465332,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AI Talent Program - Cohort 15 (Part 3)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.5080559849739075,
+          "similarity": 0.6800932288169861,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AI Talent Program - Cohort 11 (Part 1)",
+          "provider": "Huawei",
+          "level": "Intermediate",
+          "score": 0.4789969325065613,
+          "similarity": 0.6649948358535767,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "End-to-End NLP Chatbot",
+          "skills": [
+            "nlp",
+            "transformers",
+            "deployment"
+          ],
+          "type": "NLP",
+          "difficulty": "Advanced"
+        },
+        {
+          "title": "Develop a Cloud-Native Application with Pandas, Hadoop, Nosql, Rest Apis, Hipaa, Sql, Terraform, Node.Js, Aws & Switching, Docker, Azure, Pandas, Aws, Spark & Switching, Docker, Azure, Pandas, Aws, Spark, Python",
+          "description": "Deploy a scalable application integrating Pandas, Hadoop, Nosql, Rest Apis, Hipaa, Sql, Terraform, Node.Js, Aws & Switching, Docker, Azure, Pandas, Aws, Spark & Switching, Docker, Azure, Pandas, Aws, Spark, Python to solve a specific business problem.",
+          "difficulty": "Advanced",
+          "skills_covered": [
+            "pandas, hadoop, nosql, rest apis, hipaa, sql, terraform, node.js, aws",
+            "switching, docker, azure, pandas, aws, spark",
+            "switching, docker, azure, pandas, aws, spark, python"
+          ]
+        }
+      ],
+      "internships": [
+        {
+          "company": "Smartdata Labs Group",
+          "role": "Junior Machine Learning Engineer",
+          "match": 0.6217786073684692,
+          "location": "Suez",
+          "missing_skills": []
+        },
+        {
+          "company": "Smartdata Labs Solutions",
+          "role": "Junior Machine Learning Engineer",
+          "match": 0.6034359931945801,
+          "location": "Suez",
+          "missing_skills": []
+        },
+        {
+          "company": "Pyramid Solutions Group",
+          "role": "Junior Machine Learning Engineer",
+          "match": 0.6025119423866272,
+          "location": "Aswan",
+          "missing_skills": []
+        }
+      ]
+    }
+  ]
+}

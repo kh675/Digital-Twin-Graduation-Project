@@ -1,0 +1,213 @@
+{
+  "student_id": "S0118",
+  "career_path": "Software",
+  "career_source": "Prediction",
+  "generated_at": "2025-11-29",
+  "certification_path": [
+    "Oracle Java Associate",
+    "Meta Front-End Developer",
+    "AWS Developer Associate"
+  ],
+  "stages": [
+    {
+      "stage": "Beginner",
+      "duration": "4-6 weeks",
+      "focus": "Fundamentals & Top Gaps",
+      "skills": [
+        "flask, hadoop, tensorflow, git, react",
+        "flask, hadoop, tensorflow, git, react, aws",
+        "flask, hadoop, tensorflow, git, react, docker",
+        "python, spark, tensorflow, aws",
+        "python, spark, tensorflow, react, aws"
+      ],
+      "courses": [
+        {
+          "course_name": "AWS ML Specialty - Cohort 9 (Part 3)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.4835834503173828,
+          "similarity": 0.6393057107925415,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Machine Learning for Developers - Cohort 15 (Part 2)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.47284767031669617,
+          "similarity": 0.6214127540588379,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Machine Learning for Developers - Cohort 3 (Part 3)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.4699212312698364,
+          "similarity": 0.6165353655815125,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "Personal Portfolio Website",
+          "skills": [
+            "html",
+            "css",
+            "javascript"
+          ],
+          "type": "Frontend",
+          "difficulty": "Beginner"
+        },
+        {
+          "title": "Flask, Hadoop, Tensorflow, Git, React & Flask, Hadoop, Tensorflow, Git, React, Aws & Flask, Hadoop, Tensorflow, Git, React, Docker Integration Lab",
+          "description": "Set up a practical lab environment to experiment with Flask, Hadoop, Tensorflow, Git, React & Flask, Hadoop, Tensorflow, Git, React, Aws & Flask, Hadoop, Tensorflow, Git, React, Docker configurations and troubleshooting.",
+          "difficulty": "Beginner",
+          "skills_covered": [
+            "flask, hadoop, tensorflow, git, react",
+            "flask, hadoop, tensorflow, git, react, aws",
+            "flask, hadoop, tensorflow, git, react, docker"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "Intermediate",
+      "duration": "6-8 weeks",
+      "focus": "Application & Certification",
+      "skills": [],
+      "courses": [
+        {
+          "course_name": "AWS ML Specialty - Cohort 11 (Part 3)",
+          "provider": "AWS",
+          "level": "Intermediate",
+          "score": 0.46875643730163574,
+          "similarity": 0.6479274034500122,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Machine Learning for Developers - Cohort 15 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.4687249958515167,
+          "similarity": 0.6145416498184204,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "HCIP-AI-Developer - Cohort 12 (Part 3)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.5646036863327026,
+          "similarity": 0.7743394374847412,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "REST API for Task Management",
+          "skills": [
+            "nodejs",
+            "express",
+            "mongodb"
+          ],
+          "type": "Backend",
+          "difficulty": "Intermediate"
+        },
+        {
+          "title": "Build a Mid-Level Mobile Developer Pipeline using Flask, Hadoop, Tensorflow, Git, React & Flask, Hadoop, Tensorflow, Git, React, Aws & Flask, Hadoop, Tensorflow, Git, React, Docker",
+          "description": "Create a comprehensive project that demonstrates your mastery of Flask, Hadoop, Tensorflow, Git, React & Flask, Hadoop, Tensorflow, Git, React, Aws & Flask, Hadoop, Tensorflow, Git, React, Docker. Focus on real-world application.",
+          "difficulty": "Intermediate",
+          "skills_covered": [
+            "flask, hadoop, tensorflow, git, react",
+            "flask, hadoop, tensorflow, git, react, aws",
+            "flask, hadoop, tensorflow, git, react, docker"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "Advanced",
+      "duration": "8-10 weeks",
+      "focus": "Mastery & Job Readiness",
+      "skills": [],
+      "courses": [
+        {
+          "course_name": "HCIP-AI-Developer - Cohort 6 (Part 2)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.5643500089645386,
+          "similarity": 0.7739166021347046,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "HCIP-AI-Developer - Cohort 12 (Part 2)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.5624740123748779,
+          "similarity": 0.7707899808883667,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "HCIP-AI-Developer - Cohort 6 (Part 3)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.5619574785232544,
+          "similarity": 0.769929051399231,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "Full Stack E-commerce Platform",
+          "skills": [
+            "react",
+            "redux",
+            "stripe integration"
+          ],
+          "type": "Full Stack",
+          "difficulty": "Advanced"
+        },
+        {
+          "title": "Develop a Cloud-Native Application with Flask, Hadoop, Tensorflow, Git, React & Flask, Hadoop, Tensorflow, Git, React, Aws & Flask, Hadoop, Tensorflow, Git, React, Docker",
+          "description": "Deploy a scalable application integrating Flask, Hadoop, Tensorflow, Git, React & Flask, Hadoop, Tensorflow, Git, React, Aws & Flask, Hadoop, Tensorflow, Git, React, Docker to solve a specific business problem.",
+          "difficulty": "Advanced",
+          "skills_covered": [
+            "flask, hadoop, tensorflow, git, react",
+            "flask, hadoop, tensorflow, git, react, aws",
+            "flask, hadoop, tensorflow, git, react, docker"
+          ]
+        }
+      ],
+      "internships": [
+        {
+          "company": "Masrsoft Solutions",
+          "role": "Junior Mobile Developer",
+          "match": 0.6168123483657837,
+          "location": "Tanta",
+          "missing_skills": []
+        },
+        {
+          "company": "Futurevision Group",
+          "role": "Junior Quality Assurance Engineer",
+          "match": 0.6070598363876343,
+          "location": "Suez",
+          "missing_skills": []
+        },
+        {
+          "company": "Futurevision Solutions",
+          "role": "Junior Quality Assurance Engineer",
+          "match": 0.6070597767829895,
+          "location": "Suez",
+          "missing_skills": []
+        }
+      ]
+    }
+  ]
+}

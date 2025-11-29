@@ -1,0 +1,213 @@
+{
+  "student_id": "S0074",
+  "career_path": "Software",
+  "career_source": "Prediction",
+  "generated_at": "2025-11-29",
+  "certification_path": [
+    "Oracle Java Associate",
+    "Meta Front-End Developer",
+    "AWS Developer Associate"
+  ],
+  "stages": [
+    {
+      "stage": "Beginner",
+      "duration": "4-6 weeks",
+      "focus": "Fundamentals & Top Gaps",
+      "skills": [
+        "pandas, elasticsearch, react, node.js, numpy, microservices, python",
+        "pandas, elasticsearch, react, node.js, numpy, microservices, python, tensorflow",
+        "switching, pandas, numpy, flask, nlp, ansible, ci/cd",
+        "tensorflow, pandas, pytorch, react, ansible, docker, sql",
+        "tensorflow, pandas, pytorch, react, ansible, python"
+      ],
+      "courses": [
+        {
+          "course_name": "AWS ML Specialty - Cohort 9 (Part 3)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5198159217834473,
+          "similarity": 0.6996931433677673,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Machine Learning Foundations - Cohort 3 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5140705704689026,
+          "similarity": 0.6901175379753113,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Machine Learning Foundations - Cohort 12 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5134497284889221,
+          "similarity": 0.6890828013420105,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "Personal Portfolio Website",
+          "skills": [
+            "html",
+            "css",
+            "javascript"
+          ],
+          "type": "Frontend",
+          "difficulty": "Beginner"
+        },
+        {
+          "title": "Pandas, Elasticsearch, React, Node.Js, Numpy, Microservices, Python & Pandas, Elasticsearch, React, Node.Js, Numpy, Microservices, Python, Tensorflow & Switching, Pandas, Numpy, Flask, Nlp, Ansible, Ci/Cd Integration Lab",
+          "description": "Set up a practical lab environment to experiment with Pandas, Elasticsearch, React, Node.Js, Numpy, Microservices, Python & Pandas, Elasticsearch, React, Node.Js, Numpy, Microservices, Python, Tensorflow & Switching, Pandas, Numpy, Flask, Nlp, Ansible, Ci/Cd configurations and troubleshooting.",
+          "difficulty": "Beginner",
+          "skills_covered": [
+            "pandas, elasticsearch, react, node.js, numpy, microservices, python",
+            "pandas, elasticsearch, react, node.js, numpy, microservices, python, tensorflow",
+            "switching, pandas, numpy, flask, nlp, ansible, ci/cd"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "Intermediate",
+      "duration": "6-8 weeks",
+      "focus": "Application & Certification",
+      "skills": [],
+      "courses": [
+        {
+          "course_name": "AWS ML Specialty - Cohort 6 (Part 2)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5117681622505188,
+          "similarity": 0.6862801909446716,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS ML Specialty - Cohort 11 (Part 3)",
+          "provider": "AWS",
+          "level": "Intermediate",
+          "score": 0.5086841583251953,
+          "similarity": 0.7144735455513,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AI Talent Program - Cohort 3 (Part 2)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.5011584758758545,
+          "similarity": 0.6685974597930908,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "REST API for Task Management",
+          "skills": [
+            "nodejs",
+            "express",
+            "mongodb"
+          ],
+          "type": "Backend",
+          "difficulty": "Intermediate"
+        },
+        {
+          "title": "Build a Mid-Level Frontend Developer Pipeline using Pandas, Elasticsearch, React, Node.Js, Numpy, Microservices, Python & Pandas, Elasticsearch, React, Node.Js, Numpy, Microservices, Python, Tensorflow & Switching, Pandas, Numpy, Flask, Nlp, Ansible, Ci/Cd",
+          "description": "Create a comprehensive project that demonstrates your mastery of Pandas, Elasticsearch, React, Node.Js, Numpy, Microservices, Python & Pandas, Elasticsearch, React, Node.Js, Numpy, Microservices, Python, Tensorflow & Switching, Pandas, Numpy, Flask, Nlp, Ansible, Ci/Cd. Focus on real-world application.",
+          "difficulty": "Intermediate",
+          "skills_covered": [
+            "pandas, elasticsearch, react, node.js, numpy, microservices, python",
+            "pandas, elasticsearch, react, node.js, numpy, microservices, python, tensorflow",
+            "switching, pandas, numpy, flask, nlp, ansible, ci/cd"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "Advanced",
+      "duration": "8-10 weeks",
+      "focus": "Mastery & Job Readiness",
+      "skills": [],
+      "courses": [
+        {
+          "course_name": "AI Talent Program - Cohort 6 (Part 3)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.4861491918563843,
+          "similarity": 0.6435819864273071,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AI Talent Program - Cohort 15 (Part 3)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.4820823073387146,
+          "similarity": 0.6368038058280945,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "HCIA-AI - Cohort 9 (Part 1)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.46610358357429504,
+          "similarity": 0.6101726293563843,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "Full Stack E-commerce Platform",
+          "skills": [
+            "react",
+            "redux",
+            "stripe integration"
+          ],
+          "type": "Full Stack",
+          "difficulty": "Advanced"
+        },
+        {
+          "title": "Develop a Cloud-Native Application with Pandas, Elasticsearch, React, Node.Js, Numpy, Microservices, Python & Pandas, Elasticsearch, React, Node.Js, Numpy, Microservices, Python, Tensorflow & Switching, Pandas, Numpy, Flask, Nlp, Ansible, Ci/Cd",
+          "description": "Deploy a scalable application integrating Pandas, Elasticsearch, React, Node.Js, Numpy, Microservices, Python & Pandas, Elasticsearch, React, Node.Js, Numpy, Microservices, Python, Tensorflow & Switching, Pandas, Numpy, Flask, Nlp, Ansible, Ci/Cd to solve a specific business problem.",
+          "difficulty": "Advanced",
+          "skills_covered": [
+            "pandas, elasticsearch, react, node.js, numpy, microservices, python",
+            "pandas, elasticsearch, react, node.js, numpy, microservices, python, tensorflow",
+            "switching, pandas, numpy, flask, nlp, ansible, ci/cd"
+          ]
+        }
+      ],
+      "internships": [
+        {
+          "company": "Smartdata Labs Inc",
+          "role": "Junior Data Analyst",
+          "match": 0.6116887331008911,
+          "location": "Giza",
+          "missing_skills": []
+        },
+        {
+          "company": "Pharos Ai Egypt",
+          "role": "Junior Product Manager",
+          "match": 0.6061380505561829,
+          "location": "Hurghada",
+          "missing_skills": []
+        },
+        {
+          "company": "Pharos Ai Ltd",
+          "role": "Junior Product Manager",
+          "match": 0.6061380505561829,
+          "location": "Hurghada",
+          "missing_skills": []
+        }
+      ]
+    }
+  ]
+}

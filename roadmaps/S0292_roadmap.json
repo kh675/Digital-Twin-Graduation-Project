@@ -1,0 +1,212 @@
+{
+  "student_id": "S0292",
+  "career_path": "Software",
+  "career_source": "Prediction",
+  "generated_at": "2025-11-29",
+  "certification_path": [
+    "Oracle Java Associate",
+    "Meta Front-End Developer",
+    "AWS Developer Associate"
+  ],
+  "stages": [
+    {
+      "stage": "Beginner",
+      "duration": "4-6 weeks",
+      "focus": "Fundamentals & Top Gaps",
+      "skills": [
+        "microservices, aws, c, ansible, routing, ci/cd, sql, docker",
+        "switching, azure, routing, pytorch, ansible, aws, spark",
+        "switching, azure, routing, pytorch, ansible, aws, spark, kubernetes, python",
+        "switching, azure, routing, pytorch, ansible, aws, spark, python, docker, sql"
+      ],
+      "courses": [
+        {
+          "course_name": "AWS Academy Cloud Foundations - Cohort 9 (Part 2)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5154248476028442,
+          "similarity": 0.6923747062683105,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Cloud Foundations - Cohort 9 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5094200372695923,
+          "similarity": 0.682366669178009,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Cloud Foundations - Cohort 3 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5064742565155029,
+          "similarity": 0.6774570941925049,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "Personal Portfolio Website",
+          "skills": [
+            "html",
+            "css",
+            "javascript"
+          ],
+          "type": "Frontend",
+          "difficulty": "Beginner"
+        },
+        {
+          "title": "Microservices, Aws, C, Ansible, Routing, Ci/Cd, Sql, Docker & Switching, Azure, Routing, Pytorch, Ansible, Aws, Spark & Switching, Azure, Routing, Pytorch, Ansible, Aws, Spark, Kubernetes, Python Integration Lab",
+          "description": "Set up a practical lab environment to experiment with Microservices, Aws, C, Ansible, Routing, Ci/Cd, Sql, Docker & Switching, Azure, Routing, Pytorch, Ansible, Aws, Spark & Switching, Azure, Routing, Pytorch, Ansible, Aws, Spark, Kubernetes, Python configurations and troubleshooting.",
+          "difficulty": "Beginner",
+          "skills_covered": [
+            "microservices, aws, c, ansible, routing, ci/cd, sql, docker",
+            "switching, azure, routing, pytorch, ansible, aws, spark",
+            "switching, azure, routing, pytorch, ansible, aws, spark, kubernetes, python"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "Intermediate",
+      "duration": "6-8 weeks",
+      "focus": "Application & Certification",
+      "skills": [],
+      "courses": [
+        {
+          "course_name": "AWS Academy Cloud Foundations - Cohort 9 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5056772828102112,
+          "similarity": 0.6761287450790405,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Cloud Foundations - Cohort 15 (Part 3)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5035420656204224,
+          "similarity": 0.6725701093673706,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "Huawei Full-Stack Developer - Cohort 3 (Part 2)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.48859623074531555,
+          "similarity": 0.6476603746414185,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "REST API for Task Management",
+          "skills": [
+            "nodejs",
+            "express",
+            "mongodb"
+          ],
+          "type": "Backend",
+          "difficulty": "Intermediate"
+        },
+        {
+          "title": "Build a Mid-Level Backend Developer Pipeline using Microservices, Aws, C, Ansible, Routing, Ci/Cd, Sql, Docker & Switching, Azure, Routing, Pytorch, Ansible, Aws, Spark & Switching, Azure, Routing, Pytorch, Ansible, Aws, Spark, Kubernetes, Python",
+          "description": "Create a comprehensive project that demonstrates your mastery of Microservices, Aws, C, Ansible, Routing, Ci/Cd, Sql, Docker & Switching, Azure, Routing, Pytorch, Ansible, Aws, Spark & Switching, Azure, Routing, Pytorch, Ansible, Aws, Spark, Kubernetes, Python. Focus on real-world application.",
+          "difficulty": "Intermediate",
+          "skills_covered": [
+            "microservices, aws, c, ansible, routing, ci/cd, sql, docker",
+            "switching, azure, routing, pytorch, ansible, aws, spark",
+            "switching, azure, routing, pytorch, ansible, aws, spark, kubernetes, python"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "Advanced",
+      "duration": "8-10 weeks",
+      "focus": "Mastery & Job Readiness",
+      "skills": [],
+      "courses": [
+        {
+          "course_name": "Huawei Full-Stack Developer - Cohort 12 (Part 3)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.48724547028541565,
+          "similarity": 0.645409107208252,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "Huawei Full-Stack Developer - Cohort 12 (Part 2)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.48536503314971924,
+          "similarity": 0.6422750353813171,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "Huawei Full-Stack Developer - Cohort 9 (Part 3)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.482950896024704,
+          "similarity": 0.6382514834403992,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "Full Stack E-commerce Platform",
+          "skills": [
+            "react",
+            "redux",
+            "stripe integration"
+          ],
+          "type": "Full Stack",
+          "difficulty": "Advanced"
+        },
+        {
+          "title": "Develop a Cloud-Native Application with Microservices, Aws, C, Ansible, Routing, Ci/Cd, Sql, Docker & Switching, Azure, Routing, Pytorch, Ansible, Aws, Spark & Switching, Azure, Routing, Pytorch, Ansible, Aws, Spark, Kubernetes, Python",
+          "description": "Deploy a scalable application integrating Microservices, Aws, C, Ansible, Routing, Ci/Cd, Sql, Docker & Switching, Azure, Routing, Pytorch, Ansible, Aws, Spark & Switching, Azure, Routing, Pytorch, Ansible, Aws, Spark, Kubernetes, Python to solve a specific business problem.",
+          "difficulty": "Advanced",
+          "skills_covered": [
+            "microservices, aws, c, ansible, routing, ci/cd, sql, docker",
+            "switching, azure, routing, pytorch, ansible, aws, spark",
+            "switching, azure, routing, pytorch, ansible, aws, spark, kubernetes, python"
+          ]
+        }
+      ],
+      "internships": [
+        {
+          "company": "Cloudworks Egypt Inc",
+          "role": "Junior Full Stack Developer",
+          "match": 0.5557398796081543,
+          "location": "Suez",
+          "missing_skills": []
+        },
+        {
+          "company": "Nilesoft Inc",
+          "role": "Junior Software Engineer",
+          "match": 0.5484333038330078,
+          "location": "Hurghada",
+          "missing_skills": []
+        },
+        {
+          "company": "Cairocloud Ltd",
+          "role": "Junior Backend Developer",
+          "match": 0.543574869632721,
+          "location": "Aswan",
+          "missing_skills": []
+        }
+      ]
+    }
+  ]
+}

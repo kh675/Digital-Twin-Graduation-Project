@@ -1,0 +1,213 @@
+{
+  "student_id": "S1130",
+  "career_path": "Data",
+  "career_source": "Prediction",
+  "generated_at": "2025-11-29",
+  "certification_path": [
+    "Google Data Analytics",
+    "Azure Data Scientist Associate",
+    "IBM Data Science"
+  ],
+  "stages": [
+    {
+      "stage": "Beginner",
+      "duration": "4-6 weeks",
+      "focus": "Fundamentals & Top Gaps",
+      "skills": [
+        "microservices, javascript, flask, ansible, pytorch, routing, kubernetes, python, aws",
+        "node.js, django, python, kubernetes, git, react, aws",
+        "node.js, django, python, kubernetes, git, react, docker",
+        "node.js, django, python, kubernetes, git, react, tensorflow, aws",
+        "python, spark, tensorflow, aws"
+      ],
+      "courses": [
+        {
+          "course_name": "AWS Academy Machine Learning Foundations - Cohort 12 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5112553238868713,
+          "similarity": 0.6854254603385925,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Machine Learning Foundations - Cohort 3 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5098488926887512,
+          "similarity": 0.6830814480781555,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Machine Learning Foundations - Cohort 9 (Part 3)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.502899169921875,
+          "similarity": 0.6714985370635986,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "Exploratory Data Analysis on Titanic Dataset",
+          "skills": [
+            "python",
+            "pandas",
+            "matplotlib"
+          ],
+          "type": "Analysis",
+          "difficulty": "Beginner"
+        },
+        {
+          "title": "Microservices, Javascript, Flask, Ansible, Pytorch, Routing, Kubernetes, Python, Aws & Node.Js, Django, Python, Kubernetes, Git, React, Aws & Node.Js, Django, Python, Kubernetes, Git, React, Docker Integration Lab",
+          "description": "Set up a practical lab environment to experiment with Microservices, Javascript, Flask, Ansible, Pytorch, Routing, Kubernetes, Python, Aws & Node.Js, Django, Python, Kubernetes, Git, React, Aws & Node.Js, Django, Python, Kubernetes, Git, React, Docker configurations and troubleshooting.",
+          "difficulty": "Beginner",
+          "skills_covered": [
+            "microservices, javascript, flask, ansible, pytorch, routing, kubernetes, python, aws",
+            "node.js, django, python, kubernetes, git, react, aws",
+            "node.js, django, python, kubernetes, git, react, docker"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "Intermediate",
+      "duration": "6-8 weeks",
+      "focus": "Application & Certification",
+      "skills": [],
+      "courses": [
+        {
+          "course_name": "AWS Academy Machine Learning Foundations - Cohort 9 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5000630617141724,
+          "similarity": 0.6667717695236206,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Machine Learning Foundations - Cohort 9 (Part 3)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.49980977177619934,
+          "similarity": 0.6663495898246765,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AI Talent Program - Cohort 3 (Part 2)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.49981606006622314,
+          "similarity": 0.666360080242157,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "E-commerce Sales Dashboard",
+          "skills": [
+            "sql",
+            "tableau",
+            "data cleaning"
+          ],
+          "type": "Visualization",
+          "difficulty": "Intermediate"
+        },
+        {
+          "title": "Build a Principal Data Scientist Pipeline using Microservices, Javascript, Flask, Ansible, Pytorch, Routing, Kubernetes, Python, Aws & Node.Js, Django, Python, Kubernetes, Git, React, Aws & Node.Js, Django, Python, Kubernetes, Git, React, Docker",
+          "description": "Create a comprehensive project that demonstrates your mastery of Microservices, Javascript, Flask, Ansible, Pytorch, Routing, Kubernetes, Python, Aws & Node.Js, Django, Python, Kubernetes, Git, React, Aws & Node.Js, Django, Python, Kubernetes, Git, React, Docker. Focus on real-world application.",
+          "difficulty": "Intermediate",
+          "skills_covered": [
+            "microservices, javascript, flask, ansible, pytorch, routing, kubernetes, python, aws",
+            "node.js, django, python, kubernetes, git, react, aws",
+            "node.js, django, python, kubernetes, git, react, docker"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "Advanced",
+      "duration": "8-10 weeks",
+      "focus": "Mastery & Job Readiness",
+      "skills": [],
+      "courses": [
+        {
+          "course_name": "HCIA-AI - Cohort 9 (Part 1)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.4880145788192749,
+          "similarity": 0.6466909646987915,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "HCIP-AI-Developer - Cohort 12 (Part 2)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.4842265546321869,
+          "similarity": 0.6403775811195374,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "HCIP-AI-Developer - Cohort 15 (Part 2)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.4838751554489136,
+          "similarity": 0.6397919058799744,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "Predictive Customer Churn Model",
+          "skills": [
+            "scikit-learn",
+            "feature engineering",
+            "modeling"
+          ],
+          "type": "ML",
+          "difficulty": "Advanced"
+        },
+        {
+          "title": "Develop a Cloud-Native Application with Microservices, Javascript, Flask, Ansible, Pytorch, Routing, Kubernetes, Python, Aws & Node.Js, Django, Python, Kubernetes, Git, React, Aws & Node.Js, Django, Python, Kubernetes, Git, React, Docker",
+          "description": "Deploy a scalable application integrating Microservices, Javascript, Flask, Ansible, Pytorch, Routing, Kubernetes, Python, Aws & Node.Js, Django, Python, Kubernetes, Git, React, Aws & Node.Js, Django, Python, Kubernetes, Git, React, Docker to solve a specific business problem.",
+          "difficulty": "Advanced",
+          "skills_covered": [
+            "microservices, javascript, flask, ansible, pytorch, routing, kubernetes, python, aws",
+            "node.js, django, python, kubernetes, git, react, aws",
+            "node.js, django, python, kubernetes, git, react, docker"
+          ]
+        }
+      ],
+      "internships": [
+        {
+          "company": "Techsol Egypt Group",
+          "role": "Junior Data Scientist",
+          "match": 0.6160350441932678,
+          "location": "Aswan",
+          "missing_skills": []
+        },
+        {
+          "company": "Techsol Egypt Solutions",
+          "role": "Junior Machine Learning Engineer",
+          "match": 0.6083713173866272,
+          "location": "Mansoura",
+          "missing_skills": []
+        },
+        {
+          "company": "Cloudworks Egypt Solutions",
+          "role": "Junior Machine Learning Engineer",
+          "match": 0.605846107006073,
+          "location": "Alexandria",
+          "missing_skills": []
+        }
+      ]
+    }
+  ]
+}

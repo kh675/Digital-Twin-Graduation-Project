@@ -1,0 +1,213 @@
+{
+  "student_id": "S0500",
+  "career_path": "Data",
+  "career_source": "Prediction",
+  "generated_at": "2025-11-29",
+  "certification_path": [
+    "Google Data Analytics",
+    "Azure Data Scientist Associate",
+    "IBM Data Science"
+  ],
+  "stages": [
+    {
+      "stage": "Beginner",
+      "duration": "4-6 weeks",
+      "focus": "Fundamentals & Top Gaps",
+      "skills": [
+        "computer vision, switching, spark, c, aws, docker",
+        "django, react, 5g, sql, pandas, python, aws",
+        "flask, computer vision, routing, aws, node.js",
+        "flask, computer vision, routing, sql, aws",
+        "linux, 5g, routing, python, gcp, computer vision, aws, docker"
+      ],
+      "courses": [
+        {
+          "course_name": "AWS Academy Cloud Foundations - Cohort 9 (Part 2)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.51551753282547,
+          "similarity": 0.6925291419029236,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Cloud Foundations - Cohort 9 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5082217454910278,
+          "similarity": 0.68036949634552,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Cloud Foundations - Cohort 9 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5014675855636597,
+          "similarity": 0.6691125631332397,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "Exploratory Data Analysis on Titanic Dataset",
+          "skills": [
+            "python",
+            "pandas",
+            "matplotlib"
+          ],
+          "type": "Analysis",
+          "difficulty": "Beginner"
+        },
+        {
+          "title": "Computer Vision, Switching, Spark, C, Aws, Docker & Django, React, 5G, Sql, Pandas, Python, Aws & Flask, Computer Vision, Routing, Aws, Node.Js Integration Lab",
+          "description": "Set up a practical lab environment to experiment with Computer Vision, Switching, Spark, C, Aws, Docker & Django, React, 5G, Sql, Pandas, Python, Aws & Flask, Computer Vision, Routing, Aws, Node.Js configurations and troubleshooting.",
+          "difficulty": "Beginner",
+          "skills_covered": [
+            "computer vision, switching, spark, c, aws, docker",
+            "django, react, 5g, sql, pandas, python, aws",
+            "flask, computer vision, routing, aws, node.js"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "Intermediate",
+      "duration": "6-8 weeks",
+      "focus": "Application & Certification",
+      "skills": [],
+      "courses": [
+        {
+          "course_name": "AWS Academy Cloud Foundations - Cohort 3 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.4982442259788513,
+          "similarity": 0.663740336894989,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Machine Learning Foundations - Cohort 9 (Part 3)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.4976574182510376,
+          "similarity": 0.6627623438835144,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "HCIP-Cloud Computing - Cohort 6 (Part 1)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.5074795484542847,
+          "similarity": 0.6791325211524963,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "E-commerce Sales Dashboard",
+          "skills": [
+            "sql",
+            "tableau",
+            "data cleaning"
+          ],
+          "type": "Visualization",
+          "difficulty": "Intermediate"
+        },
+        {
+          "title": "Build a Principal Data Scientist Pipeline using Computer Vision, Switching, Spark, C, Aws, Docker & Django, React, 5G, Sql, Pandas, Python, Aws & Flask, Computer Vision, Routing, Aws, Node.Js",
+          "description": "Create a comprehensive project that demonstrates your mastery of Computer Vision, Switching, Spark, C, Aws, Docker & Django, React, 5G, Sql, Pandas, Python, Aws & Flask, Computer Vision, Routing, Aws, Node.Js. Focus on real-world application.",
+          "difficulty": "Intermediate",
+          "skills_covered": [
+            "computer vision, switching, spark, c, aws, docker",
+            "django, react, 5g, sql, pandas, python, aws",
+            "flask, computer vision, routing, aws, node.js"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "Advanced",
+      "duration": "8-10 weeks",
+      "focus": "Mastery & Job Readiness",
+      "skills": [],
+      "courses": [
+        {
+          "course_name": "HCIA-Cloud Computing - Cohort 3 (Part 2)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.5052657723426819,
+          "similarity": 0.6754428744316101,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "HCIP-Cloud Computing - Cohort 15 (Part 1)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.5001916289329529,
+          "similarity": 0.6669860482215881,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "HCIA-Cloud Computing - Cohort 12 (Part 3)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.4993036091327667,
+          "similarity": 0.6655060052871704,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "Predictive Customer Churn Model",
+          "skills": [
+            "scikit-learn",
+            "feature engineering",
+            "modeling"
+          ],
+          "type": "ML",
+          "difficulty": "Advanced"
+        },
+        {
+          "title": "Develop a Cloud-Native Application with Computer Vision, Switching, Spark, C, Aws, Docker & Django, React, 5G, Sql, Pandas, Python, Aws & Flask, Computer Vision, Routing, Aws, Node.Js",
+          "description": "Deploy a scalable application integrating Computer Vision, Switching, Spark, C, Aws, Docker & Django, React, 5G, Sql, Pandas, Python, Aws & Flask, Computer Vision, Routing, Aws, Node.Js to solve a specific business problem.",
+          "difficulty": "Advanced",
+          "skills_covered": [
+            "computer vision, switching, spark, c, aws, docker",
+            "django, react, 5g, sql, pandas, python, aws",
+            "flask, computer vision, routing, aws, node.js"
+          ]
+        }
+      ],
+      "internships": [
+        {
+          "company": "Cloudworks Egypt Inc",
+          "role": "Junior Full Stack Developer",
+          "match": 0.5774006247520447,
+          "location": "Suez",
+          "missing_skills": []
+        },
+        {
+          "company": "Cairocloud Ltd",
+          "role": "Junior Backend Developer",
+          "match": 0.5502398014068604,
+          "location": "Aswan",
+          "missing_skills": []
+        },
+        {
+          "company": "Cloudworks Egypt Inc",
+          "role": "Junior Machine Learning Engineer",
+          "match": 0.5457570552825928,
+          "location": "Tanta",
+          "missing_skills": []
+        }
+      ]
+    }
+  ]
+}

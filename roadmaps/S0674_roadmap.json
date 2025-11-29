@@ -1,0 +1,213 @@
+{
+  "student_id": "S0674",
+  "career_path": "Software",
+  "career_source": "Target Job",
+  "generated_at": "2025-11-29",
+  "certification_path": [
+    "Oracle Java Associate",
+    "Meta Front-End Developer",
+    "AWS Developer Associate"
+  ],
+  "stages": [
+    {
+      "stage": "Beginner",
+      "duration": "4-6 weeks",
+      "focus": "Fundamentals & Top Gaps",
+      "skills": [
+        "nlp, git, terraform, rest apis, firewalls, microservices, python, tensorflow, aws",
+        "switching, docker, azure, pandas, aws, spark, python",
+        "switching, docker, azure, pandas, aws, spark, python, tensorflow",
+        "tensorflow, pandas, pytorch, react, ansible, docker, sql",
+        "tensorflow, pandas, pytorch, react, ansible, python"
+      ],
+      "courses": [
+        {
+          "course_name": "AWS ML Specialty - Cohort 9 (Part 3)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5070971846580505,
+          "similarity": 0.6784952878952026,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Machine Learning Foundations - Cohort 3 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5015875697135925,
+          "similarity": 0.6693125367164612,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Machine Learning Foundations - Cohort 12 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5004689693450928,
+          "similarity": 0.6674482822418213,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "Personal Portfolio Website",
+          "skills": [
+            "html",
+            "css",
+            "javascript"
+          ],
+          "type": "Frontend",
+          "difficulty": "Beginner"
+        },
+        {
+          "title": "Nlp, Git, Terraform, Rest Apis, Firewalls, Microservices, Python, Tensorflow, Aws & Switching, Docker, Azure, Pandas, Aws, Spark, Python & Switching, Docker, Azure, Pandas, Aws, Spark, Python, Tensorflow Integration Lab",
+          "description": "Set up a practical lab environment to experiment with Nlp, Git, Terraform, Rest Apis, Firewalls, Microservices, Python, Tensorflow, Aws & Switching, Docker, Azure, Pandas, Aws, Spark, Python & Switching, Docker, Azure, Pandas, Aws, Spark, Python, Tensorflow configurations and troubleshooting.",
+          "difficulty": "Beginner",
+          "skills_covered": [
+            "nlp, git, terraform, rest apis, firewalls, microservices, python, tensorflow, aws",
+            "switching, docker, azure, pandas, aws, spark, python",
+            "switching, docker, azure, pandas, aws, spark, python, tensorflow"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "Intermediate",
+      "duration": "6-8 weeks",
+      "focus": "Application & Certification",
+      "skills": [],
+      "courses": [
+        {
+          "course_name": "AWS ML Specialty - Cohort 11 (Part 3)",
+          "provider": "AWS",
+          "level": "Intermediate",
+          "score": 0.496648371219635,
+          "similarity": 0.6944139003753662,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS ML Specialty - Cohort 6 (Part 2)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.4962290823459625,
+          "similarity": 0.6603817939758301,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AI Talent Program - Cohort 3 (Part 2)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.5099346041679382,
+          "similarity": 0.6832242608070374,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "REST API for Task Management",
+          "skills": [
+            "nodejs",
+            "express",
+            "mongodb"
+          ],
+          "type": "Backend",
+          "difficulty": "Intermediate"
+        },
+        {
+          "title": "Build a Mid-Level Frontend Developer Pipeline using Nlp, Git, Terraform, Rest Apis, Firewalls, Microservices, Python, Tensorflow, Aws & Switching, Docker, Azure, Pandas, Aws, Spark, Python & Switching, Docker, Azure, Pandas, Aws, Spark, Python, Tensorflow",
+          "description": "Create a comprehensive project that demonstrates your mastery of Nlp, Git, Terraform, Rest Apis, Firewalls, Microservices, Python, Tensorflow, Aws & Switching, Docker, Azure, Pandas, Aws, Spark, Python & Switching, Docker, Azure, Pandas, Aws, Spark, Python, Tensorflow. Focus on real-world application.",
+          "difficulty": "Intermediate",
+          "skills_covered": [
+            "nlp, git, terraform, rest apis, firewalls, microservices, python, tensorflow, aws",
+            "switching, docker, azure, pandas, aws, spark, python",
+            "switching, docker, azure, pandas, aws, spark, python, tensorflow"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "Advanced",
+      "duration": "8-10 weeks",
+      "focus": "Mastery & Job Readiness",
+      "skills": [],
+      "courses": [
+        {
+          "course_name": "AI Talent Program - Cohort 15 (Part 3)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.4917324185371399,
+          "similarity": 0.6528873443603516,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AI Talent Program - Cohort 6 (Part 3)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.4907453954219818,
+          "similarity": 0.6512423157691956,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AI Talent Program - Cohort 6 (Part 3)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.463001012802124,
+          "similarity": 0.60500168800354,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "Full Stack E-commerce Platform",
+          "skills": [
+            "react",
+            "redux",
+            "stripe integration"
+          ],
+          "type": "Full Stack",
+          "difficulty": "Advanced"
+        },
+        {
+          "title": "Develop a Cloud-Native Application with Nlp, Git, Terraform, Rest Apis, Firewalls, Microservices, Python, Tensorflow, Aws & Switching, Docker, Azure, Pandas, Aws, Spark, Python & Switching, Docker, Azure, Pandas, Aws, Spark, Python, Tensorflow",
+          "description": "Deploy a scalable application integrating Nlp, Git, Terraform, Rest Apis, Firewalls, Microservices, Python, Tensorflow, Aws & Switching, Docker, Azure, Pandas, Aws, Spark, Python & Switching, Docker, Azure, Pandas, Aws, Spark, Python, Tensorflow to solve a specific business problem.",
+          "difficulty": "Advanced",
+          "skills_covered": [
+            "nlp, git, terraform, rest apis, firewalls, microservices, python, tensorflow, aws",
+            "switching, docker, azure, pandas, aws, spark, python",
+            "switching, docker, azure, pandas, aws, spark, python, tensorflow"
+          ]
+        }
+      ],
+      "internships": [
+        {
+          "company": "Smartdata Labs Group",
+          "role": "Junior Machine Learning Engineer",
+          "match": 0.619249701499939,
+          "location": "Suez",
+          "missing_skills": []
+        },
+        {
+          "company": "Futurevision Group",
+          "role": "Junior Frontend Developer",
+          "match": 0.6064016819000244,
+          "location": "Giza",
+          "missing_skills": []
+        },
+        {
+          "company": "Pharos Ai Inc",
+          "role": "Junior Product Manager",
+          "match": 0.5970572829246521,
+          "location": "Hurghada",
+          "missing_skills": []
+        }
+      ]
+    }
+  ]
+}

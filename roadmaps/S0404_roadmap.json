@@ -1,0 +1,213 @@
+{
+  "student_id": "S0404",
+  "career_path": "Software",
+  "career_source": "Prediction",
+  "generated_at": "2025-11-29",
+  "certification_path": [
+    "Oracle Java Associate",
+    "Meta Front-End Developer",
+    "AWS Developer Associate"
+  ],
+  "stages": [
+    {
+      "stage": "Beginner",
+      "duration": "4-6 weeks",
+      "focus": "Fundamentals & Top Gaps",
+      "skills": [
+        "computer vision, switching, spark, c, aws, docker",
+        "docker, terraform, spark, aws, elasticsearch, linux, python, sql",
+        "linux, 5g, routing, python, gcp, computer vision, aws, docker",
+        "switching, azure, routing, pytorch, ansible, aws, spark, python, docker, sql",
+        "tcp/ip, computer vision, aws, kubernetes, node.js, docker"
+      ],
+      "courses": [
+        {
+          "course_name": "AWS Academy Cloud Foundations - Cohort 3 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5054440498352051,
+          "similarity": 0.6757400035858154,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Cloud Foundations - Cohort 9 (Part 2)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5009615421295166,
+          "similarity": 0.668269157409668,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Cloud Foundations - Cohort 9 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.4982455372810364,
+          "similarity": 0.6637425422668457,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "Personal Portfolio Website",
+          "skills": [
+            "html",
+            "css",
+            "javascript"
+          ],
+          "type": "Frontend",
+          "difficulty": "Beginner"
+        },
+        {
+          "title": "Computer Vision, Switching, Spark, C, Aws, Docker & Docker, Terraform, Spark, Aws, Elasticsearch, Linux, Python, Sql & Linux, 5G, Routing, Python, Gcp, Computer Vision, Aws, Docker Integration Lab",
+          "description": "Set up a practical lab environment to experiment with Computer Vision, Switching, Spark, C, Aws, Docker & Docker, Terraform, Spark, Aws, Elasticsearch, Linux, Python, Sql & Linux, 5G, Routing, Python, Gcp, Computer Vision, Aws, Docker configurations and troubleshooting.",
+          "difficulty": "Beginner",
+          "skills_covered": [
+            "computer vision, switching, spark, c, aws, docker",
+            "docker, terraform, spark, aws, elasticsearch, linux, python, sql",
+            "linux, 5g, routing, python, gcp, computer vision, aws, docker"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "Intermediate",
+      "duration": "6-8 weeks",
+      "focus": "Application & Certification",
+      "skills": [],
+      "courses": [
+        {
+          "course_name": "AWS Academy Cloud Foundations - Cohort 15 (Part 3)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.49476343393325806,
+          "similarity": 0.6579390168190002,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Cloud Foundations - Cohort 3 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.4932056665420532,
+          "similarity": 0.6553427577018738,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "HCIA-Cloud Computing - Cohort 12 (Part 1)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.4920625686645508,
+          "similarity": 0.653437614440918,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "REST API for Task Management",
+          "skills": [
+            "nodejs",
+            "express",
+            "mongodb"
+          ],
+          "type": "Backend",
+          "difficulty": "Intermediate"
+        },
+        {
+          "title": "Build a Mid-Level Full Stack Developer Pipeline using Computer Vision, Switching, Spark, C, Aws, Docker & Docker, Terraform, Spark, Aws, Elasticsearch, Linux, Python, Sql & Linux, 5G, Routing, Python, Gcp, Computer Vision, Aws, Docker",
+          "description": "Create a comprehensive project that demonstrates your mastery of Computer Vision, Switching, Spark, C, Aws, Docker & Docker, Terraform, Spark, Aws, Elasticsearch, Linux, Python, Sql & Linux, 5G, Routing, Python, Gcp, Computer Vision, Aws, Docker. Focus on real-world application.",
+          "difficulty": "Intermediate",
+          "skills_covered": [
+            "computer vision, switching, spark, c, aws, docker",
+            "docker, terraform, spark, aws, elasticsearch, linux, python, sql",
+            "linux, 5g, routing, python, gcp, computer vision, aws, docker"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "Advanced",
+      "duration": "8-10 weeks",
+      "focus": "Mastery & Job Readiness",
+      "skills": [],
+      "courses": [
+        {
+          "course_name": "HCIA-Cloud Computing - Cohort 15 (Part 1)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.4918502867221832,
+          "similarity": 0.6530838012695312,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "HCIA-Cloud Computing - Cohort 12 (Part 3)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.49178680777549744,
+          "similarity": 0.6529780030250549,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "HCIA-Cloud Computing - Cohort 3 (Part 2)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.4894004762172699,
+          "similarity": 0.6490007638931274,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "Full Stack E-commerce Platform",
+          "skills": [
+            "react",
+            "redux",
+            "stripe integration"
+          ],
+          "type": "Full Stack",
+          "difficulty": "Advanced"
+        },
+        {
+          "title": "Develop a Cloud-Native Application with Computer Vision, Switching, Spark, C, Aws, Docker & Docker, Terraform, Spark, Aws, Elasticsearch, Linux, Python, Sql & Linux, 5G, Routing, Python, Gcp, Computer Vision, Aws, Docker",
+          "description": "Deploy a scalable application integrating Computer Vision, Switching, Spark, C, Aws, Docker & Docker, Terraform, Spark, Aws, Elasticsearch, Linux, Python, Sql & Linux, 5G, Routing, Python, Gcp, Computer Vision, Aws, Docker to solve a specific business problem.",
+          "difficulty": "Advanced",
+          "skills_covered": [
+            "computer vision, switching, spark, c, aws, docker",
+            "docker, terraform, spark, aws, elasticsearch, linux, python, sql",
+            "linux, 5g, routing, python, gcp, computer vision, aws, docker"
+          ]
+        }
+      ],
+      "internships": [
+        {
+          "company": "Cloudworks Egypt Inc",
+          "role": "Junior Full Stack Developer",
+          "match": 0.6084455251693726,
+          "location": "Suez",
+          "missing_skills": []
+        },
+        {
+          "company": "Nilesoft Inc",
+          "role": "Junior Software Engineer",
+          "match": 0.60430908203125,
+          "location": "Hurghada",
+          "missing_skills": []
+        },
+        {
+          "company": "Smartdata Labs Group",
+          "role": "Junior Machine Learning Engineer",
+          "match": 0.6039348840713501,
+          "location": "Suez",
+          "missing_skills": []
+        }
+      ]
+    }
+  ]
+}

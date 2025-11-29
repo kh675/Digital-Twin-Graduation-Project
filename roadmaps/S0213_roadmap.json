@@ -1,0 +1,213 @@
+{
+  "student_id": "S0213",
+  "career_path": "Software",
+  "career_source": "Prediction",
+  "generated_at": "2025-11-29",
+  "certification_path": [
+    "Oracle Java Associate",
+    "Meta Front-End Developer",
+    "AWS Developer Associate"
+  ],
+  "stages": [
+    {
+      "stage": "Beginner",
+      "duration": "4-6 weeks",
+      "focus": "Fundamentals & Top Gaps",
+      "skills": [
+        "docker, terraform, spark, aws, elasticsearch, linux, python, sql",
+        "linux, 5g, routing, python, gcp, computer vision, aws, docker",
+        "microservices, aws, c, ansible, routing, ci/cd, sql, docker",
+        "routing, docker, pytorch, ansible, azure, kubernetes, aws, python",
+        "routing, docker, pytorch, ansible, azure, sql, aws, kubernetes"
+      ],
+      "courses": [
+        {
+          "course_name": "AWS Developer Path - Cohort 3 (Part 3)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5039757490158081,
+          "similarity": 0.673292875289917,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Data Engineering - Cohort 6 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.49288034439086914,
+          "similarity": 0.654800534248352,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Machine Learning Foundations - Cohort 9 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.4920106530189514,
+          "similarity": 0.6533510684967041,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "Personal Portfolio Website",
+          "skills": [
+            "html",
+            "css",
+            "javascript"
+          ],
+          "type": "Frontend",
+          "difficulty": "Beginner"
+        },
+        {
+          "title": "Docker, Terraform, Spark, Aws, Elasticsearch, Linux, Python, Sql & Linux, 5G, Routing, Python, Gcp, Computer Vision, Aws, Docker & Microservices, Aws, C, Ansible, Routing, Ci/Cd, Sql, Docker Integration Lab",
+          "description": "Set up a practical lab environment to experiment with Docker, Terraform, Spark, Aws, Elasticsearch, Linux, Python, Sql & Linux, 5G, Routing, Python, Gcp, Computer Vision, Aws, Docker & Microservices, Aws, C, Ansible, Routing, Ci/Cd, Sql, Docker configurations and troubleshooting.",
+          "difficulty": "Beginner",
+          "skills_covered": [
+            "docker, terraform, spark, aws, elasticsearch, linux, python, sql",
+            "linux, 5g, routing, python, gcp, computer vision, aws, docker",
+            "microservices, aws, c, ansible, routing, ci/cd, sql, docker"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "Intermediate",
+      "duration": "6-8 weeks",
+      "focus": "Application & Certification",
+      "skills": [],
+      "courses": [
+        {
+          "course_name": "AWS Academy Data Engineering - Cohort 15 (Part 3)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.4902338981628418,
+          "similarity": 0.6503897905349731,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Data Engineering - Cohort 9 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.4885897934436798,
+          "similarity": 0.6476496458053589,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "Big Data Developer - Cohort 9 (Part 1)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.48882174491882324,
+          "similarity": 0.6480362415313721,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "REST API for Task Management",
+          "skills": [
+            "nodejs",
+            "express",
+            "mongodb"
+          ],
+          "type": "Backend",
+          "difficulty": "Intermediate"
+        },
+        {
+          "title": "Build a Principal Frontend Developer Pipeline using Docker, Terraform, Spark, Aws, Elasticsearch, Linux, Python, Sql & Linux, 5G, Routing, Python, Gcp, Computer Vision, Aws, Docker & Microservices, Aws, C, Ansible, Routing, Ci/Cd, Sql, Docker",
+          "description": "Create a comprehensive project that demonstrates your mastery of Docker, Terraform, Spark, Aws, Elasticsearch, Linux, Python, Sql & Linux, 5G, Routing, Python, Gcp, Computer Vision, Aws, Docker & Microservices, Aws, C, Ansible, Routing, Ci/Cd, Sql, Docker. Focus on real-world application.",
+          "difficulty": "Intermediate",
+          "skills_covered": [
+            "docker, terraform, spark, aws, elasticsearch, linux, python, sql",
+            "linux, 5g, routing, python, gcp, computer vision, aws, docker",
+            "microservices, aws, c, ansible, routing, ci/cd, sql, docker"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "Advanced",
+      "duration": "8-10 weeks",
+      "focus": "Mastery & Job Readiness",
+      "skills": [],
+      "courses": [
+        {
+          "course_name": "Huawei Big Data Developer - Cohort 15 (Part 1)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.4798527956008911,
+          "similarity": 0.6330879926681519,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "Huawei Cloud DevOps - Cohort 2 (Part 2)",
+          "provider": "Huawei",
+          "level": "Intermediate",
+          "score": 0.4789942502975464,
+          "similarity": 0.6649903655052185,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "Huawei Cloud DevOps - Cohort 5 (Part 1)",
+          "provider": "Huawei",
+          "level": "Intermediate",
+          "score": 0.4785892367362976,
+          "similarity": 0.6643153429031372,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "Full Stack E-commerce Platform",
+          "skills": [
+            "react",
+            "redux",
+            "stripe integration"
+          ],
+          "type": "Full Stack",
+          "difficulty": "Advanced"
+        },
+        {
+          "title": "Develop a Cloud-Native Application with Docker, Terraform, Spark, Aws, Elasticsearch, Linux, Python, Sql & Linux, 5G, Routing, Python, Gcp, Computer Vision, Aws, Docker & Microservices, Aws, C, Ansible, Routing, Ci/Cd, Sql, Docker",
+          "description": "Deploy a scalable application integrating Docker, Terraform, Spark, Aws, Elasticsearch, Linux, Python, Sql & Linux, 5G, Routing, Python, Gcp, Computer Vision, Aws, Docker & Microservices, Aws, C, Ansible, Routing, Ci/Cd, Sql, Docker to solve a specific business problem.",
+          "difficulty": "Advanced",
+          "skills_covered": [
+            "docker, terraform, spark, aws, elasticsearch, linux, python, sql",
+            "linux, 5g, routing, python, gcp, computer vision, aws, docker",
+            "microservices, aws, c, ansible, routing, ci/cd, sql, docker"
+          ]
+        }
+      ],
+      "internships": [
+        {
+          "company": "Nilesoft Inc",
+          "role": "Junior Software Engineer",
+          "match": 0.6157060861587524,
+          "location": "Hurghada",
+          "missing_skills": []
+        },
+        {
+          "company": "Smartdata Labs Group",
+          "role": "Junior Machine Learning Engineer",
+          "match": 0.5937321186065674,
+          "location": "Suez",
+          "missing_skills": []
+        },
+        {
+          "company": "Smartdata Labs Solutions",
+          "role": "Junior Machine Learning Engineer",
+          "match": 0.5920193791389465,
+          "location": "Suez",
+          "missing_skills": []
+        }
+      ]
+    }
+  ]
+}

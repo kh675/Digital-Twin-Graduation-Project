@@ -1,0 +1,213 @@
+{
+  "student_id": "S0061",
+  "career_path": "Cloud",
+  "career_source": "Prediction",
+  "generated_at": "2025-11-29",
+  "certification_path": [
+    "AWS Cloud Practitioner",
+    "AWS Solutions Architect Associate",
+    "Huawei HCIA Cloud"
+  ],
+  "stages": [
+    {
+      "stage": "Beginner",
+      "duration": "4-6 weeks",
+      "focus": "Fundamentals & Top Gaps",
+      "skills": [
+        "microservices, aws, c, ansible, routing, ci/cd, sql, docker",
+        "pandas, 5g, nosql, rest apis, terraform, computer vision, react, aws",
+        "pandas, elasticsearch, react, node.js, numpy, microservices, aws",
+        "pandas, elasticsearch, react, node.js, numpy, microservices, sql, kubernetes, docker",
+        "spark, kubernetes, microservices, git, sql, node.js, python"
+      ],
+      "courses": [
+        {
+          "course_name": "AWS Developer Building Serverless Applications - Cohort 12 (Part 3)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.518664538860321,
+          "similarity": 0.6977742314338684,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Developer Path - Cohort 3 (Part 3)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5178484320640564,
+          "similarity": 0.696414053440094,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Developer Building Serverless Applications - Cohort 12 (Part 2)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5148845314979553,
+          "similarity": 0.6914741396903992,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "Static Website Hosting on AWS S3",
+          "skills": [
+            "aws",
+            "s3",
+            "dns"
+          ],
+          "type": "Infrastructure",
+          "difficulty": "Beginner"
+        },
+        {
+          "title": "Microservices, Aws, C, Ansible, Routing, Ci/Cd, Sql, Docker & Pandas, 5G, Nosql, Rest Apis, Terraform, Computer Vision, React, Aws & Pandas, Elasticsearch, React, Node.Js, Numpy, Microservices, Aws Integration Lab",
+          "description": "Set up a practical lab environment to experiment with Microservices, Aws, C, Ansible, Routing, Ci/Cd, Sql, Docker & Pandas, 5G, Nosql, Rest Apis, Terraform, Computer Vision, React, Aws & Pandas, Elasticsearch, React, Node.Js, Numpy, Microservices, Aws configurations and troubleshooting.",
+          "difficulty": "Beginner",
+          "skills_covered": [
+            "microservices, aws, c, ansible, routing, ci/cd, sql, docker",
+            "pandas, 5g, nosql, rest apis, terraform, computer vision, react, aws",
+            "pandas, elasticsearch, react, node.js, numpy, microservices, aws"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "Intermediate",
+      "duration": "6-8 weeks",
+      "focus": "Application & Certification",
+      "skills": [],
+      "courses": [
+        {
+          "course_name": "AWS Developer Building Serverless Applications - Cohort 6 (Part 2)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5118355751037598,
+          "similarity": 0.686392605304718,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Developer Building Serverless Applications - Cohort 15 (Part 2)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5045294761657715,
+          "similarity": 0.6742157936096191,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "Huawei Full-Stack Developer - Cohort 3 (Part 2)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.44609305262565613,
+          "similarity": 0.5768217444419861,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "Serverless API with Lambda & DynamoDB",
+          "skills": [
+            "aws lambda",
+            "api gateway",
+            "nosql"
+          ],
+          "type": "Backend",
+          "difficulty": "Intermediate"
+        },
+        {
+          "title": "Build a Lead Cloud Engineer Pipeline using Microservices, Aws, C, Ansible, Routing, Ci/Cd, Sql, Docker & Pandas, 5G, Nosql, Rest Apis, Terraform, Computer Vision, React, Aws & Pandas, Elasticsearch, React, Node.Js, Numpy, Microservices, Aws",
+          "description": "Create a comprehensive project that demonstrates your mastery of Microservices, Aws, C, Ansible, Routing, Ci/Cd, Sql, Docker & Pandas, 5G, Nosql, Rest Apis, Terraform, Computer Vision, React, Aws & Pandas, Elasticsearch, React, Node.Js, Numpy, Microservices, Aws. Focus on real-world application.",
+          "difficulty": "Intermediate",
+          "skills_covered": [
+            "microservices, aws, c, ansible, routing, ci/cd, sql, docker",
+            "pandas, 5g, nosql, rest apis, terraform, computer vision, react, aws",
+            "pandas, elasticsearch, react, node.js, numpy, microservices, aws"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "Advanced",
+      "duration": "8-10 weeks",
+      "focus": "Mastery & Job Readiness",
+      "skills": [],
+      "courses": [
+        {
+          "course_name": "Big Data Developer - Cohort 9 (Part 1)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.44356483221054077,
+          "similarity": 0.5726080536842346,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "Huawei Data Warehouse and BI - Cohort 6 (Part 1)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.44311532378196716,
+          "similarity": 0.5718588829040527,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "Huawei Big Data Developer - Cohort 15 (Part 1)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.4426404535770416,
+          "similarity": 0.5710673928260803,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "Multi-Tier Microservices Architecture",
+          "skills": [
+            "kubernetes",
+            "docker",
+            "terraform"
+          ],
+          "type": "DevOps",
+          "difficulty": "Advanced"
+        },
+        {
+          "title": "Develop a Cloud-Native Application with Microservices, Aws, C, Ansible, Routing, Ci/Cd, Sql, Docker & Pandas, 5G, Nosql, Rest Apis, Terraform, Computer Vision, React, Aws & Pandas, Elasticsearch, React, Node.Js, Numpy, Microservices, Aws",
+          "description": "Deploy a scalable application integrating Microservices, Aws, C, Ansible, Routing, Ci/Cd, Sql, Docker & Pandas, 5G, Nosql, Rest Apis, Terraform, Computer Vision, React, Aws & Pandas, Elasticsearch, React, Node.Js, Numpy, Microservices, Aws to solve a specific business problem.",
+          "difficulty": "Advanced",
+          "skills_covered": [
+            "microservices, aws, c, ansible, routing, ci/cd, sql, docker",
+            "pandas, 5g, nosql, rest apis, terraform, computer vision, react, aws",
+            "pandas, elasticsearch, react, node.js, numpy, microservices, aws"
+          ]
+        }
+      ],
+      "internships": [
+        {
+          "company": "Cloudworks Egypt Inc",
+          "role": "Junior Full Stack Developer",
+          "match": 0.6437017917633057,
+          "location": "Tanta",
+          "missing_skills": []
+        },
+        {
+          "company": "Pyramid Solutions Egypt",
+          "role": "Junior Backend Developer",
+          "match": 0.6387802362442017,
+          "location": "Alexandria",
+          "missing_skills": []
+        },
+        {
+          "company": "Cloudworks Egypt Inc",
+          "role": "Junior Full Stack Developer",
+          "match": 0.6385108828544617,
+          "location": "Tanta",
+          "missing_skills": []
+        }
+      ]
+    }
+  ]
+}

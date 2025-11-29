@@ -1,0 +1,212 @@
+{
+  "student_id": "S1350",
+  "career_path": "Software",
+  "career_source": "Prediction",
+  "generated_at": "2025-11-29",
+  "certification_path": [
+    "Oracle Java Associate",
+    "Meta Front-End Developer",
+    "AWS Developer Associate"
+  ],
+  "stages": [
+    {
+      "stage": "Beginner",
+      "duration": "4-6 weeks",
+      "focus": "Fundamentals & Top Gaps",
+      "skills": [
+        "git, rest apis, java, node.js, sql, python",
+        "microservices, javascript, flask, ansible, pytorch, routing, kubernetes, python, aws",
+        "rest apis, javascript, nlp, pandas, ansible, switching, spark, aws, docker, sql",
+        "rest apis, javascript, nlp, pandas, ansible, switching, spark, tensorflow, python"
+      ],
+      "courses": [
+        {
+          "course_name": "AWS Academy Machine Learning Foundations - Cohort 12 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5644774436950684,
+          "similarity": 0.7741290330886841,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Machine Learning for Developers - Cohort 3 (Part 3)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5615401864051819,
+          "similarity": 0.7692336440086365,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Machine Learning for Developers - Cohort 15 (Part 2)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5583967566490173,
+          "similarity": 0.763994574546814,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "Personal Portfolio Website",
+          "skills": [
+            "html",
+            "css",
+            "javascript"
+          ],
+          "type": "Frontend",
+          "difficulty": "Beginner"
+        },
+        {
+          "title": "Git, Rest Apis, Java, Node.Js, Sql, Python & Microservices, Javascript, Flask, Ansible, Pytorch, Routing, Kubernetes, Python, Aws & Rest Apis, Javascript, Nlp, Pandas, Ansible, Switching, Spark, Aws, Docker, Sql Integration Lab",
+          "description": "Set up a practical lab environment to experiment with Git, Rest Apis, Java, Node.Js, Sql, Python & Microservices, Javascript, Flask, Ansible, Pytorch, Routing, Kubernetes, Python, Aws & Rest Apis, Javascript, Nlp, Pandas, Ansible, Switching, Spark, Aws, Docker, Sql configurations and troubleshooting.",
+          "difficulty": "Beginner",
+          "skills_covered": [
+            "git, rest apis, java, node.js, sql, python",
+            "microservices, javascript, flask, ansible, pytorch, routing, kubernetes, python, aws",
+            "rest apis, javascript, nlp, pandas, ansible, switching, spark, aws, docker, sql"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "Intermediate",
+      "duration": "6-8 weeks",
+      "focus": "Application & Certification",
+      "skills": [],
+      "courses": [
+        {
+          "course_name": "AWS Academy Machine Learning Foundations - Cohort 3 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5583620071411133,
+          "similarity": 0.7639366388320923,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Machine Learning for Developers - Cohort 15 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5576702952384949,
+          "similarity": 0.7627838253974915,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AI Talent Program - Cohort 3 (Part 2)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.49396637082099915,
+          "similarity": 0.6566106081008911,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "REST API for Task Management",
+          "skills": [
+            "nodejs",
+            "express",
+            "mongodb"
+          ],
+          "type": "Backend",
+          "difficulty": "Intermediate"
+        },
+        {
+          "title": "Build a Lead Backend Developer Pipeline using Git, Rest Apis, Java, Node.Js, Sql, Python & Microservices, Javascript, Flask, Ansible, Pytorch, Routing, Kubernetes, Python, Aws & Rest Apis, Javascript, Nlp, Pandas, Ansible, Switching, Spark, Aws, Docker, Sql",
+          "description": "Create a comprehensive project that demonstrates your mastery of Git, Rest Apis, Java, Node.Js, Sql, Python & Microservices, Javascript, Flask, Ansible, Pytorch, Routing, Kubernetes, Python, Aws & Rest Apis, Javascript, Nlp, Pandas, Ansible, Switching, Spark, Aws, Docker, Sql. Focus on real-world application.",
+          "difficulty": "Intermediate",
+          "skills_covered": [
+            "git, rest apis, java, node.js, sql, python",
+            "microservices, javascript, flask, ansible, pytorch, routing, kubernetes, python, aws",
+            "rest apis, javascript, nlp, pandas, ansible, switching, spark, aws, docker, sql"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "Advanced",
+      "duration": "8-10 weeks",
+      "focus": "Mastery & Job Readiness",
+      "skills": [],
+      "courses": [
+        {
+          "course_name": "AI Talent Program - Cohort 6 (Part 3)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.48638948798179626,
+          "similarity": 0.643982470035553,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "HCIP-AI-Developer - Cohort 12 (Part 2)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.48511433601379395,
+          "similarity": 0.6418572068214417,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "HCIP-AI-Developer - Cohort 6 (Part 3)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.4799303710460663,
+          "similarity": 0.6332172751426697,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "Full Stack E-commerce Platform",
+          "skills": [
+            "react",
+            "redux",
+            "stripe integration"
+          ],
+          "type": "Full Stack",
+          "difficulty": "Advanced"
+        },
+        {
+          "title": "Develop a Cloud-Native Application with Git, Rest Apis, Java, Node.Js, Sql, Python & Microservices, Javascript, Flask, Ansible, Pytorch, Routing, Kubernetes, Python, Aws & Rest Apis, Javascript, Nlp, Pandas, Ansible, Switching, Spark, Aws, Docker, Sql",
+          "description": "Deploy a scalable application integrating Git, Rest Apis, Java, Node.Js, Sql, Python & Microservices, Javascript, Flask, Ansible, Pytorch, Routing, Kubernetes, Python, Aws & Rest Apis, Javascript, Nlp, Pandas, Ansible, Switching, Spark, Aws, Docker, Sql to solve a specific business problem.",
+          "difficulty": "Advanced",
+          "skills_covered": [
+            "git, rest apis, java, node.js, sql, python",
+            "microservices, javascript, flask, ansible, pytorch, routing, kubernetes, python, aws",
+            "rest apis, javascript, nlp, pandas, ansible, switching, spark, aws, docker, sql"
+          ]
+        }
+      ],
+      "internships": [
+        {
+          "company": "Pyramid Solutions Ltd",
+          "role": "Junior Backend Developer",
+          "match": 0.6384009718894958,
+          "location": "Alexandria",
+          "missing_skills": []
+        },
+        {
+          "company": "Pyramid Solutions Egypt",
+          "role": "Junior Backend Developer",
+          "match": 0.6350730061531067,
+          "location": "Alexandria",
+          "missing_skills": []
+        },
+        {
+          "company": "Cloudworks Egypt Solutions",
+          "role": "Junior Machine Learning Engineer",
+          "match": 0.6168199181556702,
+          "location": "Alexandria",
+          "missing_skills": []
+        }
+      ]
+    }
+  ]
+}

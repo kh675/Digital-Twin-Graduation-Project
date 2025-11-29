@@ -1,0 +1,212 @@
+{
+  "student_id": "S0187",
+  "career_path": "Software",
+  "career_source": "Prediction",
+  "generated_at": "2025-11-29",
+  "certification_path": [
+    "Oracle Java Associate",
+    "Meta Front-End Developer",
+    "AWS Developer Associate"
+  ],
+  "stages": [
+    {
+      "stage": "Beginner",
+      "duration": "4-6 weeks",
+      "focus": "Fundamentals & Top Gaps",
+      "skills": [
+        "azure, nosql, hipaa, react, node.js, aws, docker",
+        "flask, computer vision, routing, sql, aws",
+        "rest apis, git, tcp/ip, terraform, python, aws, docker, sql",
+        "rest apis, javascript, nlp, pandas, ansible, switching, spark, aws, docker, sql"
+      ],
+      "courses": [
+        {
+          "course_name": "AWS Academy Data Engineering - Cohort 12 (Part 2)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5031417012214661,
+          "similarity": 0.6719028353691101,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Data Engineering - Cohort 9 (Part 3)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.502588152885437,
+          "similarity": 0.6709802150726318,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Data Engineering - Cohort 6 (Part 2)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5010334253311157,
+          "similarity": 0.6683890223503113,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "Personal Portfolio Website",
+          "skills": [
+            "html",
+            "css",
+            "javascript"
+          ],
+          "type": "Frontend",
+          "difficulty": "Beginner"
+        },
+        {
+          "title": "Azure, Nosql, Hipaa, React, Node.Js, Aws, Docker & Flask, Computer Vision, Routing, Sql, Aws & Rest Apis, Git, Tcp/Ip, Terraform, Python, Aws, Docker, Sql Integration Lab",
+          "description": "Set up a practical lab environment to experiment with Azure, Nosql, Hipaa, React, Node.Js, Aws, Docker & Flask, Computer Vision, Routing, Sql, Aws & Rest Apis, Git, Tcp/Ip, Terraform, Python, Aws, Docker, Sql configurations and troubleshooting.",
+          "difficulty": "Beginner",
+          "skills_covered": [
+            "azure, nosql, hipaa, react, node.js, aws, docker",
+            "flask, computer vision, routing, sql, aws",
+            "rest apis, git, tcp/ip, terraform, python, aws, docker, sql"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "Intermediate",
+      "duration": "6-8 weeks",
+      "focus": "Application & Certification",
+      "skills": [],
+      "courses": [
+        {
+          "course_name": "AWS Academy Data Engineering - Cohort 9 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5009961128234863,
+          "similarity": 0.6683267951011658,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Data Engineering - Cohort 9 (Part 3)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.4996044635772705,
+          "similarity": 0.666007399559021,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "Huawei Data Warehouse and BI - Cohort 6 (Part 1)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.5616195797920227,
+          "similarity": 0.7693659067153931,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "REST API for Task Management",
+          "skills": [
+            "nodejs",
+            "express",
+            "mongodb"
+          ],
+          "type": "Backend",
+          "difficulty": "Intermediate"
+        },
+        {
+          "title": "Build a Lead Backend Developer Pipeline using Azure, Nosql, Hipaa, React, Node.Js, Aws, Docker & Flask, Computer Vision, Routing, Sql, Aws & Rest Apis, Git, Tcp/Ip, Terraform, Python, Aws, Docker, Sql",
+          "description": "Create a comprehensive project that demonstrates your mastery of Azure, Nosql, Hipaa, React, Node.Js, Aws, Docker & Flask, Computer Vision, Routing, Sql, Aws & Rest Apis, Git, Tcp/Ip, Terraform, Python, Aws, Docker, Sql. Focus on real-world application.",
+          "difficulty": "Intermediate",
+          "skills_covered": [
+            "azure, nosql, hipaa, react, node.js, aws, docker",
+            "flask, computer vision, routing, sql, aws",
+            "rest apis, git, tcp/ip, terraform, python, aws, docker, sql"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "Advanced",
+      "duration": "8-10 weeks",
+      "focus": "Mastery & Job Readiness",
+      "skills": [],
+      "courses": [
+        {
+          "course_name": "Huawei Data Warehouse and BI - Cohort 6 (Part 3)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.55424964427948,
+          "similarity": 0.7570827007293701,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "Huawei Data Warehouse and BI - Cohort 12 (Part 3)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.5538663268089294,
+          "similarity": 0.7564437985420227,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "Huawei Data Warehouse and BI - Cohort 15 (Part 1)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.5485987663269043,
+          "similarity": 0.7476645708084106,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "Full Stack E-commerce Platform",
+          "skills": [
+            "react",
+            "redux",
+            "stripe integration"
+          ],
+          "type": "Full Stack",
+          "difficulty": "Advanced"
+        },
+        {
+          "title": "Develop a Cloud-Native Application with Azure, Nosql, Hipaa, React, Node.Js, Aws, Docker & Flask, Computer Vision, Routing, Sql, Aws & Rest Apis, Git, Tcp/Ip, Terraform, Python, Aws, Docker, Sql",
+          "description": "Deploy a scalable application integrating Azure, Nosql, Hipaa, React, Node.Js, Aws, Docker & Flask, Computer Vision, Routing, Sql, Aws & Rest Apis, Git, Tcp/Ip, Terraform, Python, Aws, Docker, Sql to solve a specific business problem.",
+          "difficulty": "Advanced",
+          "skills_covered": [
+            "azure, nosql, hipaa, react, node.js, aws, docker",
+            "flask, computer vision, routing, sql, aws",
+            "rest apis, git, tcp/ip, terraform, python, aws, docker, sql"
+          ]
+        }
+      ],
+      "internships": [
+        {
+          "company": "Pyramid Solutions Egypt",
+          "role": "Junior Backend Developer",
+          "match": 0.5858526825904846,
+          "location": "Alexandria",
+          "missing_skills": []
+        },
+        {
+          "company": "Pyramid Solutions Egypt",
+          "role": "Junior Machine Learning Engineer",
+          "match": 0.5671665072441101,
+          "location": "Aswan",
+          "missing_skills": []
+        },
+        {
+          "company": "Pyramid Solutions Ltd",
+          "role": "Junior Backend Developer",
+          "match": 0.5631623268127441,
+          "location": "Alexandria",
+          "missing_skills": []
+        }
+      ]
+    }
+  ]
+}

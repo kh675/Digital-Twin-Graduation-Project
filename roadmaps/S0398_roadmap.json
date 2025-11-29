@@ -1,0 +1,213 @@
+{
+  "student_id": "S0398",
+  "career_path": "Cloud",
+  "career_source": "Prediction",
+  "generated_at": "2025-11-29",
+  "certification_path": [
+    "AWS Cloud Practitioner",
+    "AWS Solutions Architect Associate",
+    "Huawei HCIA Cloud"
+  ],
+  "stages": [
+    {
+      "stage": "Beginner",
+      "duration": "4-6 weeks",
+      "focus": "Fundamentals & Top Gaps",
+      "skills": [
+        "pandas, elasticsearch, react, node.js, numpy, microservices, aws",
+        "pandas, elasticsearch, react, node.js, numpy, microservices, python",
+        "pandas, elasticsearch, react, node.js, numpy, microservices, python, tensorflow",
+        "rest apis, javascript, nlp, pandas, ansible, switching, spark, tensorflow, python",
+        "tensorflow, pandas, pytorch, react, ansible, docker, sql"
+      ],
+      "courses": [
+        {
+          "course_name": "AWS Academy Machine Learning Foundations - Cohort 12 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.49237680435180664,
+          "similarity": 0.6539613008499146,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Machine Learning Foundations - Cohort 3 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.48952803015708923,
+          "similarity": 0.6492133736610413,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Machine Learning Foundations - Cohort 9 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.4823753237724304,
+          "similarity": 0.637292206287384,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "Static Website Hosting on AWS S3",
+          "skills": [
+            "aws",
+            "s3",
+            "dns"
+          ],
+          "type": "Infrastructure",
+          "difficulty": "Beginner"
+        },
+        {
+          "title": "Pandas, Elasticsearch, React, Node.Js, Numpy, Microservices, Aws & Pandas, Elasticsearch, React, Node.Js, Numpy, Microservices, Python & Pandas, Elasticsearch, React, Node.Js, Numpy, Microservices, Python, Tensorflow Integration Lab",
+          "description": "Set up a practical lab environment to experiment with Pandas, Elasticsearch, React, Node.Js, Numpy, Microservices, Aws & Pandas, Elasticsearch, React, Node.Js, Numpy, Microservices, Python & Pandas, Elasticsearch, React, Node.Js, Numpy, Microservices, Python, Tensorflow configurations and troubleshooting.",
+          "difficulty": "Beginner",
+          "skills_covered": [
+            "pandas, elasticsearch, react, node.js, numpy, microservices, aws",
+            "pandas, elasticsearch, react, node.js, numpy, microservices, python",
+            "pandas, elasticsearch, react, node.js, numpy, microservices, python, tensorflow"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "Intermediate",
+      "duration": "6-8 weeks",
+      "focus": "Application & Certification",
+      "skills": [],
+      "courses": [
+        {
+          "course_name": "AWS Academy Machine Learning Foundations - Cohort 9 (Part 3)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.4823625981807709,
+          "similarity": 0.637270987033844,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Machine Learning Foundations - Cohort 9 (Part 3)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.4821643829345703,
+          "similarity": 0.636940598487854,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AI Talent Program - Cohort 3 (Part 2)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.4541792571544647,
+          "similarity": 0.5902987718582153,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "Serverless API with Lambda & DynamoDB",
+          "skills": [
+            "aws lambda",
+            "api gateway",
+            "nosql"
+          ],
+          "type": "Backend",
+          "difficulty": "Intermediate"
+        },
+        {
+          "title": "Build a Lead Cloud Engineer Pipeline using Pandas, Elasticsearch, React, Node.Js, Numpy, Microservices, Aws & Pandas, Elasticsearch, React, Node.Js, Numpy, Microservices, Python & Pandas, Elasticsearch, React, Node.Js, Numpy, Microservices, Python, Tensorflow",
+          "description": "Create a comprehensive project that demonstrates your mastery of Pandas, Elasticsearch, React, Node.Js, Numpy, Microservices, Aws & Pandas, Elasticsearch, React, Node.Js, Numpy, Microservices, Python & Pandas, Elasticsearch, React, Node.Js, Numpy, Microservices, Python, Tensorflow. Focus on real-world application.",
+          "difficulty": "Intermediate",
+          "skills_covered": [
+            "pandas, elasticsearch, react, node.js, numpy, microservices, aws",
+            "pandas, elasticsearch, react, node.js, numpy, microservices, python",
+            "pandas, elasticsearch, react, node.js, numpy, microservices, python, tensorflow"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "Advanced",
+      "duration": "8-10 weeks",
+      "focus": "Mastery & Job Readiness",
+      "skills": [],
+      "courses": [
+        {
+          "course_name": "AI Talent Program - Cohort 6 (Part 3)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.4296966791152954,
+          "similarity": 0.5494944453239441,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AI Talent Program - Cohort 15 (Part 3)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.4248192608356476,
+          "similarity": 0.5413654446601868,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "HCIP-AI-Developer - Cohort 12 (Part 3)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.4205801784992218,
+          "similarity": 0.5343002676963806,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "Multi-Tier Microservices Architecture",
+          "skills": [
+            "kubernetes",
+            "docker",
+            "terraform"
+          ],
+          "type": "DevOps",
+          "difficulty": "Advanced"
+        },
+        {
+          "title": "Develop a Cloud-Native Application with Pandas, Elasticsearch, React, Node.Js, Numpy, Microservices, Aws & Pandas, Elasticsearch, React, Node.Js, Numpy, Microservices, Python & Pandas, Elasticsearch, React, Node.Js, Numpy, Microservices, Python, Tensorflow",
+          "description": "Deploy a scalable application integrating Pandas, Elasticsearch, React, Node.Js, Numpy, Microservices, Aws & Pandas, Elasticsearch, React, Node.Js, Numpy, Microservices, Python & Pandas, Elasticsearch, React, Node.Js, Numpy, Microservices, Python, Tensorflow to solve a specific business problem.",
+          "difficulty": "Advanced",
+          "skills_covered": [
+            "pandas, elasticsearch, react, node.js, numpy, microservices, aws",
+            "pandas, elasticsearch, react, node.js, numpy, microservices, python",
+            "pandas, elasticsearch, react, node.js, numpy, microservices, python, tensorflow"
+          ]
+        }
+      ],
+      "internships": [
+        {
+          "company": "Pyramid Solutions Ltd",
+          "role": "Junior Backend Developer",
+          "match": 0.6499236226081848,
+          "location": "Alexandria",
+          "missing_skills": []
+        },
+        {
+          "company": "Pyramid Solutions Egypt",
+          "role": "Junior Backend Developer",
+          "match": 0.6377550959587097,
+          "location": "Alexandria",
+          "missing_skills": []
+        },
+        {
+          "company": "Futurevision Group",
+          "role": "Junior Frontend Developer",
+          "match": 0.6374275088310242,
+          "location": "Giza",
+          "missing_skills": []
+        }
+      ]
+    }
+  ]
+}

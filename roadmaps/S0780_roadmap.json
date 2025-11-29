@@ -1,0 +1,212 @@
+{
+  "student_id": "S0780",
+  "career_path": "Cloud",
+  "career_source": "Prediction",
+  "generated_at": "2025-11-29",
+  "certification_path": [
+    "AWS Cloud Practitioner",
+    "AWS Solutions Architect Associate",
+    "Huawei HCIA Cloud"
+  ],
+  "stages": [
+    {
+      "stage": "Beginner",
+      "duration": "4-6 weeks",
+      "focus": "Fundamentals & Top Gaps",
+      "skills": [
+        "firewalls, ansible, spark, flask, hipaa, pytorch, microservices",
+        "firewalls, ansible, spark, flask, hipaa, pytorch, microservices, react, tensorflow",
+        "linux, 5g, routing, python, gcp, computer vision, aws, docker",
+        "pandas, elasticsearch, react, node.js, numpy, microservices, aws"
+      ],
+      "courses": [
+        {
+          "course_name": "AWS Academy Cloud Foundations - Cohort 9 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.488607257604599,
+          "similarity": 0.6476787328720093,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Cloud Foundations - Cohort 9 (Part 2)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.48775526881217957,
+          "similarity": 0.6462587714195251,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Cloud Foundations - Cohort 15 (Part 3)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.4851454198360443,
+          "similarity": 0.6419090032577515,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "Static Website Hosting on AWS S3",
+          "skills": [
+            "aws",
+            "s3",
+            "dns"
+          ],
+          "type": "Infrastructure",
+          "difficulty": "Beginner"
+        },
+        {
+          "title": "Firewalls, Ansible, Spark, Flask, Hipaa, Pytorch, Microservices & Firewalls, Ansible, Spark, Flask, Hipaa, Pytorch, Microservices, React, Tensorflow & Linux, 5G, Routing, Python, Gcp, Computer Vision, Aws, Docker Integration Lab",
+          "description": "Set up a practical lab environment to experiment with Firewalls, Ansible, Spark, Flask, Hipaa, Pytorch, Microservices & Firewalls, Ansible, Spark, Flask, Hipaa, Pytorch, Microservices, React, Tensorflow & Linux, 5G, Routing, Python, Gcp, Computer Vision, Aws, Docker configurations and troubleshooting.",
+          "difficulty": "Beginner",
+          "skills_covered": [
+            "firewalls, ansible, spark, flask, hipaa, pytorch, microservices",
+            "firewalls, ansible, spark, flask, hipaa, pytorch, microservices, react, tensorflow",
+            "linux, 5g, routing, python, gcp, computer vision, aws, docker"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "Intermediate",
+      "duration": "6-8 weeks",
+      "focus": "Application & Certification",
+      "skills": [],
+      "courses": [
+        {
+          "course_name": "AWS Academy Cloud Foundations - Cohort 3 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.48382511734962463,
+          "similarity": 0.6397085189819336,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Cloud Foundations - Cohort 15 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.48351138830184937,
+          "similarity": 0.6391856074333191,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "HCIP-Datacom - Cohort 3 (Part 1)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.45092445611953735,
+          "similarity": 0.5848740935325623,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "Serverless API with Lambda & DynamoDB",
+          "skills": [
+            "aws lambda",
+            "api gateway",
+            "nosql"
+          ],
+          "type": "Backend",
+          "difficulty": "Intermediate"
+        },
+        {
+          "title": "Build a Lead Cloud Engineer Pipeline using Firewalls, Ansible, Spark, Flask, Hipaa, Pytorch, Microservices & Firewalls, Ansible, Spark, Flask, Hipaa, Pytorch, Microservices, React, Tensorflow & Linux, 5G, Routing, Python, Gcp, Computer Vision, Aws, Docker",
+          "description": "Create a comprehensive project that demonstrates your mastery of Firewalls, Ansible, Spark, Flask, Hipaa, Pytorch, Microservices & Firewalls, Ansible, Spark, Flask, Hipaa, Pytorch, Microservices, React, Tensorflow & Linux, 5G, Routing, Python, Gcp, Computer Vision, Aws, Docker. Focus on real-world application.",
+          "difficulty": "Intermediate",
+          "skills_covered": [
+            "firewalls, ansible, spark, flask, hipaa, pytorch, microservices",
+            "firewalls, ansible, spark, flask, hipaa, pytorch, microservices, react, tensorflow",
+            "linux, 5g, routing, python, gcp, computer vision, aws, docker"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "Advanced",
+      "duration": "8-10 weeks",
+      "focus": "Mastery & Job Readiness",
+      "skills": [],
+      "courses": [
+        {
+          "course_name": "HCIP-Datacom - Cohort 12 (Part 3)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.45018771290779114,
+          "similarity": 0.5836461782455444,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "HCIP-Datacom - Cohort 3 (Part 1)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.4471586346626282,
+          "similarity": 0.5785977244377136,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "HCIP-Datacom - Cohort 15 (Part 2)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.4344111382961273,
+          "similarity": 0.5573518872261047,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "Multi-Tier Microservices Architecture",
+          "skills": [
+            "kubernetes",
+            "docker",
+            "terraform"
+          ],
+          "type": "DevOps",
+          "difficulty": "Advanced"
+        },
+        {
+          "title": "Develop a Cloud-Native Application with Firewalls, Ansible, Spark, Flask, Hipaa, Pytorch, Microservices & Firewalls, Ansible, Spark, Flask, Hipaa, Pytorch, Microservices, React, Tensorflow & Linux, 5G, Routing, Python, Gcp, Computer Vision, Aws, Docker",
+          "description": "Deploy a scalable application integrating Firewalls, Ansible, Spark, Flask, Hipaa, Pytorch, Microservices & Firewalls, Ansible, Spark, Flask, Hipaa, Pytorch, Microservices, React, Tensorflow & Linux, 5G, Routing, Python, Gcp, Computer Vision, Aws, Docker to solve a specific business problem.",
+          "difficulty": "Advanced",
+          "skills_covered": [
+            "firewalls, ansible, spark, flask, hipaa, pytorch, microservices",
+            "firewalls, ansible, spark, flask, hipaa, pytorch, microservices, react, tensorflow",
+            "linux, 5g, routing, python, gcp, computer vision, aws, docker"
+          ]
+        }
+      ],
+      "internships": [
+        {
+          "company": "Pyramid Solutions Egypt",
+          "role": "Junior Network Engineer",
+          "match": 0.601073682308197,
+          "location": "Suez",
+          "missing_skills": []
+        },
+        {
+          "company": "Deltabyte Inc",
+          "role": "Junior Product Manager",
+          "match": 0.5968157052993774,
+          "location": "Tanta",
+          "missing_skills": []
+        },
+        {
+          "company": "Deltabyte Solutions",
+          "role": "Junior Product Manager",
+          "match": 0.5820477604866028,
+          "location": "Tanta",
+          "missing_skills": []
+        }
+      ]
+    }
+  ]
+}

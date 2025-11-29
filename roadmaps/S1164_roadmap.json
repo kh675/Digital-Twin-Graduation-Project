@@ -1,0 +1,213 @@
+{
+  "student_id": "S1164",
+  "career_path": "Cloud",
+  "career_source": "Prediction",
+  "generated_at": "2025-11-29",
+  "certification_path": [
+    "AWS Cloud Practitioner",
+    "AWS Solutions Architect Associate",
+    "Huawei HCIA Cloud"
+  ],
+  "stages": [
+    {
+      "stage": "Beginner",
+      "duration": "4-6 weeks",
+      "focus": "Fundamentals & Top Gaps",
+      "skills": [
+        "linux, 5g, routing, python, gcp, computer vision, aws, docker",
+        "linux, 5g, routing, python, gcp, computer vision, sql",
+        "linux, 5g, routing, python, gcp, computer vision, tensorflow, sql, react",
+        "tcp/ip, computer vision, aws, kubernetes, node.js, docker",
+        "tcp/ip, git, docker, node.js"
+      ],
+      "courses": [
+        {
+          "course_name": "AWS Academy Cloud Foundations - Cohort 3 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5315621495246887,
+          "similarity": 0.7192701697349548,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Cloud Foundations - Cohort 3 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5312759280204773,
+          "similarity": 0.7187931537628174,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Cloud Foundations - Cohort 15 (Part 3)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5266084671020508,
+          "similarity": 0.7110140323638916,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "Static Website Hosting on AWS S3",
+          "skills": [
+            "aws",
+            "s3",
+            "dns"
+          ],
+          "type": "Infrastructure",
+          "difficulty": "Beginner"
+        },
+        {
+          "title": "Linux, 5G, Routing, Python, Gcp, Computer Vision, Aws, Docker & Linux, 5G, Routing, Python, Gcp, Computer Vision, Sql & Linux, 5G, Routing, Python, Gcp, Computer Vision, Tensorflow, Sql, React Integration Lab",
+          "description": "Set up a practical lab environment to experiment with Linux, 5G, Routing, Python, Gcp, Computer Vision, Aws, Docker & Linux, 5G, Routing, Python, Gcp, Computer Vision, Sql & Linux, 5G, Routing, Python, Gcp, Computer Vision, Tensorflow, Sql, React configurations and troubleshooting.",
+          "difficulty": "Beginner",
+          "skills_covered": [
+            "linux, 5g, routing, python, gcp, computer vision, aws, docker",
+            "linux, 5g, routing, python, gcp, computer vision, sql",
+            "linux, 5g, routing, python, gcp, computer vision, tensorflow, sql, react"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "Intermediate",
+      "duration": "6-8 weeks",
+      "focus": "Application & Certification",
+      "skills": [],
+      "courses": [
+        {
+          "course_name": "AWS Academy Cloud Foundations - Cohort 9 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5211083889007568,
+          "similarity": 0.7018473148345947,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Cloud Foundations - Cohort 9 (Part 2)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.519447386264801,
+          "similarity": 0.6990789771080017,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "HCIP-Datacom - Cohort 3 (Part 1)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.4968383014202118,
+          "similarity": 0.6613971590995789,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "Serverless API with Lambda & DynamoDB",
+          "skills": [
+            "aws lambda",
+            "api gateway",
+            "nosql"
+          ],
+          "type": "Backend",
+          "difficulty": "Intermediate"
+        },
+        {
+          "title": "Build a Lead Cloud Engineer Pipeline using Linux, 5G, Routing, Python, Gcp, Computer Vision, Aws, Docker & Linux, 5G, Routing, Python, Gcp, Computer Vision, Sql & Linux, 5G, Routing, Python, Gcp, Computer Vision, Tensorflow, Sql, React",
+          "description": "Create a comprehensive project that demonstrates your mastery of Linux, 5G, Routing, Python, Gcp, Computer Vision, Aws, Docker & Linux, 5G, Routing, Python, Gcp, Computer Vision, Sql & Linux, 5G, Routing, Python, Gcp, Computer Vision, Tensorflow, Sql, React. Focus on real-world application.",
+          "difficulty": "Intermediate",
+          "skills_covered": [
+            "linux, 5g, routing, python, gcp, computer vision, aws, docker",
+            "linux, 5g, routing, python, gcp, computer vision, sql",
+            "linux, 5g, routing, python, gcp, computer vision, tensorflow, sql, react"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "Advanced",
+      "duration": "8-10 weeks",
+      "focus": "Mastery & Job Readiness",
+      "skills": [],
+      "courses": [
+        {
+          "course_name": "HCIP-Cloud Computing - Cohort 9 (Part 2)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.4860398769378662,
+          "similarity": 0.6433997750282288,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "HCIP-Cloud Computing - Cohort 9 (Part 1)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.48579639196395874,
+          "similarity": 0.6429939866065979,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "Huawei Full-Stack Developer - Cohort 3 (Part 2)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.48463568091392517,
+          "similarity": 0.6410594582557678,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "Multi-Tier Microservices Architecture",
+          "skills": [
+            "kubernetes",
+            "docker",
+            "terraform"
+          ],
+          "type": "DevOps",
+          "difficulty": "Advanced"
+        },
+        {
+          "title": "Develop a Cloud-Native Application with Linux, 5G, Routing, Python, Gcp, Computer Vision, Aws, Docker & Linux, 5G, Routing, Python, Gcp, Computer Vision, Sql & Linux, 5G, Routing, Python, Gcp, Computer Vision, Tensorflow, Sql, React",
+          "description": "Deploy a scalable application integrating Linux, 5G, Routing, Python, Gcp, Computer Vision, Aws, Docker & Linux, 5G, Routing, Python, Gcp, Computer Vision, Sql & Linux, 5G, Routing, Python, Gcp, Computer Vision, Tensorflow, Sql, React to solve a specific business problem.",
+          "difficulty": "Advanced",
+          "skills_covered": [
+            "linux, 5g, routing, python, gcp, computer vision, aws, docker",
+            "linux, 5g, routing, python, gcp, computer vision, sql",
+            "linux, 5g, routing, python, gcp, computer vision, tensorflow, sql, react"
+          ]
+        }
+      ],
+      "internships": [
+        {
+          "company": "Cairocloud Solutions",
+          "role": "Junior Product Manager",
+          "match": 0.6005978584289551,
+          "location": "Cairo",
+          "missing_skills": []
+        },
+        {
+          "company": "Cairocloud Ltd",
+          "role": "Junior Backend Developer",
+          "match": 0.5974339842796326,
+          "location": "Aswan",
+          "missing_skills": []
+        },
+        {
+          "company": "Cloudworks Egypt Inc",
+          "role": "Junior Full Stack Developer",
+          "match": 0.5896151065826416,
+          "location": "Suez",
+          "missing_skills": []
+        }
+      ]
+    }
+  ]
+}

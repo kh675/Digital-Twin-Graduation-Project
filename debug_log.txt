@@ -1,0 +1,15 @@
+
+Checking embeddings_students.pkl...
+Type: <class 'dict'>
+Keys: ['ids', 'embeddings', 'metadata']
+Embeddings shape: (1500, 384)
+
+Checking embeddings_courses.pkl...
+Type: <class 'dict'>
+Keys: ['ids', 'embeddings', 'metadata']
+Embeddings shape: (1353, 384)
+
+Checking embeddings_jobs.pkl...
+Type: <class 'dict'>
+Keys: ['ids', 'embeddings', 'metadata']
+Embeddings shape: (1500, 384)

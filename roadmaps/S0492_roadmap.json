@@ -1,0 +1,213 @@
+{
+  "student_id": "S0492",
+  "career_path": "Software",
+  "career_source": "Prediction",
+  "generated_at": "2025-11-29",
+  "certification_path": [
+    "Oracle Java Associate",
+    "Meta Front-End Developer",
+    "AWS Developer Associate"
+  ],
+  "stages": [
+    {
+      "stage": "Beginner",
+      "duration": "4-6 weeks",
+      "focus": "Fundamentals & Top Gaps",
+      "skills": [
+        "docker, firewalls, hipaa, aws, node.js",
+        "flask, computer vision, routing, sql, aws",
+        "linux, 5g, routing, python, gcp, computer vision, aws, docker",
+        "microservices, aws, c, ansible, routing, ci/cd, sql, docker",
+        "tcp/ip, computer vision, aws, kubernetes, node.js, docker"
+      ],
+      "courses": [
+        {
+          "course_name": "AWS Academy Cloud Foundations - Cohort 9 (Part 2)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.4857098162174225,
+          "similarity": 0.6428496837615967,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Cloud Foundations - Cohort 9 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.47869667410850525,
+          "similarity": 0.631161093711853,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Cloud Foundations - Cohort 3 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.47760096192359924,
+          "similarity": 0.6293349266052246,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "Personal Portfolio Website",
+          "skills": [
+            "html",
+            "css",
+            "javascript"
+          ],
+          "type": "Frontend",
+          "difficulty": "Beginner"
+        },
+        {
+          "title": "Docker, Firewalls, Hipaa, Aws, Node.Js & Flask, Computer Vision, Routing, Sql, Aws & Linux, 5G, Routing, Python, Gcp, Computer Vision, Aws, Docker Integration Lab",
+          "description": "Set up a practical lab environment to experiment with Docker, Firewalls, Hipaa, Aws, Node.Js & Flask, Computer Vision, Routing, Sql, Aws & Linux, 5G, Routing, Python, Gcp, Computer Vision, Aws, Docker configurations and troubleshooting.",
+          "difficulty": "Beginner",
+          "skills_covered": [
+            "docker, firewalls, hipaa, aws, node.js",
+            "flask, computer vision, routing, sql, aws",
+            "linux, 5g, routing, python, gcp, computer vision, aws, docker"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "Intermediate",
+      "duration": "6-8 weeks",
+      "focus": "Application & Certification",
+      "skills": [],
+      "courses": [
+        {
+          "course_name": "AWS Academy Cloud Foundations - Cohort 9 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.47671574354171753,
+          "similarity": 0.6278595328330994,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Machine Learning Foundations - Cohort 9 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.4749244749546051,
+          "similarity": 0.6248741149902344,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "HCIP-Datacom - Cohort 3 (Part 1)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.5103185176849365,
+          "similarity": 0.683864176273346,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "REST API for Task Management",
+          "skills": [
+            "nodejs",
+            "express",
+            "mongodb"
+          ],
+          "type": "Backend",
+          "difficulty": "Intermediate"
+        },
+        {
+          "title": "Build a Mid-Level Full Stack Developer Pipeline using Docker, Firewalls, Hipaa, Aws, Node.Js & Flask, Computer Vision, Routing, Sql, Aws & Linux, 5G, Routing, Python, Gcp, Computer Vision, Aws, Docker",
+          "description": "Create a comprehensive project that demonstrates your mastery of Docker, Firewalls, Hipaa, Aws, Node.Js & Flask, Computer Vision, Routing, Sql, Aws & Linux, 5G, Routing, Python, Gcp, Computer Vision, Aws, Docker. Focus on real-world application.",
+          "difficulty": "Intermediate",
+          "skills_covered": [
+            "docker, firewalls, hipaa, aws, node.js",
+            "flask, computer vision, routing, sql, aws",
+            "linux, 5g, routing, python, gcp, computer vision, aws, docker"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "Advanced",
+      "duration": "8-10 weeks",
+      "focus": "Mastery & Job Readiness",
+      "skills": [],
+      "courses": [
+        {
+          "course_name": "HCIP-Datacom - Cohort 12 (Part 3)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.5061424970626831,
+          "similarity": 0.6769040822982788,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "HCIP-Datacom - Cohort 3 (Part 1)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.501430094242096,
+          "similarity": 0.6690500974655151,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "HCIP-Datacom - Cohort 8 (Part 3)",
+          "provider": "Huawei",
+          "level": "Intermediate",
+          "score": 0.4864630103111267,
+          "similarity": 0.6774383187294006,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "Full Stack E-commerce Platform",
+          "skills": [
+            "react",
+            "redux",
+            "stripe integration"
+          ],
+          "type": "Full Stack",
+          "difficulty": "Advanced"
+        },
+        {
+          "title": "Develop a Cloud-Native Application with Docker, Firewalls, Hipaa, Aws, Node.Js & Flask, Computer Vision, Routing, Sql, Aws & Linux, 5G, Routing, Python, Gcp, Computer Vision, Aws, Docker",
+          "description": "Deploy a scalable application integrating Docker, Firewalls, Hipaa, Aws, Node.Js & Flask, Computer Vision, Routing, Sql, Aws & Linux, 5G, Routing, Python, Gcp, Computer Vision, Aws, Docker to solve a specific business problem.",
+          "difficulty": "Advanced",
+          "skills_covered": [
+            "docker, firewalls, hipaa, aws, node.js",
+            "flask, computer vision, routing, sql, aws",
+            "linux, 5g, routing, python, gcp, computer vision, aws, docker"
+          ]
+        }
+      ],
+      "internships": [
+        {
+          "company": "Smartdata Labs Solutions",
+          "role": "Junior Machine Learning Engineer",
+          "match": 0.5538262128829956,
+          "location": "Suez",
+          "missing_skills": []
+        },
+        {
+          "company": "Cloudworks Egypt Inc",
+          "role": "Junior Full Stack Developer",
+          "match": 0.551956057548523,
+          "location": "Suez",
+          "missing_skills": []
+        },
+        {
+          "company": "Smartdata Labs Group",
+          "role": "Junior Machine Learning Engineer",
+          "match": 0.5457440614700317,
+          "location": "Suez",
+          "missing_skills": []
+        }
+      ]
+    }
+  ]
+}

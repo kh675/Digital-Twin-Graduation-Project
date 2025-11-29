@@ -1,0 +1,212 @@
+{
+  "student_id": "S0946",
+  "career_path": "Machine Learning",
+  "career_source": "Prediction",
+  "generated_at": "2025-11-29",
+  "certification_path": [
+    "TensorFlow Developer Certificate",
+    "AWS Machine Learning Specialty",
+    "DeepLearning.AI"
+  ],
+  "stages": [
+    {
+      "stage": "Beginner",
+      "duration": "4-6 weeks",
+      "focus": "Fundamentals & Top Gaps",
+      "skills": [
+        "rest apis, react, javascript, pytorch, terraform, routing, node.js, python, tensorflow",
+        "tensorflow, pandas, pytorch, react, ansible",
+        "tensorflow, pandas, pytorch, react, ansible, docker, sql",
+        "tensorflow, pandas, pytorch, react, ansible, python"
+      ],
+      "courses": [
+        {
+          "course_name": "AWS Academy Machine Learning for Developers - Cohort 15 (Part 2)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5424609780311584,
+          "similarity": 0.7374349236488342,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Machine Learning for Developers - Cohort 6 (Part 3)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5335371494293213,
+          "similarity": 0.7225618958473206,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Machine Learning for Developers - Cohort 6 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5328928232192993,
+          "similarity": 0.7214879989624023,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "House Price Prediction",
+          "skills": [
+            "python",
+            "regression",
+            "scikit-learn"
+          ],
+          "type": "Regression",
+          "difficulty": "Beginner"
+        },
+        {
+          "title": "Rest Apis, React, Javascript, Pytorch, Terraform, Routing, Node.Js, Python, Tensorflow & Tensorflow, Pandas, Pytorch, React, Ansible & Tensorflow, Pandas, Pytorch, React, Ansible, Docker, Sql Integration Lab",
+          "description": "Set up a practical lab environment to experiment with Rest Apis, React, Javascript, Pytorch, Terraform, Routing, Node.Js, Python, Tensorflow & Tensorflow, Pandas, Pytorch, React, Ansible & Tensorflow, Pandas, Pytorch, React, Ansible, Docker, Sql configurations and troubleshooting.",
+          "difficulty": "Beginner",
+          "skills_covered": [
+            "rest apis, react, javascript, pytorch, terraform, routing, node.js, python, tensorflow",
+            "tensorflow, pandas, pytorch, react, ansible",
+            "tensorflow, pandas, pytorch, react, ansible, docker, sql"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "Intermediate",
+      "duration": "6-8 weeks",
+      "focus": "Application & Certification",
+      "skills": [],
+      "courses": [
+        {
+          "course_name": "AWS Academy Machine Learning for Developers - Cohort 15 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5326627492904663,
+          "similarity": 0.7211045026779175,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Machine Learning for Developers - Cohort 3 (Part 3)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5318636894226074,
+          "similarity": 0.7197728157043457,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "HCIP-AI-Developer - Cohort 12 (Part 3)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.4879090189933777,
+          "similarity": 0.6465150117874146,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "Image Classification with CNNs",
+          "skills": [
+            "tensorflow",
+            "deep learning",
+            "cnn"
+          ],
+          "type": "Computer Vision",
+          "difficulty": "Intermediate"
+        },
+        {
+          "title": "Build a Mid-Level Frontend Developer Pipeline using Rest Apis, React, Javascript, Pytorch, Terraform, Routing, Node.Js, Python, Tensorflow & Tensorflow, Pandas, Pytorch, React, Ansible & Tensorflow, Pandas, Pytorch, React, Ansible, Docker, Sql",
+          "description": "Create a comprehensive project that demonstrates your mastery of Rest Apis, React, Javascript, Pytorch, Terraform, Routing, Node.Js, Python, Tensorflow & Tensorflow, Pandas, Pytorch, React, Ansible & Tensorflow, Pandas, Pytorch, React, Ansible, Docker, Sql. Focus on real-world application.",
+          "difficulty": "Intermediate",
+          "skills_covered": [
+            "rest apis, react, javascript, pytorch, terraform, routing, node.js, python, tensorflow",
+            "tensorflow, pandas, pytorch, react, ansible",
+            "tensorflow, pandas, pytorch, react, ansible, docker, sql"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "Advanced",
+      "duration": "8-10 weeks",
+      "focus": "Mastery & Job Readiness",
+      "skills": [],
+      "courses": [
+        {
+          "course_name": "HCIP-AI-Developer - Cohort 12 (Part 2)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.48338526487350464,
+          "similarity": 0.6389754414558411,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "HCIP-AI-Developer - Cohort 6 (Part 2)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.48331889510154724,
+          "similarity": 0.6388648152351379,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "HCIP-AI-Developer - Cohort 12 (Part 3)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.48020291328430176,
+          "similarity": 0.6336715221405029,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "End-to-End NLP Chatbot",
+          "skills": [
+            "nlp",
+            "transformers",
+            "deployment"
+          ],
+          "type": "NLP",
+          "difficulty": "Advanced"
+        },
+        {
+          "title": "Develop a Cloud-Native Application with Rest Apis, React, Javascript, Pytorch, Terraform, Routing, Node.Js, Python, Tensorflow & Tensorflow, Pandas, Pytorch, React, Ansible & Tensorflow, Pandas, Pytorch, React, Ansible, Docker, Sql",
+          "description": "Deploy a scalable application integrating Rest Apis, React, Javascript, Pytorch, Terraform, Routing, Node.Js, Python, Tensorflow & Tensorflow, Pandas, Pytorch, React, Ansible & Tensorflow, Pandas, Pytorch, React, Ansible, Docker, Sql to solve a specific business problem.",
+          "difficulty": "Advanced",
+          "skills_covered": [
+            "rest apis, react, javascript, pytorch, terraform, routing, node.js, python, tensorflow",
+            "tensorflow, pandas, pytorch, react, ansible",
+            "tensorflow, pandas, pytorch, react, ansible, docker, sql"
+          ]
+        }
+      ],
+      "internships": [
+        {
+          "company": "Futurevision Group",
+          "role": "Junior Frontend Developer",
+          "match": 0.6708272695541382,
+          "location": "Giza",
+          "missing_skills": []
+        },
+        {
+          "company": "Pyramid Solutions Egypt",
+          "role": "Junior Machine Learning Engineer",
+          "match": 0.6342353820800781,
+          "location": "Aswan",
+          "missing_skills": []
+        },
+        {
+          "company": "Cloudworks Egypt Solutions",
+          "role": "Junior Machine Learning Engineer",
+          "match": 0.6329954266548157,
+          "location": "Alexandria",
+          "missing_skills": []
+        }
+      ]
+    }
+  ]
+}

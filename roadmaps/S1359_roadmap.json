@@ -1,0 +1,212 @@
+{
+  "student_id": "S1359",
+  "career_path": "Data",
+  "career_source": "Prediction",
+  "generated_at": "2025-11-29",
+  "certification_path": [
+    "Google Data Analytics",
+    "Azure Data Scientist Associate",
+    "IBM Data Science"
+  ],
+  "stages": [
+    {
+      "stage": "Beginner",
+      "duration": "4-6 weeks",
+      "focus": "Fundamentals & Top Gaps",
+      "skills": [
+        "flask, computer vision, routing, sql",
+        "flask, computer vision, routing, sql, aws",
+        "switching, pandas, numpy, flask, nlp, ansible, ci/cd",
+        "switching, pandas, numpy, flask, nlp, ansible, ci/cd, node.js, sql"
+      ],
+      "courses": [
+        {
+          "course_name": "AWS Academy Machine Learning Foundations - Cohort 12 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.38759085536003113,
+          "similarity": 0.4793180823326111,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Machine Learning Foundations - Cohort 3 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.384941428899765,
+          "similarity": 0.4749023914337158,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Data Analytics - Cohort 12 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.37938129901885986,
+          "similarity": 0.4656354784965515,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "Exploratory Data Analysis on Titanic Dataset",
+          "skills": [
+            "python",
+            "pandas",
+            "matplotlib"
+          ],
+          "type": "Analysis",
+          "difficulty": "Beginner"
+        },
+        {
+          "title": "Flask, Computer Vision, Routing, Sql & Flask, Computer Vision, Routing, Sql, Aws & Switching, Pandas, Numpy, Flask, Nlp, Ansible, Ci/Cd Integration Lab",
+          "description": "Set up a practical lab environment to experiment with Flask, Computer Vision, Routing, Sql & Flask, Computer Vision, Routing, Sql, Aws & Switching, Pandas, Numpy, Flask, Nlp, Ansible, Ci/Cd configurations and troubleshooting.",
+          "difficulty": "Beginner",
+          "skills_covered": [
+            "flask, computer vision, routing, sql",
+            "flask, computer vision, routing, sql, aws",
+            "switching, pandas, numpy, flask, nlp, ansible, ci/cd"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "Intermediate",
+      "duration": "6-8 weeks",
+      "focus": "Application & Certification",
+      "skills": [],
+      "courses": [
+        {
+          "course_name": "AWS Academy Machine Learning Foundations - Cohort 3 (Part 2)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.3781963884830475,
+          "similarity": 0.46366065740585327,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Data Analytics - Cohort 6 (Part 3)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.37742218375205994,
+          "similarity": 0.4623703062534332,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "Huawei Data Warehouse and BI - Cohort 12 (Part 1)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.5720638036727905,
+          "similarity": 0.7867729663848877,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "E-commerce Sales Dashboard",
+          "skills": [
+            "sql",
+            "tableau",
+            "data cleaning"
+          ],
+          "type": "Visualization",
+          "difficulty": "Intermediate"
+        },
+        {
+          "title": "Build a Mid-Level Data Scientist Pipeline using Flask, Computer Vision, Routing, Sql & Flask, Computer Vision, Routing, Sql, Aws & Switching, Pandas, Numpy, Flask, Nlp, Ansible, Ci/Cd",
+          "description": "Create a comprehensive project that demonstrates your mastery of Flask, Computer Vision, Routing, Sql & Flask, Computer Vision, Routing, Sql, Aws & Switching, Pandas, Numpy, Flask, Nlp, Ansible, Ci/Cd. Focus on real-world application.",
+          "difficulty": "Intermediate",
+          "skills_covered": [
+            "flask, computer vision, routing, sql",
+            "flask, computer vision, routing, sql, aws",
+            "switching, pandas, numpy, flask, nlp, ansible, ci/cd"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "Advanced",
+      "duration": "8-10 weeks",
+      "focus": "Mastery & Job Readiness",
+      "skills": [],
+      "courses": [
+        {
+          "course_name": "Huawei Data Warehouse and BI - Cohort 6 (Part 2)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.5661113262176514,
+          "similarity": 0.7768521308898926,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "Huawei Data Warehouse and BI - Cohort 6 (Part 1)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.5656418204307556,
+          "similarity": 0.776069700717926,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "Huawei Data Warehouse and BI - Cohort 15 (Part 2)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.5654292106628418,
+          "similarity": 0.7757153511047363,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "Predictive Customer Churn Model",
+          "skills": [
+            "scikit-learn",
+            "feature engineering",
+            "modeling"
+          ],
+          "type": "ML",
+          "difficulty": "Advanced"
+        },
+        {
+          "title": "Develop a Cloud-Native Application with Flask, Computer Vision, Routing, Sql & Flask, Computer Vision, Routing, Sql, Aws & Switching, Pandas, Numpy, Flask, Nlp, Ansible, Ci/Cd",
+          "description": "Deploy a scalable application integrating Flask, Computer Vision, Routing, Sql & Flask, Computer Vision, Routing, Sql, Aws & Switching, Pandas, Numpy, Flask, Nlp, Ansible, Ci/Cd to solve a specific business problem.",
+          "difficulty": "Advanced",
+          "skills_covered": [
+            "flask, computer vision, routing, sql",
+            "flask, computer vision, routing, sql, aws",
+            "switching, pandas, numpy, flask, nlp, ansible, ci/cd"
+          ]
+        }
+      ],
+      "internships": [
+        {
+          "company": "Smartdata Labs Inc",
+          "role": "Junior Data Analyst",
+          "match": 0.523966908454895,
+          "location": "Giza",
+          "missing_skills": []
+        },
+        {
+          "company": "Pyramid Solutions Group",
+          "role": "Junior Data Scientist",
+          "match": 0.5178594589233398,
+          "location": "Cairo",
+          "missing_skills": []
+        },
+        {
+          "company": "Masrsoft Solutions",
+          "role": "Junior Mobile Developer",
+          "match": 0.5088630318641663,
+          "location": "Tanta",
+          "missing_skills": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,213 @@
+{
+  "student_id": "S0408",
+  "career_path": "Cloud",
+  "career_source": "Prediction",
+  "generated_at": "2025-11-29",
+  "certification_path": [
+    "AWS Cloud Practitioner",
+    "AWS Solutions Architect Associate",
+    "Huawei HCIA Cloud"
+  ],
+  "stages": [
+    {
+      "stage": "Beginner",
+      "duration": "4-6 weeks",
+      "focus": "Fundamentals & Top Gaps",
+      "skills": [
+        "5g, java, flask, gcp, nosql, terraform, c, node.js, react, docker",
+        "computer vision, java, firewalls, routing, nosql, kubernetes, 5g, node.js, aws, react",
+        "computer vision, java, firewalls, routing, nosql, kubernetes, 5g, python, aws, node.js",
+        "nosql, c, azure, elasticsearch, terraform, sql, computer vision, kubernetes, node.js, tensorflow",
+        "pandas, 5g, nosql, rest apis, terraform, computer vision, node.js, kubernetes"
+      ],
+      "courses": [
+        {
+          "course_name": "AWS Academy Cloud Foundations - Cohort 9 (Part 2)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5411213636398315,
+          "similarity": 0.7352021932601929,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Cloud Foundations - Cohort 3 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5360783338546753,
+          "similarity": 0.7267972230911255,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Cloud Foundations - Cohort 9 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.534092903137207,
+          "similarity": 0.7234881520271301,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "Static Website Hosting on AWS S3",
+          "skills": [
+            "aws",
+            "s3",
+            "dns"
+          ],
+          "type": "Infrastructure",
+          "difficulty": "Beginner"
+        },
+        {
+          "title": "5G, Java, Flask, Gcp, Nosql, Terraform, C, Node.Js, React, Docker & Computer Vision, Java, Firewalls, Routing, Nosql, Kubernetes, 5G, Node.Js, Aws, React & Computer Vision, Java, Firewalls, Routing, Nosql, Kubernetes, 5G, Python, Aws, Node.Js Integration Lab",
+          "description": "Set up a practical lab environment to experiment with 5G, Java, Flask, Gcp, Nosql, Terraform, C, Node.Js, React, Docker & Computer Vision, Java, Firewalls, Routing, Nosql, Kubernetes, 5G, Node.Js, Aws, React & Computer Vision, Java, Firewalls, Routing, Nosql, Kubernetes, 5G, Python, Aws, Node.Js configurations and troubleshooting.",
+          "difficulty": "Beginner",
+          "skills_covered": [
+            "5g, java, flask, gcp, nosql, terraform, c, node.js, react, docker",
+            "computer vision, java, firewalls, routing, nosql, kubernetes, 5g, node.js, aws, react",
+            "computer vision, java, firewalls, routing, nosql, kubernetes, 5g, python, aws, node.js"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "Intermediate",
+      "duration": "6-8 weeks",
+      "focus": "Application & Certification",
+      "skills": [],
+      "courses": [
+        {
+          "course_name": "AWS Academy Cloud Foundations - Cohort 9 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5334107875823975,
+          "similarity": 0.7223513126373291,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Cloud Foundations - Cohort 3 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5302696228027344,
+          "similarity": 0.7171159982681274,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "HCIA-Cloud Computing - Cohort 12 (Part 1)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.49370601773262024,
+          "similarity": 0.6561766862869263,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "Serverless API with Lambda & DynamoDB",
+          "skills": [
+            "aws lambda",
+            "api gateway",
+            "nosql"
+          ],
+          "type": "Backend",
+          "difficulty": "Intermediate"
+        },
+        {
+          "title": "Build a Lead Cloud Engineer Pipeline using 5G, Java, Flask, Gcp, Nosql, Terraform, C, Node.Js, React, Docker & Computer Vision, Java, Firewalls, Routing, Nosql, Kubernetes, 5G, Node.Js, Aws, React & Computer Vision, Java, Firewalls, Routing, Nosql, Kubernetes, 5G, Python, Aws, Node.Js",
+          "description": "Create a comprehensive project that demonstrates your mastery of 5G, Java, Flask, Gcp, Nosql, Terraform, C, Node.Js, React, Docker & Computer Vision, Java, Firewalls, Routing, Nosql, Kubernetes, 5G, Node.Js, Aws, React & Computer Vision, Java, Firewalls, Routing, Nosql, Kubernetes, 5G, Python, Aws, Node.Js. Focus on real-world application.",
+          "difficulty": "Intermediate",
+          "skills_covered": [
+            "5g, java, flask, gcp, nosql, terraform, c, node.js, react, docker",
+            "computer vision, java, firewalls, routing, nosql, kubernetes, 5g, node.js, aws, react",
+            "computer vision, java, firewalls, routing, nosql, kubernetes, 5g, python, aws, node.js"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "Advanced",
+      "duration": "8-10 weeks",
+      "focus": "Mastery & Job Readiness",
+      "skills": [],
+      "courses": [
+        {
+          "course_name": "HCIA-Cloud Computing - Cohort 12 (Part 3)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.4936217665672302,
+          "similarity": 0.6560362577438354,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "HCIA-Cloud Computing - Cohort 3 (Part 2)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.4884985387325287,
+          "similarity": 0.6474975347518921,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "HCIA-Cloud Computing - Cohort 15 (Part 1)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.48705679178237915,
+          "similarity": 0.645094633102417,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "Multi-Tier Microservices Architecture",
+          "skills": [
+            "kubernetes",
+            "docker",
+            "terraform"
+          ],
+          "type": "DevOps",
+          "difficulty": "Advanced"
+        },
+        {
+          "title": "Develop a Cloud-Native Application with 5G, Java, Flask, Gcp, Nosql, Terraform, C, Node.Js, React, Docker & Computer Vision, Java, Firewalls, Routing, Nosql, Kubernetes, 5G, Node.Js, Aws, React & Computer Vision, Java, Firewalls, Routing, Nosql, Kubernetes, 5G, Python, Aws, Node.Js",
+          "description": "Deploy a scalable application integrating 5G, Java, Flask, Gcp, Nosql, Terraform, C, Node.Js, React, Docker & Computer Vision, Java, Firewalls, Routing, Nosql, Kubernetes, 5G, Node.Js, Aws, React & Computer Vision, Java, Firewalls, Routing, Nosql, Kubernetes, 5G, Python, Aws, Node.Js to solve a specific business problem.",
+          "difficulty": "Advanced",
+          "skills_covered": [
+            "5g, java, flask, gcp, nosql, terraform, c, node.js, react, docker",
+            "computer vision, java, firewalls, routing, nosql, kubernetes, 5g, node.js, aws, react",
+            "computer vision, java, firewalls, routing, nosql, kubernetes, 5g, python, aws, node.js"
+          ]
+        }
+      ],
+      "internships": [
+        {
+          "company": "Cloudworks Egypt Inc",
+          "role": "Junior Full Stack Developer",
+          "match": 0.6113002300262451,
+          "location": "Tanta",
+          "missing_skills": []
+        },
+        {
+          "company": "Cloudworks Egypt Ltd",
+          "role": "Junior Frontend Developer",
+          "match": 0.5976249575614929,
+          "location": "Mansoura",
+          "missing_skills": []
+        },
+        {
+          "company": "Cloudworks Egypt Inc",
+          "role": "Junior Frontend Developer",
+          "match": 0.5970447659492493,
+          "location": "Mansoura",
+          "missing_skills": []
+        }
+      ]
+    }
+  ]
+}

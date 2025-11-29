@@ -1,0 +1,213 @@
+{
+  "student_id": "S0138",
+  "career_path": "Machine Learning",
+  "career_source": "Prediction",
+  "generated_at": "2025-11-29",
+  "certification_path": [
+    "TensorFlow Developer Certificate",
+    "AWS Machine Learning Specialty",
+    "DeepLearning.AI"
+  ],
+  "stages": [
+    {
+      "stage": "Beginner",
+      "duration": "4-6 weeks",
+      "focus": "Fundamentals & Top Gaps",
+      "skills": [
+        "git, firewalls, azure, ci/cd, pytorch, pandas, aws, react, node.js",
+        "git, firewalls, azure, ci/cd, pytorch, pandas, kubernetes, docker",
+        "git, firewalls, azure, ci/cd, pytorch, pandas, react, python",
+        "git, firewalls, azure, ci/cd, pytorch, pandas, react, python, sql",
+        "git, firewalls, azure, ci/cd, pytorch, pandas, tensorflow"
+      ],
+      "courses": [
+        {
+          "course_name": "AWS Academy Machine Learning for Developers - Cohort 15 (Part 2)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5380817651748657,
+          "similarity": 0.7301362156867981,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Machine Learning for Developers - Cohort 3 (Part 3)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5356624126434326,
+          "similarity": 0.7261039614677429,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Machine Learning for Developers - Cohort 15 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5335658192634583,
+          "similarity": 0.7226096987724304,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "House Price Prediction",
+          "skills": [
+            "python",
+            "regression",
+            "scikit-learn"
+          ],
+          "type": "Regression",
+          "difficulty": "Beginner"
+        },
+        {
+          "title": "Git, Firewalls, Azure, Ci/Cd, Pytorch, Pandas, Aws, React, Node.Js & Git, Firewalls, Azure, Ci/Cd, Pytorch, Pandas, Kubernetes, Docker & Git, Firewalls, Azure, Ci/Cd, Pytorch, Pandas, React, Python Integration Lab",
+          "description": "Set up a practical lab environment to experiment with Git, Firewalls, Azure, Ci/Cd, Pytorch, Pandas, Aws, React, Node.Js & Git, Firewalls, Azure, Ci/Cd, Pytorch, Pandas, Kubernetes, Docker & Git, Firewalls, Azure, Ci/Cd, Pytorch, Pandas, React, Python configurations and troubleshooting.",
+          "difficulty": "Beginner",
+          "skills_covered": [
+            "git, firewalls, azure, ci/cd, pytorch, pandas, aws, react, node.js",
+            "git, firewalls, azure, ci/cd, pytorch, pandas, kubernetes, docker",
+            "git, firewalls, azure, ci/cd, pytorch, pandas, react, python"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "Intermediate",
+      "duration": "6-8 weeks",
+      "focus": "Application & Certification",
+      "skills": [],
+      "courses": [
+        {
+          "course_name": "AWS Academy Machine Learning for Developers - Cohort 3 (Part 2)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5307238698005676,
+          "similarity": 0.7178730964660645,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Machine Learning for Developers - Cohort 6 (Part 3)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5278314352035522,
+          "similarity": 0.7130523324012756,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "HCIP-AI-Developer - Cohort 12 (Part 3)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.5420134663581848,
+          "similarity": 0.7366890907287598,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "Image Classification with CNNs",
+          "skills": [
+            "tensorflow",
+            "deep learning",
+            "cnn"
+          ],
+          "type": "Computer Vision",
+          "difficulty": "Intermediate"
+        },
+        {
+          "title": "Build a Principal Machine Learning Engineer Pipeline using Git, Firewalls, Azure, Ci/Cd, Pytorch, Pandas, Aws, React, Node.Js & Git, Firewalls, Azure, Ci/Cd, Pytorch, Pandas, Kubernetes, Docker & Git, Firewalls, Azure, Ci/Cd, Pytorch, Pandas, React, Python",
+          "description": "Create a comprehensive project that demonstrates your mastery of Git, Firewalls, Azure, Ci/Cd, Pytorch, Pandas, Aws, React, Node.Js & Git, Firewalls, Azure, Ci/Cd, Pytorch, Pandas, Kubernetes, Docker & Git, Firewalls, Azure, Ci/Cd, Pytorch, Pandas, React, Python. Focus on real-world application.",
+          "difficulty": "Intermediate",
+          "skills_covered": [
+            "git, firewalls, azure, ci/cd, pytorch, pandas, aws, react, node.js",
+            "git, firewalls, azure, ci/cd, pytorch, pandas, kubernetes, docker",
+            "git, firewalls, azure, ci/cd, pytorch, pandas, react, python"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "Advanced",
+      "duration": "8-10 weeks",
+      "focus": "Mastery & Job Readiness",
+      "skills": [],
+      "courses": [
+        {
+          "course_name": "HCIP-AI-Developer - Cohort 12 (Part 2)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.5412439107894897,
+          "similarity": 0.7354064583778381,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "HCIP-AI-Developer - Cohort 6 (Part 3)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.5379952788352966,
+          "similarity": 0.7299920916557312,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "HCIP-AI-Developer - Cohort 6 (Part 2)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.5339164733886719,
+          "similarity": 0.7231941223144531,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "End-to-End NLP Chatbot",
+          "skills": [
+            "nlp",
+            "transformers",
+            "deployment"
+          ],
+          "type": "NLP",
+          "difficulty": "Advanced"
+        },
+        {
+          "title": "Develop a Cloud-Native Application with Git, Firewalls, Azure, Ci/Cd, Pytorch, Pandas, Aws, React, Node.Js & Git, Firewalls, Azure, Ci/Cd, Pytorch, Pandas, Kubernetes, Docker & Git, Firewalls, Azure, Ci/Cd, Pytorch, Pandas, React, Python",
+          "description": "Deploy a scalable application integrating Git, Firewalls, Azure, Ci/Cd, Pytorch, Pandas, Aws, React, Node.Js & Git, Firewalls, Azure, Ci/Cd, Pytorch, Pandas, Kubernetes, Docker & Git, Firewalls, Azure, Ci/Cd, Pytorch, Pandas, React, Python to solve a specific business problem.",
+          "difficulty": "Advanced",
+          "skills_covered": [
+            "git, firewalls, azure, ci/cd, pytorch, pandas, aws, react, node.js",
+            "git, firewalls, azure, ci/cd, pytorch, pandas, kubernetes, docker",
+            "git, firewalls, azure, ci/cd, pytorch, pandas, react, python"
+          ]
+        }
+      ],
+      "internships": [
+        {
+          "company": "Pyramid Solutions Egypt",
+          "role": "Junior Machine Learning Engineer",
+          "match": 0.5934545993804932,
+          "location": "Aswan",
+          "missing_skills": []
+        },
+        {
+          "company": "Cloudworks Egypt Solutions",
+          "role": "Junior Machine Learning Engineer",
+          "match": 0.5926705002784729,
+          "location": "Alexandria",
+          "missing_skills": []
+        },
+        {
+          "company": "Alex Tech Solutions",
+          "role": "Junior Backend Developer",
+          "match": 0.5914497375488281,
+          "location": "Hurghada",
+          "missing_skills": []
+        }
+      ]
+    }
+  ]
+}

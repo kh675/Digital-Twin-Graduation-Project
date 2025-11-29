@@ -1,0 +1,213 @@
+{
+  "student_id": "S0345",
+  "career_path": "Software",
+  "career_source": "Prediction",
+  "generated_at": "2025-11-29",
+  "certification_path": [
+    "Oracle Java Associate",
+    "Meta Front-End Developer",
+    "AWS Developer Associate"
+  ],
+  "stages": [
+    {
+      "stage": "Beginner",
+      "duration": "4-6 weeks",
+      "focus": "Fundamentals & Top Gaps",
+      "skills": [
+        "linux, 5g, routing, python, gcp, computer vision, aws, docker",
+        "spark, rest apis, git, kubernetes, aws, docker",
+        "sql, rest apis, node.js, tensorflow, hadoop, ansible, numpy, docker",
+        "tcp/ip, computer vision, aws, kubernetes, node.js, docker",
+        "tcp/ip, rest apis, docker, flask, node.js, aws, kubernetes"
+      ],
+      "courses": [
+        {
+          "course_name": "AWS Academy Machine Learning Foundations - Cohort 9 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.4711579978466034,
+          "similarity": 0.6185966730117798,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Machine Learning for Developers - Cohort 3 (Part 2)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.4698718786239624,
+          "similarity": 0.6164531111717224,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Machine Learning for Developers - Cohort 6 (Part 3)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.46924889087677,
+          "similarity": 0.6154147982597351,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "Personal Portfolio Website",
+          "skills": [
+            "html",
+            "css",
+            "javascript"
+          ],
+          "type": "Frontend",
+          "difficulty": "Beginner"
+        },
+        {
+          "title": "Linux, 5G, Routing, Python, Gcp, Computer Vision, Aws, Docker & Spark, Rest Apis, Git, Kubernetes, Aws, Docker & Sql, Rest Apis, Node.Js, Tensorflow, Hadoop, Ansible, Numpy, Docker Integration Lab",
+          "description": "Set up a practical lab environment to experiment with Linux, 5G, Routing, Python, Gcp, Computer Vision, Aws, Docker & Spark, Rest Apis, Git, Kubernetes, Aws, Docker & Sql, Rest Apis, Node.Js, Tensorflow, Hadoop, Ansible, Numpy, Docker configurations and troubleshooting.",
+          "difficulty": "Beginner",
+          "skills_covered": [
+            "linux, 5g, routing, python, gcp, computer vision, aws, docker",
+            "spark, rest apis, git, kubernetes, aws, docker",
+            "sql, rest apis, node.js, tensorflow, hadoop, ansible, numpy, docker"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "Intermediate",
+      "duration": "6-8 weeks",
+      "focus": "Application & Certification",
+      "skills": [],
+      "courses": [
+        {
+          "course_name": "AWS Academy Machine Learning Foundations - Cohort 9 (Part 3)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.46623408794403076,
+          "similarity": 0.6103901267051697,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Machine Learning Foundations - Cohort 12 (Part 2)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.4637468159198761,
+          "similarity": 0.606244683265686,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "Huawei Full-Stack Developer - Cohort 6 (Part 1)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.5118787884712219,
+          "similarity": 0.6864646077156067,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "REST API for Task Management",
+          "skills": [
+            "nodejs",
+            "express",
+            "mongodb"
+          ],
+          "type": "Backend",
+          "difficulty": "Intermediate"
+        },
+        {
+          "title": "Build a Principal Backend Developer Pipeline using Linux, 5G, Routing, Python, Gcp, Computer Vision, Aws, Docker & Spark, Rest Apis, Git, Kubernetes, Aws, Docker & Sql, Rest Apis, Node.Js, Tensorflow, Hadoop, Ansible, Numpy, Docker",
+          "description": "Create a comprehensive project that demonstrates your mastery of Linux, 5G, Routing, Python, Gcp, Computer Vision, Aws, Docker & Spark, Rest Apis, Git, Kubernetes, Aws, Docker & Sql, Rest Apis, Node.Js, Tensorflow, Hadoop, Ansible, Numpy, Docker. Focus on real-world application.",
+          "difficulty": "Intermediate",
+          "skills_covered": [
+            "linux, 5g, routing, python, gcp, computer vision, aws, docker",
+            "spark, rest apis, git, kubernetes, aws, docker",
+            "sql, rest apis, node.js, tensorflow, hadoop, ansible, numpy, docker"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "Advanced",
+      "duration": "8-10 weeks",
+      "focus": "Mastery & Job Readiness",
+      "skills": [],
+      "courses": [
+        {
+          "course_name": "Huawei Full-Stack Developer - Cohort 3 (Part 2)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.511762797832489,
+          "similarity": 0.6862712502479553,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "Huawei Full-Stack Developer - Cohort 12 (Part 3)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.5114235281944275,
+          "similarity": 0.685705840587616,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "Huawei Full-Stack Developer - Cohort 12 (Part 2)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.5113177299499512,
+          "similarity": 0.6855294704437256,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "Full Stack E-commerce Platform",
+          "skills": [
+            "react",
+            "redux",
+            "stripe integration"
+          ],
+          "type": "Full Stack",
+          "difficulty": "Advanced"
+        },
+        {
+          "title": "Develop a Cloud-Native Application with Linux, 5G, Routing, Python, Gcp, Computer Vision, Aws, Docker & Spark, Rest Apis, Git, Kubernetes, Aws, Docker & Sql, Rest Apis, Node.Js, Tensorflow, Hadoop, Ansible, Numpy, Docker",
+          "description": "Deploy a scalable application integrating Linux, 5G, Routing, Python, Gcp, Computer Vision, Aws, Docker & Spark, Rest Apis, Git, Kubernetes, Aws, Docker & Sql, Rest Apis, Node.Js, Tensorflow, Hadoop, Ansible, Numpy, Docker to solve a specific business problem.",
+          "difficulty": "Advanced",
+          "skills_covered": [
+            "linux, 5g, routing, python, gcp, computer vision, aws, docker",
+            "spark, rest apis, git, kubernetes, aws, docker",
+            "sql, rest apis, node.js, tensorflow, hadoop, ansible, numpy, docker"
+          ]
+        }
+      ],
+      "internships": [
+        {
+          "company": "Cairocloud Ltd",
+          "role": "Junior Backend Developer",
+          "match": 0.5999941229820251,
+          "location": "Aswan",
+          "missing_skills": []
+        },
+        {
+          "company": "Pyramid Solutions Egypt",
+          "role": "Junior Backend Developer",
+          "match": 0.5989382863044739,
+          "location": "Alexandria",
+          "missing_skills": []
+        },
+        {
+          "company": "Cloudworks Egypt Solutions",
+          "role": "Junior Machine Learning Engineer",
+          "match": 0.5912520289421082,
+          "location": "Alexandria",
+          "missing_skills": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,213 @@
+{
+  "student_id": "S0478",
+  "career_path": "Machine Learning",
+  "career_source": "Prediction",
+  "generated_at": "2025-11-29",
+  "certification_path": [
+    "TensorFlow Developer Certificate",
+    "AWS Machine Learning Specialty",
+    "DeepLearning.AI"
+  ],
+  "stages": [
+    {
+      "stage": "Beginner",
+      "duration": "4-6 weeks",
+      "focus": "Fundamentals & Top Gaps",
+      "skills": [
+        "git, firewalls, azure, ci/cd, pytorch, pandas, aws, react, node.js",
+        "git, firewalls, azure, ci/cd, pytorch, pandas, react, python",
+        "git, firewalls, azure, ci/cd, pytorch, pandas, react, python, sql",
+        "microservices, javascript, flask, ansible, pytorch, routing, kubernetes, python, aws",
+        "switching, docker, azure, pandas, aws, spark, python, tensorflow"
+      ],
+      "courses": [
+        {
+          "course_name": "AWS Academy Machine Learning for Developers - Cohort 3 (Part 3)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5359896421432495,
+          "similarity": 0.7266493439674377,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Machine Learning for Developers - Cohort 15 (Part 2)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5356581211090088,
+          "similarity": 0.7260968089103699,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Machine Learning for Developers - Cohort 15 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5352890491485596,
+          "similarity": 0.7254816889762878,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "House Price Prediction",
+          "skills": [
+            "python",
+            "regression",
+            "scikit-learn"
+          ],
+          "type": "Regression",
+          "difficulty": "Beginner"
+        },
+        {
+          "title": "Git, Firewalls, Azure, Ci/Cd, Pytorch, Pandas, Aws, React, Node.Js & Git, Firewalls, Azure, Ci/Cd, Pytorch, Pandas, React, Python & Git, Firewalls, Azure, Ci/Cd, Pytorch, Pandas, React, Python, Sql Integration Lab",
+          "description": "Set up a practical lab environment to experiment with Git, Firewalls, Azure, Ci/Cd, Pytorch, Pandas, Aws, React, Node.Js & Git, Firewalls, Azure, Ci/Cd, Pytorch, Pandas, React, Python & Git, Firewalls, Azure, Ci/Cd, Pytorch, Pandas, React, Python, Sql configurations and troubleshooting.",
+          "difficulty": "Beginner",
+          "skills_covered": [
+            "git, firewalls, azure, ci/cd, pytorch, pandas, aws, react, node.js",
+            "git, firewalls, azure, ci/cd, pytorch, pandas, react, python",
+            "git, firewalls, azure, ci/cd, pytorch, pandas, react, python, sql"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "Intermediate",
+      "duration": "6-8 weeks",
+      "focus": "Application & Certification",
+      "skills": [],
+      "courses": [
+        {
+          "course_name": "AWS Academy Machine Learning for Developers - Cohort 3 (Part 2)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5334295034408569,
+          "similarity": 0.7223824858665466,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Machine Learning Foundations - Cohort 12 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5302755236625671,
+          "similarity": 0.7171258330345154,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AI Talent Program - Cohort 3 (Part 2)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.5235725045204163,
+          "similarity": 0.7059541344642639,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "Image Classification with CNNs",
+          "skills": [
+            "tensorflow",
+            "deep learning",
+            "cnn"
+          ],
+          "type": "Computer Vision",
+          "difficulty": "Intermediate"
+        },
+        {
+          "title": "Build a Mid-Level Machine Learning Engineer Pipeline using Git, Firewalls, Azure, Ci/Cd, Pytorch, Pandas, Aws, React, Node.Js & Git, Firewalls, Azure, Ci/Cd, Pytorch, Pandas, React, Python & Git, Firewalls, Azure, Ci/Cd, Pytorch, Pandas, React, Python, Sql",
+          "description": "Create a comprehensive project that demonstrates your mastery of Git, Firewalls, Azure, Ci/Cd, Pytorch, Pandas, Aws, React, Node.Js & Git, Firewalls, Azure, Ci/Cd, Pytorch, Pandas, React, Python & Git, Firewalls, Azure, Ci/Cd, Pytorch, Pandas, React, Python, Sql. Focus on real-world application.",
+          "difficulty": "Intermediate",
+          "skills_covered": [
+            "git, firewalls, azure, ci/cd, pytorch, pandas, aws, react, node.js",
+            "git, firewalls, azure, ci/cd, pytorch, pandas, react, python",
+            "git, firewalls, azure, ci/cd, pytorch, pandas, react, python, sql"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "Advanced",
+      "duration": "8-10 weeks",
+      "focus": "Mastery & Job Readiness",
+      "skills": [],
+      "courses": [
+        {
+          "course_name": "AI Talent Program - Cohort 6 (Part 3)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.5167791247367859,
+          "similarity": 0.6946318745613098,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AI Talent Program - Cohort 15 (Part 3)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.5139039158821106,
+          "similarity": 0.689839780330658,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AI Talent Program - Cohort 2 (Part 3)",
+          "provider": "Huawei",
+          "level": "Intermediate",
+          "score": 0.49426883459091187,
+          "similarity": 0.690447986125946,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "End-to-End NLP Chatbot",
+          "skills": [
+            "nlp",
+            "transformers",
+            "deployment"
+          ],
+          "type": "NLP",
+          "difficulty": "Advanced"
+        },
+        {
+          "title": "Develop a Cloud-Native Application with Git, Firewalls, Azure, Ci/Cd, Pytorch, Pandas, Aws, React, Node.Js & Git, Firewalls, Azure, Ci/Cd, Pytorch, Pandas, React, Python & Git, Firewalls, Azure, Ci/Cd, Pytorch, Pandas, React, Python, Sql",
+          "description": "Deploy a scalable application integrating Git, Firewalls, Azure, Ci/Cd, Pytorch, Pandas, Aws, React, Node.Js & Git, Firewalls, Azure, Ci/Cd, Pytorch, Pandas, React, Python & Git, Firewalls, Azure, Ci/Cd, Pytorch, Pandas, React, Python, Sql to solve a specific business problem.",
+          "difficulty": "Advanced",
+          "skills_covered": [
+            "git, firewalls, azure, ci/cd, pytorch, pandas, aws, react, node.js",
+            "git, firewalls, azure, ci/cd, pytorch, pandas, react, python",
+            "git, firewalls, azure, ci/cd, pytorch, pandas, react, python, sql"
+          ]
+        }
+      ],
+      "internships": [
+        {
+          "company": "Smartdata Labs Group",
+          "role": "Junior Machine Learning Engineer",
+          "match": 0.6037541031837463,
+          "location": "Suez",
+          "missing_skills": []
+        },
+        {
+          "company": "Cloudworks Egypt Solutions",
+          "role": "Junior Machine Learning Engineer",
+          "match": 0.5952074527740479,
+          "location": "Alexandria",
+          "missing_skills": []
+        },
+        {
+          "company": "Smartdata Labs Solutions",
+          "role": "Junior Machine Learning Engineer",
+          "match": 0.5892106294631958,
+          "location": "Suez",
+          "missing_skills": []
+        }
+      ]
+    }
+  ]
+}

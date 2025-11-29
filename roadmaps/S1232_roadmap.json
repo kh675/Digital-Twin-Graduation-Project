@@ -1,0 +1,209 @@
+{
+  "student_id": "S1232",
+  "career_path": "Other",
+  "career_source": "Fallback",
+  "generated_at": "2025-11-29",
+  "certification_path": [],
+  "stages": [
+    {
+      "stage": "Beginner",
+      "duration": "4-6 weeks",
+      "focus": "Fundamentals & Top Gaps",
+      "skills": [
+        "routing, docker, pytorch, ansible, azure, kubernetes",
+        "routing, docker, pytorch, ansible, azure, kubernetes, aws, python",
+        "routing, docker, pytorch, ansible, azure, python, node.js",
+        "tcp/ip, git, docker, node.js",
+        "tcp/ip, git, docker, python, aws"
+      ],
+      "courses": [
+        {
+          "course_name": "AWS Academy Cloud Foundations - Cohort 3 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5380519032478333,
+          "similarity": 0.7300864458084106,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Cloud Foundations - Cohort 6 (Part 3)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5327305793762207,
+          "similarity": 0.7212176322937012,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Cloud Foundations - Cohort 15 (Part 3)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5326809883117676,
+          "similarity": 0.7211349010467529,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "Personal Portfolio Website",
+          "skills": [
+            "html",
+            "css",
+            "javascript"
+          ],
+          "type": "Frontend",
+          "difficulty": "Beginner"
+        },
+        {
+          "title": "Routing, Docker, Pytorch, Ansible, Azure, Kubernetes & Routing, Docker, Pytorch, Ansible, Azure, Kubernetes, Aws, Python & Routing, Docker, Pytorch, Ansible, Azure, Python, Node.Js Integration Lab",
+          "description": "Set up a practical lab environment to experiment with Routing, Docker, Pytorch, Ansible, Azure, Kubernetes & Routing, Docker, Pytorch, Ansible, Azure, Kubernetes, Aws, Python & Routing, Docker, Pytorch, Ansible, Azure, Python, Node.Js configurations and troubleshooting.",
+          "difficulty": "Beginner",
+          "skills_covered": [
+            "routing, docker, pytorch, ansible, azure, kubernetes",
+            "routing, docker, pytorch, ansible, azure, kubernetes, aws, python",
+            "routing, docker, pytorch, ansible, azure, python, node.js"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "Intermediate",
+      "duration": "6-8 weeks",
+      "focus": "Application & Certification",
+      "skills": [],
+      "courses": [
+        {
+          "course_name": "AWS Academy Cloud Foundations - Cohort 9 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5315462350845337,
+          "similarity": 0.7192436456680298,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Cloud Foundations - Cohort 3 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.528067409992218,
+          "similarity": 0.7134456634521484,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "HCIP-Cloud Computing - Cohort 9 (Part 1)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.44061097502708435,
+          "similarity": 0.5676849484443665,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "REST API for Task Management",
+          "skills": [
+            "nodejs",
+            "express",
+            "mongodb"
+          ],
+          "type": "Backend",
+          "difficulty": "Intermediate"
+        },
+        {
+          "title": "Build a Mid-Level Product Manager Pipeline using Routing, Docker, Pytorch, Ansible, Azure, Kubernetes & Routing, Docker, Pytorch, Ansible, Azure, Kubernetes, Aws, Python & Routing, Docker, Pytorch, Ansible, Azure, Python, Node.Js",
+          "description": "Create a comprehensive project that demonstrates your mastery of Routing, Docker, Pytorch, Ansible, Azure, Kubernetes & Routing, Docker, Pytorch, Ansible, Azure, Kubernetes, Aws, Python & Routing, Docker, Pytorch, Ansible, Azure, Python, Node.Js. Focus on real-world application.",
+          "difficulty": "Intermediate",
+          "skills_covered": [
+            "routing, docker, pytorch, ansible, azure, kubernetes",
+            "routing, docker, pytorch, ansible, azure, kubernetes, aws, python",
+            "routing, docker, pytorch, ansible, azure, python, node.js"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "Advanced",
+      "duration": "8-10 weeks",
+      "focus": "Mastery & Job Readiness",
+      "skills": [],
+      "courses": [
+        {
+          "course_name": "HCIP-Datacom - Cohort 3 (Part 1)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.43664664030075073,
+          "similarity": 0.5610777139663696,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "HCIP-Cloud Computing - Cohort 9 (Part 2)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.43525007367134094,
+          "similarity": 0.5587500929832458,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "HCIP-Cloud Computing - Cohort 15 (Part 1)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.43418920040130615,
+          "similarity": 0.5569819808006287,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "Full Stack E-commerce Platform",
+          "skills": [
+            "react",
+            "redux",
+            "stripe integration"
+          ],
+          "type": "Full Stack",
+          "difficulty": "Advanced"
+        },
+        {
+          "title": "Develop a Cloud-Native Application with Routing, Docker, Pytorch, Ansible, Azure, Kubernetes & Routing, Docker, Pytorch, Ansible, Azure, Kubernetes, Aws, Python & Routing, Docker, Pytorch, Ansible, Azure, Python, Node.Js",
+          "description": "Deploy a scalable application integrating Routing, Docker, Pytorch, Ansible, Azure, Kubernetes & Routing, Docker, Pytorch, Ansible, Azure, Kubernetes, Aws, Python & Routing, Docker, Pytorch, Ansible, Azure, Python, Node.Js to solve a specific business problem.",
+          "difficulty": "Advanced",
+          "skills_covered": [
+            "routing, docker, pytorch, ansible, azure, kubernetes",
+            "routing, docker, pytorch, ansible, azure, kubernetes, aws, python",
+            "routing, docker, pytorch, ansible, azure, python, node.js"
+          ]
+        }
+      ],
+      "internships": [
+        {
+          "company": "Cairocloud Solutions",
+          "role": "Junior Product Manager",
+          "match": 0.5517602562904358,
+          "location": "Cairo",
+          "missing_skills": []
+        },
+        {
+          "company": "Cloudworks Egypt Inc",
+          "role": "Junior Full Stack Developer",
+          "match": 0.5423991680145264,
+          "location": "Tanta",
+          "missing_skills": []
+        },
+        {
+          "company": "Cloudworks Egypt Ltd",
+          "role": "Junior Frontend Developer",
+          "match": 0.5162917375564575,
+          "location": "Mansoura",
+          "missing_skills": []
+        }
+      ]
+    }
+  ]
+}

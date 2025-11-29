@@ -1,0 +1,213 @@
+{
+  "student_id": "S0042",
+  "career_path": "Software",
+  "career_source": "Prediction",
+  "generated_at": "2025-11-29",
+  "certification_path": [
+    "Oracle Java Associate",
+    "Meta Front-End Developer",
+    "AWS Developer Associate"
+  ],
+  "stages": [
+    {
+      "stage": "Beginner",
+      "duration": "4-6 weeks",
+      "focus": "Fundamentals & Top Gaps",
+      "skills": [
+        "ansible, pandas, pytorch, azure, kubernetes, docker, python",
+        "ansible, pandas, pytorch, azure, kubernetes, python, docker",
+        "microservices, javascript, flask, ansible, pytorch, routing, kubernetes, python, aws",
+        "node.js, django, python, kubernetes, git, react, aws",
+        "node.js, django, python, kubernetes, git, react, docker"
+      ],
+      "courses": [
+        {
+          "course_name": "AWS Academy Machine Learning Foundations - Cohort 3 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5591194033622742,
+          "similarity": 0.7651990056037903,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Machine Learning Foundations - Cohort 12 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5582389831542969,
+          "similarity": 0.7637315988540649,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Machine Learning Foundations - Cohort 9 (Part 3)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5490202903747559,
+          "similarity": 0.7483671307563782,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "Personal Portfolio Website",
+          "skills": [
+            "html",
+            "css",
+            "javascript"
+          ],
+          "type": "Frontend",
+          "difficulty": "Beginner"
+        },
+        {
+          "title": "Ansible, Pandas, Pytorch, Azure, Kubernetes, Docker, Python & Ansible, Pandas, Pytorch, Azure, Kubernetes, Python, Docker & Microservices, Javascript, Flask, Ansible, Pytorch, Routing, Kubernetes, Python, Aws Integration Lab",
+          "description": "Set up a practical lab environment to experiment with Ansible, Pandas, Pytorch, Azure, Kubernetes, Docker, Python & Ansible, Pandas, Pytorch, Azure, Kubernetes, Python, Docker & Microservices, Javascript, Flask, Ansible, Pytorch, Routing, Kubernetes, Python, Aws configurations and troubleshooting.",
+          "difficulty": "Beginner",
+          "skills_covered": [
+            "ansible, pandas, pytorch, azure, kubernetes, docker, python",
+            "ansible, pandas, pytorch, azure, kubernetes, python, docker",
+            "microservices, javascript, flask, ansible, pytorch, routing, kubernetes, python, aws"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "Intermediate",
+      "duration": "6-8 weeks",
+      "focus": "Application & Certification",
+      "skills": [],
+      "courses": [
+        {
+          "course_name": "AWS Academy Machine Learning Foundations - Cohort 9 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5453459024429321,
+          "similarity": 0.7422431707382202,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Machine Learning Foundations - Cohort 12 (Part 2)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5442801713943481,
+          "similarity": 0.7404668927192688,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AI Talent Program - Cohort 3 (Part 2)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.4776884913444519,
+          "similarity": 0.62948077917099,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "REST API for Task Management",
+          "skills": [
+            "nodejs",
+            "express",
+            "mongodb"
+          ],
+          "type": "Backend",
+          "difficulty": "Intermediate"
+        },
+        {
+          "title": "Build a Principal Data Scientist Pipeline using Ansible, Pandas, Pytorch, Azure, Kubernetes, Docker, Python & Ansible, Pandas, Pytorch, Azure, Kubernetes, Python, Docker & Microservices, Javascript, Flask, Ansible, Pytorch, Routing, Kubernetes, Python, Aws",
+          "description": "Create a comprehensive project that demonstrates your mastery of Ansible, Pandas, Pytorch, Azure, Kubernetes, Docker, Python & Ansible, Pandas, Pytorch, Azure, Kubernetes, Python, Docker & Microservices, Javascript, Flask, Ansible, Pytorch, Routing, Kubernetes, Python, Aws. Focus on real-world application.",
+          "difficulty": "Intermediate",
+          "skills_covered": [
+            "ansible, pandas, pytorch, azure, kubernetes, docker, python",
+            "ansible, pandas, pytorch, azure, kubernetes, python, docker",
+            "microservices, javascript, flask, ansible, pytorch, routing, kubernetes, python, aws"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "Advanced",
+      "duration": "8-10 weeks",
+      "focus": "Mastery & Job Readiness",
+      "skills": [],
+      "courses": [
+        {
+          "course_name": "AI Talent Program - Cohort 6 (Part 3)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.4520746171474457,
+          "similarity": 0.5867910385131836,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "HCIA-AI - Cohort 9 (Part 1)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.45057693123817444,
+          "similarity": 0.584294855594635,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "HCIP-AI-Developer - Cohort 12 (Part 2)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.4475201964378357,
+          "similarity": 0.5792003273963928,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "Full Stack E-commerce Platform",
+          "skills": [
+            "react",
+            "redux",
+            "stripe integration"
+          ],
+          "type": "Full Stack",
+          "difficulty": "Advanced"
+        },
+        {
+          "title": "Develop a Cloud-Native Application with Ansible, Pandas, Pytorch, Azure, Kubernetes, Docker, Python & Ansible, Pandas, Pytorch, Azure, Kubernetes, Python, Docker & Microservices, Javascript, Flask, Ansible, Pytorch, Routing, Kubernetes, Python, Aws",
+          "description": "Deploy a scalable application integrating Ansible, Pandas, Pytorch, Azure, Kubernetes, Docker, Python & Ansible, Pandas, Pytorch, Azure, Kubernetes, Python, Docker & Microservices, Javascript, Flask, Ansible, Pytorch, Routing, Kubernetes, Python, Aws to solve a specific business problem.",
+          "difficulty": "Advanced",
+          "skills_covered": [
+            "ansible, pandas, pytorch, azure, kubernetes, docker, python",
+            "ansible, pandas, pytorch, azure, kubernetes, python, docker",
+            "microservices, javascript, flask, ansible, pytorch, routing, kubernetes, python, aws"
+          ]
+        }
+      ],
+      "internships": [
+        {
+          "company": "Pharos Ai Egypt",
+          "role": "Junior Product Manager",
+          "match": 0.650638997554779,
+          "location": "Hurghada",
+          "missing_skills": []
+        },
+        {
+          "company": "Pharos Ai Inc",
+          "role": "Junior Product Manager",
+          "match": 0.6494783163070679,
+          "location": "Hurghada",
+          "missing_skills": []
+        },
+        {
+          "company": "Techsol Egypt Group",
+          "role": "Junior Data Scientist",
+          "match": 0.6475290060043335,
+          "location": "Aswan",
+          "missing_skills": []
+        }
+      ]
+    }
+  ]
+}

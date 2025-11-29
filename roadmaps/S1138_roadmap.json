@@ -1,0 +1,212 @@
+{
+  "student_id": "S1138",
+  "career_path": "Machine Learning",
+  "career_source": "Prediction",
+  "generated_at": "2025-11-29",
+  "certification_path": [
+    "TensorFlow Developer Certificate",
+    "AWS Machine Learning Specialty",
+    "DeepLearning.AI"
+  ],
+  "stages": [
+    {
+      "stage": "Beginner",
+      "duration": "4-6 weeks",
+      "focus": "Fundamentals & Top Gaps",
+      "skills": [
+        "flask, computer vision, routing, sql, aws",
+        "flask, hadoop, tensorflow, git, react",
+        "flask, hadoop, tensorflow, git, react, aws",
+        "flask, hadoop, tensorflow, git, react, node.js"
+      ],
+      "courses": [
+        {
+          "course_name": "AWS ML Specialty - Cohort 9 (Part 3)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.48472777009010315,
+          "similarity": 0.6412129402160645,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Machine Learning Foundations - Cohort 12 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.4845427870750427,
+          "similarity": 0.6409046053886414,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Machine Learning Foundations - Cohort 3 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.48423266410827637,
+          "similarity": 0.640387773513794,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "House Price Prediction",
+          "skills": [
+            "python",
+            "regression",
+            "scikit-learn"
+          ],
+          "type": "Regression",
+          "difficulty": "Beginner"
+        },
+        {
+          "title": "Flask, Computer Vision, Routing, Sql, Aws & Flask, Hadoop, Tensorflow, Git, React & Flask, Hadoop, Tensorflow, Git, React, Aws Integration Lab",
+          "description": "Set up a practical lab environment to experiment with Flask, Computer Vision, Routing, Sql, Aws & Flask, Hadoop, Tensorflow, Git, React & Flask, Hadoop, Tensorflow, Git, React, Aws configurations and troubleshooting.",
+          "difficulty": "Beginner",
+          "skills_covered": [
+            "flask, computer vision, routing, sql, aws",
+            "flask, hadoop, tensorflow, git, react",
+            "flask, hadoop, tensorflow, git, react, aws"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "Intermediate",
+      "duration": "6-8 weeks",
+      "focus": "Application & Certification",
+      "skills": [],
+      "courses": [
+        {
+          "course_name": "AWS Academy Machine Learning Foundations - Cohort 9 (Part 3)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.47824329137802124,
+          "similarity": 0.6304054856300354,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Machine Learning Foundations - Cohort 9 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.4780098497867584,
+          "similarity": 0.6300163865089417,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "HCIA-AI - Cohort 9 (Part 1)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.49568530917167664,
+          "similarity": 0.6594755053520203,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "Image Classification with CNNs",
+          "skills": [
+            "tensorflow",
+            "deep learning",
+            "cnn"
+          ],
+          "type": "Computer Vision",
+          "difficulty": "Intermediate"
+        },
+        {
+          "title": "Build a Mid-Level Ai Researcher Pipeline using Flask, Computer Vision, Routing, Sql, Aws & Flask, Hadoop, Tensorflow, Git, React & Flask, Hadoop, Tensorflow, Git, React, Aws",
+          "description": "Create a comprehensive project that demonstrates your mastery of Flask, Computer Vision, Routing, Sql, Aws & Flask, Hadoop, Tensorflow, Git, React & Flask, Hadoop, Tensorflow, Git, React, Aws. Focus on real-world application.",
+          "difficulty": "Intermediate",
+          "skills_covered": [
+            "flask, computer vision, routing, sql, aws",
+            "flask, hadoop, tensorflow, git, react",
+            "flask, hadoop, tensorflow, git, react, aws"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "Advanced",
+      "duration": "8-10 weeks",
+      "focus": "Mastery & Job Readiness",
+      "skills": [],
+      "courses": [
+        {
+          "course_name": "HCIP-AI-Developer - Cohort 12 (Part 2)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.49261221289634705,
+          "similarity": 0.654353678226471,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "HCIP-AI-Developer - Cohort 6 (Part 2)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.4925665557384491,
+          "similarity": 0.6542775630950928,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "HCIP-AI-Developer - Cohort 15 (Part 2)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.49041908979415894,
+          "similarity": 0.6506984829902649,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "End-to-End NLP Chatbot",
+          "skills": [
+            "nlp",
+            "transformers",
+            "deployment"
+          ],
+          "type": "NLP",
+          "difficulty": "Advanced"
+        },
+        {
+          "title": "Develop a Cloud-Native Application with Flask, Computer Vision, Routing, Sql, Aws & Flask, Hadoop, Tensorflow, Git, React & Flask, Hadoop, Tensorflow, Git, React, Aws",
+          "description": "Deploy a scalable application integrating Flask, Computer Vision, Routing, Sql, Aws & Flask, Hadoop, Tensorflow, Git, React & Flask, Hadoop, Tensorflow, Git, React, Aws to solve a specific business problem.",
+          "difficulty": "Advanced",
+          "skills_covered": [
+            "flask, computer vision, routing, sql, aws",
+            "flask, hadoop, tensorflow, git, react",
+            "flask, hadoop, tensorflow, git, react, aws"
+          ]
+        }
+      ],
+      "internships": [
+        {
+          "company": "Techsol Egypt Group",
+          "role": "Junior Data Scientist",
+          "match": 0.5886624455451965,
+          "location": "Aswan",
+          "missing_skills": []
+        },
+        {
+          "company": "Pyramid Solutions Group",
+          "role": "Junior Data Scientist",
+          "match": 0.5824199914932251,
+          "location": "Cairo",
+          "missing_skills": []
+        },
+        {
+          "company": "Techsol Egypt Ltd",
+          "role": "Junior Data Scientist",
+          "match": 0.576385498046875,
+          "location": "Aswan",
+          "missing_skills": []
+        }
+      ]
+    }
+  ]
+}

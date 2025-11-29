@@ -1,0 +1,213 @@
+{
+  "student_id": "S0104",
+  "career_path": "Software",
+  "career_source": "Prediction",
+  "generated_at": "2025-11-29",
+  "certification_path": [
+    "Oracle Java Associate",
+    "Meta Front-End Developer",
+    "AWS Developer Associate"
+  ],
+  "stages": [
+    {
+      "stage": "Beginner",
+      "duration": "4-6 weeks",
+      "focus": "Fundamentals & Top Gaps",
+      "skills": [
+        "docker, terraform, spark, aws, elasticsearch, linux, python",
+        "docker, terraform, spark, aws, elasticsearch, linux, python, react, sql",
+        "docker, terraform, spark, aws, elasticsearch, linux, python, sql",
+        "microservices, aws, c, ansible, routing, ci/cd, sql, docker",
+        "switching, azure, routing, pytorch, ansible, aws, spark, python, docker, sql"
+      ],
+      "courses": [
+        {
+          "course_name": "AWS Academy Cloud Foundations - Cohort 3 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5195108652114868,
+          "similarity": 0.699184775352478,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Cloud Foundations - Cohort 9 (Part 2)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5128997564315796,
+          "similarity": 0.6881662607192993,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Cloud Foundations - Cohort 9 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5103394389152527,
+          "similarity": 0.6838990449905396,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "Personal Portfolio Website",
+          "skills": [
+            "html",
+            "css",
+            "javascript"
+          ],
+          "type": "Frontend",
+          "difficulty": "Beginner"
+        },
+        {
+          "title": "Docker, Terraform, Spark, Aws, Elasticsearch, Linux, Python & Docker, Terraform, Spark, Aws, Elasticsearch, Linux, Python, React, Sql & Docker, Terraform, Spark, Aws, Elasticsearch, Linux, Python, Sql Integration Lab",
+          "description": "Set up a practical lab environment to experiment with Docker, Terraform, Spark, Aws, Elasticsearch, Linux, Python & Docker, Terraform, Spark, Aws, Elasticsearch, Linux, Python, React, Sql & Docker, Terraform, Spark, Aws, Elasticsearch, Linux, Python, Sql configurations and troubleshooting.",
+          "difficulty": "Beginner",
+          "skills_covered": [
+            "docker, terraform, spark, aws, elasticsearch, linux, python",
+            "docker, terraform, spark, aws, elasticsearch, linux, python, react, sql",
+            "docker, terraform, spark, aws, elasticsearch, linux, python, sql"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "Intermediate",
+      "duration": "6-8 weeks",
+      "focus": "Application & Certification",
+      "skills": [],
+      "courses": [
+        {
+          "course_name": "AWS Academy Cloud Foundations - Cohort 15 (Part 3)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5102068185806274,
+          "similarity": 0.6836779713630676,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Cloud Foundations - Cohort 3 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5084303617477417,
+          "similarity": 0.6807172298431396,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "Big Data Developer - Cohort 9 (Part 1)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.4843657612800598,
+          "similarity": 0.6406095623970032,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "REST API for Task Management",
+          "skills": [
+            "nodejs",
+            "express",
+            "mongodb"
+          ],
+          "type": "Backend",
+          "difficulty": "Intermediate"
+        },
+        {
+          "title": "Build a Principal Software Engineer Pipeline using Docker, Terraform, Spark, Aws, Elasticsearch, Linux, Python & Docker, Terraform, Spark, Aws, Elasticsearch, Linux, Python, React, Sql & Docker, Terraform, Spark, Aws, Elasticsearch, Linux, Python, Sql",
+          "description": "Create a comprehensive project that demonstrates your mastery of Docker, Terraform, Spark, Aws, Elasticsearch, Linux, Python & Docker, Terraform, Spark, Aws, Elasticsearch, Linux, Python, React, Sql & Docker, Terraform, Spark, Aws, Elasticsearch, Linux, Python, Sql. Focus on real-world application.",
+          "difficulty": "Intermediate",
+          "skills_covered": [
+            "docker, terraform, spark, aws, elasticsearch, linux, python",
+            "docker, terraform, spark, aws, elasticsearch, linux, python, react, sql",
+            "docker, terraform, spark, aws, elasticsearch, linux, python, sql"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "Advanced",
+      "duration": "8-10 weeks",
+      "focus": "Mastery & Job Readiness",
+      "skills": [],
+      "courses": [
+        {
+          "course_name": "HCIP-Datacom - Cohort 3 (Part 1)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.4824708104133606,
+          "similarity": 0.6374513506889343,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "HCIA-Cloud Computing - Cohort 15 (Part 1)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.4758050739765167,
+          "similarity": 0.6263417601585388,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "HCIA-Cloud Computing - Cohort 12 (Part 1)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.47509685158729553,
+          "similarity": 0.6251614093780518,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "Full Stack E-commerce Platform",
+          "skills": [
+            "react",
+            "redux",
+            "stripe integration"
+          ],
+          "type": "Full Stack",
+          "difficulty": "Advanced"
+        },
+        {
+          "title": "Develop a Cloud-Native Application with Docker, Terraform, Spark, Aws, Elasticsearch, Linux, Python & Docker, Terraform, Spark, Aws, Elasticsearch, Linux, Python, React, Sql & Docker, Terraform, Spark, Aws, Elasticsearch, Linux, Python, Sql",
+          "description": "Deploy a scalable application integrating Docker, Terraform, Spark, Aws, Elasticsearch, Linux, Python & Docker, Terraform, Spark, Aws, Elasticsearch, Linux, Python, React, Sql & Docker, Terraform, Spark, Aws, Elasticsearch, Linux, Python, Sql to solve a specific business problem.",
+          "difficulty": "Advanced",
+          "skills_covered": [
+            "docker, terraform, spark, aws, elasticsearch, linux, python",
+            "docker, terraform, spark, aws, elasticsearch, linux, python, react, sql",
+            "docker, terraform, spark, aws, elasticsearch, linux, python, sql"
+          ]
+        }
+      ],
+      "internships": [
+        {
+          "company": "Nilesoft Inc",
+          "role": "Junior Software Engineer",
+          "match": 0.6113172769546509,
+          "location": "Hurghada",
+          "missing_skills": []
+        },
+        {
+          "company": "Smartdata Labs Group",
+          "role": "Junior Machine Learning Engineer",
+          "match": 0.6022900342941284,
+          "location": "Suez",
+          "missing_skills": []
+        },
+        {
+          "company": "Smartdata Labs Solutions",
+          "role": "Junior Machine Learning Engineer",
+          "match": 0.6018520593643188,
+          "location": "Suez",
+          "missing_skills": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,213 @@
+{
+  "student_id": "S0958",
+  "career_path": "Software",
+  "career_source": "Prediction",
+  "generated_at": "2025-11-29",
+  "certification_path": [
+    "Oracle Java Associate",
+    "Meta Front-End Developer",
+    "AWS Developer Associate"
+  ],
+  "stages": [
+    {
+      "stage": "Beginner",
+      "duration": "4-6 weeks",
+      "focus": "Fundamentals & Top Gaps",
+      "skills": [
+        "ci/cd, sql, nlp, iso27001, tensorflow, rest apis, aws, python",
+        "ci/cd, sql, nlp, iso27001, tensorflow, rest apis, react, python",
+        "python, spark, tensorflow",
+        "python, spark, tensorflow, aws",
+        "python, spark, tensorflow, react, aws"
+      ],
+      "courses": [
+        {
+          "course_name": "AWS Academy Machine Learning for Developers - Cohort 15 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.41449418663978577,
+          "similarity": 0.5241569876670837,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Machine Learning for Developers - Cohort 15 (Part 2)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.4135984778404236,
+          "similarity": 0.5226641297340393,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Machine Learning Foundations - Cohort 12 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.4126720428466797,
+          "similarity": 0.5211200714111328,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "Personal Portfolio Website",
+          "skills": [
+            "html",
+            "css",
+            "javascript"
+          ],
+          "type": "Frontend",
+          "difficulty": "Beginner"
+        },
+        {
+          "title": "Ci/Cd, Sql, Nlp, Iso27001, Tensorflow, Rest Apis, Aws, Python & Ci/Cd, Sql, Nlp, Iso27001, Tensorflow, Rest Apis, React, Python & Python, Spark, Tensorflow Integration Lab",
+          "description": "Set up a practical lab environment to experiment with Ci/Cd, Sql, Nlp, Iso27001, Tensorflow, Rest Apis, Aws, Python & Ci/Cd, Sql, Nlp, Iso27001, Tensorflow, Rest Apis, React, Python & Python, Spark, Tensorflow configurations and troubleshooting.",
+          "difficulty": "Beginner",
+          "skills_covered": [
+            "ci/cd, sql, nlp, iso27001, tensorflow, rest apis, aws, python",
+            "ci/cd, sql, nlp, iso27001, tensorflow, rest apis, react, python",
+            "python, spark, tensorflow"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "Intermediate",
+      "duration": "6-8 weeks",
+      "focus": "Application & Certification",
+      "skills": [],
+      "courses": [
+        {
+          "course_name": "AWS Academy Machine Learning for Developers - Cohort 15 (Part 2)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.4103833734989166,
+          "similarity": 0.5173056125640869,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Machine Learning Foundations - Cohort 9 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.40935245156288147,
+          "similarity": 0.5155873894691467,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "HCIP-AI-Developer - Cohort 9 (Part 1)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.5228554606437683,
+          "similarity": 0.7047590613365173,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "REST API for Task Management",
+          "skills": [
+            "nodejs",
+            "express",
+            "mongodb"
+          ],
+          "type": "Backend",
+          "difficulty": "Intermediate"
+        },
+        {
+          "title": "Build a Mid-Level Mobile Developer Pipeline using Ci/Cd, Sql, Nlp, Iso27001, Tensorflow, Rest Apis, Aws, Python & Ci/Cd, Sql, Nlp, Iso27001, Tensorflow, Rest Apis, React, Python & Python, Spark, Tensorflow",
+          "description": "Create a comprehensive project that demonstrates your mastery of Ci/Cd, Sql, Nlp, Iso27001, Tensorflow, Rest Apis, Aws, Python & Ci/Cd, Sql, Nlp, Iso27001, Tensorflow, Rest Apis, React, Python & Python, Spark, Tensorflow. Focus on real-world application.",
+          "difficulty": "Intermediate",
+          "skills_covered": [
+            "ci/cd, sql, nlp, iso27001, tensorflow, rest apis, aws, python",
+            "ci/cd, sql, nlp, iso27001, tensorflow, rest apis, react, python",
+            "python, spark, tensorflow"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "Advanced",
+      "duration": "8-10 weeks",
+      "focus": "Mastery & Job Readiness",
+      "skills": [],
+      "courses": [
+        {
+          "course_name": "HCIP-AI-Developer - Cohort 6 (Part 2)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.5221637487411499,
+          "similarity": 0.7036062479019165,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "HCIP-AI-Developer - Cohort 15 (Part 1)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.5215884447097778,
+          "similarity": 0.7026473879814148,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "HCIP-AI-Developer - Cohort 15 (Part 2)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.5214279294013977,
+          "similarity": 0.7023798227310181,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "Full Stack E-commerce Platform",
+          "skills": [
+            "react",
+            "redux",
+            "stripe integration"
+          ],
+          "type": "Full Stack",
+          "difficulty": "Advanced"
+        },
+        {
+          "title": "Develop a Cloud-Native Application with Ci/Cd, Sql, Nlp, Iso27001, Tensorflow, Rest Apis, Aws, Python & Ci/Cd, Sql, Nlp, Iso27001, Tensorflow, Rest Apis, React, Python & Python, Spark, Tensorflow",
+          "description": "Deploy a scalable application integrating Ci/Cd, Sql, Nlp, Iso27001, Tensorflow, Rest Apis, Aws, Python & Ci/Cd, Sql, Nlp, Iso27001, Tensorflow, Rest Apis, React, Python & Python, Spark, Tensorflow to solve a specific business problem.",
+          "difficulty": "Advanced",
+          "skills_covered": [
+            "ci/cd, sql, nlp, iso27001, tensorflow, rest apis, aws, python",
+            "ci/cd, sql, nlp, iso27001, tensorflow, rest apis, react, python",
+            "python, spark, tensorflow"
+          ]
+        }
+      ],
+      "internships": [
+        {
+          "company": "Masrsoft Solutions",
+          "role": "Junior Mobile Developer",
+          "match": 0.6240691542625427,
+          "location": "Tanta",
+          "missing_skills": []
+        },
+        {
+          "company": "Masrsoft Group",
+          "role": "Junior Mobile Developer",
+          "match": 0.6157897710800171,
+          "location": "Tanta",
+          "missing_skills": []
+        },
+        {
+          "company": "Pyramid Solutions Group",
+          "role": "Junior Frontend Developer",
+          "match": 0.5870540142059326,
+          "location": "Hurghada",
+          "missing_skills": []
+        }
+      ]
+    }
+  ]
+}

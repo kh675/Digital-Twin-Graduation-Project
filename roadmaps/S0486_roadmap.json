@@ -1,0 +1,213 @@
+{
+  "student_id": "S0486",
+  "career_path": "Machine Learning",
+  "career_source": "Prediction",
+  "generated_at": "2025-11-29",
+  "certification_path": [
+    "TensorFlow Developer Certificate",
+    "AWS Machine Learning Specialty",
+    "DeepLearning.AI"
+  ],
+  "stages": [
+    {
+      "stage": "Beginner",
+      "duration": "4-6 weeks",
+      "focus": "Fundamentals & Top Gaps",
+      "skills": [
+        "flask, computer vision, routing, sql, aws",
+        "nlp, git, terraform, rest apis, firewalls, microservices, node.js, tensorflow",
+        "nlp, git, terraform, rest apis, firewalls, microservices, python, tensorflow, aws",
+        "switching, docker, azure, pandas, aws, spark, python, tensorflow",
+        "tensorflow, pandas, pytorch, react, ansible, docker, sql"
+      ],
+      "courses": [
+        {
+          "course_name": "AWS ML Specialty - Cohort 9 (Part 3)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5100419521331787,
+          "similarity": 0.6834031939506531,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Machine Learning Foundations - Cohort 12 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5057265758514404,
+          "similarity": 0.6762109398841858,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Machine Learning Foundations - Cohort 3 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5034070014953613,
+          "similarity": 0.672344982624054,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "House Price Prediction",
+          "skills": [
+            "python",
+            "regression",
+            "scikit-learn"
+          ],
+          "type": "Regression",
+          "difficulty": "Beginner"
+        },
+        {
+          "title": "Flask, Computer Vision, Routing, Sql, Aws & Nlp, Git, Terraform, Rest Apis, Firewalls, Microservices, Node.Js, Tensorflow & Nlp, Git, Terraform, Rest Apis, Firewalls, Microservices, Python, Tensorflow, Aws Integration Lab",
+          "description": "Set up a practical lab environment to experiment with Flask, Computer Vision, Routing, Sql, Aws & Nlp, Git, Terraform, Rest Apis, Firewalls, Microservices, Node.Js, Tensorflow & Nlp, Git, Terraform, Rest Apis, Firewalls, Microservices, Python, Tensorflow, Aws configurations and troubleshooting.",
+          "difficulty": "Beginner",
+          "skills_covered": [
+            "flask, computer vision, routing, sql, aws",
+            "nlp, git, terraform, rest apis, firewalls, microservices, node.js, tensorflow",
+            "nlp, git, terraform, rest apis, firewalls, microservices, python, tensorflow, aws"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "Intermediate",
+      "duration": "6-8 weeks",
+      "focus": "Application & Certification",
+      "skills": [],
+      "courses": [
+        {
+          "course_name": "AWS Academy Machine Learning Foundations - Cohort 9 (Part 3)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5010058879852295,
+          "similarity": 0.6683430671691895,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Machine Learning Foundations - Cohort 9 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.500822126865387,
+          "similarity": 0.6680368185043335,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AI Talent Program - Cohort 3 (Part 2)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.4898456931114197,
+          "similarity": 0.6497427821159363,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "Image Classification with CNNs",
+          "skills": [
+            "tensorflow",
+            "deep learning",
+            "cnn"
+          ],
+          "type": "Computer Vision",
+          "difficulty": "Intermediate"
+        },
+        {
+          "title": "Build a Principal Data Analyst Pipeline using Flask, Computer Vision, Routing, Sql, Aws & Nlp, Git, Terraform, Rest Apis, Firewalls, Microservices, Node.Js, Tensorflow & Nlp, Git, Terraform, Rest Apis, Firewalls, Microservices, Python, Tensorflow, Aws",
+          "description": "Create a comprehensive project that demonstrates your mastery of Flask, Computer Vision, Routing, Sql, Aws & Nlp, Git, Terraform, Rest Apis, Firewalls, Microservices, Node.Js, Tensorflow & Nlp, Git, Terraform, Rest Apis, Firewalls, Microservices, Python, Tensorflow, Aws. Focus on real-world application.",
+          "difficulty": "Intermediate",
+          "skills_covered": [
+            "flask, computer vision, routing, sql, aws",
+            "nlp, git, terraform, rest apis, firewalls, microservices, node.js, tensorflow",
+            "nlp, git, terraform, rest apis, firewalls, microservices, python, tensorflow, aws"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "Advanced",
+      "duration": "8-10 weeks",
+      "focus": "Mastery & Job Readiness",
+      "skills": [],
+      "courses": [
+        {
+          "course_name": "AI Talent Program - Cohort 6 (Part 3)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.4806969165802002,
+          "similarity": 0.6344948410987854,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AI Talent Program - Cohort 15 (Part 3)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.4803946018218994,
+          "similarity": 0.633991003036499,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "HCIA-AI - Cohort 9 (Part 1)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.45335307717323303,
+          "similarity": 0.5889217853546143,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "End-to-End NLP Chatbot",
+          "skills": [
+            "nlp",
+            "transformers",
+            "deployment"
+          ],
+          "type": "NLP",
+          "difficulty": "Advanced"
+        },
+        {
+          "title": "Develop a Cloud-Native Application with Flask, Computer Vision, Routing, Sql, Aws & Nlp, Git, Terraform, Rest Apis, Firewalls, Microservices, Node.Js, Tensorflow & Nlp, Git, Terraform, Rest Apis, Firewalls, Microservices, Python, Tensorflow, Aws",
+          "description": "Deploy a scalable application integrating Flask, Computer Vision, Routing, Sql, Aws & Nlp, Git, Terraform, Rest Apis, Firewalls, Microservices, Node.Js, Tensorflow & Nlp, Git, Terraform, Rest Apis, Firewalls, Microservices, Python, Tensorflow, Aws to solve a specific business problem.",
+          "difficulty": "Advanced",
+          "skills_covered": [
+            "flask, computer vision, routing, sql, aws",
+            "nlp, git, terraform, rest apis, firewalls, microservices, node.js, tensorflow",
+            "nlp, git, terraform, rest apis, firewalls, microservices, python, tensorflow, aws"
+          ]
+        }
+      ],
+      "internships": [
+        {
+          "company": "Smartdata Labs Group",
+          "role": "Junior Machine Learning Engineer",
+          "match": 0.5866576433181763,
+          "location": "Suez",
+          "missing_skills": []
+        },
+        {
+          "company": "Pharos Ai Inc",
+          "role": "Junior Product Manager",
+          "match": 0.5770902633666992,
+          "location": "Hurghada",
+          "missing_skills": []
+        },
+        {
+          "company": "Pharos Ai Egypt",
+          "role": "Junior Product Manager",
+          "match": 0.5761338472366333,
+          "location": "Hurghada",
+          "missing_skills": []
+        }
+      ]
+    }
+  ]
+}

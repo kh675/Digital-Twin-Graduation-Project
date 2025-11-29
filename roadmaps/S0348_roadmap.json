@@ -1,0 +1,213 @@
+{
+  "student_id": "S0348",
+  "career_path": "Software",
+  "career_source": "Prediction",
+  "generated_at": "2025-11-29",
+  "certification_path": [
+    "Oracle Java Associate",
+    "Meta Front-End Developer",
+    "AWS Developer Associate"
+  ],
+  "stages": [
+    {
+      "stage": "Beginner",
+      "duration": "4-6 weeks",
+      "focus": "Fundamentals & Top Gaps",
+      "skills": [
+        "pandas, elasticsearch, react, node.js, numpy, microservices, aws",
+        "routing, docker, pytorch, ansible, azure, kubernetes, aws, python",
+        "routing, docker, pytorch, ansible, azure, python, node.js",
+        "routing, docker, pytorch, ansible, azure, sql, aws, kubernetes",
+        "routing, docker, pytorch, ansible, azure, tensorflow, aws, python"
+      ],
+      "courses": [
+        {
+          "course_name": "AWS Academy Cloud Foundations - Cohort 3 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5515079498291016,
+          "similarity": 0.7525132298469543,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Cloud Foundations - Cohort 9 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5471043586730957,
+          "similarity": 0.7451738715171814,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Cloud Foundations - Cohort 9 (Part 2)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.546921968460083,
+          "similarity": 0.7448699474334717,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "Personal Portfolio Website",
+          "skills": [
+            "html",
+            "css",
+            "javascript"
+          ],
+          "type": "Frontend",
+          "difficulty": "Beginner"
+        },
+        {
+          "title": "Pandas, Elasticsearch, React, Node.Js, Numpy, Microservices, Aws & Routing, Docker, Pytorch, Ansible, Azure, Kubernetes, Aws, Python & Routing, Docker, Pytorch, Ansible, Azure, Python, Node.Js Integration Lab",
+          "description": "Set up a practical lab environment to experiment with Pandas, Elasticsearch, React, Node.Js, Numpy, Microservices, Aws & Routing, Docker, Pytorch, Ansible, Azure, Kubernetes, Aws, Python & Routing, Docker, Pytorch, Ansible, Azure, Python, Node.Js configurations and troubleshooting.",
+          "difficulty": "Beginner",
+          "skills_covered": [
+            "pandas, elasticsearch, react, node.js, numpy, microservices, aws",
+            "routing, docker, pytorch, ansible, azure, kubernetes, aws, python",
+            "routing, docker, pytorch, ansible, azure, python, node.js"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "Intermediate",
+      "duration": "6-8 weeks",
+      "focus": "Application & Certification",
+      "skills": [],
+      "courses": [
+        {
+          "course_name": "AWS Academy Cloud Foundations - Cohort 15 (Part 3)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5452695488929749,
+          "similarity": 0.74211585521698,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Cloud Foundations - Cohort 15 (Part 3)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5435598492622375,
+          "similarity": 0.7392663359642029,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "HCIP-Datacom - Cohort 3 (Part 1)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.43059274554252625,
+          "similarity": 0.5509878993034363,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "REST API for Task Management",
+          "skills": [
+            "nodejs",
+            "express",
+            "mongodb"
+          ],
+          "type": "Backend",
+          "difficulty": "Intermediate"
+        },
+        {
+          "title": "Build a Principal Frontend Developer Pipeline using Pandas, Elasticsearch, React, Node.Js, Numpy, Microservices, Aws & Routing, Docker, Pytorch, Ansible, Azure, Kubernetes, Aws, Python & Routing, Docker, Pytorch, Ansible, Azure, Python, Node.Js",
+          "description": "Create a comprehensive project that demonstrates your mastery of Pandas, Elasticsearch, React, Node.Js, Numpy, Microservices, Aws & Routing, Docker, Pytorch, Ansible, Azure, Kubernetes, Aws, Python & Routing, Docker, Pytorch, Ansible, Azure, Python, Node.Js. Focus on real-world application.",
+          "difficulty": "Intermediate",
+          "skills_covered": [
+            "pandas, elasticsearch, react, node.js, numpy, microservices, aws",
+            "routing, docker, pytorch, ansible, azure, kubernetes, aws, python",
+            "routing, docker, pytorch, ansible, azure, python, node.js"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "Advanced",
+      "duration": "8-10 weeks",
+      "focus": "Mastery & Job Readiness",
+      "skills": [],
+      "courses": [
+        {
+          "course_name": "HCIP-Datacom - Cohort 3 (Part 1)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.4299844801425934,
+          "similarity": 0.5499741435050964,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "HCIP-Datacom - Cohort 15 (Part 2)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.4273245334625244,
+          "similarity": 0.5455408692359924,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "HCIP-Datacom - Cohort 12 (Part 3)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.42702439427375793,
+          "similarity": 0.5450406670570374,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "Full Stack E-commerce Platform",
+          "skills": [
+            "react",
+            "redux",
+            "stripe integration"
+          ],
+          "type": "Full Stack",
+          "difficulty": "Advanced"
+        },
+        {
+          "title": "Develop a Cloud-Native Application with Pandas, Elasticsearch, React, Node.Js, Numpy, Microservices, Aws & Routing, Docker, Pytorch, Ansible, Azure, Kubernetes, Aws, Python & Routing, Docker, Pytorch, Ansible, Azure, Python, Node.Js",
+          "description": "Deploy a scalable application integrating Pandas, Elasticsearch, React, Node.Js, Numpy, Microservices, Aws & Routing, Docker, Pytorch, Ansible, Azure, Kubernetes, Aws, Python & Routing, Docker, Pytorch, Ansible, Azure, Python, Node.Js to solve a specific business problem.",
+          "difficulty": "Advanced",
+          "skills_covered": [
+            "pandas, elasticsearch, react, node.js, numpy, microservices, aws",
+            "routing, docker, pytorch, ansible, azure, kubernetes, aws, python",
+            "routing, docker, pytorch, ansible, azure, python, node.js"
+          ]
+        }
+      ],
+      "internships": [
+        {
+          "company": "Cloudworks Egypt Inc",
+          "role": "Junior Full Stack Developer",
+          "match": 0.6020364165306091,
+          "location": "Tanta",
+          "missing_skills": []
+        },
+        {
+          "company": "Cloudworks Egypt Ltd",
+          "role": "Junior Frontend Developer",
+          "match": 0.5997700095176697,
+          "location": "Mansoura",
+          "missing_skills": []
+        },
+        {
+          "company": "Cloudworks Egypt Inc",
+          "role": "Junior Frontend Developer",
+          "match": 0.5939447283744812,
+          "location": "Mansoura",
+          "missing_skills": []
+        }
+      ]
+    }
+  ]
+}

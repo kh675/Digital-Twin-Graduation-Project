@@ -1,0 +1,212 @@
+{
+  "student_id": "S0965",
+  "career_path": "Software",
+  "career_source": "Prediction",
+  "generated_at": "2025-11-29",
+  "certification_path": [
+    "Oracle Java Associate",
+    "Meta Front-End Developer",
+    "AWS Developer Associate"
+  ],
+  "stages": [
+    {
+      "stage": "Beginner",
+      "duration": "4-6 weeks",
+      "focus": "Fundamentals & Top Gaps",
+      "skills": [
+        "rest apis, javascript, nlp, pandas, ansible, switching, spark, aws, docker, sql",
+        "spark, rest apis, git, kubernetes, aws, docker",
+        "sql, rest apis, node.js, tensorflow, hadoop, ansible, numpy, docker",
+        "sql, rest apis, node.js, tensorflow, hadoop, ansible, numpy, react, python"
+      ],
+      "courses": [
+        {
+          "course_name": "AWS Developer Path - Cohort 3 (Part 3)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.47238677740097046,
+          "similarity": 0.6206446290016174,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Developer Path - Cohort 12 (Part 3)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.4660220444202423,
+          "similarity": 0.6100367307662964,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Developer Path - Cohort 15 (Part 3)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.4646034836769104,
+          "similarity": 0.6076724529266357,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "Personal Portfolio Website",
+          "skills": [
+            "html",
+            "css",
+            "javascript"
+          ],
+          "type": "Frontend",
+          "difficulty": "Beginner"
+        },
+        {
+          "title": "Rest Apis, Javascript, Nlp, Pandas, Ansible, Switching, Spark, Aws, Docker, Sql & Spark, Rest Apis, Git, Kubernetes, Aws, Docker & Sql, Rest Apis, Node.Js, Tensorflow, Hadoop, Ansible, Numpy, Docker Integration Lab",
+          "description": "Set up a practical lab environment to experiment with Rest Apis, Javascript, Nlp, Pandas, Ansible, Switching, Spark, Aws, Docker, Sql & Spark, Rest Apis, Git, Kubernetes, Aws, Docker & Sql, Rest Apis, Node.Js, Tensorflow, Hadoop, Ansible, Numpy, Docker configurations and troubleshooting.",
+          "difficulty": "Beginner",
+          "skills_covered": [
+            "rest apis, javascript, nlp, pandas, ansible, switching, spark, aws, docker, sql",
+            "spark, rest apis, git, kubernetes, aws, docker",
+            "sql, rest apis, node.js, tensorflow, hadoop, ansible, numpy, docker"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "Intermediate",
+      "duration": "6-8 weeks",
+      "focus": "Application & Certification",
+      "skills": [],
+      "courses": [
+        {
+          "course_name": "AWS Developer Path - Cohort 12 (Part 3)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.4587884247303009,
+          "similarity": 0.5979806780815125,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Developer Path - Cohort 6 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.4549626111984253,
+          "similarity": 0.5916043519973755,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "Huawei Full-Stack Developer - Cohort 6 (Part 1)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.4963099956512451,
+          "similarity": 0.660516619682312,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "REST API for Task Management",
+          "skills": [
+            "nodejs",
+            "express",
+            "mongodb"
+          ],
+          "type": "Backend",
+          "difficulty": "Intermediate"
+        },
+        {
+          "title": "Build a Lead Backend Developer Pipeline using Rest Apis, Javascript, Nlp, Pandas, Ansible, Switching, Spark, Aws, Docker, Sql & Spark, Rest Apis, Git, Kubernetes, Aws, Docker & Sql, Rest Apis, Node.Js, Tensorflow, Hadoop, Ansible, Numpy, Docker",
+          "description": "Create a comprehensive project that demonstrates your mastery of Rest Apis, Javascript, Nlp, Pandas, Ansible, Switching, Spark, Aws, Docker, Sql & Spark, Rest Apis, Git, Kubernetes, Aws, Docker & Sql, Rest Apis, Node.Js, Tensorflow, Hadoop, Ansible, Numpy, Docker. Focus on real-world application.",
+          "difficulty": "Intermediate",
+          "skills_covered": [
+            "rest apis, javascript, nlp, pandas, ansible, switching, spark, aws, docker, sql",
+            "spark, rest apis, git, kubernetes, aws, docker",
+            "sql, rest apis, node.js, tensorflow, hadoop, ansible, numpy, docker"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "Advanced",
+      "duration": "8-10 weeks",
+      "focus": "Mastery & Job Readiness",
+      "skills": [],
+      "courses": [
+        {
+          "course_name": "Huawei Full-Stack Developer - Cohort 3 (Part 2)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.49124616384506226,
+          "similarity": 0.6520769000053406,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "Huawei Full-Stack Developer - Cohort 12 (Part 2)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.4905426502227783,
+          "similarity": 0.6509044170379639,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "Huawei Full-Stack Developer - Cohort 12 (Part 3)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.49036723375320435,
+          "similarity": 0.6506120562553406,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "Full Stack E-commerce Platform",
+          "skills": [
+            "react",
+            "redux",
+            "stripe integration"
+          ],
+          "type": "Full Stack",
+          "difficulty": "Advanced"
+        },
+        {
+          "title": "Develop a Cloud-Native Application with Rest Apis, Javascript, Nlp, Pandas, Ansible, Switching, Spark, Aws, Docker, Sql & Spark, Rest Apis, Git, Kubernetes, Aws, Docker & Sql, Rest Apis, Node.Js, Tensorflow, Hadoop, Ansible, Numpy, Docker",
+          "description": "Deploy a scalable application integrating Rest Apis, Javascript, Nlp, Pandas, Ansible, Switching, Spark, Aws, Docker, Sql & Spark, Rest Apis, Git, Kubernetes, Aws, Docker & Sql, Rest Apis, Node.Js, Tensorflow, Hadoop, Ansible, Numpy, Docker to solve a specific business problem.",
+          "difficulty": "Advanced",
+          "skills_covered": [
+            "rest apis, javascript, nlp, pandas, ansible, switching, spark, aws, docker, sql",
+            "spark, rest apis, git, kubernetes, aws, docker",
+            "sql, rest apis, node.js, tensorflow, hadoop, ansible, numpy, docker"
+          ]
+        }
+      ],
+      "internships": [
+        {
+          "company": "Pyramid Solutions Egypt",
+          "role": "Junior Backend Developer",
+          "match": 0.6278846859931946,
+          "location": "Alexandria",
+          "missing_skills": []
+        },
+        {
+          "company": "Pyramid Solutions Ltd",
+          "role": "Junior Backend Developer",
+          "match": 0.6038110852241516,
+          "location": "Alexandria",
+          "missing_skills": []
+        },
+        {
+          "company": "Cloudworks Egypt Solutions",
+          "role": "Junior Machine Learning Engineer",
+          "match": 0.6033679246902466,
+          "location": "Alexandria",
+          "missing_skills": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,211 @@
+{
+  "student_id": "S0932",
+  "career_path": "Software",
+  "career_source": "Prediction",
+  "generated_at": "2025-11-29",
+  "certification_path": [
+    "Oracle Java Associate",
+    "Meta Front-End Developer",
+    "AWS Developer Associate"
+  ],
+  "stages": [
+    {
+      "stage": "Beginner",
+      "duration": "4-6 weeks",
+      "focus": "Fundamentals & Top Gaps",
+      "skills": [
+        "tcp/ip, git, docker",
+        "tcp/ip, git, docker, node.js",
+        "tcp/ip, git, docker, python, aws"
+      ],
+      "courses": [
+        {
+          "course_name": "AWS Academy Cloud Foundations - Cohort 15 (Part 3)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5508593916893005,
+          "similarity": 0.7514322400093079,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Cloud Foundations - Cohort 3 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5488062500953674,
+          "similarity": 0.7480103969573975,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Cloud Foundations - Cohort 6 (Part 3)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5462895035743713,
+          "similarity": 0.7438158392906189,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "Personal Portfolio Website",
+          "skills": [
+            "html",
+            "css",
+            "javascript"
+          ],
+          "type": "Frontend",
+          "difficulty": "Beginner"
+        },
+        {
+          "title": "Tcp/Ip, Git, Docker & Tcp/Ip, Git, Docker, Node.Js & Tcp/Ip, Git, Docker, Python, Aws Integration Lab",
+          "description": "Set up a practical lab environment to experiment with Tcp/Ip, Git, Docker & Tcp/Ip, Git, Docker, Node.Js & Tcp/Ip, Git, Docker, Python, Aws configurations and troubleshooting.",
+          "difficulty": "Beginner",
+          "skills_covered": [
+            "tcp/ip, git, docker",
+            "tcp/ip, git, docker, node.js",
+            "tcp/ip, git, docker, python, aws"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "Intermediate",
+      "duration": "6-8 weeks",
+      "focus": "Application & Certification",
+      "skills": [],
+      "courses": [
+        {
+          "course_name": "AWS Academy Cloud Foundations - Cohort 15 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5443345904350281,
+          "similarity": 0.7405576109886169,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Cloud Foundations - Cohort 3 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5435665845870972,
+          "similarity": 0.7392776012420654,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "HCIP-Cloud Computing - Cohort 15 (Part 1)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.4746539294719696,
+          "similarity": 0.6244232058525085,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "REST API for Task Management",
+          "skills": [
+            "nodejs",
+            "express",
+            "mongodb"
+          ],
+          "type": "Backend",
+          "difficulty": "Intermediate"
+        },
+        {
+          "title": "Build a Mid-Level Product Manager Pipeline using Tcp/Ip, Git, Docker & Tcp/Ip, Git, Docker, Node.Js & Tcp/Ip, Git, Docker, Python, Aws",
+          "description": "Create a comprehensive project that demonstrates your mastery of Tcp/Ip, Git, Docker & Tcp/Ip, Git, Docker, Node.Js & Tcp/Ip, Git, Docker, Python, Aws. Focus on real-world application.",
+          "difficulty": "Intermediate",
+          "skills_covered": [
+            "tcp/ip, git, docker",
+            "tcp/ip, git, docker, node.js",
+            "tcp/ip, git, docker, python, aws"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "Advanced",
+      "duration": "8-10 weeks",
+      "focus": "Mastery & Job Readiness",
+      "skills": [],
+      "courses": [
+        {
+          "course_name": "HCIP-Cloud Computing - Cohort 9 (Part 2)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.47081366181373596,
+          "similarity": 0.6180227398872375,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "HCIA-Cloud Computing - Cohort 15 (Part 1)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.46949851512908936,
+          "similarity": 0.6158308386802673,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "HCIA-Cloud Computing - Cohort 12 (Part 3)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.46909382939338684,
+          "similarity": 0.615156352519989,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "Full Stack E-commerce Platform",
+          "skills": [
+            "react",
+            "redux",
+            "stripe integration"
+          ],
+          "type": "Full Stack",
+          "difficulty": "Advanced"
+        },
+        {
+          "title": "Develop a Cloud-Native Application with Tcp/Ip, Git, Docker & Tcp/Ip, Git, Docker, Node.Js & Tcp/Ip, Git, Docker, Python, Aws",
+          "description": "Deploy a scalable application integrating Tcp/Ip, Git, Docker & Tcp/Ip, Git, Docker, Node.Js & Tcp/Ip, Git, Docker, Python, Aws to solve a specific business problem.",
+          "difficulty": "Advanced",
+          "skills_covered": [
+            "tcp/ip, git, docker",
+            "tcp/ip, git, docker, node.js",
+            "tcp/ip, git, docker, python, aws"
+          ]
+        }
+      ],
+      "internships": [
+        {
+          "company": "Cairocloud Solutions",
+          "role": "Junior Product Manager",
+          "match": 0.5733076930046082,
+          "location": "Cairo",
+          "missing_skills": []
+        },
+        {
+          "company": "Cloudworks Egypt Inc",
+          "role": "Junior Full Stack Developer",
+          "match": 0.549944281578064,
+          "location": "Tanta",
+          "missing_skills": []
+        },
+        {
+          "company": "Cloudworks Egypt Ltd",
+          "role": "Junior Frontend Developer",
+          "match": 0.539240837097168,
+          "location": "Mansoura",
+          "missing_skills": []
+        }
+      ]
+    }
+  ]
+}

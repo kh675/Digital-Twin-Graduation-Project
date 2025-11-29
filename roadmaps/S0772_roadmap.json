@@ -1,0 +1,213 @@
+{
+  "student_id": "S0772",
+  "career_path": "Cloud",
+  "career_source": "Prediction",
+  "generated_at": "2025-11-29",
+  "certification_path": [
+    "AWS Cloud Practitioner",
+    "AWS Solutions Architect Associate",
+    "Huawei HCIA Cloud"
+  ],
+  "stages": [
+    {
+      "stage": "Beginner",
+      "duration": "4-6 weeks",
+      "focus": "Fundamentals & Top Gaps",
+      "skills": [
+        "flask, computer vision, routing, python, docker",
+        "flask, computer vision, routing, sql",
+        "linux, 5g, routing, python, gcp, computer vision",
+        "linux, 5g, routing, python, gcp, computer vision, sql",
+        "linux, 5g, routing, python, gcp, computer vision, tensorflow"
+      ],
+      "courses": [
+        {
+          "course_name": "AWS Developer Path - Cohort 3 (Part 3)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.3714851438999176,
+          "similarity": 0.4524752199649811,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Developer Path - Cohort 15 (Part 3)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.36400410532951355,
+          "similarity": 0.4400068521499634,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Cloud Foundations - Cohort 9 (Part 2)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.3626353442668915,
+          "similarity": 0.4377255439758301,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "Static Website Hosting on AWS S3",
+          "skills": [
+            "aws",
+            "s3",
+            "dns"
+          ],
+          "type": "Infrastructure",
+          "difficulty": "Beginner"
+        },
+        {
+          "title": "Flask, Computer Vision, Routing, Python, Docker & Flask, Computer Vision, Routing, Sql & Linux, 5G, Routing, Python, Gcp, Computer Vision Integration Lab",
+          "description": "Set up a practical lab environment to experiment with Flask, Computer Vision, Routing, Python, Docker & Flask, Computer Vision, Routing, Sql & Linux, 5G, Routing, Python, Gcp, Computer Vision configurations and troubleshooting.",
+          "difficulty": "Beginner",
+          "skills_covered": [
+            "flask, computer vision, routing, python, docker",
+            "flask, computer vision, routing, sql",
+            "linux, 5g, routing, python, gcp, computer vision"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "Intermediate",
+      "duration": "6-8 weeks",
+      "focus": "Application & Certification",
+      "skills": [],
+      "courses": [
+        {
+          "course_name": "AWS Developer Path - Cohort 12 (Part 3)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.3617042601108551,
+          "similarity": 0.4361737370491028,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Machine Learning Foundations - Cohort 3 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.3577187657356262,
+          "similarity": 0.4295312762260437,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "HCIP-Datacom - Cohort 6 (Part 3)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.504305899143219,
+          "similarity": 0.6738431453704834,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "Serverless API with Lambda & DynamoDB",
+          "skills": [
+            "aws lambda",
+            "api gateway",
+            "nosql"
+          ],
+          "type": "Backend",
+          "difficulty": "Intermediate"
+        },
+        {
+          "title": "Build a Principal Cloud Engineer Pipeline using Flask, Computer Vision, Routing, Python, Docker & Flask, Computer Vision, Routing, Sql & Linux, 5G, Routing, Python, Gcp, Computer Vision",
+          "description": "Create a comprehensive project that demonstrates your mastery of Flask, Computer Vision, Routing, Python, Docker & Flask, Computer Vision, Routing, Sql & Linux, 5G, Routing, Python, Gcp, Computer Vision. Focus on real-world application.",
+          "difficulty": "Intermediate",
+          "skills_covered": [
+            "flask, computer vision, routing, python, docker",
+            "flask, computer vision, routing, sql",
+            "linux, 5g, routing, python, gcp, computer vision"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "Advanced",
+      "duration": "8-10 weeks",
+      "focus": "Mastery & Job Readiness",
+      "skills": [],
+      "courses": [
+        {
+          "course_name": "HCIP-Datacom - Cohort 15 (Part 2)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.49784228205680847,
+          "similarity": 0.6630704402923584,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "HCIP-Datacom - Cohort 6 (Part 1)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.49284863471984863,
+          "similarity": 0.654747724533081,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "Huawei Full-Stack Developer - Cohort 12 (Part 1)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.49010398983955383,
+          "similarity": 0.6501733064651489,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "Multi-Tier Microservices Architecture",
+          "skills": [
+            "kubernetes",
+            "docker",
+            "terraform"
+          ],
+          "type": "DevOps",
+          "difficulty": "Advanced"
+        },
+        {
+          "title": "Develop a Cloud-Native Application with Flask, Computer Vision, Routing, Python, Docker & Flask, Computer Vision, Routing, Sql & Linux, 5G, Routing, Python, Gcp, Computer Vision",
+          "description": "Deploy a scalable application integrating Flask, Computer Vision, Routing, Python, Docker & Flask, Computer Vision, Routing, Sql & Linux, 5G, Routing, Python, Gcp, Computer Vision to solve a specific business problem.",
+          "difficulty": "Advanced",
+          "skills_covered": [
+            "flask, computer vision, routing, python, docker",
+            "flask, computer vision, routing, sql",
+            "linux, 5g, routing, python, gcp, computer vision"
+          ]
+        }
+      ],
+      "internships": [
+        {
+          "company": "Pyramid Solutions Group",
+          "role": "Junior Data Scientist",
+          "match": 0.6401528716087341,
+          "location": "Cairo",
+          "missing_skills": []
+        },
+        {
+          "company": "Pyramid Solutions Group",
+          "role": "Junior Frontend Developer",
+          "match": 0.6107069253921509,
+          "location": "Hurghada",
+          "missing_skills": []
+        },
+        {
+          "company": "Techsol Egypt Ltd",
+          "role": "Junior Data Scientist",
+          "match": 0.6023024320602417,
+          "location": "Aswan",
+          "missing_skills": []
+        }
+      ]
+    }
+  ]
+}

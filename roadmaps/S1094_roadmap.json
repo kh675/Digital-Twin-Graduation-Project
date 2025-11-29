@@ -1,0 +1,213 @@
+{
+  "student_id": "S1094",
+  "career_path": "Machine Learning",
+  "career_source": "Prediction",
+  "generated_at": "2025-11-29",
+  "certification_path": [
+    "TensorFlow Developer Certificate",
+    "AWS Machine Learning Specialty",
+    "DeepLearning.AI"
+  ],
+  "stages": [
+    {
+      "stage": "Beginner",
+      "duration": "4-6 weeks",
+      "focus": "Fundamentals & Top Gaps",
+      "skills": [
+        "nlp, git, terraform, rest apis, firewalls, microservices, node.js, tensorflow",
+        "switching, docker, azure, pandas, aws, spark, python, tensorflow",
+        "tensorflow, pandas, pytorch, react, ansible",
+        "tensorflow, pandas, pytorch, react, ansible, docker, sql",
+        "tensorflow, pandas, pytorch, react, ansible, python"
+      ],
+      "courses": [
+        {
+          "course_name": "AWS Academy Machine Learning Foundations - Cohort 12 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5211509466171265,
+          "similarity": 0.7019182443618774,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Machine Learning Foundations - Cohort 3 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5167220234870911,
+          "similarity": 0.6945366263389587,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Machine Learning Foundations - Cohort 9 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.515308678150177,
+          "similarity": 0.6921811103820801,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "House Price Prediction",
+          "skills": [
+            "python",
+            "regression",
+            "scikit-learn"
+          ],
+          "type": "Regression",
+          "difficulty": "Beginner"
+        },
+        {
+          "title": "Nlp, Git, Terraform, Rest Apis, Firewalls, Microservices, Node.Js, Tensorflow & Switching, Docker, Azure, Pandas, Aws, Spark, Python, Tensorflow & Tensorflow, Pandas, Pytorch, React, Ansible Integration Lab",
+          "description": "Set up a practical lab environment to experiment with Nlp, Git, Terraform, Rest Apis, Firewalls, Microservices, Node.Js, Tensorflow & Switching, Docker, Azure, Pandas, Aws, Spark, Python, Tensorflow & Tensorflow, Pandas, Pytorch, React, Ansible configurations and troubleshooting.",
+          "difficulty": "Beginner",
+          "skills_covered": [
+            "nlp, git, terraform, rest apis, firewalls, microservices, node.js, tensorflow",
+            "switching, docker, azure, pandas, aws, spark, python, tensorflow",
+            "tensorflow, pandas, pytorch, react, ansible"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "Intermediate",
+      "duration": "6-8 weeks",
+      "focus": "Application & Certification",
+      "skills": [],
+      "courses": [
+        {
+          "course_name": "AWS Academy Machine Learning Foundations - Cohort 9 (Part 3)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5145986676216125,
+          "similarity": 0.6909977197647095,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Machine Learning Foundations - Cohort 9 (Part 3)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.512067973613739,
+          "similarity": 0.6867799162864685,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AI Talent Program - Cohort 3 (Part 2)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.4779875874519348,
+          "similarity": 0.6299793124198914,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "Image Classification with CNNs",
+          "skills": [
+            "tensorflow",
+            "deep learning",
+            "cnn"
+          ],
+          "type": "Computer Vision",
+          "difficulty": "Intermediate"
+        },
+        {
+          "title": "Build a Mid-Level Frontend Developer Pipeline using Nlp, Git, Terraform, Rest Apis, Firewalls, Microservices, Node.Js, Tensorflow & Switching, Docker, Azure, Pandas, Aws, Spark, Python, Tensorflow & Tensorflow, Pandas, Pytorch, React, Ansible",
+          "description": "Create a comprehensive project that demonstrates your mastery of Nlp, Git, Terraform, Rest Apis, Firewalls, Microservices, Node.Js, Tensorflow & Switching, Docker, Azure, Pandas, Aws, Spark, Python, Tensorflow & Tensorflow, Pandas, Pytorch, React, Ansible. Focus on real-world application.",
+          "difficulty": "Intermediate",
+          "skills_covered": [
+            "nlp, git, terraform, rest apis, firewalls, microservices, node.js, tensorflow",
+            "switching, docker, azure, pandas, aws, spark, python, tensorflow",
+            "tensorflow, pandas, pytorch, react, ansible"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "Advanced",
+      "duration": "8-10 weeks",
+      "focus": "Mastery & Job Readiness",
+      "skills": [],
+      "courses": [
+        {
+          "course_name": "AI Talent Program - Cohort 6 (Part 3)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.4542577266693115,
+          "similarity": 0.5904295444488525,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AI Talent Program - Cohort 15 (Part 3)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.4530191719532013,
+          "similarity": 0.5883652567863464,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "HCIA-AI - Cohort 9 (Part 2)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.45227622985839844,
+          "similarity": 0.5871270298957825,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "End-to-End NLP Chatbot",
+          "skills": [
+            "nlp",
+            "transformers",
+            "deployment"
+          ],
+          "type": "NLP",
+          "difficulty": "Advanced"
+        },
+        {
+          "title": "Develop a Cloud-Native Application with Nlp, Git, Terraform, Rest Apis, Firewalls, Microservices, Node.Js, Tensorflow & Switching, Docker, Azure, Pandas, Aws, Spark, Python, Tensorflow & Tensorflow, Pandas, Pytorch, React, Ansible",
+          "description": "Deploy a scalable application integrating Nlp, Git, Terraform, Rest Apis, Firewalls, Microservices, Node.Js, Tensorflow & Switching, Docker, Azure, Pandas, Aws, Spark, Python, Tensorflow & Tensorflow, Pandas, Pytorch, React, Ansible to solve a specific business problem.",
+          "difficulty": "Advanced",
+          "skills_covered": [
+            "nlp, git, terraform, rest apis, firewalls, microservices, node.js, tensorflow",
+            "switching, docker, azure, pandas, aws, spark, python, tensorflow",
+            "tensorflow, pandas, pytorch, react, ansible"
+          ]
+        }
+      ],
+      "internships": [
+        {
+          "company": "Futurevision Group",
+          "role": "Junior Frontend Developer",
+          "match": 0.6012709140777588,
+          "location": "Giza",
+          "missing_skills": []
+        },
+        {
+          "company": "Pyramid Solutions Egypt",
+          "role": "Junior Machine Learning Engineer",
+          "match": 0.5982024073600769,
+          "location": "Aswan",
+          "missing_skills": []
+        },
+        {
+          "company": "Smartdata Labs Group",
+          "role": "Junior Machine Learning Engineer",
+          "match": 0.597477376461029,
+          "location": "Suez",
+          "missing_skills": []
+        }
+      ]
+    }
+  ]
+}

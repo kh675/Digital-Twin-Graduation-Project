@@ -1,0 +1,213 @@
+{
+  "student_id": "S0050",
+  "career_path": "Software",
+  "career_source": "Prediction",
+  "generated_at": "2025-11-29",
+  "certification_path": [
+    "Oracle Java Associate",
+    "Meta Front-End Developer",
+    "AWS Developer Associate"
+  ],
+  "stages": [
+    {
+      "stage": "Beginner",
+      "duration": "4-6 weeks",
+      "focus": "Fundamentals & Top Gaps",
+      "skills": [
+        "azure, rest apis, pandas, node.js, docker, tensorflow",
+        "pandas, elasticsearch, react, node.js, numpy, microservices, aws",
+        "rest apis, git, tcp/ip, terraform, python, node.js",
+        "switching, docker, azure, pandas, aws, spark, python",
+        "switching, docker, azure, pandas, aws, spark, python, tensorflow"
+      ],
+      "courses": [
+        {
+          "course_name": "AWS Academy Machine Learning Foundations - Cohort 12 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5809354186058044,
+          "similarity": 0.8015590310096741,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Machine Learning Foundations - Cohort 3 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.576149582862854,
+          "similarity": 0.793582558631897,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Machine Learning Foundations - Cohort 9 (Part 3)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5728651285171509,
+          "similarity": 0.7881084680557251,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "Personal Portfolio Website",
+          "skills": [
+            "html",
+            "css",
+            "javascript"
+          ],
+          "type": "Frontend",
+          "difficulty": "Beginner"
+        },
+        {
+          "title": "Azure, Rest Apis, Pandas, Node.Js, Docker, Tensorflow & Pandas, Elasticsearch, React, Node.Js, Numpy, Microservices, Aws & Rest Apis, Git, Tcp/Ip, Terraform, Python, Node.Js Integration Lab",
+          "description": "Set up a practical lab environment to experiment with Azure, Rest Apis, Pandas, Node.Js, Docker, Tensorflow & Pandas, Elasticsearch, React, Node.Js, Numpy, Microservices, Aws & Rest Apis, Git, Tcp/Ip, Terraform, Python, Node.Js configurations and troubleshooting.",
+          "difficulty": "Beginner",
+          "skills_covered": [
+            "azure, rest apis, pandas, node.js, docker, tensorflow",
+            "pandas, elasticsearch, react, node.js, numpy, microservices, aws",
+            "rest apis, git, tcp/ip, terraform, python, node.js"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "Intermediate",
+      "duration": "6-8 weeks",
+      "focus": "Application & Certification",
+      "skills": [],
+      "courses": [
+        {
+          "course_name": "AWS Academy Machine Learning Foundations - Cohort 6 (Part 3)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5706183910369873,
+          "similarity": 0.7843639254570007,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Machine Learning Foundations - Cohort 3 (Part 2)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5704554915428162,
+          "similarity": 0.7840924263000488,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AI Talent Program - Cohort 3 (Part 2)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.4889324903488159,
+          "similarity": 0.6482207775115967,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "REST API for Task Management",
+          "skills": [
+            "nodejs",
+            "express",
+            "mongodb"
+          ],
+          "type": "Backend",
+          "difficulty": "Intermediate"
+        },
+        {
+          "title": "Build a Junior Machine Learning Engineer Pipeline using Azure, Rest Apis, Pandas, Node.Js, Docker, Tensorflow & Pandas, Elasticsearch, React, Node.Js, Numpy, Microservices, Aws & Rest Apis, Git, Tcp/Ip, Terraform, Python, Node.Js",
+          "description": "Create a comprehensive project that demonstrates your mastery of Azure, Rest Apis, Pandas, Node.Js, Docker, Tensorflow & Pandas, Elasticsearch, React, Node.Js, Numpy, Microservices, Aws & Rest Apis, Git, Tcp/Ip, Terraform, Python, Node.Js. Focus on real-world application.",
+          "difficulty": "Intermediate",
+          "skills_covered": [
+            "azure, rest apis, pandas, node.js, docker, tensorflow",
+            "pandas, elasticsearch, react, node.js, numpy, microservices, aws",
+            "rest apis, git, tcp/ip, terraform, python, node.js"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "Advanced",
+      "duration": "8-10 weeks",
+      "focus": "Mastery & Job Readiness",
+      "skills": [],
+      "courses": [
+        {
+          "course_name": "AI Talent Program - Cohort 6 (Part 3)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.48590195178985596,
+          "similarity": 0.6431698799133301,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AI Talent Program - Cohort 15 (Part 3)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.479248583316803,
+          "similarity": 0.6320809721946716,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AI Talent Program - Cohort 2 (Part 3)",
+          "provider": "Huawei",
+          "level": "Intermediate",
+          "score": 0.45832014083862305,
+          "similarity": 0.6305335760116577,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "Full Stack E-commerce Platform",
+          "skills": [
+            "react",
+            "redux",
+            "stripe integration"
+          ],
+          "type": "Full Stack",
+          "difficulty": "Advanced"
+        },
+        {
+          "title": "Develop a Cloud-Native Application with Azure, Rest Apis, Pandas, Node.Js, Docker, Tensorflow & Pandas, Elasticsearch, React, Node.Js, Numpy, Microservices, Aws & Rest Apis, Git, Tcp/Ip, Terraform, Python, Node.Js",
+          "description": "Deploy a scalable application integrating Azure, Rest Apis, Pandas, Node.Js, Docker, Tensorflow & Pandas, Elasticsearch, React, Node.Js, Numpy, Microservices, Aws & Rest Apis, Git, Tcp/Ip, Terraform, Python, Node.Js to solve a specific business problem.",
+          "difficulty": "Advanced",
+          "skills_covered": [
+            "azure, rest apis, pandas, node.js, docker, tensorflow",
+            "pandas, elasticsearch, react, node.js, numpy, microservices, aws",
+            "rest apis, git, tcp/ip, terraform, python, node.js"
+          ]
+        }
+      ],
+      "internships": [
+        {
+          "company": "Smartdata Labs Group",
+          "role": "Junior Machine Learning Engineer",
+          "match": 0.642572283744812,
+          "location": "Suez",
+          "missing_skills": []
+        },
+        {
+          "company": "Pyramid Solutions Group",
+          "role": "Junior Quality Assurance Engineer",
+          "match": 0.6344146728515625,
+          "location": "Hurghada",
+          "missing_skills": []
+        },
+        {
+          "company": "Smartdata Labs Solutions",
+          "role": "Junior Machine Learning Engineer",
+          "match": 0.6322088241577148,
+          "location": "Suez",
+          "missing_skills": []
+        }
+      ]
+    }
+  ]
+}

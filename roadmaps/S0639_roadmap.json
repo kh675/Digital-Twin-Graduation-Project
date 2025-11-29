@@ -1,0 +1,213 @@
+{
+  "student_id": "S0639",
+  "career_path": "Data",
+  "career_source": "Prediction",
+  "generated_at": "2025-11-29",
+  "certification_path": [
+    "Google Data Analytics",
+    "Azure Data Scientist Associate",
+    "IBM Data Science"
+  ],
+  "stages": [
+    {
+      "stage": "Beginner",
+      "duration": "4-6 weeks",
+      "focus": "Fundamentals & Top Gaps",
+      "skills": [
+        "azure, nosql, hipaa, react, node.js, aws, docker",
+        "flask, computer vision, routing, sql, aws",
+        "microservices, aws, c, ansible, routing, ci/cd",
+        "microservices, aws, c, ansible, routing, ci/cd, sql, docker",
+        "rest apis, git, tcp/ip, terraform, python, aws, docker, sql"
+      ],
+      "courses": [
+        {
+          "course_name": "AWS Academy Data Engineering - Cohort 9 (Part 3)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.4961100220680237,
+          "similarity": 0.6601833701133728,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Data Engineering - Cohort 9 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.49584874510765076,
+          "similarity": 0.6597478985786438,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Data Analytics - Cohort 9 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.4939945936203003,
+          "similarity": 0.6566576361656189,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "Exploratory Data Analysis on Titanic Dataset",
+          "skills": [
+            "python",
+            "pandas",
+            "matplotlib"
+          ],
+          "type": "Analysis",
+          "difficulty": "Beginner"
+        },
+        {
+          "title": "Azure, Nosql, Hipaa, React, Node.Js, Aws, Docker & Flask, Computer Vision, Routing, Sql, Aws & Microservices, Aws, C, Ansible, Routing, Ci/Cd Integration Lab",
+          "description": "Set up a practical lab environment to experiment with Azure, Nosql, Hipaa, React, Node.Js, Aws, Docker & Flask, Computer Vision, Routing, Sql, Aws & Microservices, Aws, C, Ansible, Routing, Ci/Cd configurations and troubleshooting.",
+          "difficulty": "Beginner",
+          "skills_covered": [
+            "azure, nosql, hipaa, react, node.js, aws, docker",
+            "flask, computer vision, routing, sql, aws",
+            "microservices, aws, c, ansible, routing, ci/cd"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "Intermediate",
+      "duration": "6-8 weeks",
+      "focus": "Application & Certification",
+      "skills": [],
+      "courses": [
+        {
+          "course_name": "AWS Data Analytics - Cohort 12 (Part 2)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.4905005097389221,
+          "similarity": 0.6508341431617737,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Data Engineering - Cohort 15 (Part 3)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.4895974099636078,
+          "similarity": 0.6493290066719055,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "Huawei Data Warehouse and BI - Cohort 12 (Part 3)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.5459457039833069,
+          "similarity": 0.7432428002357483,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "E-commerce Sales Dashboard",
+          "skills": [
+            "sql",
+            "tableau",
+            "data cleaning"
+          ],
+          "type": "Visualization",
+          "difficulty": "Intermediate"
+        },
+        {
+          "title": "Build a Principal Data Scientist Pipeline using Azure, Nosql, Hipaa, React, Node.Js, Aws, Docker & Flask, Computer Vision, Routing, Sql, Aws & Microservices, Aws, C, Ansible, Routing, Ci/Cd",
+          "description": "Create a comprehensive project that demonstrates your mastery of Azure, Nosql, Hipaa, React, Node.Js, Aws, Docker & Flask, Computer Vision, Routing, Sql, Aws & Microservices, Aws, C, Ansible, Routing, Ci/Cd. Focus on real-world application.",
+          "difficulty": "Intermediate",
+          "skills_covered": [
+            "azure, nosql, hipaa, react, node.js, aws, docker",
+            "flask, computer vision, routing, sql, aws",
+            "microservices, aws, c, ansible, routing, ci/cd"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "Advanced",
+      "duration": "8-10 weeks",
+      "focus": "Mastery & Job Readiness",
+      "skills": [],
+      "courses": [
+        {
+          "course_name": "Huawei Data Warehouse and BI - Cohort 6 (Part 1)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.5457513928413391,
+          "similarity": 0.7429189085960388,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "Huawei Data Warehouse and BI - Cohort 6 (Part 3)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.5400581359863281,
+          "similarity": 0.7334301471710205,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "Huawei Data Warehouse and BI - Cohort 11 (Part 1)",
+          "provider": "Huawei",
+          "level": "Intermediate",
+          "score": 0.5317888855934143,
+          "similarity": 0.7529814839363098,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "Predictive Customer Churn Model",
+          "skills": [
+            "scikit-learn",
+            "feature engineering",
+            "modeling"
+          ],
+          "type": "ML",
+          "difficulty": "Advanced"
+        },
+        {
+          "title": "Develop a Cloud-Native Application with Azure, Nosql, Hipaa, React, Node.Js, Aws, Docker & Flask, Computer Vision, Routing, Sql, Aws & Microservices, Aws, C, Ansible, Routing, Ci/Cd",
+          "description": "Deploy a scalable application integrating Azure, Nosql, Hipaa, React, Node.Js, Aws, Docker & Flask, Computer Vision, Routing, Sql, Aws & Microservices, Aws, C, Ansible, Routing, Ci/Cd to solve a specific business problem.",
+          "difficulty": "Advanced",
+          "skills_covered": [
+            "azure, nosql, hipaa, react, node.js, aws, docker",
+            "flask, computer vision, routing, sql, aws",
+            "microservices, aws, c, ansible, routing, ci/cd"
+          ]
+        }
+      ],
+      "internships": [
+        {
+          "company": "Pyramid Solutions Egypt",
+          "role": "Junior Backend Developer",
+          "match": 0.5596172213554382,
+          "location": "Alexandria",
+          "missing_skills": []
+        },
+        {
+          "company": "Smartdata Labs Solutions",
+          "role": "Junior Machine Learning Engineer",
+          "match": 0.5473136305809021,
+          "location": "Suez",
+          "missing_skills": []
+        },
+        {
+          "company": "Smartdata Labs Group",
+          "role": "Junior Machine Learning Engineer",
+          "match": 0.5423471331596375,
+          "location": "Suez",
+          "missing_skills": []
+        }
+      ]
+    }
+  ]
+}

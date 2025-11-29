@@ -1,0 +1,213 @@
+{
+  "student_id": "S1238",
+  "career_path": "Machine Learning",
+  "career_source": "Prediction",
+  "generated_at": "2025-11-29",
+  "certification_path": [
+    "TensorFlow Developer Certificate",
+    "AWS Machine Learning Specialty",
+    "DeepLearning.AI"
+  ],
+  "stages": [
+    {
+      "stage": "Beginner",
+      "duration": "4-6 weeks",
+      "focus": "Fundamentals & Top Gaps",
+      "skills": [
+        "switching, docker, azure, pandas, aws, spark",
+        "switching, docker, azure, pandas, aws, spark, node.js",
+        "switching, docker, azure, pandas, aws, spark, python",
+        "switching, docker, azure, pandas, aws, spark, python, tensorflow",
+        "tensorflow, pandas, pytorch, react, ansible, docker, sql"
+      ],
+      "courses": [
+        {
+          "course_name": "AWS Academy Machine Learning Foundations - Cohort 12 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5595404505729675,
+          "similarity": 0.765900731086731,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Machine Learning Foundations - Cohort 3 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5566763877868652,
+          "similarity": 0.7611272931098938,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Machine Learning Foundations - Cohort 9 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5516354441642761,
+          "similarity": 0.7527256608009338,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "House Price Prediction",
+          "skills": [
+            "python",
+            "regression",
+            "scikit-learn"
+          ],
+          "type": "Regression",
+          "difficulty": "Beginner"
+        },
+        {
+          "title": "Switching, Docker, Azure, Pandas, Aws, Spark & Switching, Docker, Azure, Pandas, Aws, Spark, Node.Js & Switching, Docker, Azure, Pandas, Aws, Spark, Python Integration Lab",
+          "description": "Set up a practical lab environment to experiment with Switching, Docker, Azure, Pandas, Aws, Spark & Switching, Docker, Azure, Pandas, Aws, Spark, Node.Js & Switching, Docker, Azure, Pandas, Aws, Spark, Python configurations and troubleshooting.",
+          "difficulty": "Beginner",
+          "skills_covered": [
+            "switching, docker, azure, pandas, aws, spark",
+            "switching, docker, azure, pandas, aws, spark, node.js",
+            "switching, docker, azure, pandas, aws, spark, python"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "Intermediate",
+      "duration": "6-8 weeks",
+      "focus": "Application & Certification",
+      "skills": [],
+      "courses": [
+        {
+          "course_name": "AWS Academy Machine Learning Foundations - Cohort 9 (Part 3)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.550509512424469,
+          "similarity": 0.7508491277694702,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Machine Learning Foundations - Cohort 9 (Part 3)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5483496785163879,
+          "similarity": 0.74724942445755,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AI Talent Program - Cohort 3 (Part 2)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.520850658416748,
+          "similarity": 0.7014177441596985,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "Image Classification with CNNs",
+          "skills": [
+            "tensorflow",
+            "deep learning",
+            "cnn"
+          ],
+          "type": "Computer Vision",
+          "difficulty": "Intermediate"
+        },
+        {
+          "title": "Build a Junior Machine Learning Engineer Pipeline using Switching, Docker, Azure, Pandas, Aws, Spark & Switching, Docker, Azure, Pandas, Aws, Spark, Node.Js & Switching, Docker, Azure, Pandas, Aws, Spark, Python",
+          "description": "Create a comprehensive project that demonstrates your mastery of Switching, Docker, Azure, Pandas, Aws, Spark & Switching, Docker, Azure, Pandas, Aws, Spark, Node.Js & Switching, Docker, Azure, Pandas, Aws, Spark, Python. Focus on real-world application.",
+          "difficulty": "Intermediate",
+          "skills_covered": [
+            "switching, docker, azure, pandas, aws, spark",
+            "switching, docker, azure, pandas, aws, spark, node.js",
+            "switching, docker, azure, pandas, aws, spark, python"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "Advanced",
+      "duration": "8-10 weeks",
+      "focus": "Mastery & Job Readiness",
+      "skills": [],
+      "courses": [
+        {
+          "course_name": "AI Talent Program - Cohort 6 (Part 3)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.511819064617157,
+          "similarity": 0.6863650679588318,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AI Talent Program - Cohort 15 (Part 3)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.5080857872962952,
+          "similarity": 0.6801429390907288,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AI Talent Program - Cohort 11 (Part 1)",
+          "provider": "Huawei",
+          "level": "Intermediate",
+          "score": 0.47733092308044434,
+          "similarity": 0.6622181534767151,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "End-to-End NLP Chatbot",
+          "skills": [
+            "nlp",
+            "transformers",
+            "deployment"
+          ],
+          "type": "NLP",
+          "difficulty": "Advanced"
+        },
+        {
+          "title": "Develop a Cloud-Native Application with Switching, Docker, Azure, Pandas, Aws, Spark & Switching, Docker, Azure, Pandas, Aws, Spark, Node.Js & Switching, Docker, Azure, Pandas, Aws, Spark, Python",
+          "description": "Deploy a scalable application integrating Switching, Docker, Azure, Pandas, Aws, Spark & Switching, Docker, Azure, Pandas, Aws, Spark, Node.Js & Switching, Docker, Azure, Pandas, Aws, Spark, Python to solve a specific business problem.",
+          "difficulty": "Advanced",
+          "skills_covered": [
+            "switching, docker, azure, pandas, aws, spark",
+            "switching, docker, azure, pandas, aws, spark, node.js",
+            "switching, docker, azure, pandas, aws, spark, python"
+          ]
+        }
+      ],
+      "internships": [
+        {
+          "company": "Smartdata Labs Group",
+          "role": "Junior Machine Learning Engineer",
+          "match": 0.639979362487793,
+          "location": "Suez",
+          "missing_skills": []
+        },
+        {
+          "company": "Smartdata Labs Solutions",
+          "role": "Junior Machine Learning Engineer",
+          "match": 0.6253131031990051,
+          "location": "Suez",
+          "missing_skills": []
+        },
+        {
+          "company": "Smartdata Labs Solutions",
+          "role": "Junior Machine Learning Engineer",
+          "match": 0.6136780381202698,
+          "location": "Suez",
+          "missing_skills": []
+        }
+      ]
+    }
+  ]
+}

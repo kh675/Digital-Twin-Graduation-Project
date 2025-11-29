@@ -1,0 +1,213 @@
+{
+  "student_id": "S0078",
+  "career_path": "Machine Learning",
+  "career_source": "Prediction",
+  "generated_at": "2025-11-29",
+  "certification_path": [
+    "TensorFlow Developer Certificate",
+    "AWS Machine Learning Specialty",
+    "DeepLearning.AI"
+  ],
+  "stages": [
+    {
+      "stage": "Beginner",
+      "duration": "4-6 weeks",
+      "focus": "Fundamentals & Top Gaps",
+      "skills": [
+        "pandas, computer vision, gcp, tensorflow, node.js",
+        "pandas, hadoop, nosql, rest apis, hipaa, sql, terraform, node.js, kubernetes, docker",
+        "tensorflow, pandas, pytorch, react, ansible",
+        "tensorflow, pandas, pytorch, react, ansible, docker, sql",
+        "tensorflow, pandas, pytorch, react, ansible, python"
+      ],
+      "courses": [
+        {
+          "course_name": "AWS Academy Machine Learning Foundations - Cohort 12 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5541760921478271,
+          "similarity": 0.7569601535797119,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Machine Learning Foundations - Cohort 3 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5491625666618347,
+          "similarity": 0.7486042380332947,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Machine Learning Foundations - Cohort 9 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5443084239959717,
+          "similarity": 0.7405140399932861,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "House Price Prediction",
+          "skills": [
+            "python",
+            "regression",
+            "scikit-learn"
+          ],
+          "type": "Regression",
+          "difficulty": "Beginner"
+        },
+        {
+          "title": "Pandas, Computer Vision, Gcp, Tensorflow, Node.Js & Pandas, Hadoop, Nosql, Rest Apis, Hipaa, Sql, Terraform, Node.Js, Kubernetes, Docker & Tensorflow, Pandas, Pytorch, React, Ansible Integration Lab",
+          "description": "Set up a practical lab environment to experiment with Pandas, Computer Vision, Gcp, Tensorflow, Node.Js & Pandas, Hadoop, Nosql, Rest Apis, Hipaa, Sql, Terraform, Node.Js, Kubernetes, Docker & Tensorflow, Pandas, Pytorch, React, Ansible configurations and troubleshooting.",
+          "difficulty": "Beginner",
+          "skills_covered": [
+            "pandas, computer vision, gcp, tensorflow, node.js",
+            "pandas, hadoop, nosql, rest apis, hipaa, sql, terraform, node.js, kubernetes, docker",
+            "tensorflow, pandas, pytorch, react, ansible"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "Intermediate",
+      "duration": "6-8 weeks",
+      "focus": "Application & Certification",
+      "skills": [],
+      "courses": [
+        {
+          "course_name": "AWS Academy Machine Learning Foundations - Cohort 9 (Part 3)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.543613076210022,
+          "similarity": 0.7393550872802734,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Machine Learning Foundations - Cohort 9 (Part 3)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5397540330886841,
+          "similarity": 0.7329233288764954,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AI Talent Program - Cohort 3 (Part 2)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.49691277742385864,
+          "similarity": 0.6615212559700012,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "Image Classification with CNNs",
+          "skills": [
+            "tensorflow",
+            "deep learning",
+            "cnn"
+          ],
+          "type": "Computer Vision",
+          "difficulty": "Intermediate"
+        },
+        {
+          "title": "Build a Senior Frontend Developer Pipeline using Pandas, Computer Vision, Gcp, Tensorflow, Node.Js & Pandas, Hadoop, Nosql, Rest Apis, Hipaa, Sql, Terraform, Node.Js, Kubernetes, Docker & Tensorflow, Pandas, Pytorch, React, Ansible",
+          "description": "Create a comprehensive project that demonstrates your mastery of Pandas, Computer Vision, Gcp, Tensorflow, Node.Js & Pandas, Hadoop, Nosql, Rest Apis, Hipaa, Sql, Terraform, Node.Js, Kubernetes, Docker & Tensorflow, Pandas, Pytorch, React, Ansible. Focus on real-world application.",
+          "difficulty": "Intermediate",
+          "skills_covered": [
+            "pandas, computer vision, gcp, tensorflow, node.js",
+            "pandas, hadoop, nosql, rest apis, hipaa, sql, terraform, node.js, kubernetes, docker",
+            "tensorflow, pandas, pytorch, react, ansible"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "Advanced",
+      "duration": "8-10 weeks",
+      "focus": "Mastery & Job Readiness",
+      "skills": [],
+      "courses": [
+        {
+          "course_name": "HCIP-AI-Developer - Cohort 12 (Part 2)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.4855341911315918,
+          "similarity": 0.6425569653511047,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "HCIA-AI - Cohort 9 (Part 1)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.48381173610687256,
+          "similarity": 0.6396862268447876,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "HCIP-AI-Developer - Cohort 6 (Part 3)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.4813798666000366,
+          "similarity": 0.635633111000061,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "End-to-End NLP Chatbot",
+          "skills": [
+            "nlp",
+            "transformers",
+            "deployment"
+          ],
+          "type": "NLP",
+          "difficulty": "Advanced"
+        },
+        {
+          "title": "Develop a Cloud-Native Application with Pandas, Computer Vision, Gcp, Tensorflow, Node.Js & Pandas, Hadoop, Nosql, Rest Apis, Hipaa, Sql, Terraform, Node.Js, Kubernetes, Docker & Tensorflow, Pandas, Pytorch, React, Ansible",
+          "description": "Deploy a scalable application integrating Pandas, Computer Vision, Gcp, Tensorflow, Node.Js & Pandas, Hadoop, Nosql, Rest Apis, Hipaa, Sql, Terraform, Node.Js, Kubernetes, Docker & Tensorflow, Pandas, Pytorch, React, Ansible to solve a specific business problem.",
+          "difficulty": "Advanced",
+          "skills_covered": [
+            "pandas, computer vision, gcp, tensorflow, node.js",
+            "pandas, hadoop, nosql, rest apis, hipaa, sql, terraform, node.js, kubernetes, docker",
+            "tensorflow, pandas, pytorch, react, ansible"
+          ]
+        }
+      ],
+      "internships": [
+        {
+          "company": "Pyramid Solutions Egypt",
+          "role": "Junior Machine Learning Engineer",
+          "match": 0.6288852095603943,
+          "location": "Aswan",
+          "missing_skills": []
+        },
+        {
+          "company": "Futurevision Group",
+          "role": "Junior Frontend Developer",
+          "match": 0.6261511445045471,
+          "location": "Giza",
+          "missing_skills": []
+        },
+        {
+          "company": "Pyramid Solutions Group",
+          "role": "Junior Machine Learning Engineer",
+          "match": 0.6247885227203369,
+          "location": "Aswan",
+          "missing_skills": []
+        }
+      ]
+    }
+  ]
+}

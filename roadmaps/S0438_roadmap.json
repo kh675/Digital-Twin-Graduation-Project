@@ -1,0 +1,213 @@
+{
+  "student_id": "S0438",
+  "career_path": "Software",
+  "career_source": "Prediction",
+  "generated_at": "2025-11-29",
+  "certification_path": [
+    "Oracle Java Associate",
+    "Meta Front-End Developer",
+    "AWS Developer Associate"
+  ],
+  "stages": [
+    {
+      "stage": "Beginner",
+      "duration": "4-6 weeks",
+      "focus": "Fundamentals & Top Gaps",
+      "skills": [
+        "git, firewalls, azure, ci/cd, pytorch, pandas, react, python",
+        "git, firewalls, azure, ci/cd, pytorch, pandas, react, python, sql",
+        "python, spark, tensorflow, aws",
+        "python, spark, tensorflow, node.js",
+        "python, spark, tensorflow, react, aws"
+      ],
+      "courses": [
+        {
+          "course_name": "AWS Academy Machine Learning Foundations - Cohort 12 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5112029314041138,
+          "similarity": 0.6853381991386414,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Machine Learning for Developers - Cohort 15 (Part 2)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5104385018348694,
+          "similarity": 0.6840641498565674,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Machine Learning for Developers - Cohort 3 (Part 3)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5102930665016174,
+          "similarity": 0.6838217377662659,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "Personal Portfolio Website",
+          "skills": [
+            "html",
+            "css",
+            "javascript"
+          ],
+          "type": "Frontend",
+          "difficulty": "Beginner"
+        },
+        {
+          "title": "Git, Firewalls, Azure, Ci/Cd, Pytorch, Pandas, React, Python & Git, Firewalls, Azure, Ci/Cd, Pytorch, Pandas, React, Python, Sql & Python, Spark, Tensorflow, Aws Integration Lab",
+          "description": "Set up a practical lab environment to experiment with Git, Firewalls, Azure, Ci/Cd, Pytorch, Pandas, React, Python & Git, Firewalls, Azure, Ci/Cd, Pytorch, Pandas, React, Python, Sql & Python, Spark, Tensorflow, Aws configurations and troubleshooting.",
+          "difficulty": "Beginner",
+          "skills_covered": [
+            "git, firewalls, azure, ci/cd, pytorch, pandas, react, python",
+            "git, firewalls, azure, ci/cd, pytorch, pandas, react, python, sql",
+            "python, spark, tensorflow, aws"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "Intermediate",
+      "duration": "6-8 weeks",
+      "focus": "Application & Certification",
+      "skills": [],
+      "courses": [
+        {
+          "course_name": "AWS Academy Machine Learning Foundations - Cohort 3 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5080857276916504,
+          "similarity": 0.680142879486084,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Machine Learning for Developers - Cohort 15 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5071083307266235,
+          "similarity": 0.6785138249397278,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "HCIP-AI-Developer - Cohort 12 (Part 3)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.5265467762947083,
+          "similarity": 0.710911214351654,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "REST API for Task Management",
+          "skills": [
+            "nodejs",
+            "express",
+            "mongodb"
+          ],
+          "type": "Backend",
+          "difficulty": "Intermediate"
+        },
+        {
+          "title": "Build a Mid-Level Mobile Developer Pipeline using Git, Firewalls, Azure, Ci/Cd, Pytorch, Pandas, React, Python & Git, Firewalls, Azure, Ci/Cd, Pytorch, Pandas, React, Python, Sql & Python, Spark, Tensorflow, Aws",
+          "description": "Create a comprehensive project that demonstrates your mastery of Git, Firewalls, Azure, Ci/Cd, Pytorch, Pandas, React, Python & Git, Firewalls, Azure, Ci/Cd, Pytorch, Pandas, React, Python, Sql & Python, Spark, Tensorflow, Aws. Focus on real-world application.",
+          "difficulty": "Intermediate",
+          "skills_covered": [
+            "git, firewalls, azure, ci/cd, pytorch, pandas, react, python",
+            "git, firewalls, azure, ci/cd, pytorch, pandas, react, python, sql",
+            "python, spark, tensorflow, aws"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "Advanced",
+      "duration": "8-10 weeks",
+      "focus": "Mastery & Job Readiness",
+      "skills": [],
+      "courses": [
+        {
+          "course_name": "HCIP-AI-Developer - Cohort 12 (Part 2)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.5251120328903198,
+          "similarity": 0.7085199952125549,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "HCIP-AI-Developer - Cohort 6 (Part 3)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.5241151452064514,
+          "similarity": 0.7068585157394409,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "HCIP-AI-Developer - Cohort 6 (Part 2)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.521223783493042,
+          "similarity": 0.7020395994186401,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "Full Stack E-commerce Platform",
+          "skills": [
+            "react",
+            "redux",
+            "stripe integration"
+          ],
+          "type": "Full Stack",
+          "difficulty": "Advanced"
+        },
+        {
+          "title": "Develop a Cloud-Native Application with Git, Firewalls, Azure, Ci/Cd, Pytorch, Pandas, React, Python & Git, Firewalls, Azure, Ci/Cd, Pytorch, Pandas, React, Python, Sql & Python, Spark, Tensorflow, Aws",
+          "description": "Deploy a scalable application integrating Git, Firewalls, Azure, Ci/Cd, Pytorch, Pandas, React, Python & Git, Firewalls, Azure, Ci/Cd, Pytorch, Pandas, React, Python, Sql & Python, Spark, Tensorflow, Aws to solve a specific business problem.",
+          "difficulty": "Advanced",
+          "skills_covered": [
+            "git, firewalls, azure, ci/cd, pytorch, pandas, react, python",
+            "git, firewalls, azure, ci/cd, pytorch, pandas, react, python, sql",
+            "python, spark, tensorflow, aws"
+          ]
+        }
+      ],
+      "internships": [
+        {
+          "company": "Pyramid Solutions Egypt",
+          "role": "Junior Machine Learning Engineer",
+          "match": 0.6024582982063293,
+          "location": "Aswan",
+          "missing_skills": []
+        },
+        {
+          "company": "Alex Tech Solutions",
+          "role": "Junior Backend Developer",
+          "match": 0.5917882323265076,
+          "location": "Hurghada",
+          "missing_skills": []
+        },
+        {
+          "company": "Pyramid Solutions Ltd",
+          "role": "Junior Backend Developer",
+          "match": 0.5913506150245667,
+          "location": "Alexandria",
+          "missing_skills": []
+        }
+      ]
+    }
+  ]
+}

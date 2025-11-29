@@ -1,0 +1,11 @@
+Checking egypt_jobs_full_1500_cleaned.csv with robust CSV parser...
+
+Total rows processed: 1500
+
+1. Duplicate job_ids: 0
+   [OK] No duplicates found.
+
+2. Date Parsing:
+   Valid dates: 1500
+   Invalid dates: 0
+   [OK] All dates parsed successfully.

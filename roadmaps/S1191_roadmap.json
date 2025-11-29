@@ -1,0 +1,213 @@
+{
+  "student_id": "S1191",
+  "career_path": "Data",
+  "career_source": "Prediction",
+  "generated_at": "2025-11-29",
+  "certification_path": [
+    "Google Data Analytics",
+    "Azure Data Scientist Associate",
+    "IBM Data Science"
+  ],
+  "stages": [
+    {
+      "stage": "Beginner",
+      "duration": "4-6 weeks",
+      "focus": "Fundamentals & Top Gaps",
+      "skills": [
+        "docker, firewalls, hipaa, aws, node.js",
+        "flask, computer vision, routing, aws, node.js",
+        "flask, computer vision, routing, python, docker",
+        "flask, computer vision, routing, sql",
+        "flask, computer vision, routing, sql, aws"
+      ],
+      "courses": [
+        {
+          "course_name": "AWS Academy Data Engineering - Cohort 9 (Part 3)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.4578450918197632,
+          "similarity": 0.596408486366272,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Data Engineering - Cohort 12 (Part 2)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.45573070645332336,
+          "similarity": 0.5928844809532166,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Data Engineering - Cohort 9 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.45526227355003357,
+          "similarity": 0.5921037793159485,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "Exploratory Data Analysis on Titanic Dataset",
+          "skills": [
+            "python",
+            "pandas",
+            "matplotlib"
+          ],
+          "type": "Analysis",
+          "difficulty": "Beginner"
+        },
+        {
+          "title": "Docker, Firewalls, Hipaa, Aws, Node.Js & Flask, Computer Vision, Routing, Aws, Node.Js & Flask, Computer Vision, Routing, Python, Docker Integration Lab",
+          "description": "Set up a practical lab environment to experiment with Docker, Firewalls, Hipaa, Aws, Node.Js & Flask, Computer Vision, Routing, Aws, Node.Js & Flask, Computer Vision, Routing, Python, Docker configurations and troubleshooting.",
+          "difficulty": "Beginner",
+          "skills_covered": [
+            "docker, firewalls, hipaa, aws, node.js",
+            "flask, computer vision, routing, aws, node.js",
+            "flask, computer vision, routing, python, docker"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "Intermediate",
+      "duration": "6-8 weeks",
+      "focus": "Application & Certification",
+      "skills": [],
+      "courses": [
+        {
+          "course_name": "AWS Academy Data Engineering - Cohort 9 (Part 3)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.45254865288734436,
+          "similarity": 0.5875810980796814,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Data Engineering - Cohort 6 (Part 2)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.45136019587516785,
+          "similarity": 0.5856003165245056,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "Huawei Data Warehouse and BI - Cohort 6 (Part 1)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.5800321698188782,
+          "similarity": 0.800053596496582,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "E-commerce Sales Dashboard",
+          "skills": [
+            "sql",
+            "tableau",
+            "data cleaning"
+          ],
+          "type": "Visualization",
+          "difficulty": "Intermediate"
+        },
+        {
+          "title": "Build a Principal Data Scientist Pipeline using Docker, Firewalls, Hipaa, Aws, Node.Js & Flask, Computer Vision, Routing, Aws, Node.Js & Flask, Computer Vision, Routing, Python, Docker",
+          "description": "Create a comprehensive project that demonstrates your mastery of Docker, Firewalls, Hipaa, Aws, Node.Js & Flask, Computer Vision, Routing, Aws, Node.Js & Flask, Computer Vision, Routing, Python, Docker. Focus on real-world application.",
+          "difficulty": "Intermediate",
+          "skills_covered": [
+            "docker, firewalls, hipaa, aws, node.js",
+            "flask, computer vision, routing, aws, node.js",
+            "flask, computer vision, routing, python, docker"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "Advanced",
+      "duration": "8-10 weeks",
+      "focus": "Mastery & Job Readiness",
+      "skills": [],
+      "courses": [
+        {
+          "course_name": "Huawei Data Warehouse and BI - Cohort 15 (Part 2)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.5752614140510559,
+          "similarity": 0.7921023368835449,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "Huawei Data Warehouse and BI - Cohort 12 (Part 3)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.5736402869224548,
+          "similarity": 0.7894004583358765,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "Huawei Data Warehouse and BI - Cohort 15 (Part 1)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.5735470652580261,
+          "similarity": 0.789245069026947,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "Predictive Customer Churn Model",
+          "skills": [
+            "scikit-learn",
+            "feature engineering",
+            "modeling"
+          ],
+          "type": "ML",
+          "difficulty": "Advanced"
+        },
+        {
+          "title": "Develop a Cloud-Native Application with Docker, Firewalls, Hipaa, Aws, Node.Js & Flask, Computer Vision, Routing, Aws, Node.Js & Flask, Computer Vision, Routing, Python, Docker",
+          "description": "Deploy a scalable application integrating Docker, Firewalls, Hipaa, Aws, Node.Js & Flask, Computer Vision, Routing, Aws, Node.Js & Flask, Computer Vision, Routing, Python, Docker to solve a specific business problem.",
+          "difficulty": "Advanced",
+          "skills_covered": [
+            "docker, firewalls, hipaa, aws, node.js",
+            "flask, computer vision, routing, aws, node.js",
+            "flask, computer vision, routing, python, docker"
+          ]
+        }
+      ],
+      "internships": [
+        {
+          "company": "Pyramid Solutions Group",
+          "role": "Junior Data Scientist",
+          "match": 0.5788938403129578,
+          "location": "Cairo",
+          "missing_skills": []
+        },
+        {
+          "company": "Alex Tech Solutions",
+          "role": "Junior Backend Developer",
+          "match": 0.5698353052139282,
+          "location": "Hurghada",
+          "missing_skills": []
+        },
+        {
+          "company": "Pyramid Solutions Egypt",
+          "role": "Junior Backend Developer",
+          "match": 0.5697891116142273,
+          "location": "Alexandria",
+          "missing_skills": []
+        }
+      ]
+    }
+  ]
+}

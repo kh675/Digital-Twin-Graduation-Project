@@ -1,0 +1,213 @@
+{
+  "student_id": "S1213",
+  "career_path": "Software",
+  "career_source": "Prediction",
+  "generated_at": "2025-11-29",
+  "certification_path": [
+    "Oracle Java Associate",
+    "Meta Front-End Developer",
+    "AWS Developer Associate"
+  ],
+  "stages": [
+    {
+      "stage": "Beginner",
+      "duration": "4-6 weeks",
+      "focus": "Fundamentals & Top Gaps",
+      "skills": [
+        "numpy, rest apis, nosql, aws, node.js",
+        "numpy, rest apis, nosql, kubernetes",
+        "numpy, rest apis, nosql, react, docker, sql",
+        "rest apis, javascript, nlp, pandas, ansible, switching, spark, aws, docker, sql",
+        "sql, rest apis, node.js, tensorflow, hadoop, ansible, numpy, docker"
+      ],
+      "courses": [
+        {
+          "course_name": "AWS Academy Cloud Foundations - Cohort 3 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.4318179786205292,
+          "similarity": 0.5530299544334412,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Machine Learning Foundations - Cohort 9 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.42534613609313965,
+          "similarity": 0.5422435402870178,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Developer Path - Cohort 3 (Part 3)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.42467644810676575,
+          "similarity": 0.5411273837089539,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "Personal Portfolio Website",
+          "skills": [
+            "html",
+            "css",
+            "javascript"
+          ],
+          "type": "Frontend",
+          "difficulty": "Beginner"
+        },
+        {
+          "title": "Numpy, Rest Apis, Nosql, Aws, Node.Js & Numpy, Rest Apis, Nosql, Kubernetes & Numpy, Rest Apis, Nosql, React, Docker, Sql Integration Lab",
+          "description": "Set up a practical lab environment to experiment with Numpy, Rest Apis, Nosql, Aws, Node.Js & Numpy, Rest Apis, Nosql, Kubernetes & Numpy, Rest Apis, Nosql, React, Docker, Sql configurations and troubleshooting.",
+          "difficulty": "Beginner",
+          "skills_covered": [
+            "numpy, rest apis, nosql, aws, node.js",
+            "numpy, rest apis, nosql, kubernetes",
+            "numpy, rest apis, nosql, react, docker, sql"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "Intermediate",
+      "duration": "6-8 weeks",
+      "focus": "Application & Certification",
+      "skills": [],
+      "courses": [
+        {
+          "course_name": "AWS Academy Cloud Foundations - Cohort 9 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.42249372601509094,
+          "similarity": 0.5374895334243774,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Cloud Foundations - Cohort 9 (Part 2)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.4219781458377838,
+          "similarity": 0.5366302132606506,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "Huawei Full-Stack Developer - Cohort 6 (Part 1)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.5003514289855957,
+          "similarity": 0.6672523021697998,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "REST API for Task Management",
+          "skills": [
+            "nodejs",
+            "express",
+            "mongodb"
+          ],
+          "type": "Backend",
+          "difficulty": "Intermediate"
+        },
+        {
+          "title": "Build a Mid-Level Backend Developer Pipeline using Numpy, Rest Apis, Nosql, Aws, Node.Js & Numpy, Rest Apis, Nosql, Kubernetes & Numpy, Rest Apis, Nosql, React, Docker, Sql",
+          "description": "Create a comprehensive project that demonstrates your mastery of Numpy, Rest Apis, Nosql, Aws, Node.Js & Numpy, Rest Apis, Nosql, Kubernetes & Numpy, Rest Apis, Nosql, React, Docker, Sql. Focus on real-world application.",
+          "difficulty": "Intermediate",
+          "skills_covered": [
+            "numpy, rest apis, nosql, aws, node.js",
+            "numpy, rest apis, nosql, kubernetes",
+            "numpy, rest apis, nosql, react, docker, sql"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "Advanced",
+      "duration": "8-10 weeks",
+      "focus": "Mastery & Job Readiness",
+      "skills": [],
+      "courses": [
+        {
+          "course_name": "Huawei Full-Stack Developer - Cohort 3 (Part 1)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.49964311718940735,
+          "similarity": 0.6660718321800232,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "Huawei Full-Stack Developer - Cohort 3 (Part 2)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.4989883303642273,
+          "similarity": 0.6649805307388306,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "Huawei Full-Stack Developer - Cohort 6 (Part 1)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.4967123866081238,
+          "similarity": 0.6611872911453247,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "Full Stack E-commerce Platform",
+          "skills": [
+            "react",
+            "redux",
+            "stripe integration"
+          ],
+          "type": "Full Stack",
+          "difficulty": "Advanced"
+        },
+        {
+          "title": "Develop a Cloud-Native Application with Numpy, Rest Apis, Nosql, Aws, Node.Js & Numpy, Rest Apis, Nosql, Kubernetes & Numpy, Rest Apis, Nosql, React, Docker, Sql",
+          "description": "Deploy a scalable application integrating Numpy, Rest Apis, Nosql, Aws, Node.Js & Numpy, Rest Apis, Nosql, Kubernetes & Numpy, Rest Apis, Nosql, React, Docker, Sql to solve a specific business problem.",
+          "difficulty": "Advanced",
+          "skills_covered": [
+            "numpy, rest apis, nosql, aws, node.js",
+            "numpy, rest apis, nosql, kubernetes",
+            "numpy, rest apis, nosql, react, docker, sql"
+          ]
+        }
+      ],
+      "internships": [
+        {
+          "company": "Pyramid Solutions Egypt",
+          "role": "Junior Backend Developer",
+          "match": 0.636044979095459,
+          "location": "Alexandria",
+          "missing_skills": []
+        },
+        {
+          "company": "Cairocloud Egypt",
+          "role": "Junior Backend Developer",
+          "match": 0.6171302199363708,
+          "location": "Aswan",
+          "missing_skills": []
+        },
+        {
+          "company": "Techsol Egypt Inc",
+          "role": "Junior Backend Developer",
+          "match": 0.6142779588699341,
+          "location": "Suez",
+          "missing_skills": []
+        }
+      ]
+    }
+  ]
+}

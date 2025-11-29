@@ -1,0 +1,213 @@
+{
+  "student_id": "S0278",
+  "career_path": "Machine Learning",
+  "career_source": "Prediction",
+  "generated_at": "2025-11-29",
+  "certification_path": [
+    "TensorFlow Developer Certificate",
+    "AWS Machine Learning Specialty",
+    "DeepLearning.AI"
+  ],
+  "stages": [
+    {
+      "stage": "Beginner",
+      "duration": "4-6 weeks",
+      "focus": "Fundamentals & Top Gaps",
+      "skills": [
+        "git, rest apis, java, kubernetes, node.js, aws",
+        "git, rest apis, java, node.js, sql, python",
+        "git, rest apis, java, sql, aws, node.js",
+        "pandas, computer vision, gcp, aws, react",
+        "switching, docker, azure, pandas, aws, spark, python, tensorflow"
+      ],
+      "courses": [
+        {
+          "course_name": "AWS Academy Machine Learning Foundations - Cohort 12 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.582707941532135,
+          "similarity": 0.8045132160186768,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Machine Learning Foundations - Cohort 3 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5820308923721313,
+          "similarity": 0.8033847808837891,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Machine Learning for Developers - Cohort 3 (Part 3)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5774152278900146,
+          "similarity": 0.795691967010498,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "House Price Prediction",
+          "skills": [
+            "python",
+            "regression",
+            "scikit-learn"
+          ],
+          "type": "Regression",
+          "difficulty": "Beginner"
+        },
+        {
+          "title": "Git, Rest Apis, Java, Kubernetes, Node.Js, Aws & Git, Rest Apis, Java, Node.Js, Sql, Python & Git, Rest Apis, Java, Sql, Aws, Node.Js Integration Lab",
+          "description": "Set up a practical lab environment to experiment with Git, Rest Apis, Java, Kubernetes, Node.Js, Aws & Git, Rest Apis, Java, Node.Js, Sql, Python & Git, Rest Apis, Java, Sql, Aws, Node.Js configurations and troubleshooting.",
+          "difficulty": "Beginner",
+          "skills_covered": [
+            "git, rest apis, java, kubernetes, node.js, aws",
+            "git, rest apis, java, node.js, sql, python",
+            "git, rest apis, java, sql, aws, node.js"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "Intermediate",
+      "duration": "6-8 weeks",
+      "focus": "Application & Certification",
+      "skills": [],
+      "courses": [
+        {
+          "course_name": "AWS Academy Machine Learning Foundations - Cohort 9 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.575676679611206,
+          "similarity": 0.7927944660186768,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Machine Learning Foundations - Cohort 9 (Part 3)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5747761130332947,
+          "similarity": 0.7912935018539429,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AI Talent Program - Cohort 3 (Part 2)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.5013045072555542,
+          "similarity": 0.6688408255577087,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "Image Classification with CNNs",
+          "skills": [
+            "tensorflow",
+            "deep learning",
+            "cnn"
+          ],
+          "type": "Computer Vision",
+          "difficulty": "Intermediate"
+        },
+        {
+          "title": "Build a Lead Machine Learning Engineer Pipeline using Git, Rest Apis, Java, Kubernetes, Node.Js, Aws & Git, Rest Apis, Java, Node.Js, Sql, Python & Git, Rest Apis, Java, Sql, Aws, Node.Js",
+          "description": "Create a comprehensive project that demonstrates your mastery of Git, Rest Apis, Java, Kubernetes, Node.Js, Aws & Git, Rest Apis, Java, Node.Js, Sql, Python & Git, Rest Apis, Java, Sql, Aws, Node.Js. Focus on real-world application.",
+          "difficulty": "Intermediate",
+          "skills_covered": [
+            "git, rest apis, java, kubernetes, node.js, aws",
+            "git, rest apis, java, node.js, sql, python",
+            "git, rest apis, java, sql, aws, node.js"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "Advanced",
+      "duration": "8-10 weeks",
+      "focus": "Mastery & Job Readiness",
+      "skills": [],
+      "courses": [
+        {
+          "course_name": "AI Talent Program - Cohort 6 (Part 3)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.49562719464302063,
+          "similarity": 0.6593786478042603,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AI Talent Program - Cohort 15 (Part 3)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.4942058324813843,
+          "similarity": 0.6570097208023071,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AI Talent Program - Cohort 11 (Part 1)",
+          "provider": "Huawei",
+          "level": "Intermediate",
+          "score": 0.4626387357711792,
+          "similarity": 0.6377311944961548,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "End-to-End NLP Chatbot",
+          "skills": [
+            "nlp",
+            "transformers",
+            "deployment"
+          ],
+          "type": "NLP",
+          "difficulty": "Advanced"
+        },
+        {
+          "title": "Develop a Cloud-Native Application with Git, Rest Apis, Java, Kubernetes, Node.Js, Aws & Git, Rest Apis, Java, Node.Js, Sql, Python & Git, Rest Apis, Java, Sql, Aws, Node.Js",
+          "description": "Deploy a scalable application integrating Git, Rest Apis, Java, Kubernetes, Node.Js, Aws & Git, Rest Apis, Java, Node.Js, Sql, Python & Git, Rest Apis, Java, Sql, Aws, Node.Js to solve a specific business problem.",
+          "difficulty": "Advanced",
+          "skills_covered": [
+            "git, rest apis, java, kubernetes, node.js, aws",
+            "git, rest apis, java, node.js, sql, python",
+            "git, rest apis, java, sql, aws, node.js"
+          ]
+        }
+      ],
+      "internships": [
+        {
+          "company": "Smartdata Labs Group",
+          "role": "Junior Machine Learning Engineer",
+          "match": 0.6117265224456787,
+          "location": "Suez",
+          "missing_skills": []
+        },
+        {
+          "company": "Smartdata Labs Solutions",
+          "role": "Junior Machine Learning Engineer",
+          "match": 0.6012061834335327,
+          "location": "Suez",
+          "missing_skills": []
+        },
+        {
+          "company": "Pyramid Solutions Group",
+          "role": "Junior Machine Learning Engineer",
+          "match": 0.6007636785507202,
+          "location": "Aswan",
+          "missing_skills": []
+        }
+      ]
+    }
+  ]
+}

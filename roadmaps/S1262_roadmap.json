@@ -1,0 +1,213 @@
+{
+  "student_id": "S1262",
+  "career_path": "Software",
+  "career_source": "Prediction",
+  "generated_at": "2025-11-29",
+  "certification_path": [
+    "Oracle Java Associate",
+    "Meta Front-End Developer",
+    "AWS Developer Associate"
+  ],
+  "stages": [
+    {
+      "stage": "Beginner",
+      "duration": "4-6 weeks",
+      "focus": "Fundamentals & Top Gaps",
+      "skills": [
+        "flask, computer vision, routing, aws, node.js",
+        "linux, numpy, node.js, computer vision, ci/cd, sql",
+        "rest apis, javascript, nlp, pandas, ansible, switching, spark, tensorflow, python",
+        "switching, numpy, react, routing, hadoop, azure, javascript, kubernetes, tensorflow",
+        "switching, numpy, react, routing, hadoop, azure, javascript, tensorflow, docker"
+      ],
+      "courses": [
+        {
+          "course_name": "AWS Academy Machine Learning Foundations - Cohort 12 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.3894183933734894,
+          "similarity": 0.4823639988899231,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Machine Learning Foundations - Cohort 9 (Part 3)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.3883054554462433,
+          "similarity": 0.48050907254219055,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Machine Learning Foundations - Cohort 9 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.38727304339408875,
+          "similarity": 0.4787884056568146,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "Personal Portfolio Website",
+          "skills": [
+            "html",
+            "css",
+            "javascript"
+          ],
+          "type": "Frontend",
+          "difficulty": "Beginner"
+        },
+        {
+          "title": "Flask, Computer Vision, Routing, Aws, Node.Js & Linux, Numpy, Node.Js, Computer Vision, Ci/Cd, Sql & Rest Apis, Javascript, Nlp, Pandas, Ansible, Switching, Spark, Tensorflow, Python Integration Lab",
+          "description": "Set up a practical lab environment to experiment with Flask, Computer Vision, Routing, Aws, Node.Js & Linux, Numpy, Node.Js, Computer Vision, Ci/Cd, Sql & Rest Apis, Javascript, Nlp, Pandas, Ansible, Switching, Spark, Tensorflow, Python configurations and troubleshooting.",
+          "difficulty": "Beginner",
+          "skills_covered": [
+            "flask, computer vision, routing, aws, node.js",
+            "linux, numpy, node.js, computer vision, ci/cd, sql",
+            "rest apis, javascript, nlp, pandas, ansible, switching, spark, tensorflow, python"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "Intermediate",
+      "duration": "6-8 weeks",
+      "focus": "Application & Certification",
+      "skills": [],
+      "courses": [
+        {
+          "course_name": "AWS Academy Machine Learning Foundations - Cohort 9 (Part 3)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.38633400201797485,
+          "similarity": 0.47722330689430237,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Machine Learning Foundations - Cohort 3 (Part 3)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.3856203854084015,
+          "similarity": 0.4760339856147766,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "HCIP-AI-Developer - Cohort 12 (Part 3)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.5192553400993347,
+          "similarity": 0.6987588405609131,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "REST API for Task Management",
+          "skills": [
+            "nodejs",
+            "express",
+            "mongodb"
+          ],
+          "type": "Backend",
+          "difficulty": "Intermediate"
+        },
+        {
+          "title": "Build a Senior Frontend Developer Pipeline using Flask, Computer Vision, Routing, Aws, Node.Js & Linux, Numpy, Node.Js, Computer Vision, Ci/Cd, Sql & Rest Apis, Javascript, Nlp, Pandas, Ansible, Switching, Spark, Tensorflow, Python",
+          "description": "Create a comprehensive project that demonstrates your mastery of Flask, Computer Vision, Routing, Aws, Node.Js & Linux, Numpy, Node.Js, Computer Vision, Ci/Cd, Sql & Rest Apis, Javascript, Nlp, Pandas, Ansible, Switching, Spark, Tensorflow, Python. Focus on real-world application.",
+          "difficulty": "Intermediate",
+          "skills_covered": [
+            "flask, computer vision, routing, aws, node.js",
+            "linux, numpy, node.js, computer vision, ci/cd, sql",
+            "rest apis, javascript, nlp, pandas, ansible, switching, spark, tensorflow, python"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "Advanced",
+      "duration": "8-10 weeks",
+      "focus": "Mastery & Job Readiness",
+      "skills": [],
+      "courses": [
+        {
+          "course_name": "HCIP-AI-Developer - Cohort 6 (Part 2)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.5127389430999756,
+          "similarity": 0.6878981590270996,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "HCIP-AI-Developer - Cohort 9 (Part 1)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.5118926167488098,
+          "similarity": 0.6864876747131348,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "Huawei Full-Stack Developer - Cohort 12 (Part 3)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.5106016993522644,
+          "similarity": 0.6843361258506775,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "Full Stack E-commerce Platform",
+          "skills": [
+            "react",
+            "redux",
+            "stripe integration"
+          ],
+          "type": "Full Stack",
+          "difficulty": "Advanced"
+        },
+        {
+          "title": "Develop a Cloud-Native Application with Flask, Computer Vision, Routing, Aws, Node.Js & Linux, Numpy, Node.Js, Computer Vision, Ci/Cd, Sql & Rest Apis, Javascript, Nlp, Pandas, Ansible, Switching, Spark, Tensorflow, Python",
+          "description": "Deploy a scalable application integrating Flask, Computer Vision, Routing, Aws, Node.Js & Linux, Numpy, Node.Js, Computer Vision, Ci/Cd, Sql & Rest Apis, Javascript, Nlp, Pandas, Ansible, Switching, Spark, Tensorflow, Python to solve a specific business problem.",
+          "difficulty": "Advanced",
+          "skills_covered": [
+            "flask, computer vision, routing, aws, node.js",
+            "linux, numpy, node.js, computer vision, ci/cd, sql",
+            "rest apis, javascript, nlp, pandas, ansible, switching, spark, tensorflow, python"
+          ]
+        }
+      ],
+      "internships": [
+        {
+          "company": "Pyramid Solutions Ltd",
+          "role": "Junior Backend Developer",
+          "match": 0.6035306453704834,
+          "location": "Alexandria",
+          "missing_skills": []
+        },
+        {
+          "company": "Pyramid Solutions Group",
+          "role": "Junior Frontend Developer",
+          "match": 0.5927470922470093,
+          "location": "Hurghada",
+          "missing_skills": []
+        },
+        {
+          "company": "Pyramid Solutions Group",
+          "role": "Junior Data Scientist",
+          "match": 0.5850017070770264,
+          "location": "Cairo",
+          "missing_skills": []
+        }
+      ]
+    }
+  ]
+}

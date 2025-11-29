@@ -1,0 +1,213 @@
+{
+  "student_id": "S0738",
+  "career_path": "Machine Learning",
+  "career_source": "Prediction",
+  "generated_at": "2025-11-29",
+  "certification_path": [
+    "TensorFlow Developer Certificate",
+    "AWS Machine Learning Specialty",
+    "DeepLearning.AI"
+  ],
+  "stages": [
+    {
+      "stage": "Beginner",
+      "duration": "4-6 weeks",
+      "focus": "Fundamentals & Top Gaps",
+      "skills": [
+        "microservices, javascript, flask, ansible, pytorch, routing",
+        "microservices, javascript, flask, ansible, pytorch, routing, kubernetes, python, aws",
+        "microservices, javascript, flask, ansible, pytorch, routing, node.js, docker",
+        "python, spark, tensorflow, aws",
+        "rest apis, react, javascript, pytorch, terraform, routing, node.js, sql, python"
+      ],
+      "courses": [
+        {
+          "course_name": "AWS Academy Machine Learning for Developers - Cohort 15 (Part 2)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5294802188873291,
+          "similarity": 0.7158002853393555,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Machine Learning for Developers - Cohort 3 (Part 3)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5254887342453003,
+          "similarity": 0.7091478705406189,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Machine Learning Foundations - Cohort 12 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5251691937446594,
+          "similarity": 0.7086153030395508,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "House Price Prediction",
+          "skills": [
+            "python",
+            "regression",
+            "scikit-learn"
+          ],
+          "type": "Regression",
+          "difficulty": "Beginner"
+        },
+        {
+          "title": "Microservices, Javascript, Flask, Ansible, Pytorch, Routing & Microservices, Javascript, Flask, Ansible, Pytorch, Routing, Kubernetes, Python, Aws & Microservices, Javascript, Flask, Ansible, Pytorch, Routing, Node.Js, Docker Integration Lab",
+          "description": "Set up a practical lab environment to experiment with Microservices, Javascript, Flask, Ansible, Pytorch, Routing & Microservices, Javascript, Flask, Ansible, Pytorch, Routing, Kubernetes, Python, Aws & Microservices, Javascript, Flask, Ansible, Pytorch, Routing, Node.Js, Docker configurations and troubleshooting.",
+          "difficulty": "Beginner",
+          "skills_covered": [
+            "microservices, javascript, flask, ansible, pytorch, routing",
+            "microservices, javascript, flask, ansible, pytorch, routing, kubernetes, python, aws",
+            "microservices, javascript, flask, ansible, pytorch, routing, node.js, docker"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "Intermediate",
+      "duration": "6-8 weeks",
+      "focus": "Application & Certification",
+      "skills": [],
+      "courses": [
+        {
+          "course_name": "AWS Academy Machine Learning for Developers - Cohort 15 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5243516564369202,
+          "similarity": 0.7072526812553406,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Machine Learning for Developers - Cohort 3 (Part 2)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5208487510681152,
+          "similarity": 0.7014145255088806,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "HCIP-AI-Developer - Cohort 12 (Part 2)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.5270309448242188,
+          "similarity": 0.7117182016372681,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "Image Classification with CNNs",
+          "skills": [
+            "tensorflow",
+            "deep learning",
+            "cnn"
+          ],
+          "type": "Computer Vision",
+          "difficulty": "Intermediate"
+        },
+        {
+          "title": "Build a Mid-Level Machine Learning Engineer Pipeline using Microservices, Javascript, Flask, Ansible, Pytorch, Routing & Microservices, Javascript, Flask, Ansible, Pytorch, Routing, Kubernetes, Python, Aws & Microservices, Javascript, Flask, Ansible, Pytorch, Routing, Node.Js, Docker",
+          "description": "Create a comprehensive project that demonstrates your mastery of Microservices, Javascript, Flask, Ansible, Pytorch, Routing & Microservices, Javascript, Flask, Ansible, Pytorch, Routing, Kubernetes, Python, Aws & Microservices, Javascript, Flask, Ansible, Pytorch, Routing, Node.Js, Docker. Focus on real-world application.",
+          "difficulty": "Intermediate",
+          "skills_covered": [
+            "microservices, javascript, flask, ansible, pytorch, routing",
+            "microservices, javascript, flask, ansible, pytorch, routing, kubernetes, python, aws",
+            "microservices, javascript, flask, ansible, pytorch, routing, node.js, docker"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "Advanced",
+      "duration": "8-10 weeks",
+      "focus": "Mastery & Job Readiness",
+      "skills": [],
+      "courses": [
+        {
+          "course_name": "HCIP-AI-Developer - Cohort 6 (Part 3)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.5248953104019165,
+          "similarity": 0.7081588506698608,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "HCIP-AI-Developer - Cohort 12 (Part 3)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.5226256847381592,
+          "similarity": 0.7043761014938354,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "HCIP-AI-Developer - Cohort 6 (Part 2)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.5213176012039185,
+          "similarity": 0.702195942401886,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "End-to-End NLP Chatbot",
+          "skills": [
+            "nlp",
+            "transformers",
+            "deployment"
+          ],
+          "type": "NLP",
+          "difficulty": "Advanced"
+        },
+        {
+          "title": "Develop a Cloud-Native Application with Microservices, Javascript, Flask, Ansible, Pytorch, Routing & Microservices, Javascript, Flask, Ansible, Pytorch, Routing, Kubernetes, Python, Aws & Microservices, Javascript, Flask, Ansible, Pytorch, Routing, Node.Js, Docker",
+          "description": "Deploy a scalable application integrating Microservices, Javascript, Flask, Ansible, Pytorch, Routing & Microservices, Javascript, Flask, Ansible, Pytorch, Routing, Kubernetes, Python, Aws & Microservices, Javascript, Flask, Ansible, Pytorch, Routing, Node.Js, Docker to solve a specific business problem.",
+          "difficulty": "Advanced",
+          "skills_covered": [
+            "microservices, javascript, flask, ansible, pytorch, routing",
+            "microservices, javascript, flask, ansible, pytorch, routing, kubernetes, python, aws",
+            "microservices, javascript, flask, ansible, pytorch, routing, node.js, docker"
+          ]
+        }
+      ],
+      "internships": [
+        {
+          "company": "Cloudworks Egypt Solutions",
+          "role": "Junior Machine Learning Engineer",
+          "match": 0.6076251268386841,
+          "location": "Alexandria",
+          "missing_skills": []
+        },
+        {
+          "company": "Smartdata Labs Group",
+          "role": "Junior Machine Learning Engineer",
+          "match": 0.6003099083900452,
+          "location": "Suez",
+          "missing_skills": []
+        },
+        {
+          "company": "Pharos Ai Inc",
+          "role": "Junior Product Manager",
+          "match": 0.6001505851745605,
+          "location": "Hurghada",
+          "missing_skills": []
+        }
+      ]
+    }
+  ]
+}

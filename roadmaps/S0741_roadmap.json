@@ -1,0 +1,213 @@
+{
+  "student_id": "S0741",
+  "career_path": "Software",
+  "career_source": "Prediction",
+  "generated_at": "2025-11-29",
+  "certification_path": [
+    "Oracle Java Associate",
+    "Meta Front-End Developer",
+    "AWS Developer Associate"
+  ],
+  "stages": [
+    {
+      "stage": "Beginner",
+      "duration": "4-6 weeks",
+      "focus": "Fundamentals & Top Gaps",
+      "skills": [
+        "django, react, 5g, sql, pandas",
+        "django, react, 5g, sql, pandas, python",
+        "django, react, 5g, sql, pandas, python, aws",
+        "microservices, javascript, flask, ansible, pytorch, routing, kubernetes, python, aws",
+        "node.js, django, python, kubernetes, git, react, aws"
+      ],
+      "courses": [
+        {
+          "course_name": "AWS Developer Path - Cohort 3 (Part 3)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5206313729286194,
+          "similarity": 0.7010522484779358,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Developer Path - Cohort 12 (Part 3)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5169088840484619,
+          "similarity": 0.6948481202125549,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Developer Path - Cohort 15 (Part 3)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5157420039176941,
+          "similarity": 0.6929033398628235,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "Personal Portfolio Website",
+          "skills": [
+            "html",
+            "css",
+            "javascript"
+          ],
+          "type": "Frontend",
+          "difficulty": "Beginner"
+        },
+        {
+          "title": "Django, React, 5G, Sql, Pandas & Django, React, 5G, Sql, Pandas, Python & Django, React, 5G, Sql, Pandas, Python, Aws Integration Lab",
+          "description": "Set up a practical lab environment to experiment with Django, React, 5G, Sql, Pandas & Django, React, 5G, Sql, Pandas, Python & Django, React, 5G, Sql, Pandas, Python, Aws configurations and troubleshooting.",
+          "difficulty": "Beginner",
+          "skills_covered": [
+            "django, react, 5g, sql, pandas",
+            "django, react, 5g, sql, pandas, python",
+            "django, react, 5g, sql, pandas, python, aws"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "Intermediate",
+      "duration": "6-8 weeks",
+      "focus": "Application & Certification",
+      "skills": [],
+      "courses": [
+        {
+          "course_name": "AWS Developer Path - Cohort 8 (Part 1)",
+          "provider": "AWS",
+          "level": "Intermediate",
+          "score": 0.4974059462547302,
+          "similarity": 0.6956765055656433,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Developer Path - Cohort 14 (Part 2)",
+          "provider": "AWS",
+          "level": "Intermediate",
+          "score": 0.4943261742591858,
+          "similarity": 0.6905435919761658,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "Huawei Full-Stack Developer - Cohort 3 (Part 2)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.5304967761039734,
+          "similarity": 0.717494547367096,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "REST API for Task Management",
+          "skills": [
+            "nodejs",
+            "express",
+            "mongodb"
+          ],
+          "type": "Backend",
+          "difficulty": "Intermediate"
+        },
+        {
+          "title": "Build a Lead Frontend Developer Pipeline using Django, React, 5G, Sql, Pandas & Django, React, 5G, Sql, Pandas, Python & Django, React, 5G, Sql, Pandas, Python, Aws",
+          "description": "Create a comprehensive project that demonstrates your mastery of Django, React, 5G, Sql, Pandas & Django, React, 5G, Sql, Pandas, Python & Django, React, 5G, Sql, Pandas, Python, Aws. Focus on real-world application.",
+          "difficulty": "Intermediate",
+          "skills_covered": [
+            "django, react, 5g, sql, pandas",
+            "django, react, 5g, sql, pandas, python",
+            "django, react, 5g, sql, pandas, python, aws"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "Advanced",
+      "duration": "8-10 weeks",
+      "focus": "Mastery & Job Readiness",
+      "skills": [],
+      "courses": [
+        {
+          "course_name": "Huawei Full-Stack Developer - Cohort 6 (Part 1)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.5287513732910156,
+          "similarity": 0.714585542678833,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "Huawei Full-Stack Developer - Cohort 12 (Part 3)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.5271762013435364,
+          "similarity": 0.7119603157043457,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "Huawei Full-Stack Developer - Cohort 12 (Part 2)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.5271193981170654,
+          "similarity": 0.7118656635284424,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "Full Stack E-commerce Platform",
+          "skills": [
+            "react",
+            "redux",
+            "stripe integration"
+          ],
+          "type": "Full Stack",
+          "difficulty": "Advanced"
+        },
+        {
+          "title": "Develop a Cloud-Native Application with Django, React, 5G, Sql, Pandas & Django, React, 5G, Sql, Pandas, Python & Django, React, 5G, Sql, Pandas, Python, Aws",
+          "description": "Deploy a scalable application integrating Django, React, 5G, Sql, Pandas & Django, React, 5G, Sql, Pandas, Python & Django, React, 5G, Sql, Pandas, Python, Aws to solve a specific business problem.",
+          "difficulty": "Advanced",
+          "skills_covered": [
+            "django, react, 5g, sql, pandas",
+            "django, react, 5g, sql, pandas, python",
+            "django, react, 5g, sql, pandas, python, aws"
+          ]
+        }
+      ],
+      "internships": [
+        {
+          "company": "Cloudworks Egypt Solutions",
+          "role": "Junior Machine Learning Engineer",
+          "match": 0.6152279376983643,
+          "location": "Alexandria",
+          "missing_skills": []
+        },
+        {
+          "company": "Pyramid Solutions Egypt",
+          "role": "Junior Backend Developer",
+          "match": 0.6027534604072571,
+          "location": "Alexandria",
+          "missing_skills": []
+        },
+        {
+          "company": "Techsol Egypt Group",
+          "role": "Junior Data Scientist",
+          "match": 0.5978396534919739,
+          "location": "Aswan",
+          "missing_skills": []
+        }
+      ]
+    }
+  ]
+}

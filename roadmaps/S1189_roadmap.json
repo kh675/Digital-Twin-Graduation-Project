@@ -1,0 +1,213 @@
+{
+  "student_id": "S1189",
+  "career_path": "Software",
+  "career_source": "Prediction",
+  "generated_at": "2025-11-29",
+  "certification_path": [
+    "Oracle Java Associate",
+    "Meta Front-End Developer",
+    "AWS Developer Associate"
+  ],
+  "stages": [
+    {
+      "stage": "Beginner",
+      "duration": "4-6 weeks",
+      "focus": "Fundamentals & Top Gaps",
+      "skills": [
+        "microservices, javascript, flask, ansible, pytorch, routing",
+        "rest apis, javascript, nlp, pandas, ansible, switching, spark, aws, docker, sql",
+        "sql, rest apis, node.js, tensorflow, hadoop, ansible, numpy, docker",
+        "tcp/ip, ci/cd, terraform, ansible, rest apis, python, sql",
+        "tcp/ip, rest apis, docker, flask, sql"
+      ],
+      "courses": [
+        {
+          "course_name": "AWS Developer Path - Cohort 3 (Part 3)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.44873756170272827,
+          "similarity": 0.5812292695045471,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Developer Path - Cohort 12 (Part 3)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.44515228271484375,
+          "similarity": 0.5752537846565247,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Developer Path - Cohort 15 (Part 3)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.44365575909614563,
+          "similarity": 0.5727595686912537,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "Personal Portfolio Website",
+          "skills": [
+            "html",
+            "css",
+            "javascript"
+          ],
+          "type": "Frontend",
+          "difficulty": "Beginner"
+        },
+        {
+          "title": "Microservices, Javascript, Flask, Ansible, Pytorch, Routing & Rest Apis, Javascript, Nlp, Pandas, Ansible, Switching, Spark, Aws, Docker, Sql & Sql, Rest Apis, Node.Js, Tensorflow, Hadoop, Ansible, Numpy, Docker Integration Lab",
+          "description": "Set up a practical lab environment to experiment with Microservices, Javascript, Flask, Ansible, Pytorch, Routing & Rest Apis, Javascript, Nlp, Pandas, Ansible, Switching, Spark, Aws, Docker, Sql & Sql, Rest Apis, Node.Js, Tensorflow, Hadoop, Ansible, Numpy, Docker configurations and troubleshooting.",
+          "difficulty": "Beginner",
+          "skills_covered": [
+            "microservices, javascript, flask, ansible, pytorch, routing",
+            "rest apis, javascript, nlp, pandas, ansible, switching, spark, aws, docker, sql",
+            "sql, rest apis, node.js, tensorflow, hadoop, ansible, numpy, docker"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "Intermediate",
+      "duration": "6-8 weeks",
+      "focus": "Application & Certification",
+      "skills": [],
+      "courses": [
+        {
+          "course_name": "AWS Developer Path - Cohort 8 (Part 1)",
+          "provider": "AWS",
+          "level": "Intermediate",
+          "score": 0.42899155616760254,
+          "similarity": 0.5816525816917419,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Cloud Foundations - Cohort 9 (Part 2)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.42362675070762634,
+          "similarity": 0.5393779277801514,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "Huawei Full-Stack Developer - Cohort 12 (Part 1)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.5477230548858643,
+          "similarity": 0.7462050914764404,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "REST API for Task Management",
+          "skills": [
+            "nodejs",
+            "express",
+            "mongodb"
+          ],
+          "type": "Backend",
+          "difficulty": "Intermediate"
+        },
+        {
+          "title": "Build a Senior Backend Developer Pipeline using Microservices, Javascript, Flask, Ansible, Pytorch, Routing & Rest Apis, Javascript, Nlp, Pandas, Ansible, Switching, Spark, Aws, Docker, Sql & Sql, Rest Apis, Node.Js, Tensorflow, Hadoop, Ansible, Numpy, Docker",
+          "description": "Create a comprehensive project that demonstrates your mastery of Microservices, Javascript, Flask, Ansible, Pytorch, Routing & Rest Apis, Javascript, Nlp, Pandas, Ansible, Switching, Spark, Aws, Docker, Sql & Sql, Rest Apis, Node.Js, Tensorflow, Hadoop, Ansible, Numpy, Docker. Focus on real-world application.",
+          "difficulty": "Intermediate",
+          "skills_covered": [
+            "microservices, javascript, flask, ansible, pytorch, routing",
+            "rest apis, javascript, nlp, pandas, ansible, switching, spark, aws, docker, sql",
+            "sql, rest apis, node.js, tensorflow, hadoop, ansible, numpy, docker"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "Advanced",
+      "duration": "8-10 weeks",
+      "focus": "Mastery & Job Readiness",
+      "skills": [],
+      "courses": [
+        {
+          "course_name": "Huawei Full-Stack Developer - Cohort 6 (Part 1)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.5474939346313477,
+          "similarity": 0.7458231449127197,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "Huawei Full-Stack Developer - Cohort 12 (Part 3)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.5450036525726318,
+          "similarity": 0.741672694683075,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "Huawei Full-Stack Developer - Cohort 3 (Part 2)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.5443924069404602,
+          "similarity": 0.740653932094574,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "Full Stack E-commerce Platform",
+          "skills": [
+            "react",
+            "redux",
+            "stripe integration"
+          ],
+          "type": "Full Stack",
+          "difficulty": "Advanced"
+        },
+        {
+          "title": "Develop a Cloud-Native Application with Microservices, Javascript, Flask, Ansible, Pytorch, Routing & Rest Apis, Javascript, Nlp, Pandas, Ansible, Switching, Spark, Aws, Docker, Sql & Sql, Rest Apis, Node.Js, Tensorflow, Hadoop, Ansible, Numpy, Docker",
+          "description": "Deploy a scalable application integrating Microservices, Javascript, Flask, Ansible, Pytorch, Routing & Rest Apis, Javascript, Nlp, Pandas, Ansible, Switching, Spark, Aws, Docker, Sql & Sql, Rest Apis, Node.Js, Tensorflow, Hadoop, Ansible, Numpy, Docker to solve a specific business problem.",
+          "difficulty": "Advanced",
+          "skills_covered": [
+            "microservices, javascript, flask, ansible, pytorch, routing",
+            "rest apis, javascript, nlp, pandas, ansible, switching, spark, aws, docker, sql",
+            "sql, rest apis, node.js, tensorflow, hadoop, ansible, numpy, docker"
+          ]
+        }
+      ],
+      "internships": [
+        {
+          "company": "Pyramid Solutions Egypt",
+          "role": "Junior Backend Developer",
+          "match": 0.6225500702857971,
+          "location": "Alexandria",
+          "missing_skills": []
+        },
+        {
+          "company": "Pyramid Solutions Ltd",
+          "role": "Junior Backend Developer",
+          "match": 0.6168237328529358,
+          "location": "Alexandria",
+          "missing_skills": []
+        },
+        {
+          "company": "Cairocloud Ltd",
+          "role": "Junior Backend Developer",
+          "match": 0.6141647696495056,
+          "location": "Aswan",
+          "missing_skills": []
+        }
+      ]
+    }
+  ]
+}

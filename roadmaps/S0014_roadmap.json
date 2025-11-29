@@ -1,0 +1,213 @@
+{
+  "student_id": "S0014",
+  "career_path": "Machine Learning",
+  "career_source": "Prediction",
+  "generated_at": "2025-11-29",
+  "certification_path": [
+    "TensorFlow Developer Certificate",
+    "AWS Machine Learning Specialty",
+    "DeepLearning.AI"
+  ],
+  "stages": [
+    {
+      "stage": "Beginner",
+      "duration": "4-6 weeks",
+      "focus": "Fundamentals & Top Gaps",
+      "skills": [
+        "azure, javascript, git, linux, computer vision, kubernetes, tensorflow",
+        "azure, javascript, git, linux, computer vision, sql",
+        "git, rest apis, java, kubernetes, node.js, aws",
+        "git, rest apis, java, node.js, sql, python",
+        "git, rest apis, java, sql, aws, node.js"
+      ],
+      "courses": [
+        {
+          "course_name": "AWS Academy Machine Learning Foundations - Cohort 12 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.574325680732727,
+          "similarity": 0.7905427813529968,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Machine Learning for Developers - Cohort 15 (Part 2)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5726431608200073,
+          "similarity": 0.787738561630249,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Machine Learning Foundations - Cohort 3 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5700947642326355,
+          "similarity": 0.7834912538528442,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "House Price Prediction",
+          "skills": [
+            "python",
+            "regression",
+            "scikit-learn"
+          ],
+          "type": "Regression",
+          "difficulty": "Beginner"
+        },
+        {
+          "title": "Azure, Javascript, Git, Linux, Computer Vision, Kubernetes, Tensorflow & Azure, Javascript, Git, Linux, Computer Vision, Sql & Git, Rest Apis, Java, Kubernetes, Node.Js, Aws Integration Lab",
+          "description": "Set up a practical lab environment to experiment with Azure, Javascript, Git, Linux, Computer Vision, Kubernetes, Tensorflow & Azure, Javascript, Git, Linux, Computer Vision, Sql & Git, Rest Apis, Java, Kubernetes, Node.Js, Aws configurations and troubleshooting.",
+          "difficulty": "Beginner",
+          "skills_covered": [
+            "azure, javascript, git, linux, computer vision, kubernetes, tensorflow",
+            "azure, javascript, git, linux, computer vision, sql",
+            "git, rest apis, java, kubernetes, node.js, aws"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "Intermediate",
+      "duration": "6-8 weeks",
+      "focus": "Application & Certification",
+      "skills": [],
+      "courses": [
+        {
+          "course_name": "AWS Academy Machine Learning for Developers - Cohort 3 (Part 3)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5696315765380859,
+          "similarity": 0.7827192544937134,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Machine Learning for Developers - Cohort 3 (Part 2)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5677312016487122,
+          "similarity": 0.7795519828796387,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AI Talent Program - Cohort 3 (Part 2)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.5287646651268005,
+          "similarity": 0.7146077752113342,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "Image Classification with CNNs",
+          "skills": [
+            "tensorflow",
+            "deep learning",
+            "cnn"
+          ],
+          "type": "Computer Vision",
+          "difficulty": "Intermediate"
+        },
+        {
+          "title": "Build a Lead Machine Learning Engineer Pipeline using Azure, Javascript, Git, Linux, Computer Vision, Kubernetes, Tensorflow & Azure, Javascript, Git, Linux, Computer Vision, Sql & Git, Rest Apis, Java, Kubernetes, Node.Js, Aws",
+          "description": "Create a comprehensive project that demonstrates your mastery of Azure, Javascript, Git, Linux, Computer Vision, Kubernetes, Tensorflow & Azure, Javascript, Git, Linux, Computer Vision, Sql & Git, Rest Apis, Java, Kubernetes, Node.Js, Aws. Focus on real-world application.",
+          "difficulty": "Intermediate",
+          "skills_covered": [
+            "azure, javascript, git, linux, computer vision, kubernetes, tensorflow",
+            "azure, javascript, git, linux, computer vision, sql",
+            "git, rest apis, java, kubernetes, node.js, aws"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "Advanced",
+      "duration": "8-10 weeks",
+      "focus": "Mastery & Job Readiness",
+      "skills": [],
+      "courses": [
+        {
+          "course_name": "AI Talent Program - Cohort 6 (Part 3)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.5186589956283569,
+          "similarity": 0.6977649927139282,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AI Talent Program - Cohort 15 (Part 3)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.5174814462661743,
+          "similarity": 0.6958023309707642,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AI Talent Program - Cohort 11 (Part 1)",
+          "provider": "Huawei",
+          "level": "Intermediate",
+          "score": 0.49049293994903564,
+          "similarity": 0.6841548681259155,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "End-to-End NLP Chatbot",
+          "skills": [
+            "nlp",
+            "transformers",
+            "deployment"
+          ],
+          "type": "NLP",
+          "difficulty": "Advanced"
+        },
+        {
+          "title": "Develop a Cloud-Native Application with Azure, Javascript, Git, Linux, Computer Vision, Kubernetes, Tensorflow & Azure, Javascript, Git, Linux, Computer Vision, Sql & Git, Rest Apis, Java, Kubernetes, Node.Js, Aws",
+          "description": "Deploy a scalable application integrating Azure, Javascript, Git, Linux, Computer Vision, Kubernetes, Tensorflow & Azure, Javascript, Git, Linux, Computer Vision, Sql & Git, Rest Apis, Java, Kubernetes, Node.Js, Aws to solve a specific business problem.",
+          "difficulty": "Advanced",
+          "skills_covered": [
+            "azure, javascript, git, linux, computer vision, kubernetes, tensorflow",
+            "azure, javascript, git, linux, computer vision, sql",
+            "git, rest apis, java, kubernetes, node.js, aws"
+          ]
+        }
+      ],
+      "internships": [
+        {
+          "company": "Pyramid Solutions Egypt",
+          "role": "Junior Machine Learning Engineer",
+          "match": 0.6386219263076782,
+          "location": "Aswan",
+          "missing_skills": []
+        },
+        {
+          "company": "Pyramid Solutions Group",
+          "role": "Junior Machine Learning Engineer",
+          "match": 0.6367893218994141,
+          "location": "Aswan",
+          "missing_skills": []
+        },
+        {
+          "company": "Deltabyte Group",
+          "role": "Junior Machine Learning Engineer",
+          "match": 0.6275161504745483,
+          "location": "Aswan",
+          "missing_skills": []
+        }
+      ]
+    }
+  ]
+}

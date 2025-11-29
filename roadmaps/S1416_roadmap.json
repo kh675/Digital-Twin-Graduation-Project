@@ -1,0 +1,213 @@
+{
+  "student_id": "S1416",
+  "career_path": "Cloud",
+  "career_source": "Prediction",
+  "generated_at": "2025-11-29",
+  "certification_path": [
+    "AWS Cloud Practitioner",
+    "AWS Solutions Architect Associate",
+    "Huawei HCIA Cloud"
+  ],
+  "stages": [
+    {
+      "stage": "Beginner",
+      "duration": "4-6 weeks",
+      "focus": "Fundamentals & Top Gaps",
+      "skills": [
+        "flask, computer vision, routing, sql, aws",
+        "linux, 5g, routing, python, gcp, computer vision, aws, docker",
+        "switching, azure, routing, pytorch, ansible, aws, spark, kubernetes, python",
+        "switching, azure, routing, pytorch, ansible, aws, spark, python, docker, sql",
+        "switching, docker, azure, pandas, aws, spark, python"
+      ],
+      "courses": [
+        {
+          "course_name": "AWS Academy Cloud Foundations - Cohort 9 (Part 2)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5091279745101929,
+          "similarity": 0.6818798780441284,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Cloud Foundations - Cohort 9 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.49990469217300415,
+          "similarity": 0.6665077805519104,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Machine Learning Foundations - Cohort 3 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.4998933672904968,
+          "similarity": 0.6664889454841614,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "Static Website Hosting on AWS S3",
+          "skills": [
+            "aws",
+            "s3",
+            "dns"
+          ],
+          "type": "Infrastructure",
+          "difficulty": "Beginner"
+        },
+        {
+          "title": "Flask, Computer Vision, Routing, Sql, Aws & Linux, 5G, Routing, Python, Gcp, Computer Vision, Aws, Docker & Switching, Azure, Routing, Pytorch, Ansible, Aws, Spark, Kubernetes, Python Integration Lab",
+          "description": "Set up a practical lab environment to experiment with Flask, Computer Vision, Routing, Sql, Aws & Linux, 5G, Routing, Python, Gcp, Computer Vision, Aws, Docker & Switching, Azure, Routing, Pytorch, Ansible, Aws, Spark, Kubernetes, Python configurations and troubleshooting.",
+          "difficulty": "Beginner",
+          "skills_covered": [
+            "flask, computer vision, routing, sql, aws",
+            "linux, 5g, routing, python, gcp, computer vision, aws, docker",
+            "switching, azure, routing, pytorch, ansible, aws, spark, kubernetes, python"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "Intermediate",
+      "duration": "6-8 weeks",
+      "focus": "Application & Certification",
+      "skills": [],
+      "courses": [
+        {
+          "course_name": "AWS Academy Machine Learning Foundations - Cohort 12 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.4995439052581787,
+          "similarity": 0.6659064888954163,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Cloud Foundations - Cohort 9 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.4975552558898926,
+          "similarity": 0.6625920534133911,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "HCIA-Cloud Computing - Cohort 3 (Part 2)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.49190056324005127,
+          "similarity": 0.6531676054000854,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "Serverless API with Lambda & DynamoDB",
+          "skills": [
+            "aws lambda",
+            "api gateway",
+            "nosql"
+          ],
+          "type": "Backend",
+          "difficulty": "Intermediate"
+        },
+        {
+          "title": "Build a Lead Cloud Engineer Pipeline using Flask, Computer Vision, Routing, Sql, Aws & Linux, 5G, Routing, Python, Gcp, Computer Vision, Aws, Docker & Switching, Azure, Routing, Pytorch, Ansible, Aws, Spark, Kubernetes, Python",
+          "description": "Create a comprehensive project that demonstrates your mastery of Flask, Computer Vision, Routing, Sql, Aws & Linux, 5G, Routing, Python, Gcp, Computer Vision, Aws, Docker & Switching, Azure, Routing, Pytorch, Ansible, Aws, Spark, Kubernetes, Python. Focus on real-world application.",
+          "difficulty": "Intermediate",
+          "skills_covered": [
+            "flask, computer vision, routing, sql, aws",
+            "linux, 5g, routing, python, gcp, computer vision, aws, docker",
+            "switching, azure, routing, pytorch, ansible, aws, spark, kubernetes, python"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "Advanced",
+      "duration": "8-10 weeks",
+      "focus": "Mastery & Job Readiness",
+      "skills": [],
+      "courses": [
+        {
+          "course_name": "HCIA-Cloud Computing - Cohort 8 (Part 1)",
+          "provider": "Huawei",
+          "level": "Intermediate",
+          "score": 0.4915004372596741,
+          "similarity": 0.6858340501785278,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "HCIA-Cloud Computing - Cohort 6 (Part 2)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.49075597524642944,
+          "similarity": 0.6512599587440491,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "HCIA-Cloud Computing - Cohort 12 (Part 1)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.4880799353122711,
+          "similarity": 0.6467998623847961,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "Multi-Tier Microservices Architecture",
+          "skills": [
+            "kubernetes",
+            "docker",
+            "terraform"
+          ],
+          "type": "DevOps",
+          "difficulty": "Advanced"
+        },
+        {
+          "title": "Develop a Cloud-Native Application with Flask, Computer Vision, Routing, Sql, Aws & Linux, 5G, Routing, Python, Gcp, Computer Vision, Aws, Docker & Switching, Azure, Routing, Pytorch, Ansible, Aws, Spark, Kubernetes, Python",
+          "description": "Deploy a scalable application integrating Flask, Computer Vision, Routing, Sql, Aws & Linux, 5G, Routing, Python, Gcp, Computer Vision, Aws, Docker & Switching, Azure, Routing, Pytorch, Ansible, Aws, Spark, Kubernetes, Python to solve a specific business problem.",
+          "difficulty": "Advanced",
+          "skills_covered": [
+            "flask, computer vision, routing, sql, aws",
+            "linux, 5g, routing, python, gcp, computer vision, aws, docker",
+            "switching, azure, routing, pytorch, ansible, aws, spark, kubernetes, python"
+          ]
+        }
+      ],
+      "internships": [
+        {
+          "company": "Smartdata Labs Group",
+          "role": "Junior Machine Learning Engineer",
+          "match": 0.5546672344207764,
+          "location": "Suez",
+          "missing_skills": []
+        },
+        {
+          "company": "Smartdata Labs Solutions",
+          "role": "Junior Machine Learning Engineer",
+          "match": 0.5472238659858704,
+          "location": "Suez",
+          "missing_skills": []
+        },
+        {
+          "company": "Cloudworks Egypt Inc",
+          "role": "Junior Full Stack Developer",
+          "match": 0.5435337424278259,
+          "location": "Suez",
+          "missing_skills": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,213 @@
+{
+  "student_id": "S0036",
+  "career_path": "Software",
+  "career_source": "Prediction",
+  "generated_at": "2025-11-29",
+  "certification_path": [
+    "Oracle Java Associate",
+    "Meta Front-End Developer",
+    "AWS Developer Associate"
+  ],
+  "stages": [
+    {
+      "stage": "Beginner",
+      "duration": "4-6 weeks",
+      "focus": "Fundamentals & Top Gaps",
+      "skills": [
+        "gcp, ci/cd, tcp/ip, hadoop, rest apis, pytorch, node.js, kubernetes, docker",
+        "linux, 5g, routing, python, gcp, computer vision, aws, docker",
+        "switching, azure, routing, pytorch, ansible, aws, spark, kubernetes, python",
+        "switching, azure, routing, pytorch, ansible, aws, spark, python, docker, sql",
+        "tcp/ip, rest apis, docker, flask, node.js, aws, kubernetes"
+      ],
+      "courses": [
+        {
+          "course_name": "AWS Academy Cloud Foundations - Cohort 3 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.4841277599334717,
+          "similarity": 0.640212893486023,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Cloud Foundations - Cohort 9 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.4782276451587677,
+          "similarity": 0.6303793787956238,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Cloud Foundations - Cohort 9 (Part 2)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.47658592462539673,
+          "similarity": 0.6276431679725647,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "Personal Portfolio Website",
+          "skills": [
+            "html",
+            "css",
+            "javascript"
+          ],
+          "type": "Frontend",
+          "difficulty": "Beginner"
+        },
+        {
+          "title": "Gcp, Ci/Cd, Tcp/Ip, Hadoop, Rest Apis, Pytorch, Node.Js, Kubernetes, Docker & Linux, 5G, Routing, Python, Gcp, Computer Vision, Aws, Docker & Switching, Azure, Routing, Pytorch, Ansible, Aws, Spark, Kubernetes, Python Integration Lab",
+          "description": "Set up a practical lab environment to experiment with Gcp, Ci/Cd, Tcp/Ip, Hadoop, Rest Apis, Pytorch, Node.Js, Kubernetes, Docker & Linux, 5G, Routing, Python, Gcp, Computer Vision, Aws, Docker & Switching, Azure, Routing, Pytorch, Ansible, Aws, Spark, Kubernetes, Python configurations and troubleshooting.",
+          "difficulty": "Beginner",
+          "skills_covered": [
+            "gcp, ci/cd, tcp/ip, hadoop, rest apis, pytorch, node.js, kubernetes, docker",
+            "linux, 5g, routing, python, gcp, computer vision, aws, docker",
+            "switching, azure, routing, pytorch, ansible, aws, spark, kubernetes, python"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "Intermediate",
+      "duration": "6-8 weeks",
+      "focus": "Application & Certification",
+      "skills": [],
+      "courses": [
+        {
+          "course_name": "AWS Academy Cloud Foundations - Cohort 15 (Part 3)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.4757990539073944,
+          "similarity": 0.6263317465782166,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Cloud Foundations - Cohort 3 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.47437620162963867,
+          "similarity": 0.6239603161811829,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "HCIA-Cloud Computing - Cohort 3 (Part 2)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.4946417510509491,
+          "similarity": 0.6577362418174744,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "REST API for Task Management",
+          "skills": [
+            "nodejs",
+            "express",
+            "mongodb"
+          ],
+          "type": "Backend",
+          "difficulty": "Intermediate"
+        },
+        {
+          "title": "Build a Mid-Level Backend Developer Pipeline using Gcp, Ci/Cd, Tcp/Ip, Hadoop, Rest Apis, Pytorch, Node.Js, Kubernetes, Docker & Linux, 5G, Routing, Python, Gcp, Computer Vision, Aws, Docker & Switching, Azure, Routing, Pytorch, Ansible, Aws, Spark, Kubernetes, Python",
+          "description": "Create a comprehensive project that demonstrates your mastery of Gcp, Ci/Cd, Tcp/Ip, Hadoop, Rest Apis, Pytorch, Node.Js, Kubernetes, Docker & Linux, 5G, Routing, Python, Gcp, Computer Vision, Aws, Docker & Switching, Azure, Routing, Pytorch, Ansible, Aws, Spark, Kubernetes, Python. Focus on real-world application.",
+          "difficulty": "Intermediate",
+          "skills_covered": [
+            "gcp, ci/cd, tcp/ip, hadoop, rest apis, pytorch, node.js, kubernetes, docker",
+            "linux, 5g, routing, python, gcp, computer vision, aws, docker",
+            "switching, azure, routing, pytorch, ansible, aws, spark, kubernetes, python"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "Advanced",
+      "duration": "8-10 weeks",
+      "focus": "Mastery & Job Readiness",
+      "skills": [],
+      "courses": [
+        {
+          "course_name": "HCIA-Cloud Computing - Cohort 15 (Part 1)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.49400246143341064,
+          "similarity": 0.6566707491874695,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "HCIA-Cloud Computing - Cohort 12 (Part 3)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.4935462474822998,
+          "similarity": 0.6559103727340698,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "HCIA-Cloud Computing - Cohort 15 (Part 2)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.49345800280570984,
+          "similarity": 0.6557633280754089,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "Full Stack E-commerce Platform",
+          "skills": [
+            "react",
+            "redux",
+            "stripe integration"
+          ],
+          "type": "Full Stack",
+          "difficulty": "Advanced"
+        },
+        {
+          "title": "Develop a Cloud-Native Application with Gcp, Ci/Cd, Tcp/Ip, Hadoop, Rest Apis, Pytorch, Node.Js, Kubernetes, Docker & Linux, 5G, Routing, Python, Gcp, Computer Vision, Aws, Docker & Switching, Azure, Routing, Pytorch, Ansible, Aws, Spark, Kubernetes, Python",
+          "description": "Deploy a scalable application integrating Gcp, Ci/Cd, Tcp/Ip, Hadoop, Rest Apis, Pytorch, Node.Js, Kubernetes, Docker & Linux, 5G, Routing, Python, Gcp, Computer Vision, Aws, Docker & Switching, Azure, Routing, Pytorch, Ansible, Aws, Spark, Kubernetes, Python to solve a specific business problem.",
+          "difficulty": "Advanced",
+          "skills_covered": [
+            "gcp, ci/cd, tcp/ip, hadoop, rest apis, pytorch, node.js, kubernetes, docker",
+            "linux, 5g, routing, python, gcp, computer vision, aws, docker",
+            "switching, azure, routing, pytorch, ansible, aws, spark, kubernetes, python"
+          ]
+        }
+      ],
+      "internships": [
+        {
+          "company": "Cairocloud Ltd",
+          "role": "Junior Backend Developer",
+          "match": 0.597570538520813,
+          "location": "Aswan",
+          "missing_skills": []
+        },
+        {
+          "company": "Cloudworks Egypt Solutions",
+          "role": "Junior Machine Learning Engineer",
+          "match": 0.5839141011238098,
+          "location": "Alexandria",
+          "missing_skills": []
+        },
+        {
+          "company": "Cloudworks Egypt Inc",
+          "role": "Junior Full Stack Developer",
+          "match": 0.5793488025665283,
+          "location": "Suez",
+          "missing_skills": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+================================================================================
+DATA QUALITY REPORT
+Generated: 2025-11-28 17:37:34
+================================================================================
+
+
+COURSES DATASET
+--------------------------------------------------------------------------------
+
+BEFORE CLEANING:
+  Rows: 1500
+  Columns: 7
+  Duplicates: 147
+  Missing values: 0
+
+AFTER CLEANING:
+  Rows: 1353
+  Columns: 7
+  Duplicates: 0
+  Missing values: 0
+
+CHANGES:
+  Rows removed: 147
+  Duplicates removed: 147
+  Missing values handled: 0
+
+  Data Quality Score: 100.00/100
+
+================================================================================
+
+STUDENTS DATASET
+--------------------------------------------------------------------------------
+
+BEFORE CLEANING:
+  Rows: 1500
+  Columns: 74
+  Duplicates: 0
+  Missing values: 400
+
+AFTER CLEANING:
+  Rows: 1500
+  Columns: 74
+  Duplicates: 0
+  Missing values: 0
+
+CHANGES:
+  Rows removed: 0
+  Duplicates removed: 0
+  Missing values handled: 400
+
+  Data Quality Score: 100.00/100
+
+================================================================================
+
+JOBS DATASET
+--------------------------------------------------------------------------------
+
+BEFORE CLEANING:
+  Rows: 1500
+  Columns: 12
+  Duplicates: 0
+  Missing values: 215
+
+AFTER CLEANING:
+  Rows: 1500
+  Columns: 12
+  Duplicates: 0
+  Missing values: 215
+
+CHANGES:
+  Rows removed: 0
+  Duplicates removed: 0
+  Missing values handled: 0
+
+  Data Quality Score: 99.64/100
+
+================================================================================

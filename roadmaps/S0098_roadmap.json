@@ -1,0 +1,213 @@
+{
+  "student_id": "S0098",
+  "career_path": "Cloud",
+  "career_source": "Prediction",
+  "generated_at": "2025-11-29",
+  "certification_path": [
+    "AWS Cloud Practitioner",
+    "AWS Solutions Architect Associate",
+    "Huawei HCIA Cloud"
+  ],
+  "stages": [
+    {
+      "stage": "Beginner",
+      "duration": "4-6 weeks",
+      "focus": "Fundamentals & Top Gaps",
+      "skills": [
+        "node.js, django, python, kubernetes, git, react, aws",
+        "node.js, django, python, kubernetes, git, react, docker",
+        "pandas, elasticsearch, react, node.js, numpy, microservices, python",
+        "pandas, elasticsearch, react, node.js, numpy, microservices, python, tensorflow",
+        "pandas, hadoop, nosql, rest apis, hipaa, sql, terraform, node.js, kubernetes, docker"
+      ],
+      "courses": [
+        {
+          "course_name": "AWS Academy Machine Learning Foundations - Cohort 12 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5018764138221741,
+          "similarity": 0.669793963432312,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Machine Learning Foundations - Cohort 3 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.49699872732162476,
+          "similarity": 0.6616645455360413,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Machine Learning Foundations - Cohort 9 (Part 3)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.4918254017829895,
+          "similarity": 0.6530423164367676,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "Static Website Hosting on AWS S3",
+          "skills": [
+            "aws",
+            "s3",
+            "dns"
+          ],
+          "type": "Infrastructure",
+          "difficulty": "Beginner"
+        },
+        {
+          "title": "Node.Js, Django, Python, Kubernetes, Git, React, Aws & Node.Js, Django, Python, Kubernetes, Git, React, Docker & Pandas, Elasticsearch, React, Node.Js, Numpy, Microservices, Python Integration Lab",
+          "description": "Set up a practical lab environment to experiment with Node.Js, Django, Python, Kubernetes, Git, React, Aws & Node.Js, Django, Python, Kubernetes, Git, React, Docker & Pandas, Elasticsearch, React, Node.Js, Numpy, Microservices, Python configurations and troubleshooting.",
+          "difficulty": "Beginner",
+          "skills_covered": [
+            "node.js, django, python, kubernetes, git, react, aws",
+            "node.js, django, python, kubernetes, git, react, docker",
+            "pandas, elasticsearch, react, node.js, numpy, microservices, python"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "Intermediate",
+      "duration": "6-8 weeks",
+      "focus": "Application & Certification",
+      "skills": [],
+      "courses": [
+        {
+          "course_name": "AWS Academy Machine Learning Foundations - Cohort 9 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.4915785789489746,
+          "similarity": 0.6526309251785278,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Machine Learning Foundations - Cohort 9 (Part 3)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.4912024438381195,
+          "similarity": 0.652004063129425,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AI Talent Program - Cohort 3 (Part 2)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.4683946669101715,
+          "similarity": 0.6139910817146301,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "Serverless API with Lambda & DynamoDB",
+          "skills": [
+            "aws lambda",
+            "api gateway",
+            "nosql"
+          ],
+          "type": "Backend",
+          "difficulty": "Intermediate"
+        },
+        {
+          "title": "Build a Lead Cloud Engineer Pipeline using Node.Js, Django, Python, Kubernetes, Git, React, Aws & Node.Js, Django, Python, Kubernetes, Git, React, Docker & Pandas, Elasticsearch, React, Node.Js, Numpy, Microservices, Python",
+          "description": "Create a comprehensive project that demonstrates your mastery of Node.Js, Django, Python, Kubernetes, Git, React, Aws & Node.Js, Django, Python, Kubernetes, Git, React, Docker & Pandas, Elasticsearch, React, Node.Js, Numpy, Microservices, Python. Focus on real-world application.",
+          "difficulty": "Intermediate",
+          "skills_covered": [
+            "node.js, django, python, kubernetes, git, react, aws",
+            "node.js, django, python, kubernetes, git, react, docker",
+            "pandas, elasticsearch, react, node.js, numpy, microservices, python"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "Advanced",
+      "duration": "8-10 weeks",
+      "focus": "Mastery & Job Readiness",
+      "skills": [],
+      "courses": [
+        {
+          "course_name": "AI Talent Program - Cohort 6 (Part 3)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.4451165497303009,
+          "similarity": 0.575194239616394,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AI Talent Program - Cohort 15 (Part 3)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.44241175055503845,
+          "similarity": 0.5706862211227417,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "HCIP-AI-Developer - Cohort 12 (Part 3)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.4250416159629822,
+          "similarity": 0.5417360067367554,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "Multi-Tier Microservices Architecture",
+          "skills": [
+            "kubernetes",
+            "docker",
+            "terraform"
+          ],
+          "type": "DevOps",
+          "difficulty": "Advanced"
+        },
+        {
+          "title": "Develop a Cloud-Native Application with Node.Js, Django, Python, Kubernetes, Git, React, Aws & Node.Js, Django, Python, Kubernetes, Git, React, Docker & Pandas, Elasticsearch, React, Node.Js, Numpy, Microservices, Python",
+          "description": "Deploy a scalable application integrating Node.Js, Django, Python, Kubernetes, Git, React, Aws & Node.Js, Django, Python, Kubernetes, Git, React, Docker & Pandas, Elasticsearch, React, Node.Js, Numpy, Microservices, Python to solve a specific business problem.",
+          "difficulty": "Advanced",
+          "skills_covered": [
+            "node.js, django, python, kubernetes, git, react, aws",
+            "node.js, django, python, kubernetes, git, react, docker",
+            "pandas, elasticsearch, react, node.js, numpy, microservices, python"
+          ]
+        }
+      ],
+      "internships": [
+        {
+          "company": "Pyramid Solutions Egypt",
+          "role": "Junior Machine Learning Engineer",
+          "match": 0.6637166738510132,
+          "location": "Aswan",
+          "missing_skills": []
+        },
+        {
+          "company": "Techsol Egypt Group",
+          "role": "Junior Data Scientist",
+          "match": 0.6532676815986633,
+          "location": "Aswan",
+          "missing_skills": []
+        },
+        {
+          "company": "Pyramid Solutions Group",
+          "role": "Junior Machine Learning Engineer",
+          "match": 0.6525682210922241,
+          "location": "Aswan",
+          "missing_skills": []
+        }
+      ]
+    }
+  ]
+}

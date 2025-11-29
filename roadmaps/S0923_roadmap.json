@@ -1,0 +1,213 @@
+{
+  "student_id": "S0923",
+  "career_path": "Data",
+  "career_source": "Prediction",
+  "generated_at": "2025-11-29",
+  "certification_path": [
+    "Google Data Analytics",
+    "Azure Data Scientist Associate",
+    "IBM Data Science"
+  ],
+  "stages": [
+    {
+      "stage": "Beginner",
+      "duration": "4-6 weeks",
+      "focus": "Fundamentals & Top Gaps",
+      "skills": [
+        "flask, computer vision, routing, sql",
+        "flask, computer vision, routing, sql, aws",
+        "git, firewalls, azure, ci/cd, pytorch, pandas, aws, react, node.js",
+        "git, firewalls, azure, ci/cd, pytorch, pandas, react, python",
+        "git, firewalls, azure, ci/cd, pytorch, pandas, react, python, sql"
+      ],
+      "courses": [
+        {
+          "course_name": "AWS ML Specialty - Cohort 12 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.42679280042648315,
+          "similarity": 0.5446546673774719,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS ML Specialty - Cohort 9 (Part 3)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.42578446865081787,
+          "similarity": 0.5429741144180298,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Machine Learning Foundations - Cohort 12 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.4237615168094635,
+          "similarity": 0.539602518081665,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "Exploratory Data Analysis on Titanic Dataset",
+          "skills": [
+            "python",
+            "pandas",
+            "matplotlib"
+          ],
+          "type": "Analysis",
+          "difficulty": "Beginner"
+        },
+        {
+          "title": "Flask, Computer Vision, Routing, Sql & Flask, Computer Vision, Routing, Sql, Aws & Git, Firewalls, Azure, Ci/Cd, Pytorch, Pandas, Aws, React, Node.Js Integration Lab",
+          "description": "Set up a practical lab environment to experiment with Flask, Computer Vision, Routing, Sql & Flask, Computer Vision, Routing, Sql, Aws & Git, Firewalls, Azure, Ci/Cd, Pytorch, Pandas, Aws, React, Node.Js configurations and troubleshooting.",
+          "difficulty": "Beginner",
+          "skills_covered": [
+            "flask, computer vision, routing, sql",
+            "flask, computer vision, routing, sql, aws",
+            "git, firewalls, azure, ci/cd, pytorch, pandas, aws, react, node.js"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "Intermediate",
+      "duration": "6-8 weeks",
+      "focus": "Application & Certification",
+      "skills": [],
+      "courses": [
+        {
+          "course_name": "AWS Academy Machine Learning for Developers - Cohort 3 (Part 3)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.4213140308856964,
+          "similarity": 0.5355233550071716,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Machine Learning for Developers - Cohort 15 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.4212527871131897,
+          "similarity": 0.5354213118553162,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "Huawei Data Warehouse and BI - Cohort 6 (Part 1)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.5170409679412842,
+          "similarity": 0.6950682401657104,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "E-commerce Sales Dashboard",
+          "skills": [
+            "sql",
+            "tableau",
+            "data cleaning"
+          ],
+          "type": "Visualization",
+          "difficulty": "Intermediate"
+        },
+        {
+          "title": "Build a Principal Data Scientist Pipeline using Flask, Computer Vision, Routing, Sql & Flask, Computer Vision, Routing, Sql, Aws & Git, Firewalls, Azure, Ci/Cd, Pytorch, Pandas, Aws, React, Node.Js",
+          "description": "Create a comprehensive project that demonstrates your mastery of Flask, Computer Vision, Routing, Sql & Flask, Computer Vision, Routing, Sql, Aws & Git, Firewalls, Azure, Ci/Cd, Pytorch, Pandas, Aws, React, Node.Js. Focus on real-world application.",
+          "difficulty": "Intermediate",
+          "skills_covered": [
+            "flask, computer vision, routing, sql",
+            "flask, computer vision, routing, sql, aws",
+            "git, firewalls, azure, ci/cd, pytorch, pandas, aws, react, node.js"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "Advanced",
+      "duration": "8-10 weeks",
+      "focus": "Mastery & Job Readiness",
+      "skills": [],
+      "courses": [
+        {
+          "course_name": "Huawei Data Warehouse and BI - Cohort 12 (Part 3)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.5164940357208252,
+          "similarity": 0.6941566467285156,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "Huawei Data Warehouse and BI - Cohort 12 (Part 1)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.5162818431854248,
+          "similarity": 0.6938030123710632,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "Huawei Data Warehouse and BI - Cohort 6 (Part 1)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.5158461928367615,
+          "similarity": 0.6930769085884094,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "Predictive Customer Churn Model",
+          "skills": [
+            "scikit-learn",
+            "feature engineering",
+            "modeling"
+          ],
+          "type": "ML",
+          "difficulty": "Advanced"
+        },
+        {
+          "title": "Develop a Cloud-Native Application with Flask, Computer Vision, Routing, Sql & Flask, Computer Vision, Routing, Sql, Aws & Git, Firewalls, Azure, Ci/Cd, Pytorch, Pandas, Aws, React, Node.Js",
+          "description": "Deploy a scalable application integrating Flask, Computer Vision, Routing, Sql & Flask, Computer Vision, Routing, Sql, Aws & Git, Firewalls, Azure, Ci/Cd, Pytorch, Pandas, Aws, React, Node.Js to solve a specific business problem.",
+          "difficulty": "Advanced",
+          "skills_covered": [
+            "flask, computer vision, routing, sql",
+            "flask, computer vision, routing, sql, aws",
+            "git, firewalls, azure, ci/cd, pytorch, pandas, aws, react, node.js"
+          ]
+        }
+      ],
+      "internships": [
+        {
+          "company": "Pyramid Solutions Egypt",
+          "role": "Junior Backend Developer",
+          "match": 0.5576738715171814,
+          "location": "Alexandria",
+          "missing_skills": []
+        },
+        {
+          "company": "Pyramid Solutions Ltd",
+          "role": "Junior Backend Developer",
+          "match": 0.5560632944107056,
+          "location": "Alexandria",
+          "missing_skills": []
+        },
+        {
+          "company": "Masrsoft Solutions",
+          "role": "Junior Mobile Developer",
+          "match": 0.5537726879119873,
+          "location": "Tanta",
+          "missing_skills": []
+        }
+      ]
+    }
+  ]
+}

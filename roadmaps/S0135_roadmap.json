@@ -1,0 +1,213 @@
+{
+  "student_id": "S0135",
+  "career_path": "Data",
+  "career_source": "Prediction",
+  "generated_at": "2025-11-29",
+  "certification_path": [
+    "Google Data Analytics",
+    "Azure Data Scientist Associate",
+    "IBM Data Science"
+  ],
+  "stages": [
+    {
+      "stage": "Beginner",
+      "duration": "4-6 weeks",
+      "focus": "Fundamentals & Top Gaps",
+      "skills": [
+        "elasticsearch, switching, react, routing, c, flask, aws",
+        "elasticsearch, switching, react, routing, c, flask, docker, python",
+        "elasticsearch, switching, react, routing, c, flask, sql, docker, kubernetes",
+        "microservices, aws, c, ansible, routing, ci/cd",
+        "rest apis, javascript, nlp, pandas, ansible, switching, spark, aws, docker, sql"
+      ],
+      "courses": [
+        {
+          "course_name": "AWS Academy Data Engineering - Cohort 9 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.523672342300415,
+          "similarity": 0.7061205506324768,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Data Engineering - Cohort 9 (Part 3)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5228918194770813,
+          "similarity": 0.7048196792602539,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Data Engineering - Cohort 12 (Part 2)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5204207301139832,
+          "similarity": 0.7007011771202087,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "Exploratory Data Analysis on Titanic Dataset",
+          "skills": [
+            "python",
+            "pandas",
+            "matplotlib"
+          ],
+          "type": "Analysis",
+          "difficulty": "Beginner"
+        },
+        {
+          "title": "Elasticsearch, Switching, React, Routing, C, Flask, Aws & Elasticsearch, Switching, React, Routing, C, Flask, Docker, Python & Elasticsearch, Switching, React, Routing, C, Flask, Sql, Docker, Kubernetes Integration Lab",
+          "description": "Set up a practical lab environment to experiment with Elasticsearch, Switching, React, Routing, C, Flask, Aws & Elasticsearch, Switching, React, Routing, C, Flask, Docker, Python & Elasticsearch, Switching, React, Routing, C, Flask, Sql, Docker, Kubernetes configurations and troubleshooting.",
+          "difficulty": "Beginner",
+          "skills_covered": [
+            "elasticsearch, switching, react, routing, c, flask, aws",
+            "elasticsearch, switching, react, routing, c, flask, docker, python",
+            "elasticsearch, switching, react, routing, c, flask, sql, docker, kubernetes"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "Intermediate",
+      "duration": "6-8 weeks",
+      "focus": "Application & Certification",
+      "skills": [],
+      "courses": [
+        {
+          "course_name": "AWS Academy Machine Learning Foundations - Cohort 3 (Part 2)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5186536908149719,
+          "similarity": 0.6977561116218567,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Machine Learning Foundations - Cohort 3 (Part 3)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5182730555534363,
+          "similarity": 0.6971217393875122,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "Big Data Developer - Cohort 3 (Part 2)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.4606497585773468,
+          "similarity": 0.6010829210281372,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "E-commerce Sales Dashboard",
+          "skills": [
+            "sql",
+            "tableau",
+            "data cleaning"
+          ],
+          "type": "Visualization",
+          "difficulty": "Intermediate"
+        },
+        {
+          "title": "Build a Principal Data Analyst Pipeline using Elasticsearch, Switching, React, Routing, C, Flask, Aws & Elasticsearch, Switching, React, Routing, C, Flask, Docker, Python & Elasticsearch, Switching, React, Routing, C, Flask, Sql, Docker, Kubernetes",
+          "description": "Create a comprehensive project that demonstrates your mastery of Elasticsearch, Switching, React, Routing, C, Flask, Aws & Elasticsearch, Switching, React, Routing, C, Flask, Docker, Python & Elasticsearch, Switching, React, Routing, C, Flask, Sql, Docker, Kubernetes. Focus on real-world application.",
+          "difficulty": "Intermediate",
+          "skills_covered": [
+            "elasticsearch, switching, react, routing, c, flask, aws",
+            "elasticsearch, switching, react, routing, c, flask, docker, python",
+            "elasticsearch, switching, react, routing, c, flask, sql, docker, kubernetes"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "Advanced",
+      "duration": "8-10 weeks",
+      "focus": "Mastery & Job Readiness",
+      "skills": [],
+      "courses": [
+        {
+          "course_name": "Big Data Developer - Cohort 6 (Part 1)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.4544605016708374,
+          "similarity": 0.590767502784729,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "Huawei Data Warehouse and BI - Cohort 6 (Part 1)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.4544444978237152,
+          "similarity": 0.5907407999038696,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "Huawei Data Warehouse and BI - Cohort 12 (Part 3)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.4538550078868866,
+          "similarity": 0.5897583365440369,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "Predictive Customer Churn Model",
+          "skills": [
+            "scikit-learn",
+            "feature engineering",
+            "modeling"
+          ],
+          "type": "ML",
+          "difficulty": "Advanced"
+        },
+        {
+          "title": "Develop a Cloud-Native Application with Elasticsearch, Switching, React, Routing, C, Flask, Aws & Elasticsearch, Switching, React, Routing, C, Flask, Docker, Python & Elasticsearch, Switching, React, Routing, C, Flask, Sql, Docker, Kubernetes",
+          "description": "Deploy a scalable application integrating Elasticsearch, Switching, React, Routing, C, Flask, Aws & Elasticsearch, Switching, React, Routing, C, Flask, Docker, Python & Elasticsearch, Switching, React, Routing, C, Flask, Sql, Docker, Kubernetes to solve a specific business problem.",
+          "difficulty": "Advanced",
+          "skills_covered": [
+            "elasticsearch, switching, react, routing, c, flask, aws",
+            "elasticsearch, switching, react, routing, c, flask, docker, python",
+            "elasticsearch, switching, react, routing, c, flask, sql, docker, kubernetes"
+          ]
+        }
+      ],
+      "internships": [
+        {
+          "company": "Pyramid Solutions Group",
+          "role": "Junior Data Analyst",
+          "match": 0.57804936170578,
+          "location": "Suez",
+          "missing_skills": []
+        },
+        {
+          "company": "Pyramid Solutions Ltd",
+          "role": "Junior Data Analyst",
+          "match": 0.5769538283348083,
+          "location": "Suez",
+          "missing_skills": []
+        },
+        {
+          "company": "Pyramid Solutions Egypt",
+          "role": "Junior Backend Developer",
+          "match": 0.5667995810508728,
+          "location": "Alexandria",
+          "missing_skills": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,213 @@
+{
+  "student_id": "S0817",
+  "career_path": "Software",
+  "career_source": "Prediction",
+  "generated_at": "2025-11-29",
+  "certification_path": [
+    "Oracle Java Associate",
+    "Meta Front-End Developer",
+    "AWS Developer Associate"
+  ],
+  "stages": [
+    {
+      "stage": "Beginner",
+      "duration": "4-6 weeks",
+      "focus": "Fundamentals & Top Gaps",
+      "skills": [
+        "gcp, ci/cd, tcp/ip, hadoop, rest apis, pytorch, node.js, kubernetes, docker",
+        "tcp/ip, rest apis, docker, flask, aws",
+        "tcp/ip, rest apis, docker, flask, aws, node.js",
+        "tcp/ip, rest apis, docker, flask, node.js, aws, kubernetes",
+        "tcp/ip, rest apis, docker, flask, sql"
+      ],
+      "courses": [
+        {
+          "course_name": "AWS Developer Path - Cohort 3 (Part 3)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.375322550535202,
+          "similarity": 0.45887088775634766,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Developer Path - Cohort 15 (Part 3)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.3643849492073059,
+          "similarity": 0.4406415522098541,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Developer Path - Cohort 12 (Part 3)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.3625185191631317,
+          "similarity": 0.43753087520599365,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "Personal Portfolio Website",
+          "skills": [
+            "html",
+            "css",
+            "javascript"
+          ],
+          "type": "Frontend",
+          "difficulty": "Beginner"
+        },
+        {
+          "title": "Gcp, Ci/Cd, Tcp/Ip, Hadoop, Rest Apis, Pytorch, Node.Js, Kubernetes, Docker & Tcp/Ip, Rest Apis, Docker, Flask, Aws & Tcp/Ip, Rest Apis, Docker, Flask, Aws, Node.Js Integration Lab",
+          "description": "Set up a practical lab environment to experiment with Gcp, Ci/Cd, Tcp/Ip, Hadoop, Rest Apis, Pytorch, Node.Js, Kubernetes, Docker & Tcp/Ip, Rest Apis, Docker, Flask, Aws & Tcp/Ip, Rest Apis, Docker, Flask, Aws, Node.Js configurations and troubleshooting.",
+          "difficulty": "Beginner",
+          "skills_covered": [
+            "gcp, ci/cd, tcp/ip, hadoop, rest apis, pytorch, node.js, kubernetes, docker",
+            "tcp/ip, rest apis, docker, flask, aws",
+            "tcp/ip, rest apis, docker, flask, aws, node.js"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "Intermediate",
+      "duration": "6-8 weeks",
+      "focus": "Application & Certification",
+      "skills": [],
+      "courses": [
+        {
+          "course_name": "AWS Developer Path - Cohort 8 (Part 1)",
+          "provider": "AWS",
+          "level": "Intermediate",
+          "score": 0.3532584309577942,
+          "similarity": 0.45543068647384644,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Machine Learning for Developers - Cohort 6 (Part 3)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.35206565260887146,
+          "similarity": 0.4201093912124634,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "Huawei Full-Stack Developer - Cohort 6 (Part 1)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.5740013122558594,
+          "similarity": 0.790002167224884,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "REST API for Task Management",
+          "skills": [
+            "nodejs",
+            "express",
+            "mongodb"
+          ],
+          "type": "Backend",
+          "difficulty": "Intermediate"
+        },
+        {
+          "title": "Build a Principal Mobile Developer Pipeline using Gcp, Ci/Cd, Tcp/Ip, Hadoop, Rest Apis, Pytorch, Node.Js, Kubernetes, Docker & Tcp/Ip, Rest Apis, Docker, Flask, Aws & Tcp/Ip, Rest Apis, Docker, Flask, Aws, Node.Js",
+          "description": "Create a comprehensive project that demonstrates your mastery of Gcp, Ci/Cd, Tcp/Ip, Hadoop, Rest Apis, Pytorch, Node.Js, Kubernetes, Docker & Tcp/Ip, Rest Apis, Docker, Flask, Aws & Tcp/Ip, Rest Apis, Docker, Flask, Aws, Node.Js. Focus on real-world application.",
+          "difficulty": "Intermediate",
+          "skills_covered": [
+            "gcp, ci/cd, tcp/ip, hadoop, rest apis, pytorch, node.js, kubernetes, docker",
+            "tcp/ip, rest apis, docker, flask, aws",
+            "tcp/ip, rest apis, docker, flask, aws, node.js"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "Advanced",
+      "duration": "8-10 weeks",
+      "focus": "Mastery & Job Readiness",
+      "skills": [],
+      "courses": [
+        {
+          "course_name": "Huawei Full-Stack Developer - Cohort 6 (Part 1)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.5728113055229187,
+          "similarity": 0.7880188226699829,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "Huawei Full-Stack Developer - Cohort 12 (Part 3)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.5720165371894836,
+          "similarity": 0.7866942286491394,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "Huawei Full-Stack Developer - Cohort 3 (Part 1)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.5717563629150391,
+          "similarity": 0.7862606048583984,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "Full Stack E-commerce Platform",
+          "skills": [
+            "react",
+            "redux",
+            "stripe integration"
+          ],
+          "type": "Full Stack",
+          "difficulty": "Advanced"
+        },
+        {
+          "title": "Develop a Cloud-Native Application with Gcp, Ci/Cd, Tcp/Ip, Hadoop, Rest Apis, Pytorch, Node.Js, Kubernetes, Docker & Tcp/Ip, Rest Apis, Docker, Flask, Aws & Tcp/Ip, Rest Apis, Docker, Flask, Aws, Node.Js",
+          "description": "Deploy a scalable application integrating Gcp, Ci/Cd, Tcp/Ip, Hadoop, Rest Apis, Pytorch, Node.Js, Kubernetes, Docker & Tcp/Ip, Rest Apis, Docker, Flask, Aws & Tcp/Ip, Rest Apis, Docker, Flask, Aws, Node.Js to solve a specific business problem.",
+          "difficulty": "Advanced",
+          "skills_covered": [
+            "gcp, ci/cd, tcp/ip, hadoop, rest apis, pytorch, node.js, kubernetes, docker",
+            "tcp/ip, rest apis, docker, flask, aws",
+            "tcp/ip, rest apis, docker, flask, aws, node.js"
+          ]
+        }
+      ],
+      "internships": [
+        {
+          "company": "Cairocloud Ltd",
+          "role": "Junior Backend Developer",
+          "match": 0.5894039273262024,
+          "location": "Aswan",
+          "missing_skills": []
+        },
+        {
+          "company": "Pyramid Solutions Group",
+          "role": "Junior Data Scientist",
+          "match": 0.5789873003959656,
+          "location": "Cairo",
+          "missing_skills": []
+        },
+        {
+          "company": "Cairocloud Egypt",
+          "role": "Junior Backend Developer",
+          "match": 0.5532692074775696,
+          "location": "Aswan",
+          "missing_skills": []
+        }
+      ]
+    }
+  ]
+}

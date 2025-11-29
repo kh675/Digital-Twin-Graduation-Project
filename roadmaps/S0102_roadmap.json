@@ -1,0 +1,213 @@
+{
+  "student_id": "S0102",
+  "career_path": "Software",
+  "career_source": "Prediction",
+  "generated_at": "2025-11-29",
+  "certification_path": [
+    "Oracle Java Associate",
+    "Meta Front-End Developer",
+    "AWS Developer Associate"
+  ],
+  "stages": [
+    {
+      "stage": "Beginner",
+      "duration": "4-6 weeks",
+      "focus": "Fundamentals & Top Gaps",
+      "skills": [
+        "node.js, django, python, kubernetes, git, react, docker",
+        "numpy, rest apis, nosql, react, docker, sql",
+        "numpy, rest apis, nosql, tensorflow",
+        "switching, numpy, react, routing, hadoop, azure, javascript, kubernetes, tensorflow",
+        "switching, numpy, react, routing, hadoop, azure, javascript, tensorflow, docker"
+      ],
+      "courses": [
+        {
+          "course_name": "AWS Developer Path - Cohort 3 (Part 3)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.41919368505477905,
+          "similarity": 0.5319894552230835,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Machine Learning for Developers - Cohort 15 (Part 2)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.4166546165943146,
+          "similarity": 0.5277577042579651,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Machine Learning for Developers - Cohort 15 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.4148070216178894,
+          "similarity": 0.5246783494949341,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "Personal Portfolio Website",
+          "skills": [
+            "html",
+            "css",
+            "javascript"
+          ],
+          "type": "Frontend",
+          "difficulty": "Beginner"
+        },
+        {
+          "title": "Node.Js, Django, Python, Kubernetes, Git, React, Docker & Numpy, Rest Apis, Nosql, React, Docker, Sql & Numpy, Rest Apis, Nosql, Tensorflow Integration Lab",
+          "description": "Set up a practical lab environment to experiment with Node.Js, Django, Python, Kubernetes, Git, React, Docker & Numpy, Rest Apis, Nosql, React, Docker, Sql & Numpy, Rest Apis, Nosql, Tensorflow configurations and troubleshooting.",
+          "difficulty": "Beginner",
+          "skills_covered": [
+            "node.js, django, python, kubernetes, git, react, docker",
+            "numpy, rest apis, nosql, react, docker, sql",
+            "numpy, rest apis, nosql, tensorflow"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "Intermediate",
+      "duration": "6-8 weeks",
+      "focus": "Application & Certification",
+      "skills": [],
+      "courses": [
+        {
+          "course_name": "AWS Academy Machine Learning for Developers - Cohort 3 (Part 3)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.4147014021873474,
+          "similarity": 0.5245023369789124,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Developer Path - Cohort 15 (Part 3)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.4122512936592102,
+          "similarity": 0.5204188227653503,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "HCIP-AI-Developer - Cohort 15 (Part 2)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.5250380039215088,
+          "similarity": 0.7083966135978699,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "REST API for Task Management",
+          "skills": [
+            "nodejs",
+            "express",
+            "mongodb"
+          ],
+          "type": "Backend",
+          "difficulty": "Intermediate"
+        },
+        {
+          "title": "Build a Mid-Level Backend Developer Pipeline using Node.Js, Django, Python, Kubernetes, Git, React, Docker & Numpy, Rest Apis, Nosql, React, Docker, Sql & Numpy, Rest Apis, Nosql, Tensorflow",
+          "description": "Create a comprehensive project that demonstrates your mastery of Node.Js, Django, Python, Kubernetes, Git, React, Docker & Numpy, Rest Apis, Nosql, React, Docker, Sql & Numpy, Rest Apis, Nosql, Tensorflow. Focus on real-world application.",
+          "difficulty": "Intermediate",
+          "skills_covered": [
+            "node.js, django, python, kubernetes, git, react, docker",
+            "numpy, rest apis, nosql, react, docker, sql",
+            "numpy, rest apis, nosql, tensorflow"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "Advanced",
+      "duration": "8-10 weeks",
+      "focus": "Mastery & Job Readiness",
+      "skills": [],
+      "courses": [
+        {
+          "course_name": "HCIP-AI-Developer - Cohort 6 (Part 3)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.5231459140777588,
+          "similarity": 0.7052431702613831,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "HCIP-AI-Developer - Cohort 12 (Part 3)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.5183566212654114,
+          "similarity": 0.6972609758377075,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "HCIP-AI-Developer - Cohort 6 (Part 2)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.5176942348480225,
+          "similarity": 0.6961569786071777,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "Full Stack E-commerce Platform",
+          "skills": [
+            "react",
+            "redux",
+            "stripe integration"
+          ],
+          "type": "Full Stack",
+          "difficulty": "Advanced"
+        },
+        {
+          "title": "Develop a Cloud-Native Application with Node.Js, Django, Python, Kubernetes, Git, React, Docker & Numpy, Rest Apis, Nosql, React, Docker, Sql & Numpy, Rest Apis, Nosql, Tensorflow",
+          "description": "Deploy a scalable application integrating Node.Js, Django, Python, Kubernetes, Git, React, Docker & Numpy, Rest Apis, Nosql, React, Docker, Sql & Numpy, Rest Apis, Nosql, Tensorflow to solve a specific business problem.",
+          "difficulty": "Advanced",
+          "skills_covered": [
+            "node.js, django, python, kubernetes, git, react, docker",
+            "numpy, rest apis, nosql, react, docker, sql",
+            "numpy, rest apis, nosql, tensorflow"
+          ]
+        }
+      ],
+      "internships": [
+        {
+          "company": "Cairocloud Egypt",
+          "role": "Junior Backend Developer",
+          "match": 0.6224090456962585,
+          "location": "Aswan",
+          "missing_skills": []
+        },
+        {
+          "company": "Techsol Egypt Ltd",
+          "role": "Junior Data Scientist",
+          "match": 0.6101543307304382,
+          "location": "Aswan",
+          "missing_skills": []
+        },
+        {
+          "company": "Futurevision Inc",
+          "role": "Junior Devops Engineer",
+          "match": 0.6012892723083496,
+          "location": "Hurghada",
+          "missing_skills": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,213 @@
+{
+  "student_id": "S0013",
+  "career_path": "Software",
+  "career_source": "Prediction",
+  "generated_at": "2025-11-29",
+  "certification_path": [
+    "Oracle Java Associate",
+    "Meta Front-End Developer",
+    "AWS Developer Associate"
+  ],
+  "stages": [
+    {
+      "stage": "Beginner",
+      "duration": "4-6 weeks",
+      "focus": "Fundamentals & Top Gaps",
+      "skills": [
+        "numpy, rest apis, nosql, react, docker, sql",
+        "sql, rest apis, node.js, tensorflow, hadoop, ansible, numpy, docker",
+        "switching, numpy, react, routing, hadoop, azure, javascript, node.js, docker, aws",
+        "switching, numpy, react, routing, hadoop, azure, javascript, tensorflow, docker",
+        "tcp/ip, rest apis, docker, flask, sql"
+      ],
+      "courses": [
+        {
+          "course_name": "AWS Developer Path - Cohort 3 (Part 3)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.4352751076221466,
+          "similarity": 0.5587918162345886,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Developer Path - Cohort 15 (Part 3)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.4210982024669647,
+          "similarity": 0.5351636409759521,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Developer Path - Cohort 12 (Part 3)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.4207543432712555,
+          "similarity": 0.5345905423164368,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "Personal Portfolio Website",
+          "skills": [
+            "html",
+            "css",
+            "javascript"
+          ],
+          "type": "Frontend",
+          "difficulty": "Beginner"
+        },
+        {
+          "title": "Numpy, Rest Apis, Nosql, React, Docker, Sql & Sql, Rest Apis, Node.Js, Tensorflow, Hadoop, Ansible, Numpy, Docker & Switching, Numpy, React, Routing, Hadoop, Azure, Javascript, Node.Js, Docker, Aws Integration Lab",
+          "description": "Set up a practical lab environment to experiment with Numpy, Rest Apis, Nosql, React, Docker, Sql & Sql, Rest Apis, Node.Js, Tensorflow, Hadoop, Ansible, Numpy, Docker & Switching, Numpy, React, Routing, Hadoop, Azure, Javascript, Node.Js, Docker, Aws configurations and troubleshooting.",
+          "difficulty": "Beginner",
+          "skills_covered": [
+            "numpy, rest apis, nosql, react, docker, sql",
+            "sql, rest apis, node.js, tensorflow, hadoop, ansible, numpy, docker",
+            "switching, numpy, react, routing, hadoop, azure, javascript, node.js, docker, aws"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "Intermediate",
+      "duration": "6-8 weeks",
+      "focus": "Application & Certification",
+      "skills": [],
+      "courses": [
+        {
+          "course_name": "AWS Academy Data Engineering - Cohort 9 (Part 3)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.41866928339004517,
+          "similarity": 0.5311154723167419,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Machine Learning Foundations - Cohort 9 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.41522303223609924,
+          "similarity": 0.5253717303276062,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "Huawei Full-Stack Developer - Cohort 3 (Part 1)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.50985187292099,
+          "similarity": 0.6830864548683167,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "REST API for Task Management",
+          "skills": [
+            "nodejs",
+            "express",
+            "mongodb"
+          ],
+          "type": "Backend",
+          "difficulty": "Intermediate"
+        },
+        {
+          "title": "Build a Senior Frontend Developer Pipeline using Numpy, Rest Apis, Nosql, React, Docker, Sql & Sql, Rest Apis, Node.Js, Tensorflow, Hadoop, Ansible, Numpy, Docker & Switching, Numpy, React, Routing, Hadoop, Azure, Javascript, Node.Js, Docker, Aws",
+          "description": "Create a comprehensive project that demonstrates your mastery of Numpy, Rest Apis, Nosql, React, Docker, Sql & Sql, Rest Apis, Node.Js, Tensorflow, Hadoop, Ansible, Numpy, Docker & Switching, Numpy, React, Routing, Hadoop, Azure, Javascript, Node.Js, Docker, Aws. Focus on real-world application.",
+          "difficulty": "Intermediate",
+          "skills_covered": [
+            "numpy, rest apis, nosql, react, docker, sql",
+            "sql, rest apis, node.js, tensorflow, hadoop, ansible, numpy, docker",
+            "switching, numpy, react, routing, hadoop, azure, javascript, node.js, docker, aws"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "Advanced",
+      "duration": "8-10 weeks",
+      "focus": "Mastery & Job Readiness",
+      "skills": [],
+      "courses": [
+        {
+          "course_name": "Huawei Full-Stack Developer - Cohort 9 (Part 3)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.5080874562263489,
+          "similarity": 0.6801457405090332,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "Huawei Full-Stack Developer - Cohort 6 (Part 1)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.5074831247329712,
+          "similarity": 0.6791384816169739,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "Huawei Full-Stack Developer - Cohort 6 (Part 1)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.5072987675666809,
+          "similarity": 0.6788312196731567,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "Full Stack E-commerce Platform",
+          "skills": [
+            "react",
+            "redux",
+            "stripe integration"
+          ],
+          "type": "Full Stack",
+          "difficulty": "Advanced"
+        },
+        {
+          "title": "Develop a Cloud-Native Application with Numpy, Rest Apis, Nosql, React, Docker, Sql & Sql, Rest Apis, Node.Js, Tensorflow, Hadoop, Ansible, Numpy, Docker & Switching, Numpy, React, Routing, Hadoop, Azure, Javascript, Node.Js, Docker, Aws",
+          "description": "Deploy a scalable application integrating Numpy, Rest Apis, Nosql, React, Docker, Sql & Sql, Rest Apis, Node.Js, Tensorflow, Hadoop, Ansible, Numpy, Docker & Switching, Numpy, React, Routing, Hadoop, Azure, Javascript, Node.Js, Docker, Aws to solve a specific business problem.",
+          "difficulty": "Advanced",
+          "skills_covered": [
+            "numpy, rest apis, nosql, react, docker, sql",
+            "sql, rest apis, node.js, tensorflow, hadoop, ansible, numpy, docker",
+            "switching, numpy, react, routing, hadoop, azure, javascript, node.js, docker, aws"
+          ]
+        }
+      ],
+      "internships": [
+        {
+          "company": "Pyramid Solutions Group",
+          "role": "Junior Data Scientist",
+          "match": 0.6212323904037476,
+          "location": "Cairo",
+          "missing_skills": []
+        },
+        {
+          "company": "Pyramid Solutions Egypt",
+          "role": "Junior Machine Learning Engineer",
+          "match": 0.6145428419113159,
+          "location": "Aswan",
+          "missing_skills": []
+        },
+        {
+          "company": "Pyramid Solutions Egypt",
+          "role": "Junior Backend Developer",
+          "match": 0.6086271405220032,
+          "location": "Alexandria",
+          "missing_skills": []
+        }
+      ]
+    }
+  ]
+}

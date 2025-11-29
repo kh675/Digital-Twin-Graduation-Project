@@ -1,0 +1,212 @@
+{
+  "student_id": "S1309",
+  "career_path": "Software",
+  "career_source": "Prediction",
+  "generated_at": "2025-11-29",
+  "certification_path": [
+    "Oracle Java Associate",
+    "Meta Front-End Developer",
+    "AWS Developer Associate"
+  ],
+  "stages": [
+    {
+      "stage": "Beginner",
+      "duration": "4-6 weeks",
+      "focus": "Fundamentals & Top Gaps",
+      "skills": [
+        "flask, computer vision, routing, sql, aws",
+        "numpy, flask, java, azure, computer vision, rest apis, elasticsearch, aws",
+        "tcp/ip, computer vision, aws, kubernetes, node.js, docker",
+        "tcp/ip, rest apis, docker, flask, node.js, aws, kubernetes"
+      ],
+      "courses": [
+        {
+          "course_name": "AWS Developer Path - Cohort 3 (Part 3)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.47001805901527405,
+          "similarity": 0.6166967749595642,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Developer Path - Cohort 12 (Part 3)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.4611404538154602,
+          "similarity": 0.6019007563591003,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Developer Path - Cohort 15 (Part 3)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.46038445830345154,
+          "similarity": 0.6006407737731934,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "Personal Portfolio Website",
+          "skills": [
+            "html",
+            "css",
+            "javascript"
+          ],
+          "type": "Frontend",
+          "difficulty": "Beginner"
+        },
+        {
+          "title": "Flask, Computer Vision, Routing, Sql, Aws & Numpy, Flask, Java, Azure, Computer Vision, Rest Apis, Elasticsearch, Aws & Tcp/Ip, Computer Vision, Aws, Kubernetes, Node.Js, Docker Integration Lab",
+          "description": "Set up a practical lab environment to experiment with Flask, Computer Vision, Routing, Sql, Aws & Numpy, Flask, Java, Azure, Computer Vision, Rest Apis, Elasticsearch, Aws & Tcp/Ip, Computer Vision, Aws, Kubernetes, Node.Js, Docker configurations and troubleshooting.",
+          "difficulty": "Beginner",
+          "skills_covered": [
+            "flask, computer vision, routing, sql, aws",
+            "numpy, flask, java, azure, computer vision, rest apis, elasticsearch, aws",
+            "tcp/ip, computer vision, aws, kubernetes, node.js, docker"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "Intermediate",
+      "duration": "6-8 weeks",
+      "focus": "Application & Certification",
+      "skills": [],
+      "courses": [
+        {
+          "course_name": "AWS Developer Path - Cohort 8 (Part 1)",
+          "provider": "AWS",
+          "level": "Intermediate",
+          "score": 0.4452456831932068,
+          "similarity": 0.6087428331375122,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Machine Learning for Developers - Cohort 15 (Part 2)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.4446573555469513,
+          "similarity": 0.574428915977478,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "Huawei Full-Stack Developer - Cohort 6 (Part 1)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.5161053538322449,
+          "similarity": 0.6935088634490967,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "REST API for Task Management",
+          "skills": [
+            "nodejs",
+            "express",
+            "mongodb"
+          ],
+          "type": "Backend",
+          "difficulty": "Intermediate"
+        },
+        {
+          "title": "Build a Mid-Level Full Stack Developer Pipeline using Flask, Computer Vision, Routing, Sql, Aws & Numpy, Flask, Java, Azure, Computer Vision, Rest Apis, Elasticsearch, Aws & Tcp/Ip, Computer Vision, Aws, Kubernetes, Node.Js, Docker",
+          "description": "Create a comprehensive project that demonstrates your mastery of Flask, Computer Vision, Routing, Sql, Aws & Numpy, Flask, Java, Azure, Computer Vision, Rest Apis, Elasticsearch, Aws & Tcp/Ip, Computer Vision, Aws, Kubernetes, Node.Js, Docker. Focus on real-world application.",
+          "difficulty": "Intermediate",
+          "skills_covered": [
+            "flask, computer vision, routing, sql, aws",
+            "numpy, flask, java, azure, computer vision, rest apis, elasticsearch, aws",
+            "tcp/ip, computer vision, aws, kubernetes, node.js, docker"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "Advanced",
+      "duration": "8-10 weeks",
+      "focus": "Mastery & Job Readiness",
+      "skills": [],
+      "courses": [
+        {
+          "course_name": "Huawei Full-Stack Developer - Cohort 3 (Part 2)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.5149381756782532,
+          "similarity": 0.691563606262207,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "Huawei Full-Stack Developer - Cohort 9 (Part 3)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.5143105387687683,
+          "similarity": 0.6905175447463989,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "Huawei Full-Stack Developer - Cohort 12 (Part 2)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.5114759206771851,
+          "similarity": 0.6857931613922119,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "Full Stack E-commerce Platform",
+          "skills": [
+            "react",
+            "redux",
+            "stripe integration"
+          ],
+          "type": "Full Stack",
+          "difficulty": "Advanced"
+        },
+        {
+          "title": "Develop a Cloud-Native Application with Flask, Computer Vision, Routing, Sql, Aws & Numpy, Flask, Java, Azure, Computer Vision, Rest Apis, Elasticsearch, Aws & Tcp/Ip, Computer Vision, Aws, Kubernetes, Node.Js, Docker",
+          "description": "Deploy a scalable application integrating Flask, Computer Vision, Routing, Sql, Aws & Numpy, Flask, Java, Azure, Computer Vision, Rest Apis, Elasticsearch, Aws & Tcp/Ip, Computer Vision, Aws, Kubernetes, Node.Js, Docker to solve a specific business problem.",
+          "difficulty": "Advanced",
+          "skills_covered": [
+            "flask, computer vision, routing, sql, aws",
+            "numpy, flask, java, azure, computer vision, rest apis, elasticsearch, aws",
+            "tcp/ip, computer vision, aws, kubernetes, node.js, docker"
+          ]
+        }
+      ],
+      "internships": [
+        {
+          "company": "Pyramid Solutions Egypt",
+          "role": "Junior Backend Developer",
+          "match": 0.5671929121017456,
+          "location": "Alexandria",
+          "missing_skills": []
+        },
+        {
+          "company": "Futurevision Group",
+          "role": "Junior Quality Assurance Engineer",
+          "match": 0.5665216445922852,
+          "location": "Suez",
+          "missing_skills": []
+        },
+        {
+          "company": "Futurevision Solutions",
+          "role": "Junior Quality Assurance Engineer",
+          "match": 0.5665216445922852,
+          "location": "Suez",
+          "missing_skills": []
+        }
+      ]
+    }
+  ]
+}

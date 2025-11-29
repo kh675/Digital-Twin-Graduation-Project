@@ -1,0 +1,213 @@
+{
+  "student_id": "S0716",
+  "career_path": "Cloud",
+  "career_source": "Prediction",
+  "generated_at": "2025-11-29",
+  "certification_path": [
+    "AWS Cloud Practitioner",
+    "AWS Solutions Architect Associate",
+    "Huawei HCIA Cloud"
+  ],
+  "stages": [
+    {
+      "stage": "Beginner",
+      "duration": "4-6 weeks",
+      "focus": "Fundamentals & Top Gaps",
+      "skills": [
+        "aws, numpy, hipaa, computer vision, node.js",
+        "aws, numpy, hipaa, computer vision, python, sql",
+        "aws, numpy, hipaa, computer vision, react, kubernetes, sql",
+        "microservices, aws, c, ansible, routing, ci/cd, sql, docker",
+        "pandas, elasticsearch, react, node.js, numpy, microservices, aws"
+      ],
+      "courses": [
+        {
+          "course_name": "AWS Academy Cloud Foundations - Cohort 9 (Part 2)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5441027283668518,
+          "similarity": 0.7401711940765381,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Cloud Foundations - Cohort 9 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5395106673240662,
+          "similarity": 0.7325177192687988,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Cloud Foundations - Cohort 9 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5365731120109558,
+          "similarity": 0.7276217937469482,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "Static Website Hosting on AWS S3",
+          "skills": [
+            "aws",
+            "s3",
+            "dns"
+          ],
+          "type": "Infrastructure",
+          "difficulty": "Beginner"
+        },
+        {
+          "title": "Aws, Numpy, Hipaa, Computer Vision, Node.Js & Aws, Numpy, Hipaa, Computer Vision, Python, Sql & Aws, Numpy, Hipaa, Computer Vision, React, Kubernetes, Sql Integration Lab",
+          "description": "Set up a practical lab environment to experiment with Aws, Numpy, Hipaa, Computer Vision, Node.Js & Aws, Numpy, Hipaa, Computer Vision, Python, Sql & Aws, Numpy, Hipaa, Computer Vision, React, Kubernetes, Sql configurations and troubleshooting.",
+          "difficulty": "Beginner",
+          "skills_covered": [
+            "aws, numpy, hipaa, computer vision, node.js",
+            "aws, numpy, hipaa, computer vision, python, sql",
+            "aws, numpy, hipaa, computer vision, react, kubernetes, sql"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "Intermediate",
+      "duration": "6-8 weeks",
+      "focus": "Application & Certification",
+      "skills": [],
+      "courses": [
+        {
+          "course_name": "AWS Academy Cloud Foundations - Cohort 3 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.535057544708252,
+          "similarity": 0.7250958681106567,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Cloud Foundations - Cohort 15 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5349910855293274,
+          "similarity": 0.7249851226806641,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "HCIA-Cloud Computing - Cohort 12 (Part 3)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.45007914304733276,
+          "similarity": 0.5834652185440063,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "Serverless API with Lambda & DynamoDB",
+          "skills": [
+            "aws lambda",
+            "api gateway",
+            "nosql"
+          ],
+          "type": "Backend",
+          "difficulty": "Intermediate"
+        },
+        {
+          "title": "Build a Mid-Level Cloud Engineer Pipeline using Aws, Numpy, Hipaa, Computer Vision, Node.Js & Aws, Numpy, Hipaa, Computer Vision, Python, Sql & Aws, Numpy, Hipaa, Computer Vision, React, Kubernetes, Sql",
+          "description": "Create a comprehensive project that demonstrates your mastery of Aws, Numpy, Hipaa, Computer Vision, Node.Js & Aws, Numpy, Hipaa, Computer Vision, Python, Sql & Aws, Numpy, Hipaa, Computer Vision, React, Kubernetes, Sql. Focus on real-world application.",
+          "difficulty": "Intermediate",
+          "skills_covered": [
+            "aws, numpy, hipaa, computer vision, node.js",
+            "aws, numpy, hipaa, computer vision, python, sql",
+            "aws, numpy, hipaa, computer vision, react, kubernetes, sql"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "Advanced",
+      "duration": "8-10 weeks",
+      "focus": "Mastery & Job Readiness",
+      "skills": [],
+      "courses": [
+        {
+          "course_name": "HCIA-Cloud Computing - Cohort 12 (Part 1)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.4494558274745941,
+          "similarity": 0.5824263691902161,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "HCIA-Cloud Computing - Cohort 15 (Part 1)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.4471915662288666,
+          "similarity": 0.5786526203155518,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "HCIA-Cloud Computing - Cohort 12 (Part 1)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.44697436690330505,
+          "similarity": 0.578290581703186,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "Multi-Tier Microservices Architecture",
+          "skills": [
+            "kubernetes",
+            "docker",
+            "terraform"
+          ],
+          "type": "DevOps",
+          "difficulty": "Advanced"
+        },
+        {
+          "title": "Develop a Cloud-Native Application with Aws, Numpy, Hipaa, Computer Vision, Node.Js & Aws, Numpy, Hipaa, Computer Vision, Python, Sql & Aws, Numpy, Hipaa, Computer Vision, React, Kubernetes, Sql",
+          "description": "Deploy a scalable application integrating Aws, Numpy, Hipaa, Computer Vision, Node.Js & Aws, Numpy, Hipaa, Computer Vision, Python, Sql & Aws, Numpy, Hipaa, Computer Vision, React, Kubernetes, Sql to solve a specific business problem.",
+          "difficulty": "Advanced",
+          "skills_covered": [
+            "aws, numpy, hipaa, computer vision, node.js",
+            "aws, numpy, hipaa, computer vision, python, sql",
+            "aws, numpy, hipaa, computer vision, react, kubernetes, sql"
+          ]
+        }
+      ],
+      "internships": [
+        {
+          "company": "Smartdata Labs Solutions",
+          "role": "Junior Machine Learning Engineer",
+          "match": 0.5372662544250488,
+          "location": "Suez",
+          "missing_skills": []
+        },
+        {
+          "company": "Smartdata Labs Group",
+          "role": "Junior Machine Learning Engineer",
+          "match": 0.5356872081756592,
+          "location": "Suez",
+          "missing_skills": []
+        },
+        {
+          "company": "Pyramid Solutions Group",
+          "role": "Junior Quality Assurance Engineer",
+          "match": 0.5274230241775513,
+          "location": "Hurghada",
+          "missing_skills": []
+        }
+      ]
+    }
+  ]
+}

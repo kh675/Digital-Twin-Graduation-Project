@@ -1,0 +1,212 @@
+{
+  "student_id": "S0473",
+  "career_path": "Software",
+  "career_source": "Prediction",
+  "generated_at": "2025-11-29",
+  "certification_path": [
+    "Oracle Java Associate",
+    "Meta Front-End Developer",
+    "AWS Developer Associate"
+  ],
+  "stages": [
+    {
+      "stage": "Beginner",
+      "duration": "4-6 weeks",
+      "focus": "Fundamentals & Top Gaps",
+      "skills": [
+        "aws, docker, pytorch, java, c",
+        "docker, terraform, spark, aws, elasticsearch, linux, python, sql",
+        "java, azure, docker, sql",
+        "microservices, aws, c, ansible, routing, ci/cd, sql, docker"
+      ],
+      "courses": [
+        {
+          "course_name": "AWS Academy Machine Learning for Developers - Cohort 3 (Part 2)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.455757737159729,
+          "similarity": 0.5929295420646667,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Machine Learning for Developers - Cohort 6 (Part 3)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.4524387717247009,
+          "similarity": 0.5873979330062866,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Developer Path - Cohort 3 (Part 3)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.4497980773448944,
+          "similarity": 0.5829967856407166,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "Personal Portfolio Website",
+          "skills": [
+            "html",
+            "css",
+            "javascript"
+          ],
+          "type": "Frontend",
+          "difficulty": "Beginner"
+        },
+        {
+          "title": "Aws, Docker, Pytorch, Java, C & Docker, Terraform, Spark, Aws, Elasticsearch, Linux, Python, Sql & Java, Azure, Docker, Sql Integration Lab",
+          "description": "Set up a practical lab environment to experiment with Aws, Docker, Pytorch, Java, C & Docker, Terraform, Spark, Aws, Elasticsearch, Linux, Python, Sql & Java, Azure, Docker, Sql configurations and troubleshooting.",
+          "difficulty": "Beginner",
+          "skills_covered": [
+            "aws, docker, pytorch, java, c",
+            "docker, terraform, spark, aws, elasticsearch, linux, python, sql",
+            "java, azure, docker, sql"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "Intermediate",
+      "duration": "6-8 weeks",
+      "focus": "Application & Certification",
+      "skills": [],
+      "courses": [
+        {
+          "course_name": "AWS Developer Path - Cohort 15 (Part 3)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.4450701177120209,
+          "similarity": 0.5751168727874756,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Machine Learning Foundations - Cohort 12 (Part 2)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.4445866048336029,
+          "similarity": 0.5743110179901123,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "Huawei Full-Stack Developer - Cohort 3 (Part 1)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.4733427166938782,
+          "similarity": 0.6222378611564636,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "REST API for Task Management",
+          "skills": [
+            "nodejs",
+            "express",
+            "mongodb"
+          ],
+          "type": "Backend",
+          "difficulty": "Intermediate"
+        },
+        {
+          "title": "Build a Mid-Level Mobile Developer Pipeline using Aws, Docker, Pytorch, Java, C & Docker, Terraform, Spark, Aws, Elasticsearch, Linux, Python, Sql & Java, Azure, Docker, Sql",
+          "description": "Create a comprehensive project that demonstrates your mastery of Aws, Docker, Pytorch, Java, C & Docker, Terraform, Spark, Aws, Elasticsearch, Linux, Python, Sql & Java, Azure, Docker, Sql. Focus on real-world application.",
+          "difficulty": "Intermediate",
+          "skills_covered": [
+            "aws, docker, pytorch, java, c",
+            "docker, terraform, spark, aws, elasticsearch, linux, python, sql",
+            "java, azure, docker, sql"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "Advanced",
+      "duration": "8-10 weeks",
+      "focus": "Mastery & Job Readiness",
+      "skills": [],
+      "courses": [
+        {
+          "course_name": "Huawei Full-Stack Developer - Cohort 6 (Part 1)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.472197562456131,
+          "similarity": 0.6203292608261108,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "Huawei Full-Stack Developer - Cohort 6 (Part 1)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.4719504117965698,
+          "similarity": 0.6199173331260681,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "Huawei Full-Stack Developer - Cohort 3 (Part 2)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.4711908996105194,
+          "similarity": 0.6186515092849731,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "Full Stack E-commerce Platform",
+          "skills": [
+            "react",
+            "redux",
+            "stripe integration"
+          ],
+          "type": "Full Stack",
+          "difficulty": "Advanced"
+        },
+        {
+          "title": "Develop a Cloud-Native Application with Aws, Docker, Pytorch, Java, C & Docker, Terraform, Spark, Aws, Elasticsearch, Linux, Python, Sql & Java, Azure, Docker, Sql",
+          "description": "Deploy a scalable application integrating Aws, Docker, Pytorch, Java, C & Docker, Terraform, Spark, Aws, Elasticsearch, Linux, Python, Sql & Java, Azure, Docker, Sql to solve a specific business problem.",
+          "difficulty": "Advanced",
+          "skills_covered": [
+            "aws, docker, pytorch, java, c",
+            "docker, terraform, spark, aws, elasticsearch, linux, python, sql",
+            "java, azure, docker, sql"
+          ]
+        }
+      ],
+      "internships": [
+        {
+          "company": "Nilesoft Inc",
+          "role": "Junior Software Engineer",
+          "match": 0.6049718856811523,
+          "location": "Hurghada",
+          "missing_skills": []
+        },
+        {
+          "company": "Techsol Egypt Group",
+          "role": "Junior Full Stack Developer",
+          "match": 0.6048557758331299,
+          "location": "Mansoura",
+          "missing_skills": []
+        },
+        {
+          "company": "Techsol Egypt Inc",
+          "role": "Junior Mobile Developer",
+          "match": 0.5979259014129639,
+          "location": "Tanta",
+          "missing_skills": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,213 @@
+{
+  "student_id": "S0218",
+  "career_path": "Software",
+  "career_source": "Prediction",
+  "generated_at": "2025-11-29",
+  "certification_path": [
+    "Oracle Java Associate",
+    "Meta Front-End Developer",
+    "AWS Developer Associate"
+  ],
+  "stages": [
+    {
+      "stage": "Beginner",
+      "duration": "4-6 weeks",
+      "focus": "Fundamentals & Top Gaps",
+      "skills": [
+        "pandas, elasticsearch, iso27001, routing, hadoop, terraform, javascript, docker, node.js",
+        "pandas, elasticsearch, react, node.js, numpy, microservices, aws",
+        "pandas, hadoop, nosql, rest apis, hipaa, sql, terraform, node.js, aws",
+        "rest apis, javascript, nlp, pandas, ansible, switching, spark, aws, docker, sql",
+        "rest apis, javascript, nlp, pandas, ansible, switching, spark, node.js"
+      ],
+      "courses": [
+        {
+          "course_name": "AWS Academy Machine Learning Foundations - Cohort 12 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5453027486801147,
+          "similarity": 0.7421711683273315,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Machine Learning Foundations - Cohort 3 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5448654294013977,
+          "similarity": 0.7414423227310181,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Machine Learning Foundations - Cohort 9 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5393067598342896,
+          "similarity": 0.7321778535842896,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "Personal Portfolio Website",
+          "skills": [
+            "html",
+            "css",
+            "javascript"
+          ],
+          "type": "Frontend",
+          "difficulty": "Beginner"
+        },
+        {
+          "title": "Pandas, Elasticsearch, Iso27001, Routing, Hadoop, Terraform, Javascript, Docker, Node.Js & Pandas, Elasticsearch, React, Node.Js, Numpy, Microservices, Aws & Pandas, Hadoop, Nosql, Rest Apis, Hipaa, Sql, Terraform, Node.Js, Aws Integration Lab",
+          "description": "Set up a practical lab environment to experiment with Pandas, Elasticsearch, Iso27001, Routing, Hadoop, Terraform, Javascript, Docker, Node.Js & Pandas, Elasticsearch, React, Node.Js, Numpy, Microservices, Aws & Pandas, Hadoop, Nosql, Rest Apis, Hipaa, Sql, Terraform, Node.Js, Aws configurations and troubleshooting.",
+          "difficulty": "Beginner",
+          "skills_covered": [
+            "pandas, elasticsearch, iso27001, routing, hadoop, terraform, javascript, docker, node.js",
+            "pandas, elasticsearch, react, node.js, numpy, microservices, aws",
+            "pandas, hadoop, nosql, rest apis, hipaa, sql, terraform, node.js, aws"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "Intermediate",
+      "duration": "6-8 weeks",
+      "focus": "Application & Certification",
+      "skills": [],
+      "courses": [
+        {
+          "course_name": "AWS Academy Machine Learning Foundations - Cohort 9 (Part 3)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5389472246170044,
+          "similarity": 0.7315787076950073,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Machine Learning Foundations - Cohort 3 (Part 2)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5359958410263062,
+          "similarity": 0.7266596555709839,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AI Talent Program - Cohort 3 (Part 2)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.4567626714706421,
+          "similarity": 0.5946044325828552,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "REST API for Task Management",
+          "skills": [
+            "nodejs",
+            "express",
+            "mongodb"
+          ],
+          "type": "Backend",
+          "difficulty": "Intermediate"
+        },
+        {
+          "title": "Build a Lead Backend Developer Pipeline using Pandas, Elasticsearch, Iso27001, Routing, Hadoop, Terraform, Javascript, Docker, Node.Js & Pandas, Elasticsearch, React, Node.Js, Numpy, Microservices, Aws & Pandas, Hadoop, Nosql, Rest Apis, Hipaa, Sql, Terraform, Node.Js, Aws",
+          "description": "Create a comprehensive project that demonstrates your mastery of Pandas, Elasticsearch, Iso27001, Routing, Hadoop, Terraform, Javascript, Docker, Node.Js & Pandas, Elasticsearch, React, Node.Js, Numpy, Microservices, Aws & Pandas, Hadoop, Nosql, Rest Apis, Hipaa, Sql, Terraform, Node.Js, Aws. Focus on real-world application.",
+          "difficulty": "Intermediate",
+          "skills_covered": [
+            "pandas, elasticsearch, iso27001, routing, hadoop, terraform, javascript, docker, node.js",
+            "pandas, elasticsearch, react, node.js, numpy, microservices, aws",
+            "pandas, hadoop, nosql, rest apis, hipaa, sql, terraform, node.js, aws"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "Advanced",
+      "duration": "8-10 weeks",
+      "focus": "Mastery & Job Readiness",
+      "skills": [],
+      "courses": [
+        {
+          "course_name": "AI Talent Program - Cohort 6 (Part 3)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.4433986246585846,
+          "similarity": 0.5723310112953186,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AI Talent Program - Cohort 15 (Part 3)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.44128674268722534,
+          "similarity": 0.5688112378120422,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "HCIA-AI - Cohort 9 (Part 1)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.434108167886734,
+          "similarity": 0.5568469166755676,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "Full Stack E-commerce Platform",
+          "skills": [
+            "react",
+            "redux",
+            "stripe integration"
+          ],
+          "type": "Full Stack",
+          "difficulty": "Advanced"
+        },
+        {
+          "title": "Develop a Cloud-Native Application with Pandas, Elasticsearch, Iso27001, Routing, Hadoop, Terraform, Javascript, Docker, Node.Js & Pandas, Elasticsearch, React, Node.Js, Numpy, Microservices, Aws & Pandas, Hadoop, Nosql, Rest Apis, Hipaa, Sql, Terraform, Node.Js, Aws",
+          "description": "Deploy a scalable application integrating Pandas, Elasticsearch, Iso27001, Routing, Hadoop, Terraform, Javascript, Docker, Node.Js & Pandas, Elasticsearch, React, Node.Js, Numpy, Microservices, Aws & Pandas, Hadoop, Nosql, Rest Apis, Hipaa, Sql, Terraform, Node.Js, Aws to solve a specific business problem.",
+          "difficulty": "Advanced",
+          "skills_covered": [
+            "pandas, elasticsearch, iso27001, routing, hadoop, terraform, javascript, docker, node.js",
+            "pandas, elasticsearch, react, node.js, numpy, microservices, aws",
+            "pandas, hadoop, nosql, rest apis, hipaa, sql, terraform, node.js, aws"
+          ]
+        }
+      ],
+      "internships": [
+        {
+          "company": "Pyramid Solutions Group",
+          "role": "Junior Machine Learning Engineer",
+          "match": 0.5789349675178528,
+          "location": "Aswan",
+          "missing_skills": []
+        },
+        {
+          "company": "Pyramid Solutions Ltd",
+          "role": "Junior Backend Developer",
+          "match": 0.5730692148208618,
+          "location": "Alexandria",
+          "missing_skills": []
+        },
+        {
+          "company": "Pyramid Solutions Egypt",
+          "role": "Junior Backend Developer",
+          "match": 0.571898341178894,
+          "location": "Alexandria",
+          "missing_skills": []
+        }
+      ]
+    }
+  ]
+}

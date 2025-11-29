@@ -1,0 +1,213 @@
+{
+  "student_id": "S0374",
+  "career_path": "Cloud",
+  "career_source": "Prediction",
+  "generated_at": "2025-11-29",
+  "certification_path": [
+    "AWS Cloud Practitioner",
+    "AWS Solutions Architect Associate",
+    "Huawei HCIA Cloud"
+  ],
+  "stages": [
+    {
+      "stage": "Beginner",
+      "duration": "4-6 weeks",
+      "focus": "Fundamentals & Top Gaps",
+      "skills": [
+        "pandas, elasticsearch, react, node.js, numpy, microservices, python",
+        "switching, pandas, numpy, flask, nlp, ansible, ci/cd",
+        "switching, pandas, numpy, flask, nlp, ansible, ci/cd, node.js, sql",
+        "tensorflow, pandas, pytorch, react, ansible, docker, sql",
+        "tensorflow, pandas, pytorch, react, ansible, python"
+      ],
+      "courses": [
+        {
+          "course_name": "AWS Academy Machine Learning Foundations - Cohort 3 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5044566988945007,
+          "similarity": 0.6740944385528564,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Machine Learning Foundations - Cohort 12 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5042252540588379,
+          "similarity": 0.6737087368965149,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS ML Specialty - Cohort 9 (Part 3)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5013062953948975,
+          "similarity": 0.6688438057899475,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "Static Website Hosting on AWS S3",
+          "skills": [
+            "aws",
+            "s3",
+            "dns"
+          ],
+          "type": "Infrastructure",
+          "difficulty": "Beginner"
+        },
+        {
+          "title": "Pandas, Elasticsearch, React, Node.Js, Numpy, Microservices, Python & Switching, Pandas, Numpy, Flask, Nlp, Ansible, Ci/Cd & Switching, Pandas, Numpy, Flask, Nlp, Ansible, Ci/Cd, Node.Js, Sql Integration Lab",
+          "description": "Set up a practical lab environment to experiment with Pandas, Elasticsearch, React, Node.Js, Numpy, Microservices, Python & Switching, Pandas, Numpy, Flask, Nlp, Ansible, Ci/Cd & Switching, Pandas, Numpy, Flask, Nlp, Ansible, Ci/Cd, Node.Js, Sql configurations and troubleshooting.",
+          "difficulty": "Beginner",
+          "skills_covered": [
+            "pandas, elasticsearch, react, node.js, numpy, microservices, python",
+            "switching, pandas, numpy, flask, nlp, ansible, ci/cd",
+            "switching, pandas, numpy, flask, nlp, ansible, ci/cd, node.js, sql"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "Intermediate",
+      "duration": "6-8 weeks",
+      "focus": "Application & Certification",
+      "skills": [],
+      "courses": [
+        {
+          "course_name": "AWS Academy Machine Learning Foundations - Cohort 9 (Part 3)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.4959644377231598,
+          "similarity": 0.6599407196044922,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Machine Learning Foundations - Cohort 9 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.4959307909011841,
+          "similarity": 0.6598846316337585,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AI Talent Program - Cohort 3 (Part 2)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.4892740547657013,
+          "similarity": 0.6487900614738464,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "Serverless API with Lambda & DynamoDB",
+          "skills": [
+            "aws lambda",
+            "api gateway",
+            "nosql"
+          ],
+          "type": "Backend",
+          "difficulty": "Intermediate"
+        },
+        {
+          "title": "Build a Principal Cloud Engineer Pipeline using Pandas, Elasticsearch, React, Node.Js, Numpy, Microservices, Python & Switching, Pandas, Numpy, Flask, Nlp, Ansible, Ci/Cd & Switching, Pandas, Numpy, Flask, Nlp, Ansible, Ci/Cd, Node.Js, Sql",
+          "description": "Create a comprehensive project that demonstrates your mastery of Pandas, Elasticsearch, React, Node.Js, Numpy, Microservices, Python & Switching, Pandas, Numpy, Flask, Nlp, Ansible, Ci/Cd & Switching, Pandas, Numpy, Flask, Nlp, Ansible, Ci/Cd, Node.Js, Sql. Focus on real-world application.",
+          "difficulty": "Intermediate",
+          "skills_covered": [
+            "pandas, elasticsearch, react, node.js, numpy, microservices, python",
+            "switching, pandas, numpy, flask, nlp, ansible, ci/cd",
+            "switching, pandas, numpy, flask, nlp, ansible, ci/cd, node.js, sql"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "Advanced",
+      "duration": "8-10 weeks",
+      "focus": "Mastery & Job Readiness",
+      "skills": [],
+      "courses": [
+        {
+          "course_name": "AI Talent Program - Cohort 6 (Part 3)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.4696396291255951,
+          "similarity": 0.616066038608551,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AI Talent Program - Cohort 15 (Part 3)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.4664607346057892,
+          "similarity": 0.6107679009437561,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "HCIA-AI - Cohort 9 (Part 1)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.4447021782398224,
+          "similarity": 0.5745036005973816,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "Multi-Tier Microservices Architecture",
+          "skills": [
+            "kubernetes",
+            "docker",
+            "terraform"
+          ],
+          "type": "DevOps",
+          "difficulty": "Advanced"
+        },
+        {
+          "title": "Develop a Cloud-Native Application with Pandas, Elasticsearch, React, Node.Js, Numpy, Microservices, Python & Switching, Pandas, Numpy, Flask, Nlp, Ansible, Ci/Cd & Switching, Pandas, Numpy, Flask, Nlp, Ansible, Ci/Cd, Node.Js, Sql",
+          "description": "Deploy a scalable application integrating Pandas, Elasticsearch, React, Node.Js, Numpy, Microservices, Python & Switching, Pandas, Numpy, Flask, Nlp, Ansible, Ci/Cd & Switching, Pandas, Numpy, Flask, Nlp, Ansible, Ci/Cd, Node.Js, Sql to solve a specific business problem.",
+          "difficulty": "Advanced",
+          "skills_covered": [
+            "pandas, elasticsearch, react, node.js, numpy, microservices, python",
+            "switching, pandas, numpy, flask, nlp, ansible, ci/cd",
+            "switching, pandas, numpy, flask, nlp, ansible, ci/cd, node.js, sql"
+          ]
+        }
+      ],
+      "internships": [
+        {
+          "company": "Smartdata Labs Inc",
+          "role": "Junior Data Analyst",
+          "match": 0.6157147288322449,
+          "location": "Giza",
+          "missing_skills": []
+        },
+        {
+          "company": "Pharos Ai Egypt",
+          "role": "Junior Product Manager",
+          "match": 0.6062871813774109,
+          "location": "Hurghada",
+          "missing_skills": []
+        },
+        {
+          "company": "Pharos Ai Ltd",
+          "role": "Junior Product Manager",
+          "match": 0.6062871813774109,
+          "location": "Hurghada",
+          "missing_skills": []
+        }
+      ]
+    }
+  ]
+}

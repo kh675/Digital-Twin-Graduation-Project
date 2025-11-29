@@ -1,0 +1,213 @@
+{
+  "student_id": "S0306",
+  "career_path": "Software",
+  "career_source": "Prediction",
+  "generated_at": "2025-11-29",
+  "certification_path": [
+    "Oracle Java Associate",
+    "Meta Front-End Developer",
+    "AWS Developer Associate"
+  ],
+  "stages": [
+    {
+      "stage": "Beginner",
+      "duration": "4-6 weeks",
+      "focus": "Fundamentals & Top Gaps",
+      "skills": [
+        "linux, numpy, node.js, computer vision, ci/cd, docker, aws, tensorflow",
+        "rest apis, javascript, nlp, pandas, ansible, switching, spark, tensorflow, python",
+        "tensorflow, pandas, pytorch, react, ansible",
+        "tensorflow, pandas, pytorch, react, ansible, docker, sql",
+        "tensorflow, pandas, pytorch, react, ansible, python"
+      ],
+      "courses": [
+        {
+          "course_name": "AWS Academy Machine Learning for Developers - Cohort 15 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.4694240093231201,
+          "similarity": 0.6157066822052002,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Machine Learning Foundations - Cohort 12 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.46913406252861023,
+          "similarity": 0.6152234077453613,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Machine Learning for Developers - Cohort 15 (Part 2)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.46694216132164,
+          "similarity": 0.6115702390670776,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "Personal Portfolio Website",
+          "skills": [
+            "html",
+            "css",
+            "javascript"
+          ],
+          "type": "Frontend",
+          "difficulty": "Beginner"
+        },
+        {
+          "title": "Linux, Numpy, Node.Js, Computer Vision, Ci/Cd, Docker, Aws, Tensorflow & Rest Apis, Javascript, Nlp, Pandas, Ansible, Switching, Spark, Tensorflow, Python & Tensorflow, Pandas, Pytorch, React, Ansible Integration Lab",
+          "description": "Set up a practical lab environment to experiment with Linux, Numpy, Node.Js, Computer Vision, Ci/Cd, Docker, Aws, Tensorflow & Rest Apis, Javascript, Nlp, Pandas, Ansible, Switching, Spark, Tensorflow, Python & Tensorflow, Pandas, Pytorch, React, Ansible configurations and troubleshooting.",
+          "difficulty": "Beginner",
+          "skills_covered": [
+            "linux, numpy, node.js, computer vision, ci/cd, docker, aws, tensorflow",
+            "rest apis, javascript, nlp, pandas, ansible, switching, spark, tensorflow, python",
+            "tensorflow, pandas, pytorch, react, ansible"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "Intermediate",
+      "duration": "6-8 weeks",
+      "focus": "Application & Certification",
+      "skills": [],
+      "courses": [
+        {
+          "course_name": "AWS Academy Machine Learning for Developers - Cohort 3 (Part 3)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.4647506773471832,
+          "similarity": 0.6079177856445312,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Machine Learning Foundations - Cohort 3 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.462864488363266,
+          "similarity": 0.6047741174697876,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AI Talent Program - Cohort 3 (Part 2)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.4684850871562958,
+          "similarity": 0.6141418218612671,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "REST API for Task Management",
+          "skills": [
+            "nodejs",
+            "express",
+            "mongodb"
+          ],
+          "type": "Backend",
+          "difficulty": "Intermediate"
+        },
+        {
+          "title": "Build a Lead Full Stack Developer Pipeline using Linux, Numpy, Node.Js, Computer Vision, Ci/Cd, Docker, Aws, Tensorflow & Rest Apis, Javascript, Nlp, Pandas, Ansible, Switching, Spark, Tensorflow, Python & Tensorflow, Pandas, Pytorch, React, Ansible",
+          "description": "Create a comprehensive project that demonstrates your mastery of Linux, Numpy, Node.Js, Computer Vision, Ci/Cd, Docker, Aws, Tensorflow & Rest Apis, Javascript, Nlp, Pandas, Ansible, Switching, Spark, Tensorflow, Python & Tensorflow, Pandas, Pytorch, React, Ansible. Focus on real-world application.",
+          "difficulty": "Intermediate",
+          "skills_covered": [
+            "linux, numpy, node.js, computer vision, ci/cd, docker, aws, tensorflow",
+            "rest apis, javascript, nlp, pandas, ansible, switching, spark, tensorflow, python",
+            "tensorflow, pandas, pytorch, react, ansible"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "Advanced",
+      "duration": "8-10 weeks",
+      "focus": "Mastery & Job Readiness",
+      "skills": [],
+      "courses": [
+        {
+          "course_name": "HCIP-AI-Developer - Cohort 6 (Part 2)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.44755128026008606,
+          "similarity": 0.5792521238327026,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "HCIP-AI-Developer - Cohort 12 (Part 3)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.4438793957233429,
+          "similarity": 0.573132336139679,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "HCIP-AI-Developer - Cohort 6 (Part 3)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.44378775358200073,
+          "similarity": 0.5729795694351196,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "Full Stack E-commerce Platform",
+          "skills": [
+            "react",
+            "redux",
+            "stripe integration"
+          ],
+          "type": "Full Stack",
+          "difficulty": "Advanced"
+        },
+        {
+          "title": "Develop a Cloud-Native Application with Linux, Numpy, Node.Js, Computer Vision, Ci/Cd, Docker, Aws, Tensorflow & Rest Apis, Javascript, Nlp, Pandas, Ansible, Switching, Spark, Tensorflow, Python & Tensorflow, Pandas, Pytorch, React, Ansible",
+          "description": "Deploy a scalable application integrating Linux, Numpy, Node.Js, Computer Vision, Ci/Cd, Docker, Aws, Tensorflow & Rest Apis, Javascript, Nlp, Pandas, Ansible, Switching, Spark, Tensorflow, Python & Tensorflow, Pandas, Pytorch, React, Ansible to solve a specific business problem.",
+          "difficulty": "Advanced",
+          "skills_covered": [
+            "linux, numpy, node.js, computer vision, ci/cd, docker, aws, tensorflow",
+            "rest apis, javascript, nlp, pandas, ansible, switching, spark, tensorflow, python",
+            "tensorflow, pandas, pytorch, react, ansible"
+          ]
+        }
+      ],
+      "internships": [
+        {
+          "company": "Pyramid Solutions Ltd",
+          "role": "Junior Backend Developer",
+          "match": 0.6285580396652222,
+          "location": "Alexandria",
+          "missing_skills": []
+        },
+        {
+          "company": "Techsol Egypt Group",
+          "role": "Junior Data Scientist",
+          "match": 0.6222131252288818,
+          "location": "Aswan",
+          "missing_skills": []
+        },
+        {
+          "company": "Techsol Egypt Solutions",
+          "role": "Junior Machine Learning Engineer",
+          "match": 0.6210477352142334,
+          "location": "Mansoura",
+          "missing_skills": []
+        }
+      ]
+    }
+  ]
+}

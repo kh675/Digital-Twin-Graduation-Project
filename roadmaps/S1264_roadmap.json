@@ -1,0 +1,213 @@
+{
+  "student_id": "S1264",
+  "career_path": "Data",
+  "career_source": "Prediction",
+  "generated_at": "2025-11-29",
+  "certification_path": [
+    "Google Data Analytics",
+    "Azure Data Scientist Associate",
+    "IBM Data Science"
+  ],
+  "stages": [
+    {
+      "stage": "Beginner",
+      "duration": "4-6 weeks",
+      "focus": "Fundamentals & Top Gaps",
+      "skills": [
+        "django, react, 5g, sql, pandas, python, aws",
+        "docker, firewalls, hipaa, aws, node.js",
+        "flask, computer vision, routing, aws, node.js",
+        "flask, computer vision, routing, sql, aws",
+        "linux, 5g, routing, python, gcp, computer vision, aws, docker"
+      ],
+      "courses": [
+        {
+          "course_name": "AWS Academy Cloud Foundations - Cohort 9 (Part 2)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5039112567901611,
+          "similarity": 0.6731853485107422,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Cloud Foundations - Cohort 9 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.49610966444015503,
+          "similarity": 0.660182774066925,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Cloud Foundations - Cohort 3 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.4925939440727234,
+          "similarity": 0.6543232202529907,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "Exploratory Data Analysis on Titanic Dataset",
+          "skills": [
+            "python",
+            "pandas",
+            "matplotlib"
+          ],
+          "type": "Analysis",
+          "difficulty": "Beginner"
+        },
+        {
+          "title": "Django, React, 5G, Sql, Pandas, Python, Aws & Docker, Firewalls, Hipaa, Aws, Node.Js & Flask, Computer Vision, Routing, Aws, Node.Js Integration Lab",
+          "description": "Set up a practical lab environment to experiment with Django, React, 5G, Sql, Pandas, Python, Aws & Docker, Firewalls, Hipaa, Aws, Node.Js & Flask, Computer Vision, Routing, Aws, Node.Js configurations and troubleshooting.",
+          "difficulty": "Beginner",
+          "skills_covered": [
+            "django, react, 5g, sql, pandas, python, aws",
+            "docker, firewalls, hipaa, aws, node.js",
+            "flask, computer vision, routing, aws, node.js"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "Intermediate",
+      "duration": "6-8 weeks",
+      "focus": "Application & Certification",
+      "skills": [],
+      "courses": [
+        {
+          "course_name": "AWS Academy Cloud Foundations - Cohort 9 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.49136584997177124,
+          "similarity": 0.6522763967514038,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Cloud Foundations - Cohort 3 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.49130329489707947,
+          "similarity": 0.6521721482276917,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "HCIA-Cloud Computing - Cohort 3 (Part 2)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.5072301626205444,
+          "similarity": 0.6787168979644775,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "E-commerce Sales Dashboard",
+          "skills": [
+            "sql",
+            "tableau",
+            "data cleaning"
+          ],
+          "type": "Visualization",
+          "difficulty": "Intermediate"
+        },
+        {
+          "title": "Build a Principal Data Scientist Pipeline using Django, React, 5G, Sql, Pandas, Python, Aws & Docker, Firewalls, Hipaa, Aws, Node.Js & Flask, Computer Vision, Routing, Aws, Node.Js",
+          "description": "Create a comprehensive project that demonstrates your mastery of Django, React, 5G, Sql, Pandas, Python, Aws & Docker, Firewalls, Hipaa, Aws, Node.Js & Flask, Computer Vision, Routing, Aws, Node.Js. Focus on real-world application.",
+          "difficulty": "Intermediate",
+          "skills_covered": [
+            "django, react, 5g, sql, pandas, python, aws",
+            "docker, firewalls, hipaa, aws, node.js",
+            "flask, computer vision, routing, aws, node.js"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "Advanced",
+      "duration": "8-10 weeks",
+      "focus": "Mastery & Job Readiness",
+      "skills": [],
+      "courses": [
+        {
+          "course_name": "HCIP-Cloud Computing - Cohort 6 (Part 1)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.5031346678733826,
+          "similarity": 0.6718910932540894,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "HCIA-Cloud Computing - Cohort 12 (Part 3)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.5013301372528076,
+          "similarity": 0.6688835024833679,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "HCIA-Cloud Computing - Cohort 15 (Part 1)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.5008914470672607,
+          "similarity": 0.6681523323059082,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "Predictive Customer Churn Model",
+          "skills": [
+            "scikit-learn",
+            "feature engineering",
+            "modeling"
+          ],
+          "type": "ML",
+          "difficulty": "Advanced"
+        },
+        {
+          "title": "Develop a Cloud-Native Application with Django, React, 5G, Sql, Pandas, Python, Aws & Docker, Firewalls, Hipaa, Aws, Node.Js & Flask, Computer Vision, Routing, Aws, Node.Js",
+          "description": "Deploy a scalable application integrating Django, React, 5G, Sql, Pandas, Python, Aws & Docker, Firewalls, Hipaa, Aws, Node.Js & Flask, Computer Vision, Routing, Aws, Node.Js to solve a specific business problem.",
+          "difficulty": "Advanced",
+          "skills_covered": [
+            "django, react, 5g, sql, pandas, python, aws",
+            "docker, firewalls, hipaa, aws, node.js",
+            "flask, computer vision, routing, aws, node.js"
+          ]
+        }
+      ],
+      "internships": [
+        {
+          "company": "Cloudworks Egypt Inc",
+          "role": "Junior Full Stack Developer",
+          "match": 0.5565490126609802,
+          "location": "Suez",
+          "missing_skills": []
+        },
+        {
+          "company": "Cairocloud Ltd",
+          "role": "Junior Backend Developer",
+          "match": 0.5508862733840942,
+          "location": "Aswan",
+          "missing_skills": []
+        },
+        {
+          "company": "Cloudworks Egypt Inc",
+          "role": "Junior Full Stack Developer",
+          "match": 0.5487158298492432,
+          "location": "Tanta",
+          "missing_skills": []
+        }
+      ]
+    }
+  ]
+}

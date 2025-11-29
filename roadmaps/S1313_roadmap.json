@@ -1,0 +1,213 @@
+{
+  "student_id": "S1313",
+  "career_path": "Software",
+  "career_source": "Prediction",
+  "generated_at": "2025-11-29",
+  "certification_path": [
+    "Oracle Java Associate",
+    "Meta Front-End Developer",
+    "AWS Developer Associate"
+  ],
+  "stages": [
+    {
+      "stage": "Beginner",
+      "duration": "4-6 weeks",
+      "focus": "Fundamentals & Top Gaps",
+      "skills": [
+        "linux, numpy, node.js, computer vision, ci/cd, sql",
+        "sql, rest apis, node.js, tensorflow, hadoop, ansible, numpy, docker",
+        "sql, switching, iso27001, docker, aws, node.js",
+        "switching, azure, routing, pytorch, ansible, aws, spark, python, docker, sql",
+        "tcp/ip, rest apis, docker, flask, sql"
+      ],
+      "courses": [
+        {
+          "course_name": "AWS Developer Path - Cohort 3 (Part 3)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.3990791141986847,
+          "similarity": 0.4984651803970337,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Data Engineering - Cohort 6 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.39039039611816406,
+          "similarity": 0.48398399353027344,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Data Engineering - Cohort 9 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.38863393664360046,
+          "similarity": 0.4810565412044525,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "Personal Portfolio Website",
+          "skills": [
+            "html",
+            "css",
+            "javascript"
+          ],
+          "type": "Frontend",
+          "difficulty": "Beginner"
+        },
+        {
+          "title": "Linux, Numpy, Node.Js, Computer Vision, Ci/Cd, Sql & Sql, Rest Apis, Node.Js, Tensorflow, Hadoop, Ansible, Numpy, Docker & Sql, Switching, Iso27001, Docker, Aws, Node.Js Integration Lab",
+          "description": "Set up a practical lab environment to experiment with Linux, Numpy, Node.Js, Computer Vision, Ci/Cd, Sql & Sql, Rest Apis, Node.Js, Tensorflow, Hadoop, Ansible, Numpy, Docker & Sql, Switching, Iso27001, Docker, Aws, Node.Js configurations and troubleshooting.",
+          "difficulty": "Beginner",
+          "skills_covered": [
+            "linux, numpy, node.js, computer vision, ci/cd, sql",
+            "sql, rest apis, node.js, tensorflow, hadoop, ansible, numpy, docker",
+            "sql, switching, iso27001, docker, aws, node.js"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "Intermediate",
+      "duration": "6-8 weeks",
+      "focus": "Application & Certification",
+      "skills": [],
+      "courses": [
+        {
+          "course_name": "AWS Academy Data Engineering - Cohort 15 (Part 3)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.3878205120563507,
+          "similarity": 0.47970083355903625,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Data Engineering - Cohort 12 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.38645312190055847,
+          "similarity": 0.4774218797683716,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "Huawei Full-Stack Developer - Cohort 3 (Part 1)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.526611328125,
+          "similarity": 0.7110188007354736,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "REST API for Task Management",
+          "skills": [
+            "nodejs",
+            "express",
+            "mongodb"
+          ],
+          "type": "Backend",
+          "difficulty": "Intermediate"
+        },
+        {
+          "title": "Build a Mid-Level Backend Developer Pipeline using Linux, Numpy, Node.Js, Computer Vision, Ci/Cd, Sql & Sql, Rest Apis, Node.Js, Tensorflow, Hadoop, Ansible, Numpy, Docker & Sql, Switching, Iso27001, Docker, Aws, Node.Js",
+          "description": "Create a comprehensive project that demonstrates your mastery of Linux, Numpy, Node.Js, Computer Vision, Ci/Cd, Sql & Sql, Rest Apis, Node.Js, Tensorflow, Hadoop, Ansible, Numpy, Docker & Sql, Switching, Iso27001, Docker, Aws, Node.Js. Focus on real-world application.",
+          "difficulty": "Intermediate",
+          "skills_covered": [
+            "linux, numpy, node.js, computer vision, ci/cd, sql",
+            "sql, rest apis, node.js, tensorflow, hadoop, ansible, numpy, docker",
+            "sql, switching, iso27001, docker, aws, node.js"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "Advanced",
+      "duration": "8-10 weeks",
+      "focus": "Mastery & Job Readiness",
+      "skills": [],
+      "courses": [
+        {
+          "course_name": "Huawei Full-Stack Developer - Cohort 6 (Part 1)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.521872878074646,
+          "similarity": 0.7031214237213135,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "Huawei Full-Stack Developer - Cohort 9 (Part 3)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.520768404006958,
+          "similarity": 0.7012805938720703,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "Huawei Full-Stack Developer - Cohort 6 (Part 1)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.5194845199584961,
+          "similarity": 0.6991407871246338,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "Full Stack E-commerce Platform",
+          "skills": [
+            "react",
+            "redux",
+            "stripe integration"
+          ],
+          "type": "Full Stack",
+          "difficulty": "Advanced"
+        },
+        {
+          "title": "Develop a Cloud-Native Application with Linux, Numpy, Node.Js, Computer Vision, Ci/Cd, Sql & Sql, Rest Apis, Node.Js, Tensorflow, Hadoop, Ansible, Numpy, Docker & Sql, Switching, Iso27001, Docker, Aws, Node.Js",
+          "description": "Deploy a scalable application integrating Linux, Numpy, Node.Js, Computer Vision, Ci/Cd, Sql & Sql, Rest Apis, Node.Js, Tensorflow, Hadoop, Ansible, Numpy, Docker & Sql, Switching, Iso27001, Docker, Aws, Node.Js to solve a specific business problem.",
+          "difficulty": "Advanced",
+          "skills_covered": [
+            "linux, numpy, node.js, computer vision, ci/cd, sql",
+            "sql, rest apis, node.js, tensorflow, hadoop, ansible, numpy, docker",
+            "sql, switching, iso27001, docker, aws, node.js"
+          ]
+        }
+      ],
+      "internships": [
+        {
+          "company": "Techsol Egypt Group",
+          "role": "Junior Full Stack Developer",
+          "match": 0.6044983863830566,
+          "location": "Mansoura",
+          "missing_skills": []
+        },
+        {
+          "company": "Pyramid Solutions Egypt",
+          "role": "Junior Backend Developer",
+          "match": 0.5836538672447205,
+          "location": "Alexandria",
+          "missing_skills": []
+        },
+        {
+          "company": "Masrsoft Solutions",
+          "role": "Junior Mobile Developer",
+          "match": 0.581426203250885,
+          "location": "Tanta",
+          "missing_skills": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,213 @@
+{
+  "student_id": "S0070",
+  "career_path": "Cloud",
+  "career_source": "Prediction",
+  "generated_at": "2025-11-29",
+  "certification_path": [
+    "AWS Cloud Practitioner",
+    "AWS Solutions Architect Associate",
+    "Huawei HCIA Cloud"
+  ],
+  "stages": [
+    {
+      "stage": "Beginner",
+      "duration": "4-6 weeks",
+      "focus": "Fundamentals & Top Gaps",
+      "skills": [
+        "pandas, elasticsearch, iso27001, routing, hadoop, terraform, javascript, docker, node.js",
+        "pandas, elasticsearch, iso27001, routing, hadoop, terraform, javascript, docker, tensorflow",
+        "pandas, elasticsearch, iso27001, routing, hadoop, terraform, javascript, python",
+        "pandas, elasticsearch, react, node.js, numpy, microservices, aws",
+        "pandas, elasticsearch, react, node.js, numpy, microservices, python, tensorflow"
+      ],
+      "courses": [
+        {
+          "course_name": "AWS Academy Machine Learning Foundations - Cohort 3 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.570705235004425,
+          "similarity": 0.7845087051391602,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Machine Learning Foundations - Cohort 12 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5705727338790894,
+          "similarity": 0.7842878103256226,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Machine Learning Foundations - Cohort 9 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.563040018081665,
+          "similarity": 0.771733283996582,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "Static Website Hosting on AWS S3",
+          "skills": [
+            "aws",
+            "s3",
+            "dns"
+          ],
+          "type": "Infrastructure",
+          "difficulty": "Beginner"
+        },
+        {
+          "title": "Pandas, Elasticsearch, Iso27001, Routing, Hadoop, Terraform, Javascript, Docker, Node.Js & Pandas, Elasticsearch, Iso27001, Routing, Hadoop, Terraform, Javascript, Docker, Tensorflow & Pandas, Elasticsearch, Iso27001, Routing, Hadoop, Terraform, Javascript, Python Integration Lab",
+          "description": "Set up a practical lab environment to experiment with Pandas, Elasticsearch, Iso27001, Routing, Hadoop, Terraform, Javascript, Docker, Node.Js & Pandas, Elasticsearch, Iso27001, Routing, Hadoop, Terraform, Javascript, Docker, Tensorflow & Pandas, Elasticsearch, Iso27001, Routing, Hadoop, Terraform, Javascript, Python configurations and troubleshooting.",
+          "difficulty": "Beginner",
+          "skills_covered": [
+            "pandas, elasticsearch, iso27001, routing, hadoop, terraform, javascript, docker, node.js",
+            "pandas, elasticsearch, iso27001, routing, hadoop, terraform, javascript, docker, tensorflow",
+            "pandas, elasticsearch, iso27001, routing, hadoop, terraform, javascript, python"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "Intermediate",
+      "duration": "6-8 weeks",
+      "focus": "Application & Certification",
+      "skills": [],
+      "courses": [
+        {
+          "course_name": "AWS Academy Machine Learning Foundations - Cohort 9 (Part 3)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5627052187919617,
+          "similarity": 0.7711753249168396,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Machine Learning Foundations - Cohort 3 (Part 2)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5607560873031616,
+          "similarity": 0.767926812171936,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AI Talent Program - Cohort 3 (Part 2)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.4767029881477356,
+          "similarity": 0.6278383135795593,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "Serverless API with Lambda & DynamoDB",
+          "skills": [
+            "aws lambda",
+            "api gateway",
+            "nosql"
+          ],
+          "type": "Backend",
+          "difficulty": "Intermediate"
+        },
+        {
+          "title": "Build a Lead Cloud Engineer Pipeline using Pandas, Elasticsearch, Iso27001, Routing, Hadoop, Terraform, Javascript, Docker, Node.Js & Pandas, Elasticsearch, Iso27001, Routing, Hadoop, Terraform, Javascript, Docker, Tensorflow & Pandas, Elasticsearch, Iso27001, Routing, Hadoop, Terraform, Javascript, Python",
+          "description": "Create a comprehensive project that demonstrates your mastery of Pandas, Elasticsearch, Iso27001, Routing, Hadoop, Terraform, Javascript, Docker, Node.Js & Pandas, Elasticsearch, Iso27001, Routing, Hadoop, Terraform, Javascript, Docker, Tensorflow & Pandas, Elasticsearch, Iso27001, Routing, Hadoop, Terraform, Javascript, Python. Focus on real-world application.",
+          "difficulty": "Intermediate",
+          "skills_covered": [
+            "pandas, elasticsearch, iso27001, routing, hadoop, terraform, javascript, docker, node.js",
+            "pandas, elasticsearch, iso27001, routing, hadoop, terraform, javascript, docker, tensorflow",
+            "pandas, elasticsearch, iso27001, routing, hadoop, terraform, javascript, python"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "Advanced",
+      "duration": "8-10 weeks",
+      "focus": "Mastery & Job Readiness",
+      "skills": [],
+      "courses": [
+        {
+          "course_name": "AI Talent Program - Cohort 6 (Part 3)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.46412888169288635,
+          "similarity": 0.6068814396858215,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AI Talent Program - Cohort 15 (Part 3)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.463134765625,
+          "similarity": 0.605224609375,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "HCIA-AI - Cohort 9 (Part 1)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.4396069645881653,
+          "similarity": 0.5660116076469421,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "Multi-Tier Microservices Architecture",
+          "skills": [
+            "kubernetes",
+            "docker",
+            "terraform"
+          ],
+          "type": "DevOps",
+          "difficulty": "Advanced"
+        },
+        {
+          "title": "Develop a Cloud-Native Application with Pandas, Elasticsearch, Iso27001, Routing, Hadoop, Terraform, Javascript, Docker, Node.Js & Pandas, Elasticsearch, Iso27001, Routing, Hadoop, Terraform, Javascript, Docker, Tensorflow & Pandas, Elasticsearch, Iso27001, Routing, Hadoop, Terraform, Javascript, Python",
+          "description": "Deploy a scalable application integrating Pandas, Elasticsearch, Iso27001, Routing, Hadoop, Terraform, Javascript, Docker, Node.Js & Pandas, Elasticsearch, Iso27001, Routing, Hadoop, Terraform, Javascript, Docker, Tensorflow & Pandas, Elasticsearch, Iso27001, Routing, Hadoop, Terraform, Javascript, Python to solve a specific business problem.",
+          "difficulty": "Advanced",
+          "skills_covered": [
+            "pandas, elasticsearch, iso27001, routing, hadoop, terraform, javascript, docker, node.js",
+            "pandas, elasticsearch, iso27001, routing, hadoop, terraform, javascript, docker, tensorflow",
+            "pandas, elasticsearch, iso27001, routing, hadoop, terraform, javascript, python"
+          ]
+        }
+      ],
+      "internships": [
+        {
+          "company": "Pyramid Solutions Group",
+          "role": "Junior Machine Learning Engineer",
+          "match": 0.6300869584083557,
+          "location": "Aswan",
+          "missing_skills": []
+        },
+        {
+          "company": "Pyramid Solutions Egypt",
+          "role": "Junior Machine Learning Engineer",
+          "match": 0.6234807968139648,
+          "location": "Aswan",
+          "missing_skills": []
+        },
+        {
+          "company": "Pyramid Solutions Group",
+          "role": "Junior Quality Assurance Engineer",
+          "match": 0.6178997159004211,
+          "location": "Hurghada",
+          "missing_skills": []
+        }
+      ]
+    }
+  ]
+}

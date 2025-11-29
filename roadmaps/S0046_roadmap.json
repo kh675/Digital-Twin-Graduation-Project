@@ -1,0 +1,213 @@
+{
+  "student_id": "S0046",
+  "career_path": "Software",
+  "career_source": "Prediction",
+  "generated_at": "2025-11-29",
+  "certification_path": [
+    "Oracle Java Associate",
+    "Meta Front-End Developer",
+    "AWS Developer Associate"
+  ],
+  "stages": [
+    {
+      "stage": "Beginner",
+      "duration": "4-6 weeks",
+      "focus": "Fundamentals & Top Gaps",
+      "skills": [
+        "pandas, hadoop, nosql, rest apis, hipaa, sql, terraform, node.js, kubernetes, docker",
+        "rest apis, react, javascript, pytorch, terraform, routing, node.js, python, tensorflow",
+        "tensorflow, pandas, pytorch, react, ansible",
+        "tensorflow, pandas, pytorch, react, ansible, docker, sql",
+        "tensorflow, pandas, pytorch, react, ansible, python"
+      ],
+      "courses": [
+        {
+          "course_name": "AWS Academy Machine Learning for Developers - Cohort 15 (Part 2)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.561843752861023,
+          "similarity": 0.76973956823349,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Machine Learning for Developers - Cohort 15 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5522546172142029,
+          "similarity": 0.753757655620575,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Machine Learning Foundations - Cohort 12 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5516515374183655,
+          "similarity": 0.7527525424957275,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "Personal Portfolio Website",
+          "skills": [
+            "html",
+            "css",
+            "javascript"
+          ],
+          "type": "Frontend",
+          "difficulty": "Beginner"
+        },
+        {
+          "title": "Pandas, Hadoop, Nosql, Rest Apis, Hipaa, Sql, Terraform, Node.Js, Kubernetes, Docker & Rest Apis, React, Javascript, Pytorch, Terraform, Routing, Node.Js, Python, Tensorflow & Tensorflow, Pandas, Pytorch, React, Ansible Integration Lab",
+          "description": "Set up a practical lab environment to experiment with Pandas, Hadoop, Nosql, Rest Apis, Hipaa, Sql, Terraform, Node.Js, Kubernetes, Docker & Rest Apis, React, Javascript, Pytorch, Terraform, Routing, Node.Js, Python, Tensorflow & Tensorflow, Pandas, Pytorch, React, Ansible configurations and troubleshooting.",
+          "difficulty": "Beginner",
+          "skills_covered": [
+            "pandas, hadoop, nosql, rest apis, hipaa, sql, terraform, node.js, kubernetes, docker",
+            "rest apis, react, javascript, pytorch, terraform, routing, node.js, python, tensorflow",
+            "tensorflow, pandas, pytorch, react, ansible"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "Intermediate",
+      "duration": "6-8 weeks",
+      "focus": "Application & Certification",
+      "skills": [],
+      "courses": [
+        {
+          "course_name": "AWS Academy Machine Learning for Developers - Cohort 3 (Part 3)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5515866875648499,
+          "similarity": 0.7526444792747498,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Machine Learning for Developers - Cohort 6 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5504943132400513,
+          "similarity": 0.7508238554000854,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "HCIP-AI-Developer - Cohort 12 (Part 3)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.4813760817050934,
+          "similarity": 0.6356267929077148,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "REST API for Task Management",
+          "skills": [
+            "nodejs",
+            "express",
+            "mongodb"
+          ],
+          "type": "Backend",
+          "difficulty": "Intermediate"
+        },
+        {
+          "title": "Build a Principal Backend Developer Pipeline using Pandas, Hadoop, Nosql, Rest Apis, Hipaa, Sql, Terraform, Node.Js, Kubernetes, Docker & Rest Apis, React, Javascript, Pytorch, Terraform, Routing, Node.Js, Python, Tensorflow & Tensorflow, Pandas, Pytorch, React, Ansible",
+          "description": "Create a comprehensive project that demonstrates your mastery of Pandas, Hadoop, Nosql, Rest Apis, Hipaa, Sql, Terraform, Node.Js, Kubernetes, Docker & Rest Apis, React, Javascript, Pytorch, Terraform, Routing, Node.Js, Python, Tensorflow & Tensorflow, Pandas, Pytorch, React, Ansible. Focus on real-world application.",
+          "difficulty": "Intermediate",
+          "skills_covered": [
+            "pandas, hadoop, nosql, rest apis, hipaa, sql, terraform, node.js, kubernetes, docker",
+            "rest apis, react, javascript, pytorch, terraform, routing, node.js, python, tensorflow",
+            "tensorflow, pandas, pytorch, react, ansible"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "Advanced",
+      "duration": "8-10 weeks",
+      "focus": "Mastery & Job Readiness",
+      "skills": [],
+      "courses": [
+        {
+          "course_name": "AI Talent Program - Cohort 3 (Part 2)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.48134785890579224,
+          "similarity": 0.6355797648429871,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "HCIP-AI-Developer - Cohort 12 (Part 2)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.479814350605011,
+          "similarity": 0.6330239176750183,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "HCIP-AI-Developer - Cohort 6 (Part 2)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.4751327931880951,
+          "similarity": 0.625221312046051,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "Full Stack E-commerce Platform",
+          "skills": [
+            "react",
+            "redux",
+            "stripe integration"
+          ],
+          "type": "Full Stack",
+          "difficulty": "Advanced"
+        },
+        {
+          "title": "Develop a Cloud-Native Application with Pandas, Hadoop, Nosql, Rest Apis, Hipaa, Sql, Terraform, Node.Js, Kubernetes, Docker & Rest Apis, React, Javascript, Pytorch, Terraform, Routing, Node.Js, Python, Tensorflow & Tensorflow, Pandas, Pytorch, React, Ansible",
+          "description": "Deploy a scalable application integrating Pandas, Hadoop, Nosql, Rest Apis, Hipaa, Sql, Terraform, Node.Js, Kubernetes, Docker & Rest Apis, React, Javascript, Pytorch, Terraform, Routing, Node.Js, Python, Tensorflow & Tensorflow, Pandas, Pytorch, React, Ansible to solve a specific business problem.",
+          "difficulty": "Advanced",
+          "skills_covered": [
+            "pandas, hadoop, nosql, rest apis, hipaa, sql, terraform, node.js, kubernetes, docker",
+            "rest apis, react, javascript, pytorch, terraform, routing, node.js, python, tensorflow",
+            "tensorflow, pandas, pytorch, react, ansible"
+          ]
+        }
+      ],
+      "internships": [
+        {
+          "company": "Pyramid Solutions Egypt",
+          "role": "Junior Machine Learning Engineer",
+          "match": 0.6495627164840698,
+          "location": "Aswan",
+          "missing_skills": []
+        },
+        {
+          "company": "Futurevision Group",
+          "role": "Junior Frontend Developer",
+          "match": 0.6410873532295227,
+          "location": "Giza",
+          "missing_skills": []
+        },
+        {
+          "company": "Pyramid Solutions Group",
+          "role": "Junior Machine Learning Engineer",
+          "match": 0.6323027014732361,
+          "location": "Aswan",
+          "missing_skills": []
+        }
+      ]
+    }
+  ]
+}

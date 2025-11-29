@@ -1,0 +1,213 @@
+{
+  "student_id": "S1013",
+  "career_path": "Software",
+  "career_source": "Prediction",
+  "generated_at": "2025-11-29",
+  "certification_path": [
+    "Oracle Java Associate",
+    "Meta Front-End Developer",
+    "AWS Developer Associate"
+  ],
+  "stages": [
+    {
+      "stage": "Beginner",
+      "duration": "4-6 weeks",
+      "focus": "Fundamentals & Top Gaps",
+      "skills": [
+        "linux, numpy, node.js, computer vision, ci/cd, docker, aws, tensorflow",
+        "linux, numpy, node.js, computer vision, ci/cd, docker, react",
+        "linux, numpy, node.js, computer vision, ci/cd, sql",
+        "switching, numpy, react, routing, hadoop, azure, javascript, node.js, docker, aws",
+        "switching, numpy, react, routing, hadoop, azure, javascript, tensorflow, docker"
+      ],
+      "courses": [
+        {
+          "course_name": "AWS Developer Path - Cohort 3 (Part 3)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.41455453634262085,
+          "similarity": 0.5242575407028198,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Developer Path - Cohort 15 (Part 3)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.4012961983680725,
+          "similarity": 0.5021603107452393,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Developer Path - Cohort 12 (Part 3)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.39980950951576233,
+          "similarity": 0.4996824860572815,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "Personal Portfolio Website",
+          "skills": [
+            "html",
+            "css",
+            "javascript"
+          ],
+          "type": "Frontend",
+          "difficulty": "Beginner"
+        },
+        {
+          "title": "Linux, Numpy, Node.Js, Computer Vision, Ci/Cd, Docker, Aws, Tensorflow & Linux, Numpy, Node.Js, Computer Vision, Ci/Cd, Docker, React & Linux, Numpy, Node.Js, Computer Vision, Ci/Cd, Sql Integration Lab",
+          "description": "Set up a practical lab environment to experiment with Linux, Numpy, Node.Js, Computer Vision, Ci/Cd, Docker, Aws, Tensorflow & Linux, Numpy, Node.Js, Computer Vision, Ci/Cd, Docker, React & Linux, Numpy, Node.Js, Computer Vision, Ci/Cd, Sql configurations and troubleshooting.",
+          "difficulty": "Beginner",
+          "skills_covered": [
+            "linux, numpy, node.js, computer vision, ci/cd, docker, aws, tensorflow",
+            "linux, numpy, node.js, computer vision, ci/cd, docker, react",
+            "linux, numpy, node.js, computer vision, ci/cd, sql"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "Intermediate",
+      "duration": "6-8 weeks",
+      "focus": "Application & Certification",
+      "skills": [],
+      "courses": [
+        {
+          "course_name": "AWS Developer Path - Cohort 3 (Part 3)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.39283791184425354,
+          "similarity": 0.48806315660476685,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Developer Path - Cohort 6 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.3910563886165619,
+          "similarity": 0.48509398102760315,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "Huawei Full-Stack Developer - Cohort 3 (Part 1)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.49853089451789856,
+          "similarity": 0.6642181277275085,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "REST API for Task Management",
+          "skills": [
+            "nodejs",
+            "express",
+            "mongodb"
+          ],
+          "type": "Backend",
+          "difficulty": "Intermediate"
+        },
+        {
+          "title": "Build a Principal Full Stack Developer Pipeline using Linux, Numpy, Node.Js, Computer Vision, Ci/Cd, Docker, Aws, Tensorflow & Linux, Numpy, Node.Js, Computer Vision, Ci/Cd, Docker, React & Linux, Numpy, Node.Js, Computer Vision, Ci/Cd, Sql",
+          "description": "Create a comprehensive project that demonstrates your mastery of Linux, Numpy, Node.Js, Computer Vision, Ci/Cd, Docker, Aws, Tensorflow & Linux, Numpy, Node.Js, Computer Vision, Ci/Cd, Docker, React & Linux, Numpy, Node.Js, Computer Vision, Ci/Cd, Sql. Focus on real-world application.",
+          "difficulty": "Intermediate",
+          "skills_covered": [
+            "linux, numpy, node.js, computer vision, ci/cd, docker, aws, tensorflow",
+            "linux, numpy, node.js, computer vision, ci/cd, docker, react",
+            "linux, numpy, node.js, computer vision, ci/cd, sql"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "Advanced",
+      "duration": "8-10 weeks",
+      "focus": "Mastery & Job Readiness",
+      "skills": [],
+      "courses": [
+        {
+          "course_name": "Huawei Full-Stack Developer - Cohort 6 (Part 1)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.49725276231765747,
+          "similarity": 0.6620879173278809,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "Huawei Full-Stack Developer - Cohort 6 (Part 1)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.4945783019065857,
+          "similarity": 0.6576305031776428,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "Huawei Full-Stack Developer - Cohort 9 (Part 3)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.4940766990184784,
+          "similarity": 0.6567944884300232,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "Full Stack E-commerce Platform",
+          "skills": [
+            "react",
+            "redux",
+            "stripe integration"
+          ],
+          "type": "Full Stack",
+          "difficulty": "Advanced"
+        },
+        {
+          "title": "Develop a Cloud-Native Application with Linux, Numpy, Node.Js, Computer Vision, Ci/Cd, Docker, Aws, Tensorflow & Linux, Numpy, Node.Js, Computer Vision, Ci/Cd, Docker, React & Linux, Numpy, Node.Js, Computer Vision, Ci/Cd, Sql",
+          "description": "Deploy a scalable application integrating Linux, Numpy, Node.Js, Computer Vision, Ci/Cd, Docker, Aws, Tensorflow & Linux, Numpy, Node.Js, Computer Vision, Ci/Cd, Docker, React & Linux, Numpy, Node.Js, Computer Vision, Ci/Cd, Sql to solve a specific business problem.",
+          "difficulty": "Advanced",
+          "skills_covered": [
+            "linux, numpy, node.js, computer vision, ci/cd, docker, aws, tensorflow",
+            "linux, numpy, node.js, computer vision, ci/cd, docker, react",
+            "linux, numpy, node.js, computer vision, ci/cd, sql"
+          ]
+        }
+      ],
+      "internships": [
+        {
+          "company": "Masrsoft Solutions",
+          "role": "Junior Mobile Developer",
+          "match": 0.6055324077606201,
+          "location": "Tanta",
+          "missing_skills": []
+        },
+        {
+          "company": "Techsol Egypt Inc",
+          "role": "Junior Backend Developer",
+          "match": 0.6024685502052307,
+          "location": "Suez",
+          "missing_skills": []
+        },
+        {
+          "company": "Techsol Egypt Group",
+          "role": "Junior Full Stack Developer",
+          "match": 0.6020755767822266,
+          "location": "Mansoura",
+          "missing_skills": []
+        }
+      ]
+    }
+  ]
+}

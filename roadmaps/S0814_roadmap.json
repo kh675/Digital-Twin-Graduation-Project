@@ -1,0 +1,213 @@
+{
+  "student_id": "S0814",
+  "career_path": "Software",
+  "career_source": "Prediction",
+  "generated_at": "2025-11-29",
+  "certification_path": [
+    "Oracle Java Associate",
+    "Meta Front-End Developer",
+    "AWS Developer Associate"
+  ],
+  "stages": [
+    {
+      "stage": "Beginner",
+      "duration": "4-6 weeks",
+      "focus": "Fundamentals & Top Gaps",
+      "skills": [
+        "python, spark, tensorflow, aws",
+        "python, spark, tensorflow, node.js",
+        "python, spark, tensorflow, react, aws",
+        "switching, numpy, react, routing, hadoop, azure, javascript, kubernetes, tensorflow",
+        "switching, numpy, react, routing, hadoop, azure, javascript, tensorflow, docker"
+      ],
+      "courses": [
+        {
+          "course_name": "AWS Academy Machine Learning for Developers - Cohort 15 (Part 2)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.44721928238868713,
+          "similarity": 0.5786988139152527,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Machine Learning for Developers - Cohort 15 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.4462175667285919,
+          "similarity": 0.577029287815094,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Machine Learning Foundations - Cohort 12 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.4461504817008972,
+          "similarity": 0.5769174695014954,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "Personal Portfolio Website",
+          "skills": [
+            "html",
+            "css",
+            "javascript"
+          ],
+          "type": "Frontend",
+          "difficulty": "Beginner"
+        },
+        {
+          "title": "Python, Spark, Tensorflow, Aws & Python, Spark, Tensorflow, Node.Js & Python, Spark, Tensorflow, React, Aws Integration Lab",
+          "description": "Set up a practical lab environment to experiment with Python, Spark, Tensorflow, Aws & Python, Spark, Tensorflow, Node.Js & Python, Spark, Tensorflow, React, Aws configurations and troubleshooting.",
+          "difficulty": "Beginner",
+          "skills_covered": [
+            "python, spark, tensorflow, aws",
+            "python, spark, tensorflow, node.js",
+            "python, spark, tensorflow, react, aws"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "Intermediate",
+      "duration": "6-8 weeks",
+      "focus": "Application & Certification",
+      "skills": [],
+      "courses": [
+        {
+          "course_name": "AWS Academy Machine Learning for Developers - Cohort 3 (Part 3)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.444531112909317,
+          "similarity": 0.5742185115814209,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Machine Learning for Developers - Cohort 15 (Part 2)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.443125456571579,
+          "similarity": 0.5718757510185242,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "HCIP-AI-Developer - Cohort 12 (Part 3)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.5279306173324585,
+          "similarity": 0.7132176756858826,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "REST API for Task Management",
+          "skills": [
+            "nodejs",
+            "express",
+            "mongodb"
+          ],
+          "type": "Backend",
+          "difficulty": "Intermediate"
+        },
+        {
+          "title": "Build a Senior Frontend Developer Pipeline using Python, Spark, Tensorflow, Aws & Python, Spark, Tensorflow, Node.Js & Python, Spark, Tensorflow, React, Aws",
+          "description": "Create a comprehensive project that demonstrates your mastery of Python, Spark, Tensorflow, Aws & Python, Spark, Tensorflow, Node.Js & Python, Spark, Tensorflow, React, Aws. Focus on real-world application.",
+          "difficulty": "Intermediate",
+          "skills_covered": [
+            "python, spark, tensorflow, aws",
+            "python, spark, tensorflow, node.js",
+            "python, spark, tensorflow, react, aws"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "Advanced",
+      "duration": "8-10 weeks",
+      "focus": "Mastery & Job Readiness",
+      "skills": [],
+      "courses": [
+        {
+          "course_name": "HCIP-AI-Developer - Cohort 6 (Part 2)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.5254910588264465,
+          "similarity": 0.7091516852378845,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "HCIP-AI-Developer - Cohort 9 (Part 1)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.5251495838165283,
+          "similarity": 0.7085825800895691,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "HCIP-AI-Developer - Cohort 15 (Part 2)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.5250005722045898,
+          "similarity": 0.7083342671394348,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "Full Stack E-commerce Platform",
+          "skills": [
+            "react",
+            "redux",
+            "stripe integration"
+          ],
+          "type": "Full Stack",
+          "difficulty": "Advanced"
+        },
+        {
+          "title": "Develop a Cloud-Native Application with Python, Spark, Tensorflow, Aws & Python, Spark, Tensorflow, Node.Js & Python, Spark, Tensorflow, React, Aws",
+          "description": "Deploy a scalable application integrating Python, Spark, Tensorflow, Aws & Python, Spark, Tensorflow, Node.Js & Python, Spark, Tensorflow, React, Aws to solve a specific business problem.",
+          "difficulty": "Advanced",
+          "skills_covered": [
+            "python, spark, tensorflow, aws",
+            "python, spark, tensorflow, node.js",
+            "python, spark, tensorflow, react, aws"
+          ]
+        }
+      ],
+      "internships": [
+        {
+          "company": "Pyramid Solutions Group",
+          "role": "Junior Frontend Developer",
+          "match": 0.6018674969673157,
+          "location": "Hurghada",
+          "missing_skills": []
+        },
+        {
+          "company": "Masrsoft Group",
+          "role": "Junior Mobile Developer",
+          "match": 0.5946100354194641,
+          "location": "Tanta",
+          "missing_skills": []
+        },
+        {
+          "company": "Pyramid Solutions Ltd",
+          "role": "Junior Backend Developer",
+          "match": 0.5936040878295898,
+          "location": "Alexandria",
+          "missing_skills": []
+        }
+      ]
+    }
+  ]
+}

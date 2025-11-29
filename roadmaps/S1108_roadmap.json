@@ -1,0 +1,213 @@
+{
+  "student_id": "S1108",
+  "career_path": "Software",
+  "career_source": "Prediction",
+  "generated_at": "2025-11-29",
+  "certification_path": [
+    "Oracle Java Associate",
+    "Meta Front-End Developer",
+    "AWS Developer Associate"
+  ],
+  "stages": [
+    {
+      "stage": "Beginner",
+      "duration": "4-6 weeks",
+      "focus": "Fundamentals & Top Gaps",
+      "skills": [
+        "rest apis, react, javascript, pytorch, terraform, routing, aws, docker",
+        "rest apis, react, javascript, pytorch, terraform, routing, node.js, aws, kubernetes",
+        "rest apis, react, javascript, pytorch, terraform, routing, node.js, sql, python",
+        "routing, docker, pytorch, ansible, azure, kubernetes, aws, python",
+        "routing, docker, pytorch, ansible, azure, python, node.js"
+      ],
+      "courses": [
+        {
+          "course_name": "AWS Academy Cloud Foundations - Cohort 6 (Part 3)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.4944053590297699,
+          "similarity": 0.657342255115509,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Cloud Foundations - Cohort 9 (Part 2)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.4902539551258087,
+          "similarity": 0.6504232287406921,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Cloud Foundations - Cohort 9 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.4889543652534485,
+          "similarity": 0.6482572555541992,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "Personal Portfolio Website",
+          "skills": [
+            "html",
+            "css",
+            "javascript"
+          ],
+          "type": "Frontend",
+          "difficulty": "Beginner"
+        },
+        {
+          "title": "Rest Apis, React, Javascript, Pytorch, Terraform, Routing, Aws, Docker & Rest Apis, React, Javascript, Pytorch, Terraform, Routing, Node.Js, Aws, Kubernetes & Rest Apis, React, Javascript, Pytorch, Terraform, Routing, Node.Js, Sql, Python Integration Lab",
+          "description": "Set up a practical lab environment to experiment with Rest Apis, React, Javascript, Pytorch, Terraform, Routing, Aws, Docker & Rest Apis, React, Javascript, Pytorch, Terraform, Routing, Node.Js, Aws, Kubernetes & Rest Apis, React, Javascript, Pytorch, Terraform, Routing, Node.Js, Sql, Python configurations and troubleshooting.",
+          "difficulty": "Beginner",
+          "skills_covered": [
+            "rest apis, react, javascript, pytorch, terraform, routing, aws, docker",
+            "rest apis, react, javascript, pytorch, terraform, routing, node.js, aws, kubernetes",
+            "rest apis, react, javascript, pytorch, terraform, routing, node.js, sql, python"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "Intermediate",
+      "duration": "6-8 weeks",
+      "focus": "Application & Certification",
+      "skills": [],
+      "courses": [
+        {
+          "course_name": "AWS Academy Cloud Foundations - Cohort 3 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.48832637071609497,
+          "similarity": 0.6472105979919434,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Cloud Foundations - Cohort 15 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.4882999360561371,
+          "similarity": 0.6471665501594543,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "Huawei Full-Stack Developer - Cohort 3 (Part 2)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.4355124235153198,
+          "similarity": 0.5591873526573181,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "REST API for Task Management",
+          "skills": [
+            "nodejs",
+            "express",
+            "mongodb"
+          ],
+          "type": "Backend",
+          "difficulty": "Intermediate"
+        },
+        {
+          "title": "Build a Lead Backend Developer Pipeline using Rest Apis, React, Javascript, Pytorch, Terraform, Routing, Aws, Docker & Rest Apis, React, Javascript, Pytorch, Terraform, Routing, Node.Js, Aws, Kubernetes & Rest Apis, React, Javascript, Pytorch, Terraform, Routing, Node.Js, Sql, Python",
+          "description": "Create a comprehensive project that demonstrates your mastery of Rest Apis, React, Javascript, Pytorch, Terraform, Routing, Aws, Docker & Rest Apis, React, Javascript, Pytorch, Terraform, Routing, Node.Js, Aws, Kubernetes & Rest Apis, React, Javascript, Pytorch, Terraform, Routing, Node.Js, Sql, Python. Focus on real-world application.",
+          "difficulty": "Intermediate",
+          "skills_covered": [
+            "rest apis, react, javascript, pytorch, terraform, routing, aws, docker",
+            "rest apis, react, javascript, pytorch, terraform, routing, node.js, aws, kubernetes",
+            "rest apis, react, javascript, pytorch, terraform, routing, node.js, sql, python"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "Advanced",
+      "duration": "8-10 weeks",
+      "focus": "Mastery & Job Readiness",
+      "skills": [],
+      "courses": [
+        {
+          "course_name": "HCIP-Datacom - Cohort 15 (Part 2)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.43285295367240906,
+          "similarity": 0.554754912853241,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "Huawei Full-Stack Developer - Cohort 12 (Part 3)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.4313020706176758,
+          "similarity": 0.5521700978279114,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "HCIP-Datacom - Cohort 3 (Part 1)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.4298366606235504,
+          "similarity": 0.549727737903595,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "Full Stack E-commerce Platform",
+          "skills": [
+            "react",
+            "redux",
+            "stripe integration"
+          ],
+          "type": "Full Stack",
+          "difficulty": "Advanced"
+        },
+        {
+          "title": "Develop a Cloud-Native Application with Rest Apis, React, Javascript, Pytorch, Terraform, Routing, Aws, Docker & Rest Apis, React, Javascript, Pytorch, Terraform, Routing, Node.Js, Aws, Kubernetes & Rest Apis, React, Javascript, Pytorch, Terraform, Routing, Node.Js, Sql, Python",
+          "description": "Deploy a scalable application integrating Rest Apis, React, Javascript, Pytorch, Terraform, Routing, Aws, Docker & Rest Apis, React, Javascript, Pytorch, Terraform, Routing, Node.Js, Aws, Kubernetes & Rest Apis, React, Javascript, Pytorch, Terraform, Routing, Node.Js, Sql, Python to solve a specific business problem.",
+          "difficulty": "Advanced",
+          "skills_covered": [
+            "rest apis, react, javascript, pytorch, terraform, routing, aws, docker",
+            "rest apis, react, javascript, pytorch, terraform, routing, node.js, aws, kubernetes",
+            "rest apis, react, javascript, pytorch, terraform, routing, node.js, sql, python"
+          ]
+        }
+      ],
+      "internships": [
+        {
+          "company": "Cloudworks Egypt Ltd",
+          "role": "Junior Frontend Developer",
+          "match": 0.5535056591033936,
+          "location": "Mansoura",
+          "missing_skills": []
+        },
+        {
+          "company": "Cloudworks Egypt Inc",
+          "role": "Junior Full Stack Developer",
+          "match": 0.5498363375663757,
+          "location": "Tanta",
+          "missing_skills": []
+        },
+        {
+          "company": "Cloudworks Egypt Inc",
+          "role": "Junior Frontend Developer",
+          "match": 0.5488603711128235,
+          "location": "Mansoura",
+          "missing_skills": []
+        }
+      ]
+    }
+  ]
+}

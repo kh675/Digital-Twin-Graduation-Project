@@ -1,0 +1,213 @@
+{
+  "student_id": "S0474",
+  "career_path": "Machine Learning",
+  "career_source": "Prediction",
+  "generated_at": "2025-11-29",
+  "certification_path": [
+    "TensorFlow Developer Certificate",
+    "AWS Machine Learning Specialty",
+    "DeepLearning.AI"
+  ],
+  "stages": [
+    {
+      "stage": "Beginner",
+      "duration": "4-6 weeks",
+      "focus": "Fundamentals & Top Gaps",
+      "skills": [
+        "ansible, pandas, pytorch, azure, kubernetes, docker, python",
+        "ansible, pandas, pytorch, azure, kubernetes, python, docker",
+        "flask, hadoop, tensorflow, git, react",
+        "microservices, javascript, flask, ansible, pytorch, routing",
+        "node.js, django, python, kubernetes, git, react, docker"
+      ],
+      "courses": [
+        {
+          "course_name": "AWS Academy Machine Learning for Developers - Cohort 15 (Part 2)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.48130306601524353,
+          "similarity": 0.6355050802230835,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Machine Learning for Developers - Cohort 3 (Part 3)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.4754595160484314,
+          "similarity": 0.625765860080719,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Machine Learning for Developers - Cohort 15 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.4754423499107361,
+          "similarity": 0.6257372498512268,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "House Price Prediction",
+          "skills": [
+            "python",
+            "regression",
+            "scikit-learn"
+          ],
+          "type": "Regression",
+          "difficulty": "Beginner"
+        },
+        {
+          "title": "Ansible, Pandas, Pytorch, Azure, Kubernetes, Docker, Python & Ansible, Pandas, Pytorch, Azure, Kubernetes, Python, Docker & Flask, Hadoop, Tensorflow, Git, React Integration Lab",
+          "description": "Set up a practical lab environment to experiment with Ansible, Pandas, Pytorch, Azure, Kubernetes, Docker, Python & Ansible, Pandas, Pytorch, Azure, Kubernetes, Python, Docker & Flask, Hadoop, Tensorflow, Git, React configurations and troubleshooting.",
+          "difficulty": "Beginner",
+          "skills_covered": [
+            "ansible, pandas, pytorch, azure, kubernetes, docker, python",
+            "ansible, pandas, pytorch, azure, kubernetes, python, docker",
+            "flask, hadoop, tensorflow, git, react"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "Intermediate",
+      "duration": "6-8 weeks",
+      "focus": "Application & Certification",
+      "skills": [],
+      "courses": [
+        {
+          "course_name": "AWS Academy Machine Learning Foundations - Cohort 12 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.4686338007450104,
+          "similarity": 0.6143896579742432,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Machine Learning Foundations - Cohort 3 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.46672549843788147,
+          "similarity": 0.6112091541290283,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "HCIP-AI-Developer - Cohort 6 (Part 3)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.4949439764022827,
+          "similarity": 0.6582399606704712,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "Image Classification with CNNs",
+          "skills": [
+            "tensorflow",
+            "deep learning",
+            "cnn"
+          ],
+          "type": "Computer Vision",
+          "difficulty": "Intermediate"
+        },
+        {
+          "title": "Build a Mid-Level Ai Researcher Pipeline using Ansible, Pandas, Pytorch, Azure, Kubernetes, Docker, Python & Ansible, Pandas, Pytorch, Azure, Kubernetes, Python, Docker & Flask, Hadoop, Tensorflow, Git, React",
+          "description": "Create a comprehensive project that demonstrates your mastery of Ansible, Pandas, Pytorch, Azure, Kubernetes, Docker, Python & Ansible, Pandas, Pytorch, Azure, Kubernetes, Python, Docker & Flask, Hadoop, Tensorflow, Git, React. Focus on real-world application.",
+          "difficulty": "Intermediate",
+          "skills_covered": [
+            "ansible, pandas, pytorch, azure, kubernetes, docker, python",
+            "ansible, pandas, pytorch, azure, kubernetes, python, docker",
+            "flask, hadoop, tensorflow, git, react"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "Advanced",
+      "duration": "8-10 weeks",
+      "focus": "Mastery & Job Readiness",
+      "skills": [],
+      "courses": [
+        {
+          "course_name": "HCIP-AI-Developer - Cohort 12 (Part 3)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.49474018812179565,
+          "similarity": 0.6579002737998962,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "HCIP-AI-Developer - Cohort 15 (Part 2)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.49392926692962646,
+          "similarity": 0.6565487384796143,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "HCIP-AI-Developer - Cohort 12 (Part 3)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.49186888337135315,
+          "similarity": 0.6531147956848145,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "End-to-End NLP Chatbot",
+          "skills": [
+            "nlp",
+            "transformers",
+            "deployment"
+          ],
+          "type": "NLP",
+          "difficulty": "Advanced"
+        },
+        {
+          "title": "Develop a Cloud-Native Application with Ansible, Pandas, Pytorch, Azure, Kubernetes, Docker, Python & Ansible, Pandas, Pytorch, Azure, Kubernetes, Python, Docker & Flask, Hadoop, Tensorflow, Git, React",
+          "description": "Deploy a scalable application integrating Ansible, Pandas, Pytorch, Azure, Kubernetes, Docker, Python & Ansible, Pandas, Pytorch, Azure, Kubernetes, Python, Docker & Flask, Hadoop, Tensorflow, Git, React to solve a specific business problem.",
+          "difficulty": "Advanced",
+          "skills_covered": [
+            "ansible, pandas, pytorch, azure, kubernetes, docker, python",
+            "ansible, pandas, pytorch, azure, kubernetes, python, docker",
+            "flask, hadoop, tensorflow, git, react"
+          ]
+        }
+      ],
+      "internships": [
+        {
+          "company": "Pharos Ai Inc",
+          "role": "Junior Product Manager",
+          "match": 0.6026588678359985,
+          "location": "Hurghada",
+          "missing_skills": []
+        },
+        {
+          "company": "Pharos Ai Egypt",
+          "role": "Junior Product Manager",
+          "match": 0.6025476455688477,
+          "location": "Hurghada",
+          "missing_skills": []
+        },
+        {
+          "company": "Techsol Egypt Solutions",
+          "role": "Junior Machine Learning Engineer",
+          "match": 0.598483681678772,
+          "location": "Mansoura",
+          "missing_skills": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,213 @@
+{
+  "student_id": "S0974",
+  "career_path": "Software",
+  "career_source": "Prediction",
+  "generated_at": "2025-11-29",
+  "certification_path": [
+    "Oracle Java Associate",
+    "Meta Front-End Developer",
+    "AWS Developer Associate"
+  ],
+  "stages": [
+    {
+      "stage": "Beginner",
+      "duration": "4-6 weeks",
+      "focus": "Fundamentals & Top Gaps",
+      "skills": [
+        "c, tensorflow, microservices, 5g, django, elasticsearch, sql",
+        "nlp, git, terraform, rest apis, firewalls, microservices, python, tensorflow, aws",
+        "python, spark, tensorflow, aws",
+        "tensorflow, pandas, pytorch, react, ansible, docker, sql",
+        "tensorflow, pandas, pytorch, react, ansible, python"
+      ],
+      "courses": [
+        {
+          "course_name": "AWS ML Specialty - Cohort 9 (Part 3)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5078691244125366,
+          "similarity": 0.6797818541526794,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Machine Learning Foundations - Cohort 3 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5024453401565552,
+          "similarity": 0.6707422137260437,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Machine Learning Foundations - Cohort 12 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.502323567867279,
+          "similarity": 0.6705392599105835,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "Personal Portfolio Website",
+          "skills": [
+            "html",
+            "css",
+            "javascript"
+          ],
+          "type": "Frontend",
+          "difficulty": "Beginner"
+        },
+        {
+          "title": "C, Tensorflow, Microservices, 5G, Django, Elasticsearch, Sql & Nlp, Git, Terraform, Rest Apis, Firewalls, Microservices, Python, Tensorflow, Aws & Python, Spark, Tensorflow, Aws Integration Lab",
+          "description": "Set up a practical lab environment to experiment with C, Tensorflow, Microservices, 5G, Django, Elasticsearch, Sql & Nlp, Git, Terraform, Rest Apis, Firewalls, Microservices, Python, Tensorflow, Aws & Python, Spark, Tensorflow, Aws configurations and troubleshooting.",
+          "difficulty": "Beginner",
+          "skills_covered": [
+            "c, tensorflow, microservices, 5g, django, elasticsearch, sql",
+            "nlp, git, terraform, rest apis, firewalls, microservices, python, tensorflow, aws",
+            "python, spark, tensorflow, aws"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "Intermediate",
+      "duration": "6-8 weeks",
+      "focus": "Application & Certification",
+      "skills": [],
+      "courses": [
+        {
+          "course_name": "AWS ML Specialty - Cohort 11 (Part 3)",
+          "provider": "AWS",
+          "level": "Intermediate",
+          "score": 0.5006689429283142,
+          "similarity": 0.70111483335495,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS ML Specialty - Cohort 6 (Part 2)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.4994344711303711,
+          "similarity": 0.6657240986824036,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AI Talent Program - Cohort 3 (Part 2)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.5037083029747009,
+          "similarity": 0.6728470921516418,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "REST API for Task Management",
+          "skills": [
+            "nodejs",
+            "express",
+            "mongodb"
+          ],
+          "type": "Backend",
+          "difficulty": "Intermediate"
+        },
+        {
+          "title": "Build a Mid-Level Frontend Developer Pipeline using C, Tensorflow, Microservices, 5G, Django, Elasticsearch, Sql & Nlp, Git, Terraform, Rest Apis, Firewalls, Microservices, Python, Tensorflow, Aws & Python, Spark, Tensorflow, Aws",
+          "description": "Create a comprehensive project that demonstrates your mastery of C, Tensorflow, Microservices, 5G, Django, Elasticsearch, Sql & Nlp, Git, Terraform, Rest Apis, Firewalls, Microservices, Python, Tensorflow, Aws & Python, Spark, Tensorflow, Aws. Focus on real-world application.",
+          "difficulty": "Intermediate",
+          "skills_covered": [
+            "c, tensorflow, microservices, 5g, django, elasticsearch, sql",
+            "nlp, git, terraform, rest apis, firewalls, microservices, python, tensorflow, aws",
+            "python, spark, tensorflow, aws"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "Advanced",
+      "duration": "8-10 weeks",
+      "focus": "Mastery & Job Readiness",
+      "skills": [],
+      "courses": [
+        {
+          "course_name": "AI Talent Program - Cohort 6 (Part 3)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.4878320097923279,
+          "similarity": 0.6463866829872131,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AI Talent Program - Cohort 15 (Part 3)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.4859437048435211,
+          "similarity": 0.6432394981384277,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "HCIP-AI-Developer - Cohort 12 (Part 2)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.4659762382507324,
+          "similarity": 0.6099603772163391,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "Full Stack E-commerce Platform",
+          "skills": [
+            "react",
+            "redux",
+            "stripe integration"
+          ],
+          "type": "Full Stack",
+          "difficulty": "Advanced"
+        },
+        {
+          "title": "Develop a Cloud-Native Application with C, Tensorflow, Microservices, 5G, Django, Elasticsearch, Sql & Nlp, Git, Terraform, Rest Apis, Firewalls, Microservices, Python, Tensorflow, Aws & Python, Spark, Tensorflow, Aws",
+          "description": "Deploy a scalable application integrating C, Tensorflow, Microservices, 5G, Django, Elasticsearch, Sql & Nlp, Git, Terraform, Rest Apis, Firewalls, Microservices, Python, Tensorflow, Aws & Python, Spark, Tensorflow, Aws to solve a specific business problem.",
+          "difficulty": "Advanced",
+          "skills_covered": [
+            "c, tensorflow, microservices, 5g, django, elasticsearch, sql",
+            "nlp, git, terraform, rest apis, firewalls, microservices, python, tensorflow, aws",
+            "python, spark, tensorflow, aws"
+          ]
+        }
+      ],
+      "internships": [
+        {
+          "company": "Futurevision Group",
+          "role": "Junior Frontend Developer",
+          "match": 0.6137082576751709,
+          "location": "Giza",
+          "missing_skills": []
+        },
+        {
+          "company": "Smartdata Labs Group",
+          "role": "Junior Machine Learning Engineer",
+          "match": 0.5925000309944153,
+          "location": "Suez",
+          "missing_skills": []
+        },
+        {
+          "company": "Smartdata Labs Inc",
+          "role": "Junior Data Analyst",
+          "match": 0.5880691409111023,
+          "location": "Giza",
+          "missing_skills": []
+        }
+      ]
+    }
+  ]
+}

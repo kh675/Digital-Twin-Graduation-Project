@@ -1,0 +1,213 @@
+{
+  "student_id": "S0942",
+  "career_path": "Software",
+  "career_source": "Prediction",
+  "generated_at": "2025-11-29",
+  "certification_path": [
+    "Oracle Java Associate",
+    "Meta Front-End Developer",
+    "AWS Developer Associate"
+  ],
+  "stages": [
+    {
+      "stage": "Beginner",
+      "duration": "4-6 weeks",
+      "focus": "Fundamentals & Top Gaps",
+      "skills": [
+        "microservices, javascript, flask, ansible, pytorch, routing, kubernetes, python, aws",
+        "microservices, javascript, flask, ansible, pytorch, routing, node.js, docker",
+        "rest apis, react, javascript, pytorch, terraform, routing, aws, docker",
+        "rest apis, react, javascript, pytorch, terraform, routing, node.js, python, tensorflow",
+        "rest apis, react, javascript, pytorch, terraform, routing, node.js, sql, python"
+      ],
+      "courses": [
+        {
+          "course_name": "AWS Academy Machine Learning Foundations - Cohort 3 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5675452947616577,
+          "similarity": 0.7792421579360962,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Machine Learning Foundations - Cohort 12 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.567247211933136,
+          "similarity": 0.7787452936172485,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Machine Learning Foundations - Cohort 9 (Part 3)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5577235817909241,
+          "similarity": 0.762872576713562,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "Personal Portfolio Website",
+          "skills": [
+            "html",
+            "css",
+            "javascript"
+          ],
+          "type": "Frontend",
+          "difficulty": "Beginner"
+        },
+        {
+          "title": "Microservices, Javascript, Flask, Ansible, Pytorch, Routing, Kubernetes, Python, Aws & Microservices, Javascript, Flask, Ansible, Pytorch, Routing, Node.Js, Docker & Rest Apis, React, Javascript, Pytorch, Terraform, Routing, Aws, Docker Integration Lab",
+          "description": "Set up a practical lab environment to experiment with Microservices, Javascript, Flask, Ansible, Pytorch, Routing, Kubernetes, Python, Aws & Microservices, Javascript, Flask, Ansible, Pytorch, Routing, Node.Js, Docker & Rest Apis, React, Javascript, Pytorch, Terraform, Routing, Aws, Docker configurations and troubleshooting.",
+          "difficulty": "Beginner",
+          "skills_covered": [
+            "microservices, javascript, flask, ansible, pytorch, routing, kubernetes, python, aws",
+            "microservices, javascript, flask, ansible, pytorch, routing, node.js, docker",
+            "rest apis, react, javascript, pytorch, terraform, routing, aws, docker"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "Intermediate",
+      "duration": "6-8 weeks",
+      "focus": "Application & Certification",
+      "skills": [],
+      "courses": [
+        {
+          "course_name": "AWS Academy Machine Learning Foundations - Cohort 9 (Part 3)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5546655058860779,
+          "similarity": 0.7577757835388184,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Machine Learning Foundations - Cohort 9 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5546171069145203,
+          "similarity": 0.7576951384544373,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AI Talent Program - Cohort 3 (Part 2)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.47820043563842773,
+          "similarity": 0.6303340196609497,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "REST API for Task Management",
+          "skills": [
+            "nodejs",
+            "express",
+            "mongodb"
+          ],
+          "type": "Backend",
+          "difficulty": "Intermediate"
+        },
+        {
+          "title": "Build a Mid-Level Machine Learning Engineer Pipeline using Microservices, Javascript, Flask, Ansible, Pytorch, Routing, Kubernetes, Python, Aws & Microservices, Javascript, Flask, Ansible, Pytorch, Routing, Node.Js, Docker & Rest Apis, React, Javascript, Pytorch, Terraform, Routing, Aws, Docker",
+          "description": "Create a comprehensive project that demonstrates your mastery of Microservices, Javascript, Flask, Ansible, Pytorch, Routing, Kubernetes, Python, Aws & Microservices, Javascript, Flask, Ansible, Pytorch, Routing, Node.Js, Docker & Rest Apis, React, Javascript, Pytorch, Terraform, Routing, Aws, Docker. Focus on real-world application.",
+          "difficulty": "Intermediate",
+          "skills_covered": [
+            "microservices, javascript, flask, ansible, pytorch, routing, kubernetes, python, aws",
+            "microservices, javascript, flask, ansible, pytorch, routing, node.js, docker",
+            "rest apis, react, javascript, pytorch, terraform, routing, aws, docker"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "Advanced",
+      "duration": "8-10 weeks",
+      "focus": "Mastery & Job Readiness",
+      "skills": [],
+      "courses": [
+        {
+          "course_name": "AI Talent Program - Cohort 6 (Part 3)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.45979970693588257,
+          "similarity": 0.599666178226471,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AI Talent Program - Cohort 15 (Part 3)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.4549466669559479,
+          "similarity": 0.5915777683258057,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "HCIA-AI - Cohort 9 (Part 1)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.45026707649230957,
+          "similarity": 0.583778440952301,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "Full Stack E-commerce Platform",
+          "skills": [
+            "react",
+            "redux",
+            "stripe integration"
+          ],
+          "type": "Full Stack",
+          "difficulty": "Advanced"
+        },
+        {
+          "title": "Develop a Cloud-Native Application with Microservices, Javascript, Flask, Ansible, Pytorch, Routing, Kubernetes, Python, Aws & Microservices, Javascript, Flask, Ansible, Pytorch, Routing, Node.Js, Docker & Rest Apis, React, Javascript, Pytorch, Terraform, Routing, Aws, Docker",
+          "description": "Deploy a scalable application integrating Microservices, Javascript, Flask, Ansible, Pytorch, Routing, Kubernetes, Python, Aws & Microservices, Javascript, Flask, Ansible, Pytorch, Routing, Node.Js, Docker & Rest Apis, React, Javascript, Pytorch, Terraform, Routing, Aws, Docker to solve a specific business problem.",
+          "difficulty": "Advanced",
+          "skills_covered": [
+            "microservices, javascript, flask, ansible, pytorch, routing, kubernetes, python, aws",
+            "microservices, javascript, flask, ansible, pytorch, routing, node.js, docker",
+            "rest apis, react, javascript, pytorch, terraform, routing, aws, docker"
+          ]
+        }
+      ],
+      "internships": [
+        {
+          "company": "Cloudworks Egypt Solutions",
+          "role": "Junior Machine Learning Engineer",
+          "match": 0.6423733830451965,
+          "location": "Alexandria",
+          "missing_skills": []
+        },
+        {
+          "company": "Techsol Egypt Group",
+          "role": "Junior Data Scientist",
+          "match": 0.634850263595581,
+          "location": "Aswan",
+          "missing_skills": []
+        },
+        {
+          "company": "Pharos Ai Egypt",
+          "role": "Junior Product Manager",
+          "match": 0.6327933073043823,
+          "location": "Hurghada",
+          "missing_skills": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,209 @@
+{
+  "student_id": "S0366",
+  "career_path": "Other",
+  "career_source": "Fallback",
+  "generated_at": "2025-11-29",
+  "certification_path": [],
+  "stages": [
+    {
+      "stage": "Beginner",
+      "duration": "4-6 weeks",
+      "focus": "Fundamentals & Top Gaps",
+      "skills": [
+        "c, tensorflow, microservices, 5g, django, elasticsearch",
+        "c, tensorflow, microservices, 5g, django, elasticsearch, sql",
+        "git, rest apis, java, node.js, sql, python",
+        "git, rest apis, java, sql, aws, node.js",
+        "rest apis, react, javascript, pytorch, terraform, routing, node.js, python, tensorflow"
+      ],
+      "courses": [
+        {
+          "course_name": "AWS Academy Machine Learning Foundations - Cohort 12 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5806259512901306,
+          "similarity": 0.8010432124137878,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Machine Learning Foundations - Cohort 3 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5760117173194885,
+          "similarity": 0.7933527827262878,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Machine Learning Foundations - Cohort 9 (Part 3)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5733897686004639,
+          "similarity": 0.7889828681945801,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "Personal Portfolio Website",
+          "skills": [
+            "html",
+            "css",
+            "javascript"
+          ],
+          "type": "Frontend",
+          "difficulty": "Beginner"
+        },
+        {
+          "title": "C, Tensorflow, Microservices, 5G, Django, Elasticsearch & C, Tensorflow, Microservices, 5G, Django, Elasticsearch, Sql & Git, Rest Apis, Java, Node.Js, Sql, Python Integration Lab",
+          "description": "Set up a practical lab environment to experiment with C, Tensorflow, Microservices, 5G, Django, Elasticsearch & C, Tensorflow, Microservices, 5G, Django, Elasticsearch, Sql & Git, Rest Apis, Java, Node.Js, Sql, Python configurations and troubleshooting.",
+          "difficulty": "Beginner",
+          "skills_covered": [
+            "c, tensorflow, microservices, 5g, django, elasticsearch",
+            "c, tensorflow, microservices, 5g, django, elasticsearch, sql",
+            "git, rest apis, java, node.js, sql, python"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "Intermediate",
+      "duration": "6-8 weeks",
+      "focus": "Application & Certification",
+      "skills": [],
+      "courses": [
+        {
+          "course_name": "AWS Academy Machine Learning Foundations - Cohort 9 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5727914571762085,
+          "similarity": 0.7879856824874878,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Machine Learning Foundations - Cohort 9 (Part 3)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5719717144966125,
+          "similarity": 0.7866194844245911,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AI Talent Program - Cohort 3 (Part 2)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.4993140995502472,
+          "similarity": 0.6655234694480896,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "REST API for Task Management",
+          "skills": [
+            "nodejs",
+            "express",
+            "mongodb"
+          ],
+          "type": "Backend",
+          "difficulty": "Intermediate"
+        },
+        {
+          "title": "Build a Principal Product Manager Pipeline using C, Tensorflow, Microservices, 5G, Django, Elasticsearch & C, Tensorflow, Microservices, 5G, Django, Elasticsearch, Sql & Git, Rest Apis, Java, Node.Js, Sql, Python",
+          "description": "Create a comprehensive project that demonstrates your mastery of C, Tensorflow, Microservices, 5G, Django, Elasticsearch & C, Tensorflow, Microservices, 5G, Django, Elasticsearch, Sql & Git, Rest Apis, Java, Node.Js, Sql, Python. Focus on real-world application.",
+          "difficulty": "Intermediate",
+          "skills_covered": [
+            "c, tensorflow, microservices, 5g, django, elasticsearch",
+            "c, tensorflow, microservices, 5g, django, elasticsearch, sql",
+            "git, rest apis, java, node.js, sql, python"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "Advanced",
+      "duration": "8-10 weeks",
+      "focus": "Mastery & Job Readiness",
+      "skills": [],
+      "courses": [
+        {
+          "course_name": "AI Talent Program - Cohort 6 (Part 3)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.4963427186012268,
+          "similarity": 0.6605711579322815,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AI Talent Program - Cohort 15 (Part 3)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.49314022064208984,
+          "similarity": 0.6552336812019348,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AI Talent Program - Cohort 2 (Part 3)",
+          "provider": "Huawei",
+          "level": "Intermediate",
+          "score": 0.4595717787742615,
+          "similarity": 0.6326195597648621,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "Full Stack E-commerce Platform",
+          "skills": [
+            "react",
+            "redux",
+            "stripe integration"
+          ],
+          "type": "Full Stack",
+          "difficulty": "Advanced"
+        },
+        {
+          "title": "Develop a Cloud-Native Application with C, Tensorflow, Microservices, 5G, Django, Elasticsearch & C, Tensorflow, Microservices, 5G, Django, Elasticsearch, Sql & Git, Rest Apis, Java, Node.Js, Sql, Python",
+          "description": "Deploy a scalable application integrating C, Tensorflow, Microservices, 5G, Django, Elasticsearch & C, Tensorflow, Microservices, 5G, Django, Elasticsearch, Sql & Git, Rest Apis, Java, Node.Js, Sql, Python to solve a specific business problem.",
+          "difficulty": "Advanced",
+          "skills_covered": [
+            "c, tensorflow, microservices, 5g, django, elasticsearch",
+            "c, tensorflow, microservices, 5g, django, elasticsearch, sql",
+            "git, rest apis, java, node.js, sql, python"
+          ]
+        }
+      ],
+      "internships": [
+        {
+          "company": "Pyramid Solutions Group",
+          "role": "Junior Quality Assurance Engineer",
+          "match": 0.6218677163124084,
+          "location": "Hurghada",
+          "missing_skills": []
+        },
+        {
+          "company": "Pyramid Solutions Group",
+          "role": "Junior Machine Learning Engineer",
+          "match": 0.6119491457939148,
+          "location": "Aswan",
+          "missing_skills": []
+        },
+        {
+          "company": "Pyramid Solutions Egypt",
+          "role": "Junior Machine Learning Engineer",
+          "match": 0.6032974123954773,
+          "location": "Aswan",
+          "missing_skills": []
+        }
+      ]
+    }
+  ]
+}

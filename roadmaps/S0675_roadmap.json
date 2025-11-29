@@ -1,0 +1,213 @@
+{
+  "student_id": "S0675",
+  "career_path": "Software",
+  "career_source": "Prediction",
+  "generated_at": "2025-11-29",
+  "certification_path": [
+    "Oracle Java Associate",
+    "Meta Front-End Developer",
+    "AWS Developer Associate"
+  ],
+  "stages": [
+    {
+      "stage": "Beginner",
+      "duration": "4-6 weeks",
+      "focus": "Fundamentals & Top Gaps",
+      "skills": [
+        "elasticsearch, switching, react, routing, c, flask, aws",
+        "elasticsearch, switching, react, routing, c, flask, docker, python",
+        "elasticsearch, switching, react, routing, c, flask, sql, docker, kubernetes",
+        "microservices, aws, c, ansible, routing, ci/cd",
+        "microservices, aws, c, ansible, routing, ci/cd, sql, docker"
+      ],
+      "courses": [
+        {
+          "course_name": "AWS Academy Machine Learning Foundations - Cohort 3 (Part 2)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5291716456413269,
+          "similarity": 0.7152860760688782,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Machine Learning Foundations - Cohort 3 (Part 3)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.527992308139801,
+          "similarity": 0.7133204340934753,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Machine Learning Foundations - Cohort 3 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5249055027961731,
+          "similarity": 0.7081758379936218,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "Personal Portfolio Website",
+          "skills": [
+            "html",
+            "css",
+            "javascript"
+          ],
+          "type": "Frontend",
+          "difficulty": "Beginner"
+        },
+        {
+          "title": "Elasticsearch, Switching, React, Routing, C, Flask, Aws & Elasticsearch, Switching, React, Routing, C, Flask, Docker, Python & Elasticsearch, Switching, React, Routing, C, Flask, Sql, Docker, Kubernetes Integration Lab",
+          "description": "Set up a practical lab environment to experiment with Elasticsearch, Switching, React, Routing, C, Flask, Aws & Elasticsearch, Switching, React, Routing, C, Flask, Docker, Python & Elasticsearch, Switching, React, Routing, C, Flask, Sql, Docker, Kubernetes configurations and troubleshooting.",
+          "difficulty": "Beginner",
+          "skills_covered": [
+            "elasticsearch, switching, react, routing, c, flask, aws",
+            "elasticsearch, switching, react, routing, c, flask, docker, python",
+            "elasticsearch, switching, react, routing, c, flask, sql, docker, kubernetes"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "Intermediate",
+      "duration": "6-8 weeks",
+      "focus": "Application & Certification",
+      "skills": [],
+      "courses": [
+        {
+          "course_name": "AWS Academy Machine Learning Foundations - Cohort 12 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5239906907081604,
+          "similarity": 0.7066511511802673,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Machine Learning Foundations - Cohort 9 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5227334499359131,
+          "similarity": 0.7045556902885437,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "Big Data Developer - Cohort 3 (Part 2)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.45943740010261536,
+          "similarity": 0.5990623235702515,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "REST API for Task Management",
+          "skills": [
+            "nodejs",
+            "express",
+            "mongodb"
+          ],
+          "type": "Backend",
+          "difficulty": "Intermediate"
+        },
+        {
+          "title": "Build a Principal Frontend Developer Pipeline using Elasticsearch, Switching, React, Routing, C, Flask, Aws & Elasticsearch, Switching, React, Routing, C, Flask, Docker, Python & Elasticsearch, Switching, React, Routing, C, Flask, Sql, Docker, Kubernetes",
+          "description": "Create a comprehensive project that demonstrates your mastery of Elasticsearch, Switching, React, Routing, C, Flask, Aws & Elasticsearch, Switching, React, Routing, C, Flask, Docker, Python & Elasticsearch, Switching, React, Routing, C, Flask, Sql, Docker, Kubernetes. Focus on real-world application.",
+          "difficulty": "Intermediate",
+          "skills_covered": [
+            "elasticsearch, switching, react, routing, c, flask, aws",
+            "elasticsearch, switching, react, routing, c, flask, docker, python",
+            "elasticsearch, switching, react, routing, c, flask, sql, docker, kubernetes"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "Advanced",
+      "duration": "8-10 weeks",
+      "focus": "Mastery & Job Readiness",
+      "skills": [],
+      "courses": [
+        {
+          "course_name": "Big Data Developer - Cohort 9 (Part 1)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.45891544222831726,
+          "similarity": 0.5981923937797546,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "Big Data Developer - Cohort 6 (Part 1)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.4537205696105957,
+          "similarity": 0.5895342826843262,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "Huawei Data Warehouse and BI - Cohort 12 (Part 3)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.45323148369789124,
+          "similarity": 0.5887191295623779,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "Full Stack E-commerce Platform",
+          "skills": [
+            "react",
+            "redux",
+            "stripe integration"
+          ],
+          "type": "Full Stack",
+          "difficulty": "Advanced"
+        },
+        {
+          "title": "Develop a Cloud-Native Application with Elasticsearch, Switching, React, Routing, C, Flask, Aws & Elasticsearch, Switching, React, Routing, C, Flask, Docker, Python & Elasticsearch, Switching, React, Routing, C, Flask, Sql, Docker, Kubernetes",
+          "description": "Deploy a scalable application integrating Elasticsearch, Switching, React, Routing, C, Flask, Aws & Elasticsearch, Switching, React, Routing, C, Flask, Docker, Python & Elasticsearch, Switching, React, Routing, C, Flask, Sql, Docker, Kubernetes to solve a specific business problem.",
+          "difficulty": "Advanced",
+          "skills_covered": [
+            "elasticsearch, switching, react, routing, c, flask, aws",
+            "elasticsearch, switching, react, routing, c, flask, docker, python",
+            "elasticsearch, switching, react, routing, c, flask, sql, docker, kubernetes"
+          ]
+        }
+      ],
+      "internships": [
+        {
+          "company": "Pyramid Solutions Ltd",
+          "role": "Junior Data Analyst",
+          "match": 0.5782908797264099,
+          "location": "Suez",
+          "missing_skills": []
+        },
+        {
+          "company": "Pyramid Solutions Group",
+          "role": "Junior Data Analyst",
+          "match": 0.5779252648353577,
+          "location": "Suez",
+          "missing_skills": []
+        },
+        {
+          "company": "Smartdata Labs Solutions",
+          "role": "Junior Machine Learning Engineer",
+          "match": 0.571137547492981,
+          "location": "Suez",
+          "missing_skills": []
+        }
+      ]
+    }
+  ]
+}

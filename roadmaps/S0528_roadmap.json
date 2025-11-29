@@ -1,0 +1,212 @@
+{
+  "student_id": "S0528",
+  "career_path": "Software",
+  "career_source": "Prediction",
+  "generated_at": "2025-11-29",
+  "certification_path": [
+    "Oracle Java Associate",
+    "Meta Front-End Developer",
+    "AWS Developer Associate"
+  ],
+  "stages": [
+    {
+      "stage": "Beginner",
+      "duration": "4-6 weeks",
+      "focus": "Fundamentals & Top Gaps",
+      "skills": [
+        "firewalls, ansible, spark, flask, hipaa, pytorch, microservices",
+        "rest apis, react, javascript, pytorch, terraform, routing",
+        "rest apis, react, javascript, pytorch, terraform, routing, aws, docker",
+        "routing, docker, pytorch, ansible, azure, kubernetes, aws, python"
+      ],
+      "courses": [
+        {
+          "course_name": "AWS Academy Cloud Foundations - Cohort 6 (Part 3)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5251445770263672,
+          "similarity": 0.7085742354393005,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Cloud Foundations - Cohort 9 (Part 2)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5249172449111938,
+          "similarity": 0.7081953883171082,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Cloud Foundations - Cohort 15 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5226598381996155,
+          "similarity": 0.704433023929596,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "Personal Portfolio Website",
+          "skills": [
+            "html",
+            "css",
+            "javascript"
+          ],
+          "type": "Frontend",
+          "difficulty": "Beginner"
+        },
+        {
+          "title": "Firewalls, Ansible, Spark, Flask, Hipaa, Pytorch, Microservices & Rest Apis, React, Javascript, Pytorch, Terraform, Routing & Rest Apis, React, Javascript, Pytorch, Terraform, Routing, Aws, Docker Integration Lab",
+          "description": "Set up a practical lab environment to experiment with Firewalls, Ansible, Spark, Flask, Hipaa, Pytorch, Microservices & Rest Apis, React, Javascript, Pytorch, Terraform, Routing & Rest Apis, React, Javascript, Pytorch, Terraform, Routing, Aws, Docker configurations and troubleshooting.",
+          "difficulty": "Beginner",
+          "skills_covered": [
+            "firewalls, ansible, spark, flask, hipaa, pytorch, microservices",
+            "rest apis, react, javascript, pytorch, terraform, routing",
+            "rest apis, react, javascript, pytorch, terraform, routing, aws, docker"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "Intermediate",
+      "duration": "6-8 weeks",
+      "focus": "Application & Certification",
+      "skills": [],
+      "courses": [
+        {
+          "course_name": "AWS Academy Cloud Foundations - Cohort 9 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.520302951335907,
+          "similarity": 0.7005048990249634,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Cloud Foundations - Cohort 6 (Part 3)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.519698977470398,
+          "similarity": 0.6994982361793518,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "HCIA-Cloud Computing - Cohort 12 (Part 3)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.4405994713306427,
+          "similarity": 0.5676657557487488,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "REST API for Task Management",
+          "skills": [
+            "nodejs",
+            "express",
+            "mongodb"
+          ],
+          "type": "Backend",
+          "difficulty": "Intermediate"
+        },
+        {
+          "title": "Build a Lead Backend Developer Pipeline using Firewalls, Ansible, Spark, Flask, Hipaa, Pytorch, Microservices & Rest Apis, React, Javascript, Pytorch, Terraform, Routing & Rest Apis, React, Javascript, Pytorch, Terraform, Routing, Aws, Docker",
+          "description": "Create a comprehensive project that demonstrates your mastery of Firewalls, Ansible, Spark, Flask, Hipaa, Pytorch, Microservices & Rest Apis, React, Javascript, Pytorch, Terraform, Routing & Rest Apis, React, Javascript, Pytorch, Terraform, Routing, Aws, Docker. Focus on real-world application.",
+          "difficulty": "Intermediate",
+          "skills_covered": [
+            "firewalls, ansible, spark, flask, hipaa, pytorch, microservices",
+            "rest apis, react, javascript, pytorch, terraform, routing",
+            "rest apis, react, javascript, pytorch, terraform, routing, aws, docker"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "Advanced",
+      "duration": "8-10 weeks",
+      "focus": "Mastery & Job Readiness",
+      "skills": [],
+      "courses": [
+        {
+          "course_name": "HCIA-Cloud Computing - Cohort 12 (Part 1)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.43861356377601624,
+          "similarity": 0.5643559098243713,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "HCIA-Cloud Computing - Cohort 15 (Part 1)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.4357679486274719,
+          "similarity": 0.5596132278442383,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "HCIA-Cloud Computing - Cohort 3 (Part 2)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.43259525299072266,
+          "similarity": 0.5543254017829895,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "Full Stack E-commerce Platform",
+          "skills": [
+            "react",
+            "redux",
+            "stripe integration"
+          ],
+          "type": "Full Stack",
+          "difficulty": "Advanced"
+        },
+        {
+          "title": "Develop a Cloud-Native Application with Firewalls, Ansible, Spark, Flask, Hipaa, Pytorch, Microservices & Rest Apis, React, Javascript, Pytorch, Terraform, Routing & Rest Apis, React, Javascript, Pytorch, Terraform, Routing, Aws, Docker",
+          "description": "Deploy a scalable application integrating Firewalls, Ansible, Spark, Flask, Hipaa, Pytorch, Microservices & Rest Apis, React, Javascript, Pytorch, Terraform, Routing & Rest Apis, React, Javascript, Pytorch, Terraform, Routing, Aws, Docker to solve a specific business problem.",
+          "difficulty": "Advanced",
+          "skills_covered": [
+            "firewalls, ansible, spark, flask, hipaa, pytorch, microservices",
+            "rest apis, react, javascript, pytorch, terraform, routing",
+            "rest apis, react, javascript, pytorch, terraform, routing, aws, docker"
+          ]
+        }
+      ],
+      "internships": [
+        {
+          "company": "Pyramid Solutions Egypt",
+          "role": "Junior Network Engineer",
+          "match": 0.5325084328651428,
+          "location": "Suez",
+          "missing_skills": []
+        },
+        {
+          "company": "Cloudworks Egypt Ltd",
+          "role": "Junior Frontend Developer",
+          "match": 0.5303614139556885,
+          "location": "Mansoura",
+          "missing_skills": []
+        },
+        {
+          "company": "Pyramid Solutions Group",
+          "role": "Junior Quality Assurance Engineer",
+          "match": 0.5238848924636841,
+          "location": "Hurghada",
+          "missing_skills": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,213 @@
+{
+  "student_id": "S0352",
+  "career_path": "Software",
+  "career_source": "Prediction",
+  "generated_at": "2025-11-29",
+  "certification_path": [
+    "Oracle Java Associate",
+    "Meta Front-End Developer",
+    "AWS Developer Associate"
+  ],
+  "stages": [
+    {
+      "stage": "Beginner",
+      "duration": "4-6 weeks",
+      "focus": "Fundamentals & Top Gaps",
+      "skills": [
+        "switching, azure, routing, pytorch, ansible, aws, spark, python, docker, sql",
+        "tcp/ip, rest apis, docker, flask, aws",
+        "tcp/ip, rest apis, docker, flask, aws, node.js",
+        "tcp/ip, rest apis, docker, flask, node.js, aws, kubernetes",
+        "tcp/ip, rest apis, docker, flask, sql"
+      ],
+      "courses": [
+        {
+          "course_name": "AWS Academy Machine Learning Foundations - Cohort 9 (Part 3)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.43062692880630493,
+          "similarity": 0.5510448813438416,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Machine Learning Foundations - Cohort 9 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.42868494987487793,
+          "similarity": 0.5478082299232483,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Machine Learning Foundations - Cohort 12 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.4258992671966553,
+          "similarity": 0.5431654453277588,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "Personal Portfolio Website",
+          "skills": [
+            "html",
+            "css",
+            "javascript"
+          ],
+          "type": "Frontend",
+          "difficulty": "Beginner"
+        },
+        {
+          "title": "Switching, Azure, Routing, Pytorch, Ansible, Aws, Spark, Python, Docker, Sql & Tcp/Ip, Rest Apis, Docker, Flask, Aws & Tcp/Ip, Rest Apis, Docker, Flask, Aws, Node.Js Integration Lab",
+          "description": "Set up a practical lab environment to experiment with Switching, Azure, Routing, Pytorch, Ansible, Aws, Spark, Python, Docker, Sql & Tcp/Ip, Rest Apis, Docker, Flask, Aws & Tcp/Ip, Rest Apis, Docker, Flask, Aws, Node.Js configurations and troubleshooting.",
+          "difficulty": "Beginner",
+          "skills_covered": [
+            "switching, azure, routing, pytorch, ansible, aws, spark, python, docker, sql",
+            "tcp/ip, rest apis, docker, flask, aws",
+            "tcp/ip, rest apis, docker, flask, aws, node.js"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "Intermediate",
+      "duration": "6-8 weeks",
+      "focus": "Application & Certification",
+      "skills": [],
+      "courses": [
+        {
+          "course_name": "AWS Academy Machine Learning Foundations - Cohort 3 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.4251922369003296,
+          "similarity": 0.5419870615005493,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Machine Learning Foundations - Cohort 12 (Part 2)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.42495861649513245,
+          "similarity": 0.5415976643562317,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "Huawei Full-Stack Developer - Cohort 3 (Part 2)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.537541389465332,
+          "similarity": 0.7292356491088867,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "REST API for Task Management",
+          "skills": [
+            "nodejs",
+            "express",
+            "mongodb"
+          ],
+          "type": "Backend",
+          "difficulty": "Intermediate"
+        },
+        {
+          "title": "Build a Mid-Level Backend Developer Pipeline using Switching, Azure, Routing, Pytorch, Ansible, Aws, Spark, Python, Docker, Sql & Tcp/Ip, Rest Apis, Docker, Flask, Aws & Tcp/Ip, Rest Apis, Docker, Flask, Aws, Node.Js",
+          "description": "Create a comprehensive project that demonstrates your mastery of Switching, Azure, Routing, Pytorch, Ansible, Aws, Spark, Python, Docker, Sql & Tcp/Ip, Rest Apis, Docker, Flask, Aws & Tcp/Ip, Rest Apis, Docker, Flask, Aws, Node.Js. Focus on real-world application.",
+          "difficulty": "Intermediate",
+          "skills_covered": [
+            "switching, azure, routing, pytorch, ansible, aws, spark, python, docker, sql",
+            "tcp/ip, rest apis, docker, flask, aws",
+            "tcp/ip, rest apis, docker, flask, aws, node.js"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "Advanced",
+      "duration": "8-10 weeks",
+      "focus": "Mastery & Job Readiness",
+      "skills": [],
+      "courses": [
+        {
+          "course_name": "Huawei Full-Stack Developer - Cohort 6 (Part 1)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.5355095267295837,
+          "similarity": 0.7258492112159729,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "Huawei Full-Stack Developer - Cohort 12 (Part 3)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.5347262620925903,
+          "similarity": 0.7245436906814575,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "Huawei Full-Stack Developer - Cohort 9 (Part 3)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.5346779227256775,
+          "similarity": 0.724463164806366,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "Full Stack E-commerce Platform",
+          "skills": [
+            "react",
+            "redux",
+            "stripe integration"
+          ],
+          "type": "Full Stack",
+          "difficulty": "Advanced"
+        },
+        {
+          "title": "Develop a Cloud-Native Application with Switching, Azure, Routing, Pytorch, Ansible, Aws, Spark, Python, Docker, Sql & Tcp/Ip, Rest Apis, Docker, Flask, Aws & Tcp/Ip, Rest Apis, Docker, Flask, Aws, Node.Js",
+          "description": "Deploy a scalable application integrating Switching, Azure, Routing, Pytorch, Ansible, Aws, Spark, Python, Docker, Sql & Tcp/Ip, Rest Apis, Docker, Flask, Aws & Tcp/Ip, Rest Apis, Docker, Flask, Aws, Node.Js to solve a specific business problem.",
+          "difficulty": "Advanced",
+          "skills_covered": [
+            "switching, azure, routing, pytorch, ansible, aws, spark, python, docker, sql",
+            "tcp/ip, rest apis, docker, flask, aws",
+            "tcp/ip, rest apis, docker, flask, aws, node.js"
+          ]
+        }
+      ],
+      "internships": [
+        {
+          "company": "Pyramid Solutions Group",
+          "role": "Junior Data Scientist",
+          "match": 0.5830499529838562,
+          "location": "Cairo",
+          "missing_skills": []
+        },
+        {
+          "company": "Cairocloud Ltd",
+          "role": "Junior Backend Developer",
+          "match": 0.564372718334198,
+          "location": "Aswan",
+          "missing_skills": []
+        },
+        {
+          "company": "Cloudworks Egypt Inc",
+          "role": "Junior Full Stack Developer",
+          "match": 0.5572239756584167,
+          "location": "Suez",
+          "missing_skills": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,213 @@
+{
+  "student_id": "S0032",
+  "career_path": "Cloud",
+  "career_source": "Prediction",
+  "generated_at": "2025-11-29",
+  "certification_path": [
+    "AWS Cloud Practitioner",
+    "AWS Solutions Architect Associate",
+    "Huawei HCIA Cloud"
+  ],
+  "stages": [
+    {
+      "stage": "Beginner",
+      "duration": "4-6 weeks",
+      "focus": "Fundamentals & Top Gaps",
+      "skills": [
+        "pandas, 5g, nosql, rest apis, terraform, computer vision, aws",
+        "pandas, 5g, nosql, rest apis, terraform, computer vision, node.js, kubernetes",
+        "pandas, 5g, nosql, rest apis, terraform, computer vision, react, aws",
+        "tcp/ip, git, docker, node.js",
+        "tcp/ip, git, docker, python, aws"
+      ],
+      "courses": [
+        {
+          "course_name": "AWS Academy Cloud Foundations - Cohort 3 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5481526851654053,
+          "similarity": 0.7469210624694824,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Cloud Foundations - Cohort 9 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.544998288154602,
+          "similarity": 0.7416638135910034,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Cloud Foundations - Cohort 9 (Part 2)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5441523194313049,
+          "similarity": 0.7402538061141968,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "Static Website Hosting on AWS S3",
+          "skills": [
+            "aws",
+            "s3",
+            "dns"
+          ],
+          "type": "Infrastructure",
+          "difficulty": "Beginner"
+        },
+        {
+          "title": "Pandas, 5G, Nosql, Rest Apis, Terraform, Computer Vision, Aws & Pandas, 5G, Nosql, Rest Apis, Terraform, Computer Vision, Node.Js, Kubernetes & Pandas, 5G, Nosql, Rest Apis, Terraform, Computer Vision, React, Aws Integration Lab",
+          "description": "Set up a practical lab environment to experiment with Pandas, 5G, Nosql, Rest Apis, Terraform, Computer Vision, Aws & Pandas, 5G, Nosql, Rest Apis, Terraform, Computer Vision, Node.Js, Kubernetes & Pandas, 5G, Nosql, Rest Apis, Terraform, Computer Vision, React, Aws configurations and troubleshooting.",
+          "difficulty": "Beginner",
+          "skills_covered": [
+            "pandas, 5g, nosql, rest apis, terraform, computer vision, aws",
+            "pandas, 5g, nosql, rest apis, terraform, computer vision, node.js, kubernetes",
+            "pandas, 5g, nosql, rest apis, terraform, computer vision, react, aws"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "Intermediate",
+      "duration": "6-8 weeks",
+      "focus": "Application & Certification",
+      "skills": [],
+      "courses": [
+        {
+          "course_name": "AWS Academy Cloud Foundations - Cohort 15 (Part 3)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5421953201293945,
+          "similarity": 0.7369921803474426,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Cloud Foundations - Cohort 3 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.540898859500885,
+          "similarity": 0.7348313927650452,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "HCIP-Cloud Computing - Cohort 15 (Part 1)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.4544803202152252,
+          "similarity": 0.5908005237579346,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "Serverless API with Lambda & DynamoDB",
+          "skills": [
+            "aws lambda",
+            "api gateway",
+            "nosql"
+          ],
+          "type": "Backend",
+          "difficulty": "Intermediate"
+        },
+        {
+          "title": "Build a Junior Full Stack Developer Pipeline using Pandas, 5G, Nosql, Rest Apis, Terraform, Computer Vision, Aws & Pandas, 5G, Nosql, Rest Apis, Terraform, Computer Vision, Node.Js, Kubernetes & Pandas, 5G, Nosql, Rest Apis, Terraform, Computer Vision, React, Aws",
+          "description": "Create a comprehensive project that demonstrates your mastery of Pandas, 5G, Nosql, Rest Apis, Terraform, Computer Vision, Aws & Pandas, 5G, Nosql, Rest Apis, Terraform, Computer Vision, Node.Js, Kubernetes & Pandas, 5G, Nosql, Rest Apis, Terraform, Computer Vision, React, Aws. Focus on real-world application.",
+          "difficulty": "Intermediate",
+          "skills_covered": [
+            "pandas, 5g, nosql, rest apis, terraform, computer vision, aws",
+            "pandas, 5g, nosql, rest apis, terraform, computer vision, node.js, kubernetes",
+            "pandas, 5g, nosql, rest apis, terraform, computer vision, react, aws"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "Advanced",
+      "duration": "8-10 weeks",
+      "focus": "Mastery & Job Readiness",
+      "skills": [],
+      "courses": [
+        {
+          "course_name": "HCIA-Cloud Computing - Cohort 12 (Part 3)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.4534018337726593,
+          "similarity": 0.5890030264854431,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "HCIA-Cloud Computing - Cohort 15 (Part 1)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.45334774255752563,
+          "similarity": 0.5889129042625427,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "HCIA-Cloud Computing - Cohort 12 (Part 1)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.45328381657600403,
+          "similarity": 0.5888063311576843,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "Multi-Tier Microservices Architecture",
+          "skills": [
+            "kubernetes",
+            "docker",
+            "terraform"
+          ],
+          "type": "DevOps",
+          "difficulty": "Advanced"
+        },
+        {
+          "title": "Develop a Cloud-Native Application with Pandas, 5G, Nosql, Rest Apis, Terraform, Computer Vision, Aws & Pandas, 5G, Nosql, Rest Apis, Terraform, Computer Vision, Node.Js, Kubernetes & Pandas, 5G, Nosql, Rest Apis, Terraform, Computer Vision, React, Aws",
+          "description": "Deploy a scalable application integrating Pandas, 5G, Nosql, Rest Apis, Terraform, Computer Vision, Aws & Pandas, 5G, Nosql, Rest Apis, Terraform, Computer Vision, Node.Js, Kubernetes & Pandas, 5G, Nosql, Rest Apis, Terraform, Computer Vision, React, Aws to solve a specific business problem.",
+          "difficulty": "Advanced",
+          "skills_covered": [
+            "pandas, 5g, nosql, rest apis, terraform, computer vision, aws",
+            "pandas, 5g, nosql, rest apis, terraform, computer vision, node.js, kubernetes",
+            "pandas, 5g, nosql, rest apis, terraform, computer vision, react, aws"
+          ]
+        }
+      ],
+      "internships": [
+        {
+          "company": "Cloudworks Egypt Inc",
+          "role": "Junior Full Stack Developer",
+          "match": 0.5940189361572266,
+          "location": "Tanta",
+          "missing_skills": []
+        },
+        {
+          "company": "Cairocloud Solutions",
+          "role": "Junior Product Manager",
+          "match": 0.5849248170852661,
+          "location": "Cairo",
+          "missing_skills": []
+        },
+        {
+          "company": "Cloudworks Egypt Inc",
+          "role": "Junior Full Stack Developer",
+          "match": 0.5701841115951538,
+          "location": "Tanta",
+          "missing_skills": []
+        }
+      ]
+    }
+  ]
+}

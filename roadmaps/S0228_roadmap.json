@@ -1,0 +1,212 @@
+{
+  "student_id": "S0228",
+  "career_path": "Network",
+  "career_source": "Target Job",
+  "generated_at": "2025-11-29",
+  "certification_path": [
+    "Cisco CCNA",
+    "Cisco CCNP",
+    "Huawei HCIA Datacom"
+  ],
+  "stages": [
+    {
+      "stage": "Beginner",
+      "duration": "4-6 weeks",
+      "focus": "Fundamentals & Top Gaps",
+      "skills": [
+        "firewalls, ansible, spark, flask, hipaa, pytorch, microservices",
+        "firewalls, ansible, spark, flask, hipaa, pytorch, microservices, docker, aws, kubernetes",
+        "firewalls, ansible, spark, flask, hipaa, pytorch, microservices, kubernetes",
+        "firewalls, ansible, spark, flask, hipaa, pytorch, microservices, react, tensorflow"
+      ],
+      "courses": [
+        {
+          "course_name": "AWS Academy Cloud Foundations - Cohort 9 (Part 2)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5359460115432739,
+          "similarity": 0.7265766263008118,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Cloud Foundations - Cohort 9 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5318952798843384,
+          "similarity": 0.7198254466056824,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Cloud Architecture Path - Cohort 6 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5314137935638428,
+          "similarity": 0.7190229892730713,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "Home Network Setup & Configuration",
+          "skills": [
+            "networking",
+            "routers",
+            "ip addressing"
+          ],
+          "type": "Setup",
+          "difficulty": "Beginner"
+        },
+        {
+          "title": "Firewalls, Ansible, Spark, Flask, Hipaa, Pytorch, Microservices & Firewalls, Ansible, Spark, Flask, Hipaa, Pytorch, Microservices, Docker, Aws, Kubernetes & Firewalls, Ansible, Spark, Flask, Hipaa, Pytorch, Microservices, Kubernetes Integration Lab",
+          "description": "Set up a practical lab environment to experiment with Firewalls, Ansible, Spark, Flask, Hipaa, Pytorch, Microservices & Firewalls, Ansible, Spark, Flask, Hipaa, Pytorch, Microservices, Docker, Aws, Kubernetes & Firewalls, Ansible, Spark, Flask, Hipaa, Pytorch, Microservices, Kubernetes configurations and troubleshooting.",
+          "difficulty": "Beginner",
+          "skills_covered": [
+            "firewalls, ansible, spark, flask, hipaa, pytorch, microservices",
+            "firewalls, ansible, spark, flask, hipaa, pytorch, microservices, docker, aws, kubernetes",
+            "firewalls, ansible, spark, flask, hipaa, pytorch, microservices, kubernetes"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "Intermediate",
+      "duration": "6-8 weeks",
+      "focus": "Application & Certification",
+      "skills": [],
+      "courses": [
+        {
+          "course_name": "AWS Academy Cloud Foundations - Cohort 15 (Part 3)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5296350717544556,
+          "similarity": 0.7160584330558777,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Cloud Foundations - Cohort 15 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5286982655525208,
+          "similarity": 0.7144970297813416,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "HCIP-Datacom - Cohort 3 (Part 1)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.4542408883571625,
+          "similarity": 0.5904014706611633,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "Cisco Packet Tracer Simulation",
+          "skills": [
+            "cisco",
+            "routing",
+            "switching"
+          ],
+          "type": "Simulation",
+          "difficulty": "Intermediate"
+        },
+        {
+          "title": "Build a Mid-Level Network Engineer Pipeline using Firewalls, Ansible, Spark, Flask, Hipaa, Pytorch, Microservices & Firewalls, Ansible, Spark, Flask, Hipaa, Pytorch, Microservices, Docker, Aws, Kubernetes & Firewalls, Ansible, Spark, Flask, Hipaa, Pytorch, Microservices, Kubernetes",
+          "description": "Create a comprehensive project that demonstrates your mastery of Firewalls, Ansible, Spark, Flask, Hipaa, Pytorch, Microservices & Firewalls, Ansible, Spark, Flask, Hipaa, Pytorch, Microservices, Docker, Aws, Kubernetes & Firewalls, Ansible, Spark, Flask, Hipaa, Pytorch, Microservices, Kubernetes. Focus on real-world application.",
+          "difficulty": "Intermediate",
+          "skills_covered": [
+            "firewalls, ansible, spark, flask, hipaa, pytorch, microservices",
+            "firewalls, ansible, spark, flask, hipaa, pytorch, microservices, docker, aws, kubernetes",
+            "firewalls, ansible, spark, flask, hipaa, pytorch, microservices, kubernetes"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "Advanced",
+      "duration": "8-10 weeks",
+      "focus": "Mastery & Job Readiness",
+      "skills": [],
+      "courses": [
+        {
+          "course_name": "HCIP-Datacom - Cohort 12 (Part 3)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.45214730501174927,
+          "similarity": 0.5869121551513672,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "HCIP-Datacom - Cohort 12 (Part 1)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.44494760036468506,
+          "similarity": 0.5749126672744751,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "HCIP-Datacom - Cohort 15 (Part 1)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.44404295086860657,
+          "similarity": 0.5734049081802368,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "Network Automation with Python",
+          "skills": [
+            "python",
+            "ansible",
+            "network automation"
+          ],
+          "type": "Automation",
+          "difficulty": "Advanced"
+        },
+        {
+          "title": "Develop a Cloud-Native Application with Firewalls, Ansible, Spark, Flask, Hipaa, Pytorch, Microservices & Firewalls, Ansible, Spark, Flask, Hipaa, Pytorch, Microservices, Docker, Aws, Kubernetes & Firewalls, Ansible, Spark, Flask, Hipaa, Pytorch, Microservices, Kubernetes",
+          "description": "Deploy a scalable application integrating Firewalls, Ansible, Spark, Flask, Hipaa, Pytorch, Microservices & Firewalls, Ansible, Spark, Flask, Hipaa, Pytorch, Microservices, Docker, Aws, Kubernetes & Firewalls, Ansible, Spark, Flask, Hipaa, Pytorch, Microservices, Kubernetes to solve a specific business problem.",
+          "difficulty": "Advanced",
+          "skills_covered": [
+            "firewalls, ansible, spark, flask, hipaa, pytorch, microservices",
+            "firewalls, ansible, spark, flask, hipaa, pytorch, microservices, docker, aws, kubernetes",
+            "firewalls, ansible, spark, flask, hipaa, pytorch, microservices, kubernetes"
+          ]
+        }
+      ],
+      "internships": [
+        {
+          "company": "Pyramid Solutions Egypt",
+          "role": "Junior Network Engineer",
+          "match": 0.6033095717430115,
+          "location": "Suez",
+          "missing_skills": []
+        },
+        {
+          "company": "Pyramid Solutions Group",
+          "role": "Junior Quality Assurance Engineer",
+          "match": 0.5692744255065918,
+          "location": "Hurghada",
+          "missing_skills": []
+        },
+        {
+          "company": "Cloudworks Egypt Ltd",
+          "role": "Junior Frontend Developer",
+          "match": 0.5673187971115112,
+          "location": "Mansoura",
+          "missing_skills": []
+        }
+      ]
+    }
+  ]
+}

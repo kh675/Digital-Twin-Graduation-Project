@@ -1,0 +1,65 @@
+# .gitignore for Digital Twin AI Platform
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+env/
+ENV/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Environment Variables
+.env
+.env.local
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb_checkpoints/
+
+# Temporary Files
+*.log
+*.tmp
+charts_temp/*.png
+charts_temp/*.jpg
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Large Files (optional - use Git LFS instead)
+# *.pkl
+# *.csv
+# embeddings/
+
+# PDF Reports (generated files)
+# pdf_reports/*.pdf
+
+# Model Files (if too large)
+# models/*.pkl

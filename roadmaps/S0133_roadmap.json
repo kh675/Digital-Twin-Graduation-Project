@@ -1,0 +1,213 @@
+{
+  "student_id": "S0133",
+  "career_path": "Cloud",
+  "career_source": "Prediction",
+  "generated_at": "2025-11-29",
+  "certification_path": [
+    "AWS Cloud Practitioner",
+    "AWS Solutions Architect Associate",
+    "Huawei HCIA Cloud"
+  ],
+  "stages": [
+    {
+      "stage": "Beginner",
+      "duration": "4-6 weeks",
+      "focus": "Fundamentals & Top Gaps",
+      "skills": [
+        "pandas, elasticsearch, iso27001, routing, hadoop, terraform, javascript",
+        "pandas, elasticsearch, iso27001, routing, hadoop, terraform, javascript, docker, node.js",
+        "pandas, elasticsearch, iso27001, routing, hadoop, terraform, javascript, python",
+        "pandas, elasticsearch, react, node.js, numpy, microservices, aws",
+        "spark, kubernetes, microservices, git, sql, node.js, python"
+      ],
+      "courses": [
+        {
+          "course_name": "AWS Developer Path - Cohort 3 (Part 3)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5152730345726013,
+          "similarity": 0.692121684551239,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Developer Path - Cohort 12 (Part 3)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5111258029937744,
+          "similarity": 0.6852096319198608,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Developer Path - Cohort 15 (Part 3)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5104673504829407,
+          "similarity": 0.6841122508049011,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "Static Website Hosting on AWS S3",
+          "skills": [
+            "aws",
+            "s3",
+            "dns"
+          ],
+          "type": "Infrastructure",
+          "difficulty": "Beginner"
+        },
+        {
+          "title": "Pandas, Elasticsearch, Iso27001, Routing, Hadoop, Terraform, Javascript & Pandas, Elasticsearch, Iso27001, Routing, Hadoop, Terraform, Javascript, Docker, Node.Js & Pandas, Elasticsearch, Iso27001, Routing, Hadoop, Terraform, Javascript, Python Integration Lab",
+          "description": "Set up a practical lab environment to experiment with Pandas, Elasticsearch, Iso27001, Routing, Hadoop, Terraform, Javascript & Pandas, Elasticsearch, Iso27001, Routing, Hadoop, Terraform, Javascript, Docker, Node.Js & Pandas, Elasticsearch, Iso27001, Routing, Hadoop, Terraform, Javascript, Python configurations and troubleshooting.",
+          "difficulty": "Beginner",
+          "skills_covered": [
+            "pandas, elasticsearch, iso27001, routing, hadoop, terraform, javascript",
+            "pandas, elasticsearch, iso27001, routing, hadoop, terraform, javascript, docker, node.js",
+            "pandas, elasticsearch, iso27001, routing, hadoop, terraform, javascript, python"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "Intermediate",
+      "duration": "6-8 weeks",
+      "focus": "Application & Certification",
+      "skills": [],
+      "courses": [
+        {
+          "course_name": "AWS Academy Machine Learning Foundations - Cohort 12 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.49421006441116333,
+          "similarity": 0.6570167541503906,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Machine Learning Foundations - Cohort 3 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.49295949935913086,
+          "similarity": 0.6549324989318848,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "Huawei Big Data Developer - Cohort 6 (Part 3)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.4376075863838196,
+          "similarity": 0.5626792907714844,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "Serverless API with Lambda & DynamoDB",
+          "skills": [
+            "aws lambda",
+            "api gateway",
+            "nosql"
+          ],
+          "type": "Backend",
+          "difficulty": "Intermediate"
+        },
+        {
+          "title": "Build a Lead Cloud Engineer Pipeline using Pandas, Elasticsearch, Iso27001, Routing, Hadoop, Terraform, Javascript & Pandas, Elasticsearch, Iso27001, Routing, Hadoop, Terraform, Javascript, Docker, Node.Js & Pandas, Elasticsearch, Iso27001, Routing, Hadoop, Terraform, Javascript, Python",
+          "description": "Create a comprehensive project that demonstrates your mastery of Pandas, Elasticsearch, Iso27001, Routing, Hadoop, Terraform, Javascript & Pandas, Elasticsearch, Iso27001, Routing, Hadoop, Terraform, Javascript, Docker, Node.Js & Pandas, Elasticsearch, Iso27001, Routing, Hadoop, Terraform, Javascript, Python. Focus on real-world application.",
+          "difficulty": "Intermediate",
+          "skills_covered": [
+            "pandas, elasticsearch, iso27001, routing, hadoop, terraform, javascript",
+            "pandas, elasticsearch, iso27001, routing, hadoop, terraform, javascript, docker, node.js",
+            "pandas, elasticsearch, iso27001, routing, hadoop, terraform, javascript, python"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "Advanced",
+      "duration": "8-10 weeks",
+      "focus": "Mastery & Job Readiness",
+      "skills": [],
+      "courses": [
+        {
+          "course_name": "Huawei Data Warehouse and BI - Cohort 6 (Part 1)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.4355504810810089,
+          "similarity": 0.5592507719993591,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "Huawei Big Data Developer - Cohort 15 (Part 1)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.4301319718360901,
+          "similarity": 0.5502199530601501,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "Big Data Developer - Cohort 6 (Part 1)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.42913222312927246,
+          "similarity": 0.5485537052154541,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "Multi-Tier Microservices Architecture",
+          "skills": [
+            "kubernetes",
+            "docker",
+            "terraform"
+          ],
+          "type": "DevOps",
+          "difficulty": "Advanced"
+        },
+        {
+          "title": "Develop a Cloud-Native Application with Pandas, Elasticsearch, Iso27001, Routing, Hadoop, Terraform, Javascript & Pandas, Elasticsearch, Iso27001, Routing, Hadoop, Terraform, Javascript, Docker, Node.Js & Pandas, Elasticsearch, Iso27001, Routing, Hadoop, Terraform, Javascript, Python",
+          "description": "Deploy a scalable application integrating Pandas, Elasticsearch, Iso27001, Routing, Hadoop, Terraform, Javascript & Pandas, Elasticsearch, Iso27001, Routing, Hadoop, Terraform, Javascript, Docker, Node.Js & Pandas, Elasticsearch, Iso27001, Routing, Hadoop, Terraform, Javascript, Python to solve a specific business problem.",
+          "difficulty": "Advanced",
+          "skills_covered": [
+            "pandas, elasticsearch, iso27001, routing, hadoop, terraform, javascript",
+            "pandas, elasticsearch, iso27001, routing, hadoop, terraform, javascript, docker, node.js",
+            "pandas, elasticsearch, iso27001, routing, hadoop, terraform, javascript, python"
+          ]
+        }
+      ],
+      "internships": [
+        {
+          "company": "Pyramid Solutions Egypt",
+          "role": "Junior Backend Developer",
+          "match": 0.6147922873497009,
+          "location": "Alexandria",
+          "missing_skills": []
+        },
+        {
+          "company": "Pyramid Solutions Egypt",
+          "role": "Junior Network Engineer",
+          "match": 0.6119492650032043,
+          "location": "Suez",
+          "missing_skills": []
+        },
+        {
+          "company": "Pyramid Solutions Inc",
+          "role": "Junior Frontend Developer",
+          "match": 0.5906078815460205,
+          "location": "Giza",
+          "missing_skills": []
+        }
+      ]
+    }
+  ]
+}

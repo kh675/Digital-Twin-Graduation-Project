@@ -1,0 +1,213 @@
+{
+  "student_id": "S0214",
+  "career_path": "Software",
+  "career_source": "Prediction",
+  "generated_at": "2025-11-29",
+  "certification_path": [
+    "Oracle Java Associate",
+    "Meta Front-End Developer",
+    "AWS Developer Associate"
+  ],
+  "stages": [
+    {
+      "stage": "Beginner",
+      "duration": "4-6 weeks",
+      "focus": "Fundamentals & Top Gaps",
+      "skills": [
+        "python, spark, tensorflow, react, aws",
+        "switching, numpy, react, routing, hadoop, azure, javascript",
+        "switching, numpy, react, routing, hadoop, azure, javascript, kubernetes, tensorflow",
+        "switching, numpy, react, routing, hadoop, azure, javascript, node.js, docker, aws",
+        "switching, numpy, react, routing, hadoop, azure, javascript, tensorflow, docker"
+      ],
+      "courses": [
+        {
+          "course_name": "AWS Academy Machine Learning Foundations - Cohort 9 (Part 3)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.4455735981464386,
+          "similarity": 0.5759559869766235,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Machine Learning Foundations - Cohort 9 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.4447476863861084,
+          "similarity": 0.5745794773101807,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Machine Learning Foundations - Cohort 12 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.4442598521709442,
+          "similarity": 0.5737664103507996,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "Personal Portfolio Website",
+          "skills": [
+            "html",
+            "css",
+            "javascript"
+          ],
+          "type": "Frontend",
+          "difficulty": "Beginner"
+        },
+        {
+          "title": "Python, Spark, Tensorflow, React, Aws & Switching, Numpy, React, Routing, Hadoop, Azure, Javascript & Switching, Numpy, React, Routing, Hadoop, Azure, Javascript, Kubernetes, Tensorflow Integration Lab",
+          "description": "Set up a practical lab environment to experiment with Python, Spark, Tensorflow, React, Aws & Switching, Numpy, React, Routing, Hadoop, Azure, Javascript & Switching, Numpy, React, Routing, Hadoop, Azure, Javascript, Kubernetes, Tensorflow configurations and troubleshooting.",
+          "difficulty": "Beginner",
+          "skills_covered": [
+            "python, spark, tensorflow, react, aws",
+            "switching, numpy, react, routing, hadoop, azure, javascript",
+            "switching, numpy, react, routing, hadoop, azure, javascript, kubernetes, tensorflow"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "Intermediate",
+      "duration": "6-8 weeks",
+      "focus": "Application & Certification",
+      "skills": [],
+      "courses": [
+        {
+          "course_name": "AWS Academy Machine Learning for Developers - Cohort 15 (Part 2)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.44339337944984436,
+          "similarity": 0.5723223090171814,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Machine Learning for Developers - Cohort 15 (Part 2)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.4428616464138031,
+          "similarity": 0.5714360475540161,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "HCIP-AI-Developer - Cohort 6 (Part 2)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.5048466324806213,
+          "similarity": 0.6747443675994873,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "REST API for Task Management",
+          "skills": [
+            "nodejs",
+            "express",
+            "mongodb"
+          ],
+          "type": "Backend",
+          "difficulty": "Intermediate"
+        },
+        {
+          "title": "Build a Senior Frontend Developer Pipeline using Python, Spark, Tensorflow, React, Aws & Switching, Numpy, React, Routing, Hadoop, Azure, Javascript & Switching, Numpy, React, Routing, Hadoop, Azure, Javascript, Kubernetes, Tensorflow",
+          "description": "Create a comprehensive project that demonstrates your mastery of Python, Spark, Tensorflow, React, Aws & Switching, Numpy, React, Routing, Hadoop, Azure, Javascript & Switching, Numpy, React, Routing, Hadoop, Azure, Javascript, Kubernetes, Tensorflow. Focus on real-world application.",
+          "difficulty": "Intermediate",
+          "skills_covered": [
+            "python, spark, tensorflow, react, aws",
+            "switching, numpy, react, routing, hadoop, azure, javascript",
+            "switching, numpy, react, routing, hadoop, azure, javascript, kubernetes, tensorflow"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "Advanced",
+      "duration": "8-10 weeks",
+      "focus": "Mastery & Job Readiness",
+      "skills": [],
+      "courses": [
+        {
+          "course_name": "HCIP-AI-Developer - Cohort 12 (Part 3)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.502758264541626,
+          "similarity": 0.6712636947631836,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "HCIP-AI-Developer - Cohort 9 (Part 1)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.5013324618339539,
+          "similarity": 0.6688873767852783,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "HCIP-AI-Developer - Cohort 15 (Part 3)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.49960294365882874,
+          "similarity": 0.6660048961639404,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "Full Stack E-commerce Platform",
+          "skills": [
+            "react",
+            "redux",
+            "stripe integration"
+          ],
+          "type": "Full Stack",
+          "difficulty": "Advanced"
+        },
+        {
+          "title": "Develop a Cloud-Native Application with Python, Spark, Tensorflow, React, Aws & Switching, Numpy, React, Routing, Hadoop, Azure, Javascript & Switching, Numpy, React, Routing, Hadoop, Azure, Javascript, Kubernetes, Tensorflow",
+          "description": "Deploy a scalable application integrating Python, Spark, Tensorflow, React, Aws & Switching, Numpy, React, Routing, Hadoop, Azure, Javascript & Switching, Numpy, React, Routing, Hadoop, Azure, Javascript, Kubernetes, Tensorflow to solve a specific business problem.",
+          "difficulty": "Advanced",
+          "skills_covered": [
+            "python, spark, tensorflow, react, aws",
+            "switching, numpy, react, routing, hadoop, azure, javascript",
+            "switching, numpy, react, routing, hadoop, azure, javascript, kubernetes, tensorflow"
+          ]
+        }
+      ],
+      "internships": [
+        {
+          "company": "Pyramid Solutions Group",
+          "role": "Junior Frontend Developer",
+          "match": 0.615301251411438,
+          "location": "Hurghada",
+          "missing_skills": []
+        },
+        {
+          "company": "Pyramid Solutions Ltd",
+          "role": "Junior Backend Developer",
+          "match": 0.6114163398742676,
+          "location": "Alexandria",
+          "missing_skills": []
+        },
+        {
+          "company": "Pyramid Solutions Egypt",
+          "role": "Junior Backend Developer",
+          "match": 0.5885896682739258,
+          "location": "Alexandria",
+          "missing_skills": []
+        }
+      ]
+    }
+  ]
+}

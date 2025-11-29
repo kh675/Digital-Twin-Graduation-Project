@@ -1,0 +1,213 @@
+{
+  "student_id": "S0606",
+  "career_path": "Data",
+  "career_source": "Prediction",
+  "generated_at": "2025-11-29",
+  "certification_path": [
+    "Google Data Analytics",
+    "Azure Data Scientist Associate",
+    "IBM Data Science"
+  ],
+  "stages": [
+    {
+      "stage": "Beginner",
+      "duration": "4-6 weeks",
+      "focus": "Fundamentals & Top Gaps",
+      "skills": [
+        "node.js, django, python, kubernetes, git, react, aws",
+        "node.js, django, python, kubernetes, git, react, docker",
+        "node.js, django, python, kubernetes, git, react, tensorflow, aws",
+        "pandas, hadoop, nosql, rest apis, hipaa, sql, terraform, node.js, aws",
+        "pandas, hadoop, nosql, rest apis, hipaa, sql, terraform, node.js, kubernetes, docker"
+      ],
+      "courses": [
+        {
+          "course_name": "AWS Academy Machine Learning for Developers - Cohort 15 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5057553648948669,
+          "similarity": 0.6762588620185852,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Machine Learning for Developers - Cohort 3 (Part 3)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5027089715003967,
+          "similarity": 0.6711816191673279,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Machine Learning Foundations - Cohort 12 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5018506646156311,
+          "similarity": 0.6697511076927185,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "Exploratory Data Analysis on Titanic Dataset",
+          "skills": [
+            "python",
+            "pandas",
+            "matplotlib"
+          ],
+          "type": "Analysis",
+          "difficulty": "Beginner"
+        },
+        {
+          "title": "Node.Js, Django, Python, Kubernetes, Git, React, Aws & Node.Js, Django, Python, Kubernetes, Git, React, Docker & Node.Js, Django, Python, Kubernetes, Git, React, Tensorflow, Aws Integration Lab",
+          "description": "Set up a practical lab environment to experiment with Node.Js, Django, Python, Kubernetes, Git, React, Aws & Node.Js, Django, Python, Kubernetes, Git, React, Docker & Node.Js, Django, Python, Kubernetes, Git, React, Tensorflow, Aws configurations and troubleshooting.",
+          "difficulty": "Beginner",
+          "skills_covered": [
+            "node.js, django, python, kubernetes, git, react, aws",
+            "node.js, django, python, kubernetes, git, react, docker",
+            "node.js, django, python, kubernetes, git, react, tensorflow, aws"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "Intermediate",
+      "duration": "6-8 weeks",
+      "focus": "Application & Certification",
+      "skills": [],
+      "courses": [
+        {
+          "course_name": "AWS Academy Machine Learning for Developers - Cohort 15 (Part 2)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.49917060136795044,
+          "similarity": 0.6652843356132507,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Machine Learning for Developers - Cohort 6 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.49908268451690674,
+          "similarity": 0.665137767791748,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AI Talent Program - Cohort 3 (Part 2)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.49519872665405273,
+          "similarity": 0.6586645245552063,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "E-commerce Sales Dashboard",
+          "skills": [
+            "sql",
+            "tableau",
+            "data cleaning"
+          ],
+          "type": "Visualization",
+          "difficulty": "Intermediate"
+        },
+        {
+          "title": "Build a Principal Data Scientist Pipeline using Node.Js, Django, Python, Kubernetes, Git, React, Aws & Node.Js, Django, Python, Kubernetes, Git, React, Docker & Node.Js, Django, Python, Kubernetes, Git, React, Tensorflow, Aws",
+          "description": "Create a comprehensive project that demonstrates your mastery of Node.Js, Django, Python, Kubernetes, Git, React, Aws & Node.Js, Django, Python, Kubernetes, Git, React, Docker & Node.Js, Django, Python, Kubernetes, Git, React, Tensorflow, Aws. Focus on real-world application.",
+          "difficulty": "Intermediate",
+          "skills_covered": [
+            "node.js, django, python, kubernetes, git, react, aws",
+            "node.js, django, python, kubernetes, git, react, docker",
+            "node.js, django, python, kubernetes, git, react, tensorflow, aws"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "Advanced",
+      "duration": "8-10 weeks",
+      "focus": "Mastery & Job Readiness",
+      "skills": [],
+      "courses": [
+        {
+          "course_name": "AI Talent Program - Cohort 6 (Part 3)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.47230952978134155,
+          "similarity": 0.6205158829689026,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AI Talent Program - Cohort 15 (Part 3)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.4679259955883026,
+          "similarity": 0.6132099628448486,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AI Talent Program - Cohort 6 (Part 3)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.4474097788333893,
+          "similarity": 0.5790162682533264,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "Predictive Customer Churn Model",
+          "skills": [
+            "scikit-learn",
+            "feature engineering",
+            "modeling"
+          ],
+          "type": "ML",
+          "difficulty": "Advanced"
+        },
+        {
+          "title": "Develop a Cloud-Native Application with Node.Js, Django, Python, Kubernetes, Git, React, Aws & Node.Js, Django, Python, Kubernetes, Git, React, Docker & Node.Js, Django, Python, Kubernetes, Git, React, Tensorflow, Aws",
+          "description": "Deploy a scalable application integrating Node.Js, Django, Python, Kubernetes, Git, React, Aws & Node.Js, Django, Python, Kubernetes, Git, React, Docker & Node.Js, Django, Python, Kubernetes, Git, React, Tensorflow, Aws to solve a specific business problem.",
+          "difficulty": "Advanced",
+          "skills_covered": [
+            "node.js, django, python, kubernetes, git, react, aws",
+            "node.js, django, python, kubernetes, git, react, docker",
+            "node.js, django, python, kubernetes, git, react, tensorflow, aws"
+          ]
+        }
+      ],
+      "internships": [
+        {
+          "company": "Pyramid Solutions Egypt",
+          "role": "Junior Machine Learning Engineer",
+          "match": 0.6506950259208679,
+          "location": "Aswan",
+          "missing_skills": []
+        },
+        {
+          "company": "Pyramid Solutions Group",
+          "role": "Junior Machine Learning Engineer",
+          "match": 0.6498635411262512,
+          "location": "Aswan",
+          "missing_skills": []
+        },
+        {
+          "company": "Techsol Egypt Group",
+          "role": "Junior Data Scientist",
+          "match": 0.6484386920928955,
+          "location": "Aswan",
+          "missing_skills": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,212 @@
+{
+  "student_id": "S1458",
+  "career_path": "Machine Learning",
+  "career_source": "Prediction",
+  "generated_at": "2025-11-29",
+  "certification_path": [
+    "TensorFlow Developer Certificate",
+    "AWS Machine Learning Specialty",
+    "DeepLearning.AI"
+  ],
+  "stages": [
+    {
+      "stage": "Beginner",
+      "duration": "4-6 weeks",
+      "focus": "Fundamentals & Top Gaps",
+      "skills": [
+        "flask, hadoop, tensorflow, git, react",
+        "git, firewalls, azure, ci/cd, pytorch, pandas, aws, react, node.js",
+        "git, firewalls, azure, ci/cd, pytorch, pandas, react, python",
+        "git, firewalls, azure, ci/cd, pytorch, pandas, react, python, sql"
+      ],
+      "courses": [
+        {
+          "course_name": "AWS Academy Machine Learning for Developers - Cohort 15 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.4923546612262726,
+          "similarity": 0.6539244055747986,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Machine Learning for Developers - Cohort 3 (Part 3)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.49184009432792664,
+          "similarity": 0.6530668139457703,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Machine Learning Foundations - Cohort 12 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.491438627243042,
+          "similarity": 0.6523976922035217,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "House Price Prediction",
+          "skills": [
+            "python",
+            "regression",
+            "scikit-learn"
+          ],
+          "type": "Regression",
+          "difficulty": "Beginner"
+        },
+        {
+          "title": "Flask, Hadoop, Tensorflow, Git, React & Git, Firewalls, Azure, Ci/Cd, Pytorch, Pandas, Aws, React, Node.Js & Git, Firewalls, Azure, Ci/Cd, Pytorch, Pandas, React, Python Integration Lab",
+          "description": "Set up a practical lab environment to experiment with Flask, Hadoop, Tensorflow, Git, React & Git, Firewalls, Azure, Ci/Cd, Pytorch, Pandas, Aws, React, Node.Js & Git, Firewalls, Azure, Ci/Cd, Pytorch, Pandas, React, Python configurations and troubleshooting.",
+          "difficulty": "Beginner",
+          "skills_covered": [
+            "flask, hadoop, tensorflow, git, react",
+            "git, firewalls, azure, ci/cd, pytorch, pandas, aws, react, node.js",
+            "git, firewalls, azure, ci/cd, pytorch, pandas, react, python"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "Intermediate",
+      "duration": "6-8 weeks",
+      "focus": "Application & Certification",
+      "skills": [],
+      "courses": [
+        {
+          "course_name": "AWS Academy Machine Learning for Developers - Cohort 15 (Part 2)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.488975465297699,
+          "similarity": 0.6482924222946167,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Machine Learning Foundations - Cohort 3 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.48596101999282837,
+          "similarity": 0.643268346786499,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "HCIP-AI-Developer - Cohort 12 (Part 2)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.5220137238502502,
+          "similarity": 0.7033562064170837,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "Image Classification with CNNs",
+          "skills": [
+            "tensorflow",
+            "deep learning",
+            "cnn"
+          ],
+          "type": "Computer Vision",
+          "difficulty": "Intermediate"
+        },
+        {
+          "title": "Build a Principal Machine Learning Engineer Pipeline using Flask, Hadoop, Tensorflow, Git, React & Git, Firewalls, Azure, Ci/Cd, Pytorch, Pandas, Aws, React, Node.Js & Git, Firewalls, Azure, Ci/Cd, Pytorch, Pandas, React, Python",
+          "description": "Create a comprehensive project that demonstrates your mastery of Flask, Hadoop, Tensorflow, Git, React & Git, Firewalls, Azure, Ci/Cd, Pytorch, Pandas, Aws, React, Node.Js & Git, Firewalls, Azure, Ci/Cd, Pytorch, Pandas, React, Python. Focus on real-world application.",
+          "difficulty": "Intermediate",
+          "skills_covered": [
+            "flask, hadoop, tensorflow, git, react",
+            "git, firewalls, azure, ci/cd, pytorch, pandas, aws, react, node.js",
+            "git, firewalls, azure, ci/cd, pytorch, pandas, react, python"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "Advanced",
+      "duration": "8-10 weeks",
+      "focus": "Mastery & Job Readiness",
+      "skills": [],
+      "courses": [
+        {
+          "course_name": "HCIP-AI-Developer - Cohort 9 (Part 1)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.5216013193130493,
+          "similarity": 0.7026687860488892,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "HCIP-AI-Developer - Cohort 15 (Part 2)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.5214702486991882,
+          "similarity": 0.7024503350257874,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "HCIP-AI-Developer - Cohort 6 (Part 2)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.5205297470092773,
+          "similarity": 0.7008829116821289,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "End-to-End NLP Chatbot",
+          "skills": [
+            "nlp",
+            "transformers",
+            "deployment"
+          ],
+          "type": "NLP",
+          "difficulty": "Advanced"
+        },
+        {
+          "title": "Develop a Cloud-Native Application with Flask, Hadoop, Tensorflow, Git, React & Git, Firewalls, Azure, Ci/Cd, Pytorch, Pandas, Aws, React, Node.Js & Git, Firewalls, Azure, Ci/Cd, Pytorch, Pandas, React, Python",
+          "description": "Deploy a scalable application integrating Flask, Hadoop, Tensorflow, Git, React & Git, Firewalls, Azure, Ci/Cd, Pytorch, Pandas, Aws, React, Node.Js & Git, Firewalls, Azure, Ci/Cd, Pytorch, Pandas, React, Python to solve a specific business problem.",
+          "difficulty": "Advanced",
+          "skills_covered": [
+            "flask, hadoop, tensorflow, git, react",
+            "git, firewalls, azure, ci/cd, pytorch, pandas, aws, react, node.js",
+            "git, firewalls, azure, ci/cd, pytorch, pandas, react, python"
+          ]
+        }
+      ],
+      "internships": [
+        {
+          "company": "Techsol Egypt Solutions",
+          "role": "Junior Machine Learning Engineer",
+          "match": 0.6147122383117676,
+          "location": "Mansoura",
+          "missing_skills": []
+        },
+        {
+          "company": "Techsol Egypt Group",
+          "role": "Junior Data Scientist",
+          "match": 0.6063915491104126,
+          "location": "Aswan",
+          "missing_skills": []
+        },
+        {
+          "company": "Techsol Egypt Egypt",
+          "role": "Junior Machine Learning Engineer",
+          "match": 0.6032684445381165,
+          "location": "Mansoura",
+          "missing_skills": []
+        }
+      ]
+    }
+  ]
+}

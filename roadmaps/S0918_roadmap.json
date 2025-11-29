@@ -1,0 +1,213 @@
+{
+  "student_id": "S0918",
+  "career_path": "Cloud",
+  "career_source": "Target Job",
+  "generated_at": "2025-11-29",
+  "certification_path": [
+    "AWS Cloud Practitioner",
+    "AWS Solutions Architect Associate",
+    "Huawei HCIA Cloud"
+  ],
+  "stages": [
+    {
+      "stage": "Beginner",
+      "duration": "4-6 weeks",
+      "focus": "Fundamentals & Top Gaps",
+      "skills": [
+        "nlp, git, terraform, rest apis, firewalls, microservices, python, tensorflow, aws",
+        "pandas, elasticsearch, react, node.js, numpy, microservices, python, tensorflow",
+        "pandas, node.js, computer vision, aws, sql, python",
+        "rest apis, javascript, nlp, pandas, ansible, switching, spark, aws, docker, sql",
+        "tensorflow, pandas, pytorch, react, ansible, docker, sql"
+      ],
+      "courses": [
+        {
+          "course_name": "AWS Academy Machine Learning Foundations - Cohort 3 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5228555798530579,
+          "similarity": 0.7047592401504517,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Machine Learning Foundations - Cohort 12 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5221343040466309,
+          "similarity": 0.7035571336746216,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Machine Learning for Developers - Cohort 3 (Part 3)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5200082063674927,
+          "similarity": 0.7000136375427246,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "Static Website Hosting on AWS S3",
+          "skills": [
+            "aws",
+            "s3",
+            "dns"
+          ],
+          "type": "Infrastructure",
+          "difficulty": "Beginner"
+        },
+        {
+          "title": "Nlp, Git, Terraform, Rest Apis, Firewalls, Microservices, Python, Tensorflow, Aws & Pandas, Elasticsearch, React, Node.Js, Numpy, Microservices, Python, Tensorflow & Pandas, Node.Js, Computer Vision, Aws, Sql, Python Integration Lab",
+          "description": "Set up a practical lab environment to experiment with Nlp, Git, Terraform, Rest Apis, Firewalls, Microservices, Python, Tensorflow, Aws & Pandas, Elasticsearch, React, Node.Js, Numpy, Microservices, Python, Tensorflow & Pandas, Node.Js, Computer Vision, Aws, Sql, Python configurations and troubleshooting.",
+          "difficulty": "Beginner",
+          "skills_covered": [
+            "nlp, git, terraform, rest apis, firewalls, microservices, python, tensorflow, aws",
+            "pandas, elasticsearch, react, node.js, numpy, microservices, python, tensorflow",
+            "pandas, node.js, computer vision, aws, sql, python"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "Intermediate",
+      "duration": "6-8 weeks",
+      "focus": "Application & Certification",
+      "skills": [],
+      "courses": [
+        {
+          "course_name": "AWS ML Specialty - Cohort 9 (Part 3)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5188161730766296,
+          "similarity": 0.6980269551277161,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Machine Learning Foundations - Cohort 9 (Part 3)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5179036855697632,
+          "similarity": 0.696506142616272,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AI Talent Program - Cohort 3 (Part 2)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.5012419819831848,
+          "similarity": 0.6687366366386414,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "Serverless API with Lambda & DynamoDB",
+          "skills": [
+            "aws lambda",
+            "api gateway",
+            "nosql"
+          ],
+          "type": "Backend",
+          "difficulty": "Intermediate"
+        },
+        {
+          "title": "Build a Lead Cloud Engineer Pipeline using Nlp, Git, Terraform, Rest Apis, Firewalls, Microservices, Python, Tensorflow, Aws & Pandas, Elasticsearch, React, Node.Js, Numpy, Microservices, Python, Tensorflow & Pandas, Node.Js, Computer Vision, Aws, Sql, Python",
+          "description": "Create a comprehensive project that demonstrates your mastery of Nlp, Git, Terraform, Rest Apis, Firewalls, Microservices, Python, Tensorflow, Aws & Pandas, Elasticsearch, React, Node.Js, Numpy, Microservices, Python, Tensorflow & Pandas, Node.Js, Computer Vision, Aws, Sql, Python. Focus on real-world application.",
+          "difficulty": "Intermediate",
+          "skills_covered": [
+            "nlp, git, terraform, rest apis, firewalls, microservices, python, tensorflow, aws",
+            "pandas, elasticsearch, react, node.js, numpy, microservices, python, tensorflow",
+            "pandas, node.js, computer vision, aws, sql, python"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "Advanced",
+      "duration": "8-10 weeks",
+      "focus": "Mastery & Job Readiness",
+      "skills": [],
+      "courses": [
+        {
+          "course_name": "AI Talent Program - Cohort 6 (Part 3)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.4886847138404846,
+          "similarity": 0.6478078365325928,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AI Talent Program - Cohort 15 (Part 3)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.48582154512405396,
+          "similarity": 0.643035888671875,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "Huawei Data Warehouse and BI - Cohort 6 (Part 1)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.4566288888454437,
+          "similarity": 0.5943814516067505,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "Multi-Tier Microservices Architecture",
+          "skills": [
+            "kubernetes",
+            "docker",
+            "terraform"
+          ],
+          "type": "DevOps",
+          "difficulty": "Advanced"
+        },
+        {
+          "title": "Develop a Cloud-Native Application with Nlp, Git, Terraform, Rest Apis, Firewalls, Microservices, Python, Tensorflow, Aws & Pandas, Elasticsearch, React, Node.Js, Numpy, Microservices, Python, Tensorflow & Pandas, Node.Js, Computer Vision, Aws, Sql, Python",
+          "description": "Deploy a scalable application integrating Nlp, Git, Terraform, Rest Apis, Firewalls, Microservices, Python, Tensorflow, Aws & Pandas, Elasticsearch, React, Node.Js, Numpy, Microservices, Python, Tensorflow & Pandas, Node.Js, Computer Vision, Aws, Sql, Python to solve a specific business problem.",
+          "difficulty": "Advanced",
+          "skills_covered": [
+            "nlp, git, terraform, rest apis, firewalls, microservices, python, tensorflow, aws",
+            "pandas, elasticsearch, react, node.js, numpy, microservices, python, tensorflow",
+            "pandas, node.js, computer vision, aws, sql, python"
+          ]
+        }
+      ],
+      "internships": [
+        {
+          "company": "Pyramid Solutions Ltd",
+          "role": "Junior Backend Developer",
+          "match": 0.6226927042007446,
+          "location": "Alexandria",
+          "missing_skills": []
+        },
+        {
+          "company": "Pyramid Solutions Egypt",
+          "role": "Junior Machine Learning Engineer",
+          "match": 0.6211592555046082,
+          "location": "Aswan",
+          "missing_skills": []
+        },
+        {
+          "company": "Pyramid Solutions Group",
+          "role": "Junior Machine Learning Engineer",
+          "match": 0.620335578918457,
+          "location": "Aswan",
+          "missing_skills": []
+        }
+      ]
+    }
+  ]
+}

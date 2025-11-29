@@ -1,0 +1,213 @@
+{
+  "student_id": "S1090",
+  "career_path": "Software",
+  "career_source": "Prediction",
+  "generated_at": "2025-11-29",
+  "certification_path": [
+    "Oracle Java Associate",
+    "Meta Front-End Developer",
+    "AWS Developer Associate"
+  ],
+  "stages": [
+    {
+      "stage": "Beginner",
+      "duration": "4-6 weeks",
+      "focus": "Fundamentals & Top Gaps",
+      "skills": [
+        "ci/cd, sql, nlp, iso27001, tensorflow, rest apis, aws, python",
+        "ci/cd, sql, nlp, iso27001, tensorflow, rest apis, node.js",
+        "ci/cd, sql, nlp, iso27001, tensorflow, rest apis, node.js, python",
+        "ci/cd, sql, nlp, iso27001, tensorflow, rest apis, react, python",
+        "microservices, javascript, flask, ansible, pytorch, routing"
+      ],
+      "courses": [
+        {
+          "course_name": "AWS Academy Machine Learning for Developers - Cohort 15 (Part 2)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.40509262681007385,
+          "similarity": 0.5084877014160156,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Machine Learning for Developers - Cohort 15 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.39726224541664124,
+          "similarity": 0.4954370856285095,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Machine Learning for Developers - Cohort 3 (Part 3)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.39645951986312866,
+          "similarity": 0.4940991699695587,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "Personal Portfolio Website",
+          "skills": [
+            "html",
+            "css",
+            "javascript"
+          ],
+          "type": "Frontend",
+          "difficulty": "Beginner"
+        },
+        {
+          "title": "Ci/Cd, Sql, Nlp, Iso27001, Tensorflow, Rest Apis, Aws, Python & Ci/Cd, Sql, Nlp, Iso27001, Tensorflow, Rest Apis, Node.Js & Ci/Cd, Sql, Nlp, Iso27001, Tensorflow, Rest Apis, Node.Js, Python Integration Lab",
+          "description": "Set up a practical lab environment to experiment with Ci/Cd, Sql, Nlp, Iso27001, Tensorflow, Rest Apis, Aws, Python & Ci/Cd, Sql, Nlp, Iso27001, Tensorflow, Rest Apis, Node.Js & Ci/Cd, Sql, Nlp, Iso27001, Tensorflow, Rest Apis, Node.Js, Python configurations and troubleshooting.",
+          "difficulty": "Beginner",
+          "skills_covered": [
+            "ci/cd, sql, nlp, iso27001, tensorflow, rest apis, aws, python",
+            "ci/cd, sql, nlp, iso27001, tensorflow, rest apis, node.js",
+            "ci/cd, sql, nlp, iso27001, tensorflow, rest apis, node.js, python"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "Intermediate",
+      "duration": "6-8 weeks",
+      "focus": "Application & Certification",
+      "skills": [],
+      "courses": [
+        {
+          "course_name": "AWS Academy Machine Learning for Developers - Cohort 3 (Part 2)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.39554786682128906,
+          "similarity": 0.49257978796958923,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Machine Learning for Developers - Cohort 6 (Part 3)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.39291712641716003,
+          "similarity": 0.48819518089294434,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "HCIP-AI-Developer - Cohort 12 (Part 3)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.5388915538787842,
+          "similarity": 0.7314858436584473,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "REST API for Task Management",
+          "skills": [
+            "nodejs",
+            "express",
+            "mongodb"
+          ],
+          "type": "Backend",
+          "difficulty": "Intermediate"
+        },
+        {
+          "title": "Build a Lead Mobile Developer Pipeline using Ci/Cd, Sql, Nlp, Iso27001, Tensorflow, Rest Apis, Aws, Python & Ci/Cd, Sql, Nlp, Iso27001, Tensorflow, Rest Apis, Node.Js & Ci/Cd, Sql, Nlp, Iso27001, Tensorflow, Rest Apis, Node.Js, Python",
+          "description": "Create a comprehensive project that demonstrates your mastery of Ci/Cd, Sql, Nlp, Iso27001, Tensorflow, Rest Apis, Aws, Python & Ci/Cd, Sql, Nlp, Iso27001, Tensorflow, Rest Apis, Node.Js & Ci/Cd, Sql, Nlp, Iso27001, Tensorflow, Rest Apis, Node.Js, Python. Focus on real-world application.",
+          "difficulty": "Intermediate",
+          "skills_covered": [
+            "ci/cd, sql, nlp, iso27001, tensorflow, rest apis, aws, python",
+            "ci/cd, sql, nlp, iso27001, tensorflow, rest apis, node.js",
+            "ci/cd, sql, nlp, iso27001, tensorflow, rest apis, node.js, python"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "Advanced",
+      "duration": "8-10 weeks",
+      "focus": "Mastery & Job Readiness",
+      "skills": [],
+      "courses": [
+        {
+          "course_name": "HCIP-AI-Developer - Cohort 6 (Part 3)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.531629741191864,
+          "similarity": 0.7193828821182251,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "HCIP-AI-Developer - Cohort 15 (Part 2)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.5313981771469116,
+          "similarity": 0.7189968824386597,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "HCIP-AI-Developer - Cohort 9 (Part 1)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.5312086939811707,
+          "similarity": 0.7186810970306396,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "Full Stack E-commerce Platform",
+          "skills": [
+            "react",
+            "redux",
+            "stripe integration"
+          ],
+          "type": "Full Stack",
+          "difficulty": "Advanced"
+        },
+        {
+          "title": "Develop a Cloud-Native Application with Ci/Cd, Sql, Nlp, Iso27001, Tensorflow, Rest Apis, Aws, Python & Ci/Cd, Sql, Nlp, Iso27001, Tensorflow, Rest Apis, Node.Js & Ci/Cd, Sql, Nlp, Iso27001, Tensorflow, Rest Apis, Node.Js, Python",
+          "description": "Deploy a scalable application integrating Ci/Cd, Sql, Nlp, Iso27001, Tensorflow, Rest Apis, Aws, Python & Ci/Cd, Sql, Nlp, Iso27001, Tensorflow, Rest Apis, Node.Js & Ci/Cd, Sql, Nlp, Iso27001, Tensorflow, Rest Apis, Node.Js, Python to solve a specific business problem.",
+          "difficulty": "Advanced",
+          "skills_covered": [
+            "ci/cd, sql, nlp, iso27001, tensorflow, rest apis, aws, python",
+            "ci/cd, sql, nlp, iso27001, tensorflow, rest apis, node.js",
+            "ci/cd, sql, nlp, iso27001, tensorflow, rest apis, node.js, python"
+          ]
+        }
+      ],
+      "internships": [
+        {
+          "company": "Masrsoft Solutions",
+          "role": "Junior Mobile Developer",
+          "match": 0.5922922492027283,
+          "location": "Tanta",
+          "missing_skills": []
+        },
+        {
+          "company": "Masrsoft Group",
+          "role": "Junior Mobile Developer",
+          "match": 0.5853458642959595,
+          "location": "Tanta",
+          "missing_skills": []
+        },
+        {
+          "company": "Pyramid Solutions Ltd",
+          "role": "Junior Backend Developer",
+          "match": 0.5731755495071411,
+          "location": "Alexandria",
+          "missing_skills": []
+        }
+      ]
+    }
+  ]
+}

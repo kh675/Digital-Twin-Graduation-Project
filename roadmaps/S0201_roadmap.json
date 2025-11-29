@@ -1,0 +1,213 @@
+{
+  "student_id": "S0201",
+  "career_path": "Software",
+  "career_source": "Prediction",
+  "generated_at": "2025-11-29",
+  "certification_path": [
+    "Oracle Java Associate",
+    "Meta Front-End Developer",
+    "AWS Developer Associate"
+  ],
+  "stages": [
+    {
+      "stage": "Beginner",
+      "duration": "4-6 weeks",
+      "focus": "Fundamentals & Top Gaps",
+      "skills": [
+        "tcp/ip, ci/cd, terraform, ansible, rest apis, docker, python",
+        "tcp/ip, ci/cd, terraform, ansible, rest apis, python, sql",
+        "tcp/ip, rest apis, docker, flask, aws",
+        "tcp/ip, rest apis, docker, flask, aws, node.js",
+        "tcp/ip, rest apis, docker, flask, node.js, aws, kubernetes"
+      ],
+      "courses": [
+        {
+          "course_name": "AWS Developer Path - Cohort 3 (Part 3)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.42128175497055054,
+          "similarity": 0.5354695916175842,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Developer Path - Cohort 12 (Part 3)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.4160560667514801,
+          "similarity": 0.5267601013183594,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Developer Path - Cohort 15 (Part 3)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.4155806601047516,
+          "similarity": 0.5259677767753601,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "Personal Portfolio Website",
+          "skills": [
+            "html",
+            "css",
+            "javascript"
+          ],
+          "type": "Frontend",
+          "difficulty": "Beginner"
+        },
+        {
+          "title": "Tcp/Ip, Ci/Cd, Terraform, Ansible, Rest Apis, Docker, Python & Tcp/Ip, Ci/Cd, Terraform, Ansible, Rest Apis, Python, Sql & Tcp/Ip, Rest Apis, Docker, Flask, Aws Integration Lab",
+          "description": "Set up a practical lab environment to experiment with Tcp/Ip, Ci/Cd, Terraform, Ansible, Rest Apis, Docker, Python & Tcp/Ip, Ci/Cd, Terraform, Ansible, Rest Apis, Python, Sql & Tcp/Ip, Rest Apis, Docker, Flask, Aws configurations and troubleshooting.",
+          "difficulty": "Beginner",
+          "skills_covered": [
+            "tcp/ip, ci/cd, terraform, ansible, rest apis, docker, python",
+            "tcp/ip, ci/cd, terraform, ansible, rest apis, python, sql",
+            "tcp/ip, rest apis, docker, flask, aws"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "Intermediate",
+      "duration": "6-8 weeks",
+      "focus": "Application & Certification",
+      "skills": [],
+      "courses": [
+        {
+          "course_name": "AWS Developer Path - Cohort 6 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.405788391828537,
+          "similarity": 0.5096473097801208,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Developer Tools and CI/CD - Cohort 3 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.40391722321510315,
+          "similarity": 0.5065286755561829,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "Huawei Full-Stack Developer - Cohort 6 (Part 1)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.5679758191108704,
+          "similarity": 0.7799596190452576,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "REST API for Task Management",
+          "skills": [
+            "nodejs",
+            "express",
+            "mongodb"
+          ],
+          "type": "Backend",
+          "difficulty": "Intermediate"
+        },
+        {
+          "title": "Build a Principal Mobile Developer Pipeline using Tcp/Ip, Ci/Cd, Terraform, Ansible, Rest Apis, Docker, Python & Tcp/Ip, Ci/Cd, Terraform, Ansible, Rest Apis, Python, Sql & Tcp/Ip, Rest Apis, Docker, Flask, Aws",
+          "description": "Create a comprehensive project that demonstrates your mastery of Tcp/Ip, Ci/Cd, Terraform, Ansible, Rest Apis, Docker, Python & Tcp/Ip, Ci/Cd, Terraform, Ansible, Rest Apis, Python, Sql & Tcp/Ip, Rest Apis, Docker, Flask, Aws. Focus on real-world application.",
+          "difficulty": "Intermediate",
+          "skills_covered": [
+            "tcp/ip, ci/cd, terraform, ansible, rest apis, docker, python",
+            "tcp/ip, ci/cd, terraform, ansible, rest apis, python, sql",
+            "tcp/ip, rest apis, docker, flask, aws"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "Advanced",
+      "duration": "8-10 weeks",
+      "focus": "Mastery & Job Readiness",
+      "skills": [],
+      "courses": [
+        {
+          "course_name": "Huawei Full-Stack Developer - Cohort 3 (Part 2)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.5600833892822266,
+          "similarity": 0.7668055891990662,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "Huawei Full-Stack Developer - Cohort 9 (Part 3)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.5593317747116089,
+          "similarity": 0.7655529379844666,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "Huawei Full-Stack Developer - Cohort 12 (Part 3)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.5581372976303101,
+          "similarity": 0.7635620832443237,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "Full Stack E-commerce Platform",
+          "skills": [
+            "react",
+            "redux",
+            "stripe integration"
+          ],
+          "type": "Full Stack",
+          "difficulty": "Advanced"
+        },
+        {
+          "title": "Develop a Cloud-Native Application with Tcp/Ip, Ci/Cd, Terraform, Ansible, Rest Apis, Docker, Python & Tcp/Ip, Ci/Cd, Terraform, Ansible, Rest Apis, Python, Sql & Tcp/Ip, Rest Apis, Docker, Flask, Aws",
+          "description": "Deploy a scalable application integrating Tcp/Ip, Ci/Cd, Terraform, Ansible, Rest Apis, Docker, Python & Tcp/Ip, Ci/Cd, Terraform, Ansible, Rest Apis, Python, Sql & Tcp/Ip, Rest Apis, Docker, Flask, Aws to solve a specific business problem.",
+          "difficulty": "Advanced",
+          "skills_covered": [
+            "tcp/ip, ci/cd, terraform, ansible, rest apis, docker, python",
+            "tcp/ip, ci/cd, terraform, ansible, rest apis, python, sql",
+            "tcp/ip, rest apis, docker, flask, aws"
+          ]
+        }
+      ],
+      "internships": [
+        {
+          "company": "Pyramid Solutions Egypt",
+          "role": "Junior Backend Developer",
+          "match": 0.5826664566993713,
+          "location": "Alexandria",
+          "missing_skills": []
+        },
+        {
+          "company": "Pyramid Solutions Ltd",
+          "role": "Junior Backend Developer",
+          "match": 0.5760274529457092,
+          "location": "Alexandria",
+          "missing_skills": []
+        },
+        {
+          "company": "Cloudworks Egypt Solutions",
+          "role": "Junior Machine Learning Engineer",
+          "match": 0.571478545665741,
+          "location": "Alexandria",
+          "missing_skills": []
+        }
+      ]
+    }
+  ]
+}

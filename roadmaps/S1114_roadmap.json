@@ -1,0 +1,213 @@
+{
+  "student_id": "S1114",
+  "career_path": "Software",
+  "career_source": "Prediction",
+  "generated_at": "2025-11-29",
+  "certification_path": [
+    "Oracle Java Associate",
+    "Meta Front-End Developer",
+    "AWS Developer Associate"
+  ],
+  "stages": [
+    {
+      "stage": "Beginner",
+      "duration": "4-6 weeks",
+      "focus": "Fundamentals & Top Gaps",
+      "skills": [
+        "linux, numpy, node.js, computer vision, ci/cd, sql",
+        "switching, numpy, react, routing, hadoop, azure, javascript",
+        "switching, numpy, react, routing, hadoop, azure, javascript, kubernetes, tensorflow",
+        "switching, numpy, react, routing, hadoop, azure, javascript, node.js, docker, aws",
+        "switching, numpy, react, routing, hadoop, azure, javascript, tensorflow, docker"
+      ],
+      "courses": [
+        {
+          "course_name": "AWS Academy Machine Learning Foundations - Cohort 12 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.44948533177375793,
+          "similarity": 0.5824755430221558,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Machine Learning Foundations - Cohort 9 (Part 3)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.44619888067245483,
+          "similarity": 0.5769981145858765,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Machine Learning Foundations - Cohort 3 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.4454614222049713,
+          "similarity": 0.5757690072059631,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "Personal Portfolio Website",
+          "skills": [
+            "html",
+            "css",
+            "javascript"
+          ],
+          "type": "Frontend",
+          "difficulty": "Beginner"
+        },
+        {
+          "title": "Linux, Numpy, Node.Js, Computer Vision, Ci/Cd, Sql & Switching, Numpy, React, Routing, Hadoop, Azure, Javascript & Switching, Numpy, React, Routing, Hadoop, Azure, Javascript, Kubernetes, Tensorflow Integration Lab",
+          "description": "Set up a practical lab environment to experiment with Linux, Numpy, Node.Js, Computer Vision, Ci/Cd, Sql & Switching, Numpy, React, Routing, Hadoop, Azure, Javascript & Switching, Numpy, React, Routing, Hadoop, Azure, Javascript, Kubernetes, Tensorflow configurations and troubleshooting.",
+          "difficulty": "Beginner",
+          "skills_covered": [
+            "linux, numpy, node.js, computer vision, ci/cd, sql",
+            "switching, numpy, react, routing, hadoop, azure, javascript",
+            "switching, numpy, react, routing, hadoop, azure, javascript, kubernetes, tensorflow"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "Intermediate",
+      "duration": "6-8 weeks",
+      "focus": "Application & Certification",
+      "skills": [],
+      "courses": [
+        {
+          "course_name": "AWS Academy Machine Learning Foundations - Cohort 9 (Part 3)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.44519832730293274,
+          "similarity": 0.5753305554389954,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Machine Learning Foundations - Cohort 9 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.44452953338623047,
+          "similarity": 0.5742158889770508,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "HCIP-AI-Developer - Cohort 12 (Part 3)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.49871981143951416,
+          "similarity": 0.6645330190658569,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "REST API for Task Management",
+          "skills": [
+            "nodejs",
+            "express",
+            "mongodb"
+          ],
+          "type": "Backend",
+          "difficulty": "Intermediate"
+        },
+        {
+          "title": "Build a Senior Frontend Developer Pipeline using Linux, Numpy, Node.Js, Computer Vision, Ci/Cd, Sql & Switching, Numpy, React, Routing, Hadoop, Azure, Javascript & Switching, Numpy, React, Routing, Hadoop, Azure, Javascript, Kubernetes, Tensorflow",
+          "description": "Create a comprehensive project that demonstrates your mastery of Linux, Numpy, Node.Js, Computer Vision, Ci/Cd, Sql & Switching, Numpy, React, Routing, Hadoop, Azure, Javascript & Switching, Numpy, React, Routing, Hadoop, Azure, Javascript, Kubernetes, Tensorflow. Focus on real-world application.",
+          "difficulty": "Intermediate",
+          "skills_covered": [
+            "linux, numpy, node.js, computer vision, ci/cd, sql",
+            "switching, numpy, react, routing, hadoop, azure, javascript",
+            "switching, numpy, react, routing, hadoop, azure, javascript, kubernetes, tensorflow"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "Advanced",
+      "duration": "8-10 weeks",
+      "focus": "Mastery & Job Readiness",
+      "skills": [],
+      "courses": [
+        {
+          "course_name": "HCIP-AI-Developer - Cohort 6 (Part 2)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.49626994132995605,
+          "similarity": 0.6604498624801636,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "HCIP-AI-Developer - Cohort 15 (Part 2)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.49306944012641907,
+          "similarity": 0.6551157236099243,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "HCIP-AI-Developer - Cohort 9 (Part 1)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.49281784892082214,
+          "similarity": 0.6546964049339294,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "Full Stack E-commerce Platform",
+          "skills": [
+            "react",
+            "redux",
+            "stripe integration"
+          ],
+          "type": "Full Stack",
+          "difficulty": "Advanced"
+        },
+        {
+          "title": "Develop a Cloud-Native Application with Linux, Numpy, Node.Js, Computer Vision, Ci/Cd, Sql & Switching, Numpy, React, Routing, Hadoop, Azure, Javascript & Switching, Numpy, React, Routing, Hadoop, Azure, Javascript, Kubernetes, Tensorflow",
+          "description": "Deploy a scalable application integrating Linux, Numpy, Node.Js, Computer Vision, Ci/Cd, Sql & Switching, Numpy, React, Routing, Hadoop, Azure, Javascript & Switching, Numpy, React, Routing, Hadoop, Azure, Javascript, Kubernetes, Tensorflow to solve a specific business problem.",
+          "difficulty": "Advanced",
+          "skills_covered": [
+            "linux, numpy, node.js, computer vision, ci/cd, sql",
+            "switching, numpy, react, routing, hadoop, azure, javascript",
+            "switching, numpy, react, routing, hadoop, azure, javascript, kubernetes, tensorflow"
+          ]
+        }
+      ],
+      "internships": [
+        {
+          "company": "Pyramid Solutions Group",
+          "role": "Junior Frontend Developer",
+          "match": 0.6039089560508728,
+          "location": "Hurghada",
+          "missing_skills": []
+        },
+        {
+          "company": "Pyramid Solutions Ltd",
+          "role": "Junior Backend Developer",
+          "match": 0.6017261743545532,
+          "location": "Alexandria",
+          "missing_skills": []
+        },
+        {
+          "company": "Cairocloud Egypt",
+          "role": "Junior Backend Developer",
+          "match": 0.5907688140869141,
+          "location": "Aswan",
+          "missing_skills": []
+        }
+      ]
+    }
+  ]
+}

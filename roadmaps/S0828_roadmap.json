@@ -1,0 +1,212 @@
+{
+  "student_id": "S0828",
+  "career_path": "Network",
+  "career_source": "Target Job",
+  "generated_at": "2025-11-29",
+  "certification_path": [
+    "Cisco CCNA",
+    "Cisco CCNP",
+    "Huawei HCIA Datacom"
+  ],
+  "stages": [
+    {
+      "stage": "Beginner",
+      "duration": "4-6 weeks",
+      "focus": "Fundamentals & Top Gaps",
+      "skills": [
+        "5g, java, flask, gcp, nosql, terraform, c, react, aws",
+        "firewalls, ansible, spark, flask, hipaa, pytorch, microservices",
+        "firewalls, ansible, spark, flask, hipaa, pytorch, microservices, docker, aws, kubernetes",
+        "rest apis, react, javascript, pytorch, terraform, routing, aws, docker"
+      ],
+      "courses": [
+        {
+          "course_name": "AWS Academy Cloud Foundations - Cohort 9 (Part 2)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5315149426460266,
+          "similarity": 0.7191915512084961,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Cloud Foundations - Cohort 15 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5293756723403931,
+          "similarity": 0.715626060962677,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Cloud Foundations - Cohort 6 (Part 3)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.527542233467102,
+          "similarity": 0.7125703692436218,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "Home Network Setup & Configuration",
+          "skills": [
+            "networking",
+            "routers",
+            "ip addressing"
+          ],
+          "type": "Setup",
+          "difficulty": "Beginner"
+        },
+        {
+          "title": "5G, Java, Flask, Gcp, Nosql, Terraform, C, React, Aws & Firewalls, Ansible, Spark, Flask, Hipaa, Pytorch, Microservices & Firewalls, Ansible, Spark, Flask, Hipaa, Pytorch, Microservices, Docker, Aws, Kubernetes Integration Lab",
+          "description": "Set up a practical lab environment to experiment with 5G, Java, Flask, Gcp, Nosql, Terraform, C, React, Aws & Firewalls, Ansible, Spark, Flask, Hipaa, Pytorch, Microservices & Firewalls, Ansible, Spark, Flask, Hipaa, Pytorch, Microservices, Docker, Aws, Kubernetes configurations and troubleshooting.",
+          "difficulty": "Beginner",
+          "skills_covered": [
+            "5g, java, flask, gcp, nosql, terraform, c, react, aws",
+            "firewalls, ansible, spark, flask, hipaa, pytorch, microservices",
+            "firewalls, ansible, spark, flask, hipaa, pytorch, microservices, docker, aws, kubernetes"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "Intermediate",
+      "duration": "6-8 weeks",
+      "focus": "Application & Certification",
+      "skills": [],
+      "courses": [
+        {
+          "course_name": "AWS Academy Cloud Foundations - Cohort 15 (Part 3)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5272897481918335,
+          "similarity": 0.7121495604515076,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Cloud Foundations - Cohort 9 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5271926522254944,
+          "similarity": 0.7119876742362976,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "HCIA-Cloud Computing - Cohort 12 (Part 3)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.4592384994029999,
+          "similarity": 0.5987308025360107,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "Cisco Packet Tracer Simulation",
+          "skills": [
+            "cisco",
+            "routing",
+            "switching"
+          ],
+          "type": "Simulation",
+          "difficulty": "Intermediate"
+        },
+        {
+          "title": "Build a Mid-Level Network Engineer Pipeline using 5G, Java, Flask, Gcp, Nosql, Terraform, C, React, Aws & Firewalls, Ansible, Spark, Flask, Hipaa, Pytorch, Microservices & Firewalls, Ansible, Spark, Flask, Hipaa, Pytorch, Microservices, Docker, Aws, Kubernetes",
+          "description": "Create a comprehensive project that demonstrates your mastery of 5G, Java, Flask, Gcp, Nosql, Terraform, C, React, Aws & Firewalls, Ansible, Spark, Flask, Hipaa, Pytorch, Microservices & Firewalls, Ansible, Spark, Flask, Hipaa, Pytorch, Microservices, Docker, Aws, Kubernetes. Focus on real-world application.",
+          "difficulty": "Intermediate",
+          "skills_covered": [
+            "5g, java, flask, gcp, nosql, terraform, c, react, aws",
+            "firewalls, ansible, spark, flask, hipaa, pytorch, microservices",
+            "firewalls, ansible, spark, flask, hipaa, pytorch, microservices, docker, aws, kubernetes"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "Advanced",
+      "duration": "8-10 weeks",
+      "focus": "Mastery & Job Readiness",
+      "skills": [],
+      "courses": [
+        {
+          "course_name": "HCIA-Cloud Computing - Cohort 12 (Part 1)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.4568752944469452,
+          "similarity": 0.5947921276092529,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "HCIA-Cloud Computing - Cohort 15 (Part 1)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.4546506106853485,
+          "similarity": 0.591084361076355,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "HCIA-Cloud Computing - Cohort 3 (Part 2)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.4515431225299835,
+          "similarity": 0.5859051942825317,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "Network Automation with Python",
+          "skills": [
+            "python",
+            "ansible",
+            "network automation"
+          ],
+          "type": "Automation",
+          "difficulty": "Advanced"
+        },
+        {
+          "title": "Develop a Cloud-Native Application with 5G, Java, Flask, Gcp, Nosql, Terraform, C, React, Aws & Firewalls, Ansible, Spark, Flask, Hipaa, Pytorch, Microservices & Firewalls, Ansible, Spark, Flask, Hipaa, Pytorch, Microservices, Docker, Aws, Kubernetes",
+          "description": "Deploy a scalable application integrating 5G, Java, Flask, Gcp, Nosql, Terraform, C, React, Aws & Firewalls, Ansible, Spark, Flask, Hipaa, Pytorch, Microservices & Firewalls, Ansible, Spark, Flask, Hipaa, Pytorch, Microservices, Docker, Aws, Kubernetes to solve a specific business problem.",
+          "difficulty": "Advanced",
+          "skills_covered": [
+            "5g, java, flask, gcp, nosql, terraform, c, react, aws",
+            "firewalls, ansible, spark, flask, hipaa, pytorch, microservices",
+            "firewalls, ansible, spark, flask, hipaa, pytorch, microservices, docker, aws, kubernetes"
+          ]
+        }
+      ],
+      "internships": [
+        {
+          "company": "Cloudworks Egypt Ltd",
+          "role": "Junior Frontend Developer",
+          "match": 0.5382985472679138,
+          "location": "Mansoura",
+          "missing_skills": []
+        },
+        {
+          "company": "Pyramid Solutions Egypt",
+          "role": "Junior Network Engineer",
+          "match": 0.5359044075012207,
+          "location": "Suez",
+          "missing_skills": []
+        },
+        {
+          "company": "Cloudworks Egypt Inc",
+          "role": "Junior Frontend Developer",
+          "match": 0.5291931629180908,
+          "location": "Mansoura",
+          "missing_skills": []
+        }
+      ]
+    }
+  ]
+}

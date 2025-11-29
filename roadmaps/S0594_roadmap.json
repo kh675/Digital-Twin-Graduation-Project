@@ -1,0 +1,213 @@
+{
+  "student_id": "S0594",
+  "career_path": "Machine Learning",
+  "career_source": "Prediction",
+  "generated_at": "2025-11-29",
+  "certification_path": [
+    "TensorFlow Developer Certificate",
+    "AWS Machine Learning Specialty",
+    "DeepLearning.AI"
+  ],
+  "stages": [
+    {
+      "stage": "Beginner",
+      "duration": "4-6 weeks",
+      "focus": "Fundamentals & Top Gaps",
+      "skills": [
+        "azure, ci/cd, flask, linux, elasticsearch, aws",
+        "azure, ci/cd, flask, linux, elasticsearch, node.js",
+        "azure, javascript, git, linux, computer vision, sql",
+        "microservices, javascript, flask, ansible, pytorch, routing",
+        "microservices, javascript, flask, ansible, pytorch, routing, kubernetes, python, aws"
+      ],
+      "courses": [
+        {
+          "course_name": "AWS Academy Machine Learning for Developers - Cohort 15 (Part 2)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5425916314125061,
+          "similarity": 0.7376526594161987,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Machine Learning for Developers - Cohort 3 (Part 2)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.539616584777832,
+          "similarity": 0.7326942682266235,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Machine Learning for Developers - Cohort 6 (Part 3)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5389063358306885,
+          "similarity": 0.7315105199813843,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "House Price Prediction",
+          "skills": [
+            "python",
+            "regression",
+            "scikit-learn"
+          ],
+          "type": "Regression",
+          "difficulty": "Beginner"
+        },
+        {
+          "title": "Azure, Ci/Cd, Flask, Linux, Elasticsearch, Aws & Azure, Ci/Cd, Flask, Linux, Elasticsearch, Node.Js & Azure, Javascript, Git, Linux, Computer Vision, Sql Integration Lab",
+          "description": "Set up a practical lab environment to experiment with Azure, Ci/Cd, Flask, Linux, Elasticsearch, Aws & Azure, Ci/Cd, Flask, Linux, Elasticsearch, Node.Js & Azure, Javascript, Git, Linux, Computer Vision, Sql configurations and troubleshooting.",
+          "difficulty": "Beginner",
+          "skills_covered": [
+            "azure, ci/cd, flask, linux, elasticsearch, aws",
+            "azure, ci/cd, flask, linux, elasticsearch, node.js",
+            "azure, javascript, git, linux, computer vision, sql"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "Intermediate",
+      "duration": "6-8 weeks",
+      "focus": "Application & Certification",
+      "skills": [],
+      "courses": [
+        {
+          "course_name": "AWS Academy Machine Learning for Developers - Cohort 15 (Part 1)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5373315811157227,
+          "similarity": 0.7288858890533447,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "AWS Academy Machine Learning for Developers - Cohort 3 (Part 3)",
+          "provider": "AWS",
+          "level": "Advanced",
+          "score": 0.5359392166137695,
+          "similarity": 0.7265653014183044,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "HCIP-AI-Developer - Cohort 6 (Part 3)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.5217373967170715,
+          "similarity": 0.7028956413269043,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "Image Classification with CNNs",
+          "skills": [
+            "tensorflow",
+            "deep learning",
+            "cnn"
+          ],
+          "type": "Computer Vision",
+          "difficulty": "Intermediate"
+        },
+        {
+          "title": "Build a Lead Machine Learning Engineer Pipeline using Azure, Ci/Cd, Flask, Linux, Elasticsearch, Aws & Azure, Ci/Cd, Flask, Linux, Elasticsearch, Node.Js & Azure, Javascript, Git, Linux, Computer Vision, Sql",
+          "description": "Create a comprehensive project that demonstrates your mastery of Azure, Ci/Cd, Flask, Linux, Elasticsearch, Aws & Azure, Ci/Cd, Flask, Linux, Elasticsearch, Node.Js & Azure, Javascript, Git, Linux, Computer Vision, Sql. Focus on real-world application.",
+          "difficulty": "Intermediate",
+          "skills_covered": [
+            "azure, ci/cd, flask, linux, elasticsearch, aws",
+            "azure, ci/cd, flask, linux, elasticsearch, node.js",
+            "azure, javascript, git, linux, computer vision, sql"
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "Advanced",
+      "duration": "8-10 weeks",
+      "focus": "Mastery & Job Readiness",
+      "skills": [],
+      "courses": [
+        {
+          "course_name": "HCIP-AI-Developer - Cohort 12 (Part 2)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.5216791033744812,
+          "similarity": 0.7027984261512756,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "HCIP-AI-Developer - Cohort 12 (Part 3)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.5163683891296387,
+          "similarity": 0.6939473152160645,
+          "coverage": 0.0,
+          "covers_skills": []
+        },
+        {
+          "course_name": "HCIP-AI-Developer - Cohort 9 (Part 2)",
+          "provider": "Huawei",
+          "level": "Advanced",
+          "score": 0.512714147567749,
+          "similarity": 0.6878568530082703,
+          "coverage": 0.0,
+          "covers_skills": []
+        }
+      ],
+      "projects": [
+        {
+          "title": "End-to-End NLP Chatbot",
+          "skills": [
+            "nlp",
+            "transformers",
+            "deployment"
+          ],
+          "type": "NLP",
+          "difficulty": "Advanced"
+        },
+        {
+          "title": "Develop a Cloud-Native Application with Azure, Ci/Cd, Flask, Linux, Elasticsearch, Aws & Azure, Ci/Cd, Flask, Linux, Elasticsearch, Node.Js & Azure, Javascript, Git, Linux, Computer Vision, Sql",
+          "description": "Deploy a scalable application integrating Azure, Ci/Cd, Flask, Linux, Elasticsearch, Aws & Azure, Ci/Cd, Flask, Linux, Elasticsearch, Node.Js & Azure, Javascript, Git, Linux, Computer Vision, Sql to solve a specific business problem.",
+          "difficulty": "Advanced",
+          "skills_covered": [
+            "azure, ci/cd, flask, linux, elasticsearch, aws",
+            "azure, ci/cd, flask, linux, elasticsearch, node.js",
+            "azure, javascript, git, linux, computer vision, sql"
+          ]
+        }
+      ],
+      "internships": [
+        {
+          "company": "Cloudworks Egypt Solutions",
+          "role": "Junior Machine Learning Engineer",
+          "match": 0.5956507325172424,
+          "location": "Alexandria",
+          "missing_skills": []
+        },
+        {
+          "company": "Deltabyte Group",
+          "role": "Junior Machine Learning Engineer",
+          "match": 0.5898342132568359,
+          "location": "Aswan",
+          "missing_skills": []
+        },
+        {
+          "company": "Cloudworks Egypt Inc",
+          "role": "Junior Machine Learning Engineer",
+          "match": 0.581882894039154,
+          "location": "Tanta",
+          "missing_skills": []
+        }
+      ]
+    }
+  ]
+}
