@@ -47,3 +47,11 @@ def append_student_csv(student_id: str, payload: Dict):
             writer.writerow(header)
         writer.writerow(row)
     return CSV_FILE
+
+def get_student_json(student_id: str) -> Dict:
+    """Retrieve student data from JSON file."""
+    path = os.path.join(STUDENT_JSON_DIR, f"{student_id}.json")
+    if not os.path.exists(path):
+        return None
+    with open(path, "r", encoding="utf-8") as f:
+        return json.load(f)

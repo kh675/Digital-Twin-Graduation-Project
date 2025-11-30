@@ -354,10 +354,10 @@ elif st.session_state.step == 8:
         st.success(f"🎉 Digital Twin Created Successfully! Student ID: {res.get('student_id')}")
         
         # Dashboard Link
-        dashboard_url = res.get("dashboard_url", "#")
+        dashboard_url = f"/Dashboard?student={res.get('student_id')}"
         st.markdown(f"""
         <div style="background-color: #d4edda; padding: 20px; border-radius: 10px; text-align: center;">
-            <h3><a href="{dashboard_url}" target="_blank" style="text-decoration: none; color: #155724;">🔗 Open Your Interactive Dashboard</a></h3>
+            <h3><a href="{dashboard_url}" target="_self" style="text-decoration: none; color: #155724;">🔗 Open Your Interactive Dashboard</a></h3>
         </div>
         """, unsafe_allow_html=True)
         

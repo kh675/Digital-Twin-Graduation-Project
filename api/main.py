@@ -19,7 +19,7 @@ from api.models.student_form_model import StudentForm
 
 # Import pipeline and utilities for Step 12
 from api.dt_pipeline.student_pipeline import run_student_pipeline
-from api.utils.storage import next_student_id, save_student_json, append_student_csv
+from api.utils.storage import next_student_id, save_student_json, append_student_csv, get_student_json
 from api.utils.pdf_wrapper import generate_student_pdf
 
 # Initialize FastAPI app
@@ -300,6 +300,38 @@ def create_digital_twin(form: StudentForm) -> Dict[str, Any]:
     except Exception as e:
         traceback.print_exc()
         raise HTTPException(status_code=500, detail=f"Pipeline failed: {str(e)}")
+
+@app.get("/get_digital_twin/{student_id}", summary="Get student digital twin")
+def get_digital_twin(student_id: str) -> Dict[str, Any]:
+    """
+    Retrieve an existing digital twin by Student ID.
+    """
+    data = get_student_json(student_id)
+    if not data:
+        raise HTTPException(status_code=404, detail="Student not found")
+    
+    # We need to return the same structure as the POST endpoint expects for the dashboard
+    # The saved JSON is the student payload which might NOT include the generated digital twin output 
+    # if we only saved the input payload in save_student_json.
+    # Let's check save_student_json implementation.
+    # It saves 'student_payload'. In create_digital_twin, 'student_payload' is form.dict() + student_id.
+    # It DOES NOT include the 'digital_twin' result from the pipeline.
+    # So we need to RE-RUN the pipeline or save the result.
+    # Re-running is safer for now to ensure we have the latest logic.
+    
+    try:
+        # Re-run pipeline to get digital twin data
+        digital_twin = run_student_pipeline(data)
+        
+        return {
+            "student_id": student_id,
+            "digital_twin": digital_twin,
+            "input_summary": data
+        }
+    except Exception as e:
+        traceback.print_exc()
+        raise HTTPException(status_code=500, detail=f"Error regenerating twin: {str(e)}")
+
 
 # Mount static files for PDF serving
 PDF_DIR = os.environ.get("PDF_OUTPUT_DIR", "./pdf_reports")
