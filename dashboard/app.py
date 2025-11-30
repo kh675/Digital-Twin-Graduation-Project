@@ -80,7 +80,24 @@ with st.sidebar:
     
     st.divider()
     st.markdown("### Quick Actions")
-    export_format = st.selectbox("Export Format", ["JSON", "PDF"])
+    
+    # PDF Download button
+    if 'load_student' in st.session_state:
+        current_student = st.session_state['load_student']
+        pdf_path = Path(f"pdf_reports/{current_student}_report.pdf")
+        
+        if pdf_path.exists():
+            with open(pdf_path, "rb") as pdf_file:
+                pdf_bytes = pdf_file.read()
+                st.download_button(
+                    label="📄 Download PDF Report",
+                    data=pdf_bytes,
+                    file_name=f"{current_student}_report.pdf",
+                    mime="application/pdf",
+                    use_container_width=True
+                )
+        else:
+            st.warning(f"⚠️ PDF not available for {current_student}")
     
     st.divider()
     st.info("💡 **Standalone Mode**: Loading data from local files")
