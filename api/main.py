@@ -10,6 +10,9 @@ import joblib
 import pandas as pd
 import numpy as np
 
+# Import StudentForm model for digital twin creation (Step 13)
+from models.student_form_model import StudentForm
+
 # Initialize FastAPI app
 app = FastAPI(
     title="Digital Twin API",
