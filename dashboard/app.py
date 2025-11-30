@@ -12,6 +12,16 @@ import json
 
 # Page configuration
 st.set_page_config(
+    page_title="Digital Twin Dashboard",
+    page_icon="🎓",
+    layout="wide",
+    initial_sidebar_state="expanded"
+)
+
+# Custom CSS
+st.markdown("""
+<style>
+    .main-header {
         font-size: 2.5rem;
         font-weight: bold;
         color: #1f77b4;
