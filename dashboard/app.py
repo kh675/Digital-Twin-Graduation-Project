@@ -10,6 +10,14 @@ import plotly.express as px
 from pathlib import Path
 import json
 
+# API Configuration
+try:
+    # Try to get API URL from Streamlit secrets (for cloud deployment)
+    API_BASE = st.secrets.get("API_BASE_URL", "http://localhost:8000")
+except:
+    # Fallback to localhost for local development
+    API_BASE = "http://localhost:8000"
+
 # Page configuration
 st.set_page_config(
     page_title="Digital Twin Dashboard",
