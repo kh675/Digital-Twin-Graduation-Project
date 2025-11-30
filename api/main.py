@@ -15,12 +15,12 @@ import traceback
 import os
 
 # Import StudentForm model for digital twin creation
-from models.student_form_model import StudentForm
+from api.models.student_form_model import StudentForm
 
 # Import pipeline and utilities for Step 12
-from dt_pipeline.student_pipeline import run_student_pipeline
-from utils.storage import next_student_id, save_student_json, append_student_csv
-from utils.pdf_wrapper import generate_student_pdf
+from api.dt_pipeline.student_pipeline import run_student_pipeline
+from api.utils.storage import next_student_id, save_student_json, append_student_csv
+from api.utils.pdf_wrapper import generate_student_pdf
 
 # Initialize FastAPI app
 app = FastAPI(
