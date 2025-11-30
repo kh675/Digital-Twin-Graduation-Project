@@ -199,8 +199,8 @@ def generate_qr_code(student_id, output_path):
         return None
     
     try:
-        # Create QR code with dashboard link
-        dashboard_url = f"http://localhost:8501/?student={student_id}"
+        # Create QR code with Streamlit Cloud dashboard link
+        dashboard_url = f"https://digital-twin-graduation-project-jpvgy8jk9pwpgdd89xi7oq.streamlit.app/?student={student_id}"
         qr = qrcode.QRCode(version=1, box_size=10, border=2)
         qr.add_data(dashboard_url)
         qr.make(fit=True)

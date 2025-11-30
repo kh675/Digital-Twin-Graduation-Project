@@ -70,10 +70,18 @@ def get_student_recommendations(student_id, all_recs):
 # Title
 st.markdown('<div class="main-header">🎓 Digital Twin Student Dashboard</div>', unsafe_allow_html=True)
 
+# Check for URL parameters (from QR code)
+query_params = st.query_params
+if 'student' in query_params and 'load_student' not in st.session_state:
+    st.session_state['load_student'] = query_params['student']
+
 # Sidebar
 with st.sidebar:
     st.header("Student Selection")
-    student_id = st.text_input("Enter Student ID", value="S0001", help="Format: S0001 to S1500")
+    
+    # Pre-fill from URL parameter if available
+    default_student = st.session_state.get('load_student', 'S0001')
+    student_id = st.text_input("Enter Student ID", value=default_student, help="Format: S0001 to S1500")
     
     if st.button("🔍 Load Student Data", use_container_width=True):
         st.session_state['load_student'] = student_id
