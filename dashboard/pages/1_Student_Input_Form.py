@@ -158,6 +158,9 @@ elif st.session_state.step == 2:
     core_missing_str = st.text_area("Core Subjects Missing", ", ".join(st.session_state.form_data["core_subjects_missing"]))
     st.session_state.form_data["core_subjects_missing"] = [x.strip() for x in core_missing_str.split(",") if x.strip()]
     
+    electives_str = st.text_area("Electives Taken", ", ".join(st.session_state.form_data["electives_taken"]))
+    st.session_state.form_data["electives_taken"] = [x.strip() for x in electives_str.split(",") if x.strip()]
+    
     st.session_state.form_data["academic_weaknesses"] = st.text_area("Academic Weaknesses", st.session_state.form_data["academic_weaknesses"])
 
     col1, col2 = st.columns(2)
@@ -167,8 +170,11 @@ elif st.session_state.step == 2:
             st.rerun()
     with col2:
         if st.button("Next ➡️"):
-            next_step()
-            st.rerun()
+            if len(st.session_state.form_data["completed_courses"]) != len(st.session_state.form_data["completed_grades"]):
+                st.error("Number of grades must match number of completed courses.")
+            else:
+                next_step()
+                st.rerun()
 
 # Step 3: Skills
 elif st.session_state.step == 3:
@@ -217,6 +223,12 @@ elif st.session_state.step == 4:
     
     st.session_state.form_data["dream_job"] = st.text_input("Dream Job", st.session_state.form_data["dream_job"])
     
+    favtech_str = st.text_input("Favourite Technologies", ", ".join(st.session_state.form_data["favourite_tech"]))
+    st.session_state.form_data["favourite_tech"] = [x.strip() for x in favtech_str.split(",") if x.strip()]
+
+    industries_str = st.text_input("Industries You Love", ", ".join(st.session_state.form_data["industries_loved"]))
+    st.session_state.form_data["industries_loved"] = [x.strip() for x in industries_str.split(",") if x.strip()]
+    
     hobbies_str = st.text_input("Hobbies", ", ".join(st.session_state.form_data["hobbies"]))
     st.session_state.form_data["hobbies"] = [x.strip() for x in hobbies_str.split(",") if x.strip()]
 
@@ -241,6 +253,8 @@ elif st.session_state.step == 5:
     
     st.session_state.form_data["desired_job_role"] = st.text_input("Desired Job Role", st.session_state.form_data["desired_job_role"])
     st.session_state.form_data["target_company"] = st.text_input("Target Company", st.session_state.form_data["target_company"])
+    
+    st.session_state.form_data["preferred_country"] = st.text_input("Preferred Country", st.session_state.form_data["preferred_country"])
     
     st.session_state.form_data["work_type"] = st.selectbox("Preferred Work Type", ["Remote", "Hybrid", "Onsite"], index=["Remote", "Hybrid", "Onsite"].index(st.session_state.form_data["work_type"]))
 
@@ -267,6 +281,9 @@ elif st.session_state.step == 6:
     projects_str = st.text_area("Personal Projects", ", ".join(st.session_state.form_data["projects"]))
     st.session_state.form_data["projects"] = [x.strip() for x in projects_str.split(",") if x.strip()]
     
+    volunteer_str = st.text_area("Volunteer Work", ", ".join(st.session_state.form_data["volunteer_work"]))
+    st.session_state.form_data["volunteer_work"] = [x.strip() for x in volunteer_str.split(",") if x.strip()]
+    
     st.session_state.form_data["github_link"] = st.text_input("GitHub/Portfolio Link", st.session_state.form_data["github_link"])
 
     col1, col2 = st.columns(2)
@@ -285,8 +302,11 @@ elif st.session_state.step == 7:
     
     col1, col2 = st.columns(2)
     with col1:
-        st.session_state.form_data["learning_style"] = st.selectbox("Learning Style", ["Visual", "Auditory", "Reading/Writing", "Kinesthetic", "Project-based"], index=0)
-        st.session_state.form_data["learning_speed"] = st.selectbox("Learning Speed", ["Fast", "Moderate", "Slow & Steady"], index=1)
+        learning_styles = ["Visual", "Auditory", "Reading/Writing", "Kinesthetic", "Project-based"]
+        st.session_state.form_data["learning_style"] = st.selectbox("Learning Style", learning_styles, index=learning_styles.index(st.session_state.form_data["learning_style"]) if st.session_state.form_data["learning_style"] in learning_styles else 0)
+        
+        learning_speeds = ["Fast", "Moderate", "Slow & Steady"]
+        st.session_state.form_data["learning_speed"] = st.selectbox("Learning Speed", learning_speeds, index=learning_speeds.index(st.session_state.form_data["learning_speed"]) if st.session_state.form_data["learning_speed"] in learning_speeds else 1)
     
     with col2:
         st.session_state.form_data["daily_hours"] = st.slider("Daily Study Hours", 1, 12, st.session_state.form_data["daily_hours"])
