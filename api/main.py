@@ -4,14 +4,23 @@ Provides REST API endpoints for student data access
 """
 from fastapi import FastAPI, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
+from fastapi.staticfiles import StaticFiles
 from pathlib import Path
+from typing import Dict, Any
 import json
 import joblib
 import pandas as pd
 import numpy as np
+import traceback
+import os
 
-# Import StudentForm model for digital twin creation (Step 13)
+# Import StudentForm model for digital twin creation
 from models.student_form_model import StudentForm
+
+# Import pipeline and utilities for Step 12
+from dt_pipeline.student_pipeline import run_student_pipeline
+from utils.storage import next_student_id, save_student_json, append_student_csv
+from utils.pdf_wrapper import generate_student_pdf
 
 # Initialize FastAPI app
 app = FastAPI(
@@ -247,6 +256,55 @@ def get_all_clusters():
         return {"clusters": overview, "total_clusters": len(overview)}
     except FileNotFoundError:
         raise HTTPException(status_code=404, detail="Cluster data not found. Run clustering_engine.py first.")
+
+# ============================================================================
+# STEP 12: CREATE DIGITAL TWIN ENDPOINT
+# ============================================================================
+
+@app.post("/create_digital_twin", summary="Create student digital twin")
+def create_digital_twin(form: StudentForm) -> Dict[str, Any]:
+    """
+    Full pipeline endpoint.
+    Validates input, runs pipeline, saves outputs, generates PDF and returns summary.
+    """
+    try:
+        # 1) assign ID
+        student_payload = form.dict()
+        student_id = next_student_id()
+
+        # include id and metadata
+        student_payload["student_id"] = student_id
+
+        # 2) run pipeline (returns digital_twin dict)
+        digital_twin = run_student_pipeline(student_payload)
+
+        # 3) save student raw input and append csv
+        save_student_json(student_id, student_payload)
+        append_student_csv(student_id, student_payload)
+
+        # 4) generate PDF (synchronous for demo)
+        pdf_path = generate_student_pdf(student_id, digital_twin)
+        # convert to URL path for dashboard assuming static serving from /pdf_reports
+        pdf_url = os.path.join("/pdf_reports", os.path.basename(pdf_path))
+
+        # 5) add links and metadata to result
+        result = {
+            "student_id": student_id,
+            "digital_twin": digital_twin,
+            "pdf_path": pdf_path,
+            "pdf_url": pdf_url,
+            "dashboard_url": f"{os.environ.get('DASHBOARD_BASE','http://localhost:8501')}/?student={student_id}"
+        }
+        return result
+
+    except Exception as e:
+        traceback.print_exc()
+        raise HTTPException(status_code=500, detail=f"Pipeline failed: {str(e)}")
+
+# Mount static files for PDF serving
+PDF_DIR = os.environ.get("PDF_OUTPUT_DIR", "./pdf_reports")
+if os.path.exists(PDF_DIR):
+    app.mount("/pdf_reports", StaticFiles(directory=PDF_DIR), name="pdf_reports")
 
 if __name__ == "__main__":
     import uvicorn
