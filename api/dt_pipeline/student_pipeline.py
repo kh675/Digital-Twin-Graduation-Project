@@ -99,6 +99,13 @@ def run_student_pipeline(student: Dict) -> Dict:
     recommended_companies = companies.get(best_track, [])
 
     # ========= 7) OUTPUT DIGITAL TWIN =========
+    # Format skills for dashboard (mock scores for now as we only have binary presence)
+    skills_with_scores = {skill: 85 for skill in technical_skills}
+    
+    # Normalize track scores to probabilities
+    total_score = sum(track_scores.values()) if sum(track_scores.values()) > 0 else 1
+    career_probabilities = {k: round(v / total_score, 2) for k, v in track_scores.items()}
+
     digital_twin = {
         "student_name": name,
         "best_track": best_track,
@@ -106,7 +113,10 @@ def run_student_pipeline(student: Dict) -> Dict:
         "recommended_courses": recommended_courses,
         "recommended_job_roles": recommended_job_roles,
         "recommended_companies": recommended_companies,
-        "input_summary": student
+        "input_summary": student,
+        # Added for Dashboard visualization
+        "skills": skills_with_scores,
+        "career_probabilities": career_probabilities
     }
 
     return digital_twin
