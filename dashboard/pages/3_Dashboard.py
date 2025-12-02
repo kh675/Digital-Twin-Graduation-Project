@@ -7,18 +7,17 @@ import pandas as pd
 API_BASE_URL = "http://localhost:8000"
 
 # -----------------------------
-# Step 14 — Read Query Params
+# Step 14 — Read Query Params & Session State
 # -----------------------------
-query_params = st.query_params
-student_id = query_params.get("student", None)
+if "student_id" in st.session_state:
+    student_id = st.session_state["student_id"]
+else:
+    student_id = st.query_params.get("student", None)
 
 st.title("📊 Digital Twin Dashboard")
 
-if student_id is None:
-    st.warning("No student selected. Add '?student=S1503' to the URL.")
-    student_id = st.text_input("Enter Student ID manually:")
-
 if not student_id:
+    st.warning("No student selected. Please fill the Student Input Form.")
     st.stop()
 
 # -----------------------------

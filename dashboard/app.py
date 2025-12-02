@@ -45,7 +45,7 @@ st.markdown('<div class="subtitle">AI-Powered Career Guidance & Personalized Lea
 # Welcome section
 col1, col2, col3 = st.columns([1, 2, 1])
 with col2:
-    st.image("https://via.placeholder.com/600x300/1f77b4/ffffff?text=Digital+Twin+AI", use_container_width=True)
+    st.image("dashboard/assets/banner.png", use_container_width=True)
 
 st.markdown("---")
 

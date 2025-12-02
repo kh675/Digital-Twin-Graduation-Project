@@ -47,15 +47,14 @@ st.markdown("""
 # Title
 st.markdown('<div class="main-header">🎯 Your Digital Twin Results</div>', unsafe_allow_html=True)
 
-# Get student ID from query params or input
-query_params = st.query_params
-student_id = query_params.get("student", None)
+# Get student ID from session state or query params
+if "student_id" in st.session_state:
+    student_id = st.session_state["student_id"]
+else:
+    student_id = st.query_params.get("student", None)
 
 if not student_id:
-    st.warning("No student ID provided. Please enter your Student ID:")
-    student_id = st.text_input("Student ID", placeholder="e.g., S1503")
-    
-if not student_id:
+    st.warning("No student selected. Please fill the Student Input Form.")
     st.stop()
 
 # Load Digital Twin data from API

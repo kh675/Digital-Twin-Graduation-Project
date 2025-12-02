@@ -350,16 +350,12 @@ elif st.session_state.step == 8:
         res = st.session_state.result
         dt = res.get("digital_twin", {})
         
-        st.balloons()
-        st.success(f"🎉 Digital Twin Created Successfully! Student ID: {res.get('student_id')}")
+        st.success("Digital Twin Created Successfully!")
         
-        # Results Page Link
-        results_url = f"/2_Results?student={res.get('student_id')}"
-        st.markdown(f"""
-        <div style="background-color: #d4edda; padding: 20px; border-radius: 10px; text-align: center;">
-            <h3><a href="{results_url}" target="_self" style="text-decoration: none; color: #155724;">🎯 View Your Results</a></h3>
-        </div>
-        """, unsafe_allow_html=True)
+        # Save ID and trigger redirect
+        st.session_state["student_id"] = res.get('student_id')
+        st.session_state["go_to_results"] = True
+        st.switch_page("pages/2_Results.py")
         
         col1, col2 = st.columns([2, 1])
         
